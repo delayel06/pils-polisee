@@ -46,7 +46,7 @@ const Companies = () => {
               <Card
                 key={index}
                 title={`Card ${index + 1}`}
-                extra={<a href="#">More</a>}
+                extra={<a href="https://www.google.com">More</a>}
                 style={{
                   width: 300,
                   boxShadow: '0 4px 6px rgba(0, 0, 0, 0.2)',
