@@ -1,40 +1,61 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Input, Button } from 'antd';
+import { useNavigate } from 'react-router-dom';
+import BackgroundWrapper from './BackgroundWrapper'; // Import the BackgroundWrapper component
 
 const SearchPage = () => {
   const [isFocused, setIsFocused] = useState(false);
-  const [isHovered, setIsHovered] = useState(false); // Add hover state
+  const [isHovered, setIsHovered] = useState(false);
+  const [isMobile, setIsMobile] = useState(window.innerWidth <= 767);
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsMobile(window.innerWidth <= 767);
+    };
+
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
+
+  const inputWidth = isFocused 
+    ? (isMobile ? '100%' : '70%') 
+    : (isMobile ? '70%' : '30%');
+
+  const handleButtonClick = () => {
+    navigate('/companies'); // Navigate to the new page
+  };
 
   return (
-    <div style={{
-      minHeight: '100vh',
-      backgroundColor: '#c4dcf5',
-      display: 'flex',
-      flexDirection: 'column',
-      alignItems: 'center',
-      padding: '10rem'
-    }}>
-      <img src="logos.png" alt="" style={{ width: '30%' }} />
+    <BackgroundWrapper>
+      <img 
+        src="logos.png" 
+        alt="" 
+        style={{ 
+          width: isMobile ? '80%' : '30%', 
+          marginBottom: '2rem' 
+        }} 
+      />
       
       <div style={{
-        flexGrow: 0.4,
+        width: '100%',
         display: 'flex',
-        flexDirection: 'column', // Change to column direction
+        flexDirection: 'column',
         alignItems: 'center',
+        flexGrow: 0.4,
         justifyContent: 'center',
-        width: '100%'
       }}>
         <Input 
           placeholder="Company Name" 
-          className="search-box filled"
           size="large"
           style={{
-            width: isFocused ? '70%' : '30%',
+            width: inputWidth,
             padding: '0.5rem 1rem',
             fontSize: '1rem',
             borderRadius: '9999px',
             boxShadow: '0 4px 6px rgba(0, 0, 0, 0.3)',
             height: '3.5rem',
+            transition: 'all 0.3s ease-in-out',
           }}
           onFocus={() => setIsFocused(true)}
           onBlur={() => setIsFocused(false)}
@@ -45,18 +66,21 @@ const SearchPage = () => {
           style={{ 
             marginTop: '1rem', 
             height: '3.5rem', 
-            width: '30%',
+            width: isMobile ? '70%' : '30%',
             boxShadow: '0 4px 6px rgba(0, 0, 0, 0.3)',
-            backgroundColor: isHovered ? 'blue' : '', // Change background color on hover
-            color: isHovered ? 'white' : '', // Optional: Change text color on hover
+            backgroundColor: isHovered ? 'blue' : 'white',
+            color: isHovered ? 'white' : 'black',
+            transition: 'all 0.3s ease-in-out',
+            fontFamily: 'Roboto, sans-serif',
           }}
-          onMouseEnter={() => setIsHovered(true)} // Set hover state to true on mouse enter
-          onMouseLeave={() => setIsHovered(false)} // Set hover state to false on mouse leave
+          onMouseEnter={() => setIsHovered(true)}
+          onMouseLeave={() => setIsHovered(false)}
+          onClick={handleButtonClick} // Add the click handler
         >
           Explore Company Policies
         </Button>
       </div>
-    </div>
+    </BackgroundWrapper>
   );
 };
 
