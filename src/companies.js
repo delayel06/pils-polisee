@@ -1,75 +1,146 @@
-import React, { useState } from 'react';
-import { Card } from 'antd';
-import LoadingScreen from './LoadingScreen'; // Import the loading screen component
-import BackgroundWrapper from './BackgroundWrapper'; // Import the BackgroundWrapper component
+import React, { useState, useEffect } from 'react';
+import { Select, Card } from 'antd';
+import { useNavigate } from 'react-router-dom';
+import BackgroundWrapper from './BackgroundWrapper';
+import LoadingScreen from './LoadingScreen';
+
+const { Option } = Select;
+const { Meta } = Card;
 
 const Companies = () => {
   const [loading, setLoading] = useState(true);
+  const [filters, setFilters] = useState({
+    companyType: null,
+    location: null,
+    size: null,
+  });
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    console.log(filters); // Use filters to avoid the error
+  }, [filters]);
+
+  const handleFilterChange = (value, category) => {
+    setFilters(prevFilters => ({
+      ...prevFilters,
+      [category]: value,
+    }));
+  };
+
+  const companies = [
+    { name: 'Google', image: 'https://logo.clearbit.com/google.com', description: 'www.google.com' },
+    { name: 'Apple', image: 'https://logo.clearbit.com/apple.com', description: 'www.apple.com' },
+    { name: 'Microsoft', image: 'https://logo.clearbit.com/microsoft.com', description: 'www.microsoft.com' },
+    { name: 'Amazon', image: 'https://logo.clearbit.com/amazon.com', description: 'www.amazon.com' },
+    { name: 'Facebook', image: 'https://logo.clearbit.com/facebook.com', description: 'www.facebook.com' },
+    { name: 'Tesla', image: 'https://logo.clearbit.com/tesla.com', description: 'www.tesla.com' },
+    { name: 'Netflix', image: 'https://logo.clearbit.com/netflix.com', description: 'www.netflix.com' },
+    { name: 'Adobe', image: 'https://logo.clearbit.com/adobe.com', description: 'www.adobe.com' },
+  ];
+
+  const containerStyle = {
+    backgroundColor: 'whitesmoke',
+    borderRadius: '20px',
+    padding: '1rem',
+    boxShadow: '0 4px 6px rgba(0, 0, 0, 0.2)',
+    width: '90%',
+    height: '90vh',
+    margin: '1rem auto',
+    display: 'flex',
+    flexDirection: 'column',
+    gap: '1rem',
+    boxSizing: 'border-box',
+  };
+
+  const filterContainerStyle = {
+    width: '100%',
+    backgroundColor: 'white',
+    borderRadius: '10px',
+    padding: '1rem',
+    boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
+    boxSizing: 'border-box',
+    display: 'flex',
+    flexDirection: 'column',
+    gap: '1rem',
+    marginBottom: '2rem',
+  };
+
+  const cardContainerStyle = {
+    width: '100%',
+    display: 'flex',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
+    gap: '1rem',
+    overflowY: 'auto',
+  };
+
+  const cardStyle = {
+    width: '100%',
+    maxWidth: '240px',
+    flex: '1 1 calc(33.333% - 1rem)',
+  };
+
+  const imgStyle = {
+    width: 'auto',
+    height: 'auto',
+    margin: '1rem auto',
+  };
+
+  const handleCardClick = (company) => {
+    navigate(`/page/${company.name}`, { state: { company } });
+  };
 
   return (
     <BackgroundWrapper>
       {loading && <LoadingScreen setLoading={setLoading} />}
       {!loading && (
-        <div style={{
-          backgroundColor: 'whitesmoke',
-          borderRadius: '20px',
-          padding: '1rem',
-          boxShadow: '0 4px 6px rgba(0, 0, 0, 0.2)',
-          width: '90%',
-          height: '90vh', // Adjust height to take up most of the viewport
-          margin: '1rem auto', // Reduce margin to minimize space at the top and bottom
-          display: 'flex',
-          flexDirection: 'row',
-          gap: '1rem',
-          boxSizing: 'border-box', // Ensure padding is included in the width
-        }}>
-          <div style={{
-            width: '20%',
-            backgroundColor: 'white',
-            borderRadius: '10px',
-            padding: '1rem',
-            boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
-            boxSizing: 'border-box', // Ensure padding is included in the width
-          }}>
-            <h3>Filters</h3>
-            {/* Add filter options here */}
+        <div style={containerStyle}>
+          <div style={filterContainerStyle}>
+            <h3
+              style={{ 
+                alignItems: 'center',
+                justifyContent: 'center',
+                display: 'flex',  
+              }}
+            >Filters</h3>
+            <Select
+              style={{ width: '100%', marginBottom: '1rem' }}
+              placeholder="Select Company Type"
+              onChange={(value) => handleFilterChange(value, 'companyType')}
+            >
+              <Option value="tech">Tech</Option>
+              <Option value="finance">Finance</Option>
+              <Option value="healthcare">Healthcare</Option>
+            </Select>
+            <Select
+              style={{ width: '100%', marginBottom: '1rem' }}
+              placeholder="Select Location"
+              onChange={(value) => handleFilterChange(value, 'location')}
+            >
+              <Option value="us">United States</Option>
+              <Option value="eu">Europe</Option>
+              <Option value="asia">Asia</Option>
+            </Select>
+            <Select
+              style={{ width: '100%', marginBottom: '1rem' }}
+              placeholder="Select Company Size"
+              onChange={(value) => handleFilterChange(value, 'size')}
+            >
+              <Option value="small">Small</Option>
+              <Option value="medium">Medium</Option>
+              <Option value="large">Large</Option>
+            </Select>
           </div>
-          <div style={{
-            width: '80%',
-            display: 'flex',
-            flexWrap: 'wrap',
-            justifyContent: 'center',
-            gap: '1rem',
-            overflowY: 'auto', // Allow scrolling if content overflows
-          }}>
-            {Array.from({ length: 18 }).map((_, index) => (
+          <div style={cardContainerStyle}>
+            {companies.map(company => (
               <Card
-                key={index}
-                title={`Card ${index + 1}`}
-                extra={<a href="https://www.google.com">More</a>}
-                style={{
-                  width: 300,
-                  boxShadow: '0 4px 6px rgba(0, 0, 0, 0.2)',
-                  borderRadius: '10px',
-                  transition: 'transform 0.3s, box-shadow 0.3s', // Add transition for smooth effect
-                  cursor: 'pointer', // Make the card clickable
-                }}
-                bodyStyle={{
-                  transition: 'background-color 0.3s', // Add transition for background color
-                }}
-                onClick={() => alert(`Card ${index + 1} clicked`)} // Add click handler
-                onMouseEnter={(e) => {
-                  e.currentTarget.style.transform = 'scale(1.05)'; // Slightly grow the card
-                  e.currentTarget.style.boxShadow = '0 6px 10px rgba(0, 0, 0, 0.3)'; // Darken the shadow
-                  e.currentTarget.querySelector('.ant-card-body').style.backgroundColor = '#f0f0f0'; // Darken the background
-                }}
-                onMouseLeave={(e) => {
-                  e.currentTarget.style.transform = 'scale(1)'; // Reset the card size
-                  e.currentTarget.style.boxShadow = '0 4px 6px rgba(0, 0, 0, 0.2)'; // Reset the shadow
-                  e.currentTarget.querySelector('.ant-card-body').style.backgroundColor = 'white'; // Reset the background
-                }}
+                key={company.name}
+                hoverable
+                style={cardStyle}
+                cover={<img alt={company.name} src={company.image} style={imgStyle} />}
+                onClick={() => handleCardClick(company)}
               >
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.</p>
+                <Meta title={company.name} description={company.description} />
               </Card>
             ))}
           </div>

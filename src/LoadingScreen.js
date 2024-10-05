@@ -6,7 +6,7 @@ const LoadingScreen = ({ setLoading }) => {
   useEffect(() => {
     const timer = setTimeout(() => {
       setLoading(false); // Hide the loading screen after 1 second
-    }, 1000);
+    }, 750);
 
     return () => clearTimeout(timer);
   }, [setLoading]);
@@ -51,7 +51,7 @@ const LoadingScreen = ({ setLoading }) => {
           width: '0',
           height: '100%',
           backgroundColor: '#a1c4fd',
-          animation: 'loading 1s linear forwards',
+          animation: 'loading 0.75s linear forwards',
         }}></div>
       </div>
       <style>
