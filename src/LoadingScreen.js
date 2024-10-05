@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 
 const LoadingScreen = ({ setLoading }) => {
-  const [isMobile, setIsMobile] = useState(window.innerWidth <= 767);
+  const [isMobile] = useState(window.innerWidth <= 767);
 
   useEffect(() => {
     const timer = setTimeout(() => {
