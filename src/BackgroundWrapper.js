@@ -8,7 +8,7 @@ const BackgroundWrapper = ({ children }) => {
       display: 'flex',
       flexDirection: 'column',
       alignItems: 'center',
-      justifyContent: 'center',
+
       padding: '1rem',
     }}>
       {children}

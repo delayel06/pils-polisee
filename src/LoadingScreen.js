@@ -1,6 +1,8 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 
 const LoadingScreen = ({ setLoading }) => {
+  const [isMobile, setIsMobile] = useState(window.innerWidth <= 767);
+
   useEffect(() => {
     const timer = setTimeout(() => {
       setLoading(false); // Hide the loading screen after 1 second
@@ -25,10 +27,10 @@ const LoadingScreen = ({ setLoading }) => {
       transition: 'opacity 0.5s ease-out',
     }}>
       <img 
-        src="/logos.png" 
+        src="/logo2.png" 
         alt="Logo" 
         style={{
-          width: '20%', // Adjust the size as needed
+          width: isMobile ? '80%' : '20%', // Adjust the size as needed
           marginBottom: '2rem', // Space between logo and loading bar
         }} 
       />

@@ -29,11 +29,11 @@ const SearchPage = () => {
   return (
     <BackgroundWrapper>
       <img 
-        src="logos.png" 
+        src="logo2.png" 
         alt="" 
         style={{ 
-          width: isMobile ? '80%' : '30%', 
-          marginBottom: '2rem' 
+          width: isMobile ? '80%' : '25%', 
+          paddingTop: '3rem',
         }} 
       />
       
@@ -42,7 +42,7 @@ const SearchPage = () => {
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
-        flexGrow: 0.4,
+        flexGrow: 0.2,
         justifyContent: 'center',
       }}>
         <Input 
