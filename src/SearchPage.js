@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Input, Button, Card } from 'antd';
 import { useNavigate } from 'react-router-dom';
+import { ArrowRightOutlined, ChromeOutlined } from '@ant-design/icons'; // Import icons
 import BackgroundWrapperSearch from './BackgroundWrapperSearch'; // Import the BackgroundWrapper component
 
 const knownCompanies = {
@@ -19,6 +20,7 @@ const knownCompanies = {
 const SearchPage = () => {
   const [inputFocused, setInputFocused] = useState(false);
   const [buttonHovered, setButtonHovered] = useState(false);
+  const [chromeButtonHovered, setChromeButtonHovered] = useState(false); // State for chrome button hover
   const [isMobileView, setIsMobileView] = useState(window.innerWidth <= 767);
   const [searchTerm, setSearchTerm] = useState('');
   const [filteredCompanies, setFilteredCompanies] = useState([]);
@@ -102,12 +104,24 @@ const SearchPage = () => {
   const buttonStyles = {
     marginTop: '1rem', 
     height: '3.5rem', 
-    width: isMobileView ? '70%' : '30%',
+    width: isMobileView ? '35%' : '15%',
     boxShadow: '0 4px 6px rgba(0, 0, 0, 0.3)',
     backgroundColor: buttonHovered ? 'blue' : 'white',
     color: buttonHovered ? 'white' : 'black',
     transition: 'all 0.3s ease-in-out',
     fontFamily: 'Roboto, sans-serif',
+  };
+
+  const chromeButtonStyles = {
+    marginTop: '1rem', 
+    height: '3.5rem', 
+    width: isMobileView ? '35%' : '15%',
+    boxShadow: '0 4px 6px rgba(0, 0, 0, 0.3)',
+    backgroundColor: chromeButtonHovered ? 'green' : 'white',
+    color: chromeButtonHovered ? 'white' : 'black',
+    transition: 'all 0.3s ease-in-out',
+    fontFamily: 'Roboto, sans-serif',
+    marginLeft: '10px', // Add margin to separate buttons
   };
 
   const cardContainerStyles = {
@@ -174,16 +188,31 @@ const SearchPage = () => {
             </Card>
           ))}
         </div>
-        <Button 
-          shape="round" 
-          size="large" 
-          style={buttonStyles}
-          onMouseEnter={() => setButtonHovered(true)}
-          onMouseLeave={() => setButtonHovered(false)}
-          onClick={handleButtonClick} // Add the click handler
-        >
-          Explore Company Policies
-        </Button>
+        <div style={{ display: 'flex', justifyContent: 'center', width: '100%' }}>
+          <Button 
+            shape="round" 
+            size="large" 
+            style={buttonStyles}
+            onMouseEnter={() => setButtonHovered(true)}
+            onMouseLeave={() => setButtonHovered(false)}
+            onClick={handleButtonClick} // Add the click handler
+            icon={<ArrowRightOutlined />} // Add arrow icon
+          >
+            Explore Company Policies
+          </Button>
+          <Button 
+            shape="round" 
+            size="large" 
+            style={chromeButtonStyles}
+            onMouseEnter={() => setChromeButtonHovered(true)}
+            onMouseLeave={() => setChromeButtonHovered(false)}
+            href="https://google.com" // Link to Chrome extension
+            target="_blank"
+            icon={<ChromeOutlined />} // Add Chrome icon
+          >
+            Chrome Extension
+          </Button>
+        </div>
       </div>
     </BackgroundWrapperSearch>
   );
