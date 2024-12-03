@@ -1,19 +1,13 @@
 import React, { useState, useEffect } from 'react';
-import { Select, Card } from 'antd';
+import { Card } from 'antd';
 import { useNavigate } from 'react-router-dom';
 import BackgroundWrapper from './BackgroundWrapper';
 import LoadingScreen from './LoadingScreen';
 
-const { Option } = Select;
 const { Meta } = Card;
 
 const Companies = () => {
   const [loading, setLoading] = useState(true);
-  const [filters, setFilters] = useState({
-    companyType: null,
-    location: null,
-    size: null,
-  });
   const [companies, setCompanies] = useState([]);
   const navigate = useNavigate();
 
@@ -51,13 +45,6 @@ const Companies = () => {
     fetchCompanies();
   }, []);
 
-  const handleFilterChange = (value, category) => {
-    setFilters((prevFilters) => ({
-      ...prevFilters,
-      [category]: value,
-    }));
-  };
-
   const containerStyle = {
     backgroundColor: 'whitesmoke',
     borderRadius: '20px',
@@ -70,19 +57,6 @@ const Companies = () => {
     flexDirection: 'column',
     gap: '1rem',
     boxSizing: 'border-box',
-  };
-
-  const filterContainerStyle = {
-    width: '100%',
-    backgroundColor: 'white',
-    borderRadius: '10px',
-    padding: '1rem',
-    boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
-    boxSizing: 'border-box',
-    display: 'flex',
-    flexDirection: 'column',
-    gap: '1rem',
-    marginBottom: '2rem',
   };
 
   const cardContainerStyle = {
@@ -115,44 +89,6 @@ const Companies = () => {
       {loading && <LoadingScreen setLoading={setLoading} />}
       {!loading && (
         <div style={containerStyle}>
-          <div style={filterContainerStyle}>
-            <h3
-              style={{
-                alignItems: 'center',
-                justifyContent: 'center',
-                display: 'flex',
-              }}
-            >
-              Filters
-            </h3>
-            <Select
-              style={{ width: '100%', marginBottom: '1rem' }}
-              placeholder="Select Company Type"
-              onChange={(value) => handleFilterChange(value, 'companyType')}
-            >
-              <Option value="tech">Tech</Option>
-              <Option value="finance">Finance</Option>
-              <Option value="healthcare">Healthcare</Option>
-            </Select>
-            <Select
-              style={{ width: '100%', marginBottom: '1rem' }}
-              placeholder="Select Location"
-              onChange={(value) => handleFilterChange(value, 'location')}
-            >
-              <Option value="us">United States</Option>
-              <Option value="eu">Europe</Option>
-              <Option value="asia">Asia</Option>
-            </Select>
-            <Select
-              style={{ width: '100%', marginBottom: '1rem' }}
-              placeholder="Select Company Size"
-              onChange={(value) => handleFilterChange(value, 'size')}
-            >
-              <Option value="small">Small</Option>
-              <Option value="medium">Medium</Option>
-              <Option value="large">Large</Option>
-            </Select>
-          </div>
           <div style={cardContainerStyle}>
             {companies.map((company) => (
               <Card
