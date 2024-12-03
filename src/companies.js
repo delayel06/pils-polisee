@@ -33,13 +33,34 @@ const styles = {
 };
 
 // Helper function to check if image exists
+// Helper function to check if image actually loads
 const checkImageExists = async (url) => {
-  try {
-    const response = await fetch(url, { method: 'HEAD' });
-    return response.ok;
-  } catch {
-    return false;
-  }
+  return new Promise((resolve) => {
+    const img = new Image();
+    
+    // Set timeout to avoid hanging
+    const timeout = setTimeout(() => {
+      img.src = '';
+      resolve(false);
+    }, 2000);
+
+    img.onload = () => {
+      clearTimeout(timeout);
+      // Check if image has actual dimensions
+      if (img.width > 0 && img.height > 0) {
+        resolve(true);
+      } else {
+        resolve(false);
+      }
+    };
+
+    img.onerror = () => {
+      clearTimeout(timeout);
+      resolve(false);
+    };
+
+    img.src = url;
+  });
 };
 
 // Function to get first working logo URL
@@ -49,10 +70,13 @@ const getLogoUrl = async (domain) => {
   for (const tld of tlds) {
     const url = `https://logo.clearbit.com/${domain}.${tld}`;
     if (await checkImageExists(url)) {
+      console.log(`Found logo at ${url}`); // Debug log
       return url;
     }
   }
-  return `https://logo.clearbit.com/${domain}.com`; // Fallback
+  
+  // If no logo found, return default image
+  return `https://logo.clearbit.com/${domain}.com`;
 };
 
 const Companies = () => {
