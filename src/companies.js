@@ -1,23 +1,72 @@
 import React, { useState, useEffect } from 'react';
-import { Card } from 'antd';
+import { Card, message } from 'antd';
 import { useNavigate } from 'react-router-dom';
 import BackgroundWrapper from './BackgroundWrapper';
 import LoadingScreen from './LoadingScreen';
 
 const { Meta } = Card;
 
+// Styles
+const styles = {
+  container: {
+    padding: '2rem',
+    maxWidth: '1200px',
+    margin: '0 auto',
+  },
+  cardContainer: {
+    display: 'grid',
+    gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))',
+    gap: '2rem',
+    padding: '1rem',
+  },
+  card: {
+    width: '100%',
+    height: '100%',
+  },
+  image: {
+    width: 'auto',
+    height: 'auto',
+    margin: '1rem auto',
+    objectFit: 'contain',
+    maxHeight: '150px',
+  }
+};
+
+// Helper function to check if image exists
+const checkImageExists = async (url) => {
+  try {
+    const response = await fetch(url, { method: 'HEAD' });
+    return response.ok;
+  } catch {
+    return false;
+  }
+};
+
+// Function to get first working logo URL
+const getLogoUrl = async (domain) => {
+  const tlds = ['me', 'org', 'fr', 'com'];
+  
+  for (const tld of tlds) {
+    const url = `https://logo.clearbit.com/${domain}.${tld}`;
+    if (await checkImageExists(url)) {
+      return url;
+    }
+  }
+  return `https://logo.clearbit.com/${domain}.com`; // Fallback
+};
+
 const Companies = () => {
   const [loading, setLoading] = useState(true);
   const [companies, setCompanies] = useState([]);
+  const [error, setError] = useState(null);
   const navigate = useNavigate();
 
   useEffect(() => {
-    // Fetch the list of companies from the API
     const fetchCompanies = async () => {
       try {
         const response = await fetch('https://patient-bush-a521.delayel06.workers.dev/websites', {
           headers: {
-            'apikey': 'saleputes', // Replace with your actual API key
+            'apikey': process.env.REACT_APP_API_KEY || 'saleputes',
           },
         });
 
@@ -27,16 +76,18 @@ const Companies = () => {
 
         const websites = await response.json();
 
-        // Transform API data into the expected format for rendering
-        const formattedCompanies = websites.map((website) => ({
-          name: website,
-          image: `https://${website}.com/favicon.ico`,
-          description: `www.${website}.com`,
-        }));
+        const formattedCompanies = await Promise.all(
+          websites.map(async (website) => ({
+            name: website,
+            image: await getLogoUrl(website),
+            description: `www.${website}.com`,
+          }))
+        );
 
         setCompanies(formattedCompanies);
-      } catch (error) {
-        console.error('Error fetching companies:', error);
+      } catch (err) {
+        setError(err.message);
+        message.error('Failed to load companies');
       } finally {
         setLoading(false);
       }
@@ -45,60 +96,48 @@ const Companies = () => {
     fetchCompanies();
   }, []);
 
-  const containerStyle = {
-    backgroundColor: 'whitesmoke',
-    borderRadius: '20px',
-    padding: '1rem',
-    boxShadow: '0 4px 6px rgba(0, 0, 0, 0.2)',
-    width: '90%',
-    height: '90vh',
-    margin: '1rem auto',
-    display: 'flex',
-    flexDirection: 'column',
-    gap: '1rem',
-    boxSizing: 'border-box',
-  };
-
-  const cardContainerStyle = {
-    width: '100%',
-    display: 'flex',
-    flexWrap: 'wrap',
-    justifyContent: 'center',
-    gap: '1rem',
-    overflowY: 'auto',
-  };
-
-  const cardStyle = {
-    width: '100%',
-    maxWidth: '240px',
-    flex: '1 1 calc(33.333% - 1rem)',
-  };
-
-  const imgStyle = {
-    width: 'auto',
-    height: 'auto',
-    margin: '1rem auto',
-  };
-
   const handleCardClick = (company) => {
     navigate(`/page/${company.name}`, { state: { company } });
   };
+
+  if (error) {
+    return (
+      <BackgroundWrapper>
+        <div style={styles.container}>
+          <h2>Error loading companies: {error}</h2>
+        </div>
+      </BackgroundWrapper>
+    );
+  }
 
   return (
     <BackgroundWrapper>
       {loading && <LoadingScreen setLoading={setLoading} />}
       {!loading && (
-        <div style={containerStyle}>
-          <div style={cardContainerStyle}>
+        <div style={styles.container}>
+          <div style={styles.cardContainer}>
             {companies.map((company) => (
               <Card
                 key={company.name}
                 hoverable
-                style={cardStyle}
-                cover={<img alt={company.name} src={company.image} style={imgStyle} />}
+                style={styles.card}
+                cover={
+                  <img
+                    alt={company.name}
+                    src={company.image}
+                    style={styles.image}
+                    onError={(e) => {
+                      e.target.onerror = null;
+                      e.target.src = '/fallback-image.png'; // Add a fallback image
+                    }}
+                  />
+                }
                 onClick={() => handleCardClick(company)}
               >
-                <Meta title={company.name} description={company.description} />
+                <Meta 
+                  title={company.name} 
+                  description={company.description}
+                />
               </Card>
             ))}
           </div>
