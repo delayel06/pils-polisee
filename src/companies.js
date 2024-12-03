@@ -14,29 +14,49 @@ const Companies = () => {
     location: null,
     size: null,
   });
+  const [companies, setCompanies] = useState([]);
   const navigate = useNavigate();
 
   useEffect(() => {
-    console.log(filters); // Use filters to avoid the error
-  }, [filters]);
+    // Fetch the list of companies from the API
+    const fetchCompanies = async () => {
+      try {
+        const response = await fetch('https://patient-bush-a521.delayel06.workers.dev/websites', {
+          headers: {
+            'apikey': 'saleputes', // Replace with your actual API key
+          },
+        });
+
+        if (!response.ok) {
+          throw new Error(`Failed to fetch companies: ${response.statusText}`);
+        }
+
+        const websites = await response.json();
+
+        // Transform API data into the expected format for rendering
+        const formattedCompanies = websites.map((website) => ({
+          name: website,
+          image: `https://logo.clearbit.com/${website}`,
+          description: `www.${website}`,
+        }));
+
+        setCompanies(formattedCompanies);
+      } catch (error) {
+        console.error('Error fetching companies:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchCompanies();
+  }, []);
 
   const handleFilterChange = (value, category) => {
-    setFilters(prevFilters => ({
+    setFilters((prevFilters) => ({
       ...prevFilters,
       [category]: value,
     }));
   };
-
-  const companies = [
-    { name: 'Google', image: 'https://logo.clearbit.com/google.com', description: 'www.google.com' },
-    { name: 'Apple', image: 'https://logo.clearbit.com/apple.com', description: 'www.apple.com' },
-    { name: 'Microsoft', image: 'https://logo.clearbit.com/microsoft.com', description: 'www.microsoft.com' },
-    { name: 'Amazon', image: 'https://logo.clearbit.com/amazon.com', description: 'www.amazon.com' },
-    { name: 'Facebook', image: 'https://logo.clearbit.com/facebook.com', description: 'www.facebook.com' },
-    { name: 'Tesla', image: 'https://logo.clearbit.com/tesla.com', description: 'www.tesla.com' },
-    { name: 'Netflix', image: 'https://logo.clearbit.com/netflix.com', description: 'www.netflix.com' },
-    { name: 'Adobe', image: 'https://logo.clearbit.com/adobe.com', description: 'www.adobe.com' },
-  ];
 
   const containerStyle = {
     backgroundColor: 'whitesmoke',
@@ -97,12 +117,14 @@ const Companies = () => {
         <div style={containerStyle}>
           <div style={filterContainerStyle}>
             <h3
-              style={{ 
+              style={{
                 alignItems: 'center',
                 justifyContent: 'center',
-                display: 'flex',  
+                display: 'flex',
               }}
-            >Filters</h3>
+            >
+              Filters
+            </h3>
             <Select
               style={{ width: '100%', marginBottom: '1rem' }}
               placeholder="Select Company Type"
@@ -132,7 +154,7 @@ const Companies = () => {
             </Select>
           </div>
           <div style={cardContainerStyle}>
-            {companies.map(company => (
+            {companies.map((company) => (
               <Card
                 key={company.name}
                 hoverable
