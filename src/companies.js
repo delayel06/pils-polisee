@@ -30,8 +30,8 @@ const Companies = () => {
         // Transform API data into the expected format for rendering
         const formattedCompanies = websites.map((website) => ({
           name: website,
-          image: `https://logo.clearbit.com/${website}`,
-          description: `www.${website}`,
+          image: `https://${website}.com/favicon.ico`,
+          description: `www.${website}.com`,
         }));
 
         setCompanies(formattedCompanies);
