@@ -21,16 +21,27 @@ const FeedbackPage = () => {
         body: JSON.stringify(values),
       });
 
-      const data = await response.json();
+      if (!response.ok) {
+        const errorText = await response.text();
+        throw new Error(errorText || `HTTP error! status: ${response.status}`);
+      }
+
+      let data;
+      try {
+        data = await response.json();
+      } catch (parseError) {
+        throw new Error('Invalid response format from server');
+      }
+
       if (data.success) {
         message.success('Feedback sent successfully!');
         form.resetFields();
       } else {
-        message.error('Failed to send feedback. Please try again.');
+        message.error(data.message || 'Failed to send feedback. Please try again.');
       }
     } catch (error) {
       console.error('Feedback submission error:', error);
-      message.error('An error occurred. Please try again.');
+      message.error(error.message || 'An error occurred. Please try again.');
     }
     setIsSubmitting(false);
   };
