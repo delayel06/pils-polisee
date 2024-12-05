@@ -74,20 +74,6 @@ const FeedbackPage = () => {
             </Form.Item>
             
             <Form.Item
-              name="email"
-              rules={[
-                { required: true, message: 'Please enter your email' },
-                { type: 'email', message: 'Please enter a valid email' }
-              ]}
-            >
-              <Input 
-                prefix={<MailOutlined />} 
-                placeholder="Your Email" 
-                size="large" 
-              />
-            </Form.Item>
-            
-            <Form.Item
               name="feedback"
               rules={[{ required: true, message: 'Please enter your feedback' }]}
             >
