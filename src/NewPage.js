@@ -1,4 +1,10 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
+import { useNavigate, useLocation } from 'react-router-dom';
+import { Button, Typography, Tag, List } from 'antd';
+import { ArrowLeftOutlined, RightOutlined } from '@ant-design/icons';
+import BackgroundWrapper from './BackgroundWrapper'; // Assuming this is a custom component
+
+const { Text } = Typography;
 
 const styles = `
   body {
@@ -245,7 +251,7 @@ const NewPage = () => {
   }, []);
 
   return (
-    <div>
+    <BackgroundWrapper>
       <div className="status-container">
         <i id="status-icon" className="fas"></i>
         <span id="status-text"></span>
@@ -253,7 +259,7 @@ const NewPage = () => {
       <div id="info-container"></div>
       <button id="upload-button"></button>
       <div id="score-container"></div>
-    </div>
+    </BackgroundWrapper>
   );
 };
 
