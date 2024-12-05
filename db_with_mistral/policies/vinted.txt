@@ -1,0 +1,1470 @@
+Vinted Politique de confidentialité
+ 
+Date de la dernière mise à jour : 20/09/2024
+ 
+
+Chez Vinted, dès lors qu’il s’agit de vos données à caractère personnel, la sécurité et la transparence sont des priorités absolues. Afin de vous aider à comprendre quelles sont les informations que nous collectons à votre sujet, comment nous les utilisons et quels sont vos droits, nous avons rédigé la présente Politique de confidentialité détaillée.
+
+ 
+
+1. Généralités
+
+2. Pourquoi et comment collectons-nous et utilisons-nous vos données ?
+
+3. Bénéficiaires des données à caractère personnel
+
+4. Ce que vous devez savoir lorsque vous interagissez avec un Utilisateur Pro
+
+5. Utilisation de cookies
+
+6. Droit d’amendement
+
+7. Vos droits statutaires concernant vos données
+
+8. Nos coordonnées
+
+ 
+
+1. Généralités
+ 
+
+La présente Politique de confidentialité s’applique à la plateforme en ligne de Vinted (ci-après le « Site Web ») et à l’application associée (ci-après « l’Application ») (la « Plateforme » fait conjointement référence au Site Web et à l’Application).
+
+Le responsable du traitement de vos données à caractère personnel est Vinted, UAB, Švitrigailos st. 13, LT-03228 Vilnius, République de Lituanie. Le responsable du traitement est également désigné par les termes "Nous", "Notre" ou "Vinted". Vous trouverez plus de détails sur la manière de nous contacter à la fin de la présente politique de confidentialité, au point 8.
+
+Lorsque cette Politique de confidentialité fait référence à des destinataires de données ou à des activités de marketing direct, le Groupe Vinted comprend les entités suivantes : Vinted, UAB ; Vinted Limited ; Vinted GmbH ; Vinted s.r.o. ; Vinted sp. z o.o. ; Vinted Go, UAB ; Vinted Go SASU ; Vinted SASU ; Vinted B.V. ; Vinted Go GmbH; Vinted (UK) Limited; Vinted Pay, UAB; Vinted Systems, UAB; Vinted Platform Limited; Vinted Go Limited; Homerr B.V.
+
+Nous prenons le respect de votre vie privée très au sérieux. Toutes les données à caractère personnel seront collectées, stockées et utilisées par nos soins, conformément au Règlement général sur la protection des données n° 2016/679 de l’Union européenne (« RGPD »), et/ou à tout autre règlement statutaire en vigueur.
+
+Les services que nous offrons via le Site Web et/ou l’Application peuvent uniquement fonctionner si nous collectons, stockons, transférons, supprimons et/ou utilisons autrement (« collecte et utilisation ») des données spécifiques qui vous concernent (ci-après les « données à caractère personnel » ou les « données »). Les données à caractère personnel désignent toutes les informations relatives à une personne physique identifiée ou identifiable, telles que votre nom, votre date de naissance, votre adresse postale ou votre adresse e-mail.
+
+La présente Politique de confidentialité décrit les données que nous collectons à votre sujet, et les fins auxquelles nous les collectons et les utilisons lorsque vous utilisez les services que nous offrons sur la Plateforme, y compris le service Vinted Pro pour les vendeurs professionnels (« Vendeurs Pro »). La présente Politique de confidentialité contient également des informations importantes sur la protection de vos données, en particulier les droits statutaires qui y sont rattachés.
+
+Certains services de notre Plateforme sont offerts par des fournisseurs tiers. Lorsque vous utilisez ces services, les règlements de protection des données des fournisseurs tiers s’appliqueront alors, en plus de la présente déclaration de protection des données. Avant que vous n’utilisiez lesdits services, les fournisseurs tiers sont susceptibles de vous inviter à leur fournir une autorisation, dans le cadre de la loi sur la protection des données.
+
+En vertu des lois sur la protection des données en vigueur, Vinted est tenue de vous informer du traitement des données et satisfait à cette obligation dans le cadre de la présente Politique de confidentialité. La présente Politique de confidentialité et toute partie de celle-ci ne sont pas considérées comme des clauses contractuelles et ne constituent pas les conditions générales (« CG ») en tant que contrat conclu avec les utilisateurs enregistrés. Conformément aux lois sur la protection des données en vigueur, Vinted peut traiter les données nécessaires pour conclure un contrat avec vous ou pour prendre des mesures, à votre demande, avant de conclure un contrat (art. 6 (1) (b) du RGPD). Les références aux CG doivent en tout temps être considérées comme des informations sur le traitement des données (art. 13 et 14 du RGPD) et jamais comme clauses qui constituent les CG. En utilisant la Plateforme et nos services, vous concluez un contrat juridiquement contraignant avec Vinted, dont les conditions sont décrites dans les CG.
+
+ 
+
+2. Pourquoi et comment collectons-nous et utilisons-nous vos données à caractère personnel ?
+ 
+
+2.1. Afin de vous permettre d’utiliser la Plateforme, nous permettre de fournir nos services et appliquer nos CG
+ 
+
+Nous collectons et utilisons vos données à caractère personnel pour vous permettre d’utiliser notre Plateforme, fournir nos services et conclure un contrat (CG) avec vous, et tout particulièrement pour effectuer des transactions commerciales via la Plateforme, utiliser le système de paiement électronique ou laisser des avis et communiquer avec d’autres membres. Afin d'utiliser ces services, vous devez avoir un compte Vinted. À cette fin, vous devez vous inscrire en tant que membre sur le site Web ou l’Application.
+
+Nous avons besoin de la plupart de vos données à caractère personnel pour conclure un contrat (CG) avec vous. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de conclure et d’exécuter un contrat (CG) avec vous. Nous avons besoin d’une partie de vos données afin de pouvoir satisfaire à nos obligations légales lorsque vous êtes membre de notre Plateforme. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de nous conformer aux exigences légales et de fournir nos services.
+
+Ces données sont également utilisées pour améliorer la Plateforme afin que nous puissions offrir une meilleure expérience à nos membres (voir 2.2.12).
+
+Nous collectons et utilisons vos données à caractère personnel à ces fins jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.1.1. Afin de vous permettre de vous inscrire sur la Plateforme
+Lorsque vous vous inscrivez en tant que membre sur la Plateforme, vous devez fournir les données suivantes afin d’effectuer la procédure d’inscription et d’accéder à votre compte Vinted :
+
+Nom d’utilisateur (nécessaire lorsque vous vous inscrivez sans compte Facebook ou Google) ;
+Adresse e-mail ;
+Confirmation de majorité ;
+Mot de passe (nécessaire lorsque vous vous inscrivez sans compte Facebook ou Google) ;
+Dénomination sociale enregistrée (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Type de société (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Numéro de SIRET (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Le cas échéant, numéro d’immatriculation à la TVA (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Adresse de l’entreprise (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Coordonnées (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Adresse e-mail de contact (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Coordonnées bancaires (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Nom complet du représentant légal (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Date de naissance du représentant légal (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Nationalité du représentant légal (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Pays de résidence du représentant légal (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Adresse du représentant légal (uniquement lorsque vous êtes un Utilisateur Pro);
+Copie de la carte d’identité ou du passeport du représentant commercial (uniquement si vous êtes un Utilisateur Pro).
+La base juridique pour la collecte et l’utilisation des données est l’exécution d’un contrat (CG) auquel vous avez souscrit ou la prise de mesures, à votre demande, avant la conclusion du contrat (CG) (art. 6 (1) (b) du RGPD).
+
+La base juridique pour la collecte et l’utilisation des données fournies par un Utilisateur Pro est l’exécution d’un contrat (Termes et Conditions Vinted Pro) auquel un Utilisateur Pro a souscrit (Art. 6 (1) (b) du RGPD) et, le cas échéant, la conformité aux obligations légales auxquelles Vinted est soumis (Art. 6 (1) (c) du RGPD).
+
+Nous déterminons également votre emplacement en fonction de votre adresse IP au moment de l'inscription. Vous pouvez à tout moment choisir de changer votre ville et de la rendre non visible par les autres membres depuis la section « Mes paramètres » de votre compte Vinted.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.1.2. Afin de vous authentifier via Google, Facebook ou Apple ID
+Si vous vous inscrivez à l’aide de votre compte Google Ireland Ltd. (Irlande), Google LLC (États-Unis) (« Google »), Meta Platforms Ireland Ltd. (Irlande), Meta Platforms, Inc. (États-Unis) (« Facebook ») ou Apple Inc. (États-Unis) (« Apple »), ou si vous décidez ultérieurement d’associer votre compte Google, Facebook ou Apple à votre compte Vinted, vous serez transféré(e) depuis notre Plateforme vers le site Web de Facebook, de Google ou d’Apple et vous serez invité(e) à saisir les informations de connexion de votre compte Facebook, Google ou Apple ID.
+
+Si vous saisissez vos informations de connexion Google, Vinted recevra de la part de Google les données suivantes relatives à votre compte Google (vous pourrez choisir de ne pas fournir certaines données) :
+
+Photo de profil ;
+Prénom et nom de famille ;
+Identifiant de compte Google ;
+Adresse e-mail.
+Si vous saisissez vos informations de connexion Facebook, Vinted recevra de la part de Facebook les données suivantes relatives à votre compte Facebook (vous pourrez choisir de ne pas fournir votre adresse e-mail) :
+
+Photo de profil ;
+Prénom et nom de famille ;
+Adresse e-mail ;
+Identifiant de compte Facebook.
+Si vous saisissez vos informations de connexion Apple ID, Vinted recevra de la part d’Apple les données suivantes relatives à votre compte Apple ID (vous pourrez choisir de ne pas fournir votre adresse e-mail en utilisant le Service de relais de messagerie privé d’Apple) :
+
+Prénom et nom de famille ;
+Adresse e-mail ;
+Identifiant de compte Apple .
+Les données que nous obtenons de la part de Facebook, de Google ou d’Apple seront utilisées pour configurer votre compte Vinted. Cela signifie que nous utiliserons le nom de membre de votre compte Facebook, Google ou Apple ID comme nom de membre pour votre compte Vinted, afin qu’il soit visible par d’autres visiteurs du Site Web et utilisateurs de l’Application. Personne n’aura accès aux autres données obtenues de la part de Facebook, Google ou Apple sur la Plateforme.
+
+Vous pouvez à tout moment annuler le lien avec votre compte Facebook, Google ou Apple ID. Pour cela, rendez-vous dans la section « Mes paramètres » de votre compte Vinted. Toutefois, si vous n’avez pas associé votre compte Facebook, Google ou Apple ID lors de votre première inscription, il est toujours possible de le faire plus tard.
+
+La collecte et l’utilisation des données sont basées sur votre consentement (art. 6 (1) (a) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.1.3. Afin de vous permettre de configurer les informations de votre profil
+Si vous choisissez d’ajouter des informations au profil du compte que vous créez sur la Plateforme, nous collectons et utilisons les données suivantes, sous réserve que vous acceptiez de les fournir :
+
+Nom complet ;
+Sexe ;
+Date de naissance ;
+Photo de profil ;
+Les métadonnées relatives à la photo que vous téléchargez (géolocalisation, numéro d’identification de l’appareil, date et heure de la photo prise, etc. ;)
+Activation/désactivation du Mode vacances ;
+Vos articles favoris ;
+Informations que vous choisissez de fournir dans le champ « À propos de moi ».
+Votre photo de profil, les informations sur l’activation/la désactivation du Mode vacances et les informations que vous fournissez dans le champ « À propos de moi » sont visibles des autres visiteurs de la Plateforme, mais les autres données saisies par vos soins ne sont pas visibles.
+
+Votre consentement constitue la base juridique desdites collecte et utilisation (art. 6 (1) (a) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif. Les métadonnées de votre photo qui contiennent des données à caractère personnel sont immédiatement supprimées.
+
+2.1.4. Afin d'afficher des informations pertinentes concernant votre activité sur la Plateforme auprès des autres membres
+Lorsque vous êtes un membre inscrit sur la Plateforme, nous collectons, utilisons et rendons publics sur la Plateforme les informations suivantes, dans le but de fournir aux autres membres des informations pertinentes :
+
+Date de la dernière connexion ;
+Élément de vérification ;
+Numéro et nom de membre des abonnés ;
+Numéro et nom de membre des membres suivis ;
+Nombre de « J’aime ».
+Notre intérêt légitime de veiller à ce que nos membres aient accès à des informations importantes les uns sur les autres constitue la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.1.5. Afin de vous permettre de mettre vos articles en vente
+Si vous mettez des articles en vente sur la Plateforme, nous collecterons et utiliserons les données suivantes dans le but de créer, de publier ou de supprimer des annonces sur la Plateforme (la liste des informations requises diffère selon la catégorie choisie pour l’article) :
+
+Titre de l’article ;
+Description de l’article ;
+Catégorie de l’article ;
+Marque de l’article ;
+État de l’article ;
+Taille de l’article ;
+Couleur de l’article ;
+Composition de l’article ;
+Photos de l’article ;
+Numéro de l’article ;
+Métadonnées relatives à la photo que vous téléchargez (géolocalisation, numéro d’identification de l’appareil, date et heure de la photo prise, etc. ;)
+ISBN (lorsque vous vendez des livres) ;
+Informations sur le caractère unisexe de l’article ;
+Prix ;
+Remise ;
+Informations sur l’article marqué ou non comme réservé ;
+Options de livraison ;
+Dimensions du colis ;
+Motif de suppression de l’article.
+Votre consentement constitue la base juridique desdites collecte et utilisation (art. 6 (1) (a) du RGPD).
+
+Les données à caractère personnel collectées et utilisées à cette fin sont conservées pendant 18 mois et 7 jours à partir du moment où votre compte devient inactif. Les articles supprimés et leurs photos sont conservés pendant 6 mois. Les métadonnées de votre photo qui contiennent des données à caractère personnel sont immédiatement supprimées.
+
+2.1.6. Afin d’activer vos notifications sur la Plateforme
+Lorsque vous êtes un membre inscrit sur la Plateforme, vous pouvez recevoir des notifications sur la Plateforme concernant vos nouveaux abonnés, vos articles préférés, votre activité sur le forum et d’autres messages importants.
+
+La base juridique de la collecte et de l'utilisation des données dans le but de vous envoyer des notifications via le système de messagerie de la Plateforme est l'exécution d'un contrat (CGV) dont vous êtes partie (Art. 6(1)(b) du GDPR), et la base juridique pour vous envoyer des notifications push est notre intérêt légitime pour faciliter les ventes sur la Plateforme (Art. 6(1)(f) du GDPR).
+
+Si vous interagissez avec un Utilisateur Pro, vos données à caractère personnel à cette fin seront traitées conjointement par Vinted et l’Utilisateur Pro. Vinted est responsable de la collecte des données à caractère personnel et de leur transfert vers l’Utilisateur Pro. Veuillez consulter la section 4 de la présente Politique de confidentialité pour de plus amples informations sur le contrôle conjoint.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.1.7. Afin de vous permettre de communiquer avec d’autres membres
+Si vous communiquez avec d’autres membres de la Plateforme, nous collectons et utilisons les données suivantes :
+
+Nom du membre avec qui vous communiquez ;
+Messages ;
+Date et heure des messages ;
+Photos partagées ;
+Votre appareil ;
+Informations sur le fait qu’un autre membre a vu ou non votre message ;
+Autres données indiquées dans les messages.
+L’exécution d’un contrat (CG) auquel vous avez souscrit constitue la base juridique pour la collecte et l’utilisation des données (art. 6 (1) (b) du RGPD).
+
+Si vous interagissez avec un Utilisateur Pro, vos données à caractère personnel à cette fin seront celles traitées conjointement par Vinted et l’Utilisateur Pro. Vinted doit traiter les données à caractère personnel afin que l’Utilisateur Pro ait un moyen de communiquer avec les autres membres et puisse assurer ses fonctions. Veuillez consulter la section 4 de la présente Politique de confidentialité pour de plus amples informations sur le contrôle conjoint.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+Si tu décides d'effacer un message d'une conversation, il sera instantanément masqué pour toi et le ou la destinataire, puis définitivement supprimé après 3 mois à compter du moment où tu l'as effacé. La base juridique du stockage des données des messages effacés relève de notre intérêt légitime à garantir la sécurité de notre Plateforme et de nos membres (art. 6 (1) (f) du RGPD).
+
+2.1.8. Afin de vous permettre de laisser des avis à d’autres membres sur la Plateforme
+Si vous laissez des avis à d’autres membres, Vinted collecte et utilise les données suivantes dans le but de les rendre accessibles au public sur la Plateforme :
+
+Avis ;
+Évaluation ;
+Nom du membre ;
+Date et heure de l’avis ;
+Réponse à l’avis.
+Votre consentement constitue la base juridique desdites collecte et utilisation (art. 6 (1) (a) du RGPD).
+
+Vous pouvez à tout moment modifier ou supprimer les avis que vous avez laissés à d’autres membres.
+
+Si vous interagissez avec un Utilisateur Pro, vos données à caractère personnel à cette fin seront traitées conjointement par Vinted et l’Utilisateur Pro. Vinted est responsable de la collecte des données à caractère personnel et de la publication de l’examen sur la Plateforme. Veuillez consulter la section 4 de la présente Politique de confidentialité pour de plus amples informations sur le contrôle conjoint.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif. Les avis sont ensuite anonymisés.
+
+2.1.9. Afin de recevoir les avis d’autres membres
+Lorsque vous recevez des avis d’autres membres, nous collectons et utilisons les données suivantes dans le but de les rendre accessibles au public sur la Plateforme :
+
+Avis ;
+Évaluation ;
+Nom du membre ;
+Date et heure de l’avis ;
+Votre réponse à l’avis.
+L’intérêt légitime de nos membres et de Vinted à instaurer la confiance entre les membres de Vinted constitue la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Si vous interagissez avec un Utilisateur Pro, vos données à caractère personnel à cette fin seront traitées conjointement par Vinted et l’Utilisateur Pro. Vinted est responsable de la collecte des données à caractère personnel et de la publication de l’examen sur la Plateforme. Veuillez consulter la section 4 de la présente Politique de confidentialité pour de plus amples informations sur le contrôle conjoint.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.1.10. Afin de vous permettre de publier dans le forum et de discuter avec notre communauté
+Le forum Vinted permet à notre communauté de discuter et de s’entraider en partageant des expériences et des conseils. Vous pouvez créer de nouveaux sujets de forum ou publier des commentaires dans notre forum. Nous collectons et utilisons les données suivantes que vous soumettez volontairement sur la Plateforme :
+
+Votre nom de membre ;
+Votre photo ;
+Les sujets de forum que vous avez créés ;
+Vos publications sur le forum ;
+Les photos partagées dans votre publication ;
+La date et l’heure de votre publication ;
+Le nombre total de vos publications sur la Plateforme ;
+Votre appareil ;
+Le nombre de « J’aime » sur votre publication ;
+Le nombre de « J’aime » laissés par vous sur les publications d’autres membres ;
+Vos sujets de forum préférés.
+Si vous choisissez de publier anonymement, les autres membres ne pourront pas voir votre nom/photo de membre. Cependant, l’équipe Vinted pourra toujours voir votre identité.
+
+Votre consentement constitue la base juridique desdites collecte et utilisation (art. 6 (1) (a) du RGPD).
+
+Vous pouvez supprimer et modifier vos propres sujets de forum et vos publications à tout moment.
+
+À moins que vous ne supprimiez vos sujets de forum ou vos publications plus tôt, nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.1.11. Pour répondre à vos commentaires publics à notre sujet 
+Si vous laissez une évaluation publique ou tout autre commentaire sur la plateforme, nous collectons et utilisons les données suivantes dans le but de répondre à vos commentaires :
+
+Nom et prénom ;
+Pays ;
+Langue (si vous laissez vos commentaires sur l’App Store ou Google Play) ;
+Commentaires ;
+Date et heure des commentaires ;
+Lien vers les commentaires ;
+Données techniques relatives au navigateur, au type d’appareil et au système d’exploitation (si vous laissez vos commentaires sur l’App Store ou Google Play).
+Notre intérêt légitime à gérer la réputation de Vinted (art. 6(1)(f) du RGPD) constitue la base juridique desdites collecte et utilisation.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin pendant une durée maximale de 4 mois.
+
+2.1.12. Afin de pouvoir vous envoyer des renseignements importants concernant la Plateforme
+Si vous vous inscrivez sur la Plateforme, nous vous enverrons des e-mails et des messages via le système de messagerie de la Plateforme dans le but de vous fournir des notifications importantes, par exemple des informations concernant la modification des CG ou de la Politique de confidentialité.
+
+L’exécution d’un contrat (conforme aux CG) auquel vous avez souscrit (art. 6 (1) (b) du RGPD) et la conformité avec les obligations légales auxquelles Vinted est soumise constituent la base juridique pour la collecte et l’utilisation des données (art. 6 (1) (c) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.1.13. Afin de déterminer si vous être un vendeur professionnel et vous en informer
+Nous vous informerons lorsque nous vous considérerons comme un Utilisateur Pro et vous demanderons de vous inscrire en tant qu’Utilisateur Pro sur la Plateforme ou de convertir votre compte existant en compte Utilisateur Pro. À cette fin, nous collecterons vos données d’utilisation de la Plateforme et prendrons en compte votre activité, afin de déterminer si vous êtes considéré(e) comme un Utilisateur Pro conformément aux critères décrits dans les Règles du catalogue.
+
+La base juridique pour la collecte et l’utilisation des données est l’exécution d’un contrat (conforme à nos Conditions d’utilisation) auquel vous avez souscrit (Art. 6 (1) (b) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.1.14. Pour pouvoir vous envoyer des offres via le système de messagerie de la Plateforme
+Si vous vous inscrivez sur la Plateforme, nous vous enverrons des offres liées aux services de Vinted ("Offres") via le système de messagerie de la Plateforme (messages dans la boîte de réception et notifications) et les notifications push.
+
+Notre intérêt légitime à fournir des offres à nos membres constitue la base juridique pour la collecte et l’utilisation des données (art. 6 (1) (f) du RGPD, art. 13 (2) de la directive 2002/58/CE du Parlement européen et du Conseil du 12 juillet 2002 concernant le traitement des données à caractère personnel et la protection de la vie privée dans le secteur des communications électroniques (directive relative à la vie privée et aux communications électroniques) et art. 81 (2) de la loi lituanienne sur les communications électroniques).
+
+Pour l'envoi des Offres et autres actualités, Vinted fait appel au prestataire de services Braze, Inc. (USA) qui est établi en dehors de l'Espace économique européen. Dans ce cas, les données à caractère personnel sont protégées par le prestataire de services qui s’engage à respecter les clauses contractuelles types de l’UE pour transférer les données, telles qu’approuvées par la Commission européenne.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.1.15. Afin de vous fournir un service d’assistance client
+Si vous nous envoyez une question, une demande, ou si vous souhaitez contester notre décision, nous collecterons et utiliserons les données suivantes dans le but de vous fournir les services d’assistance client que vous demandez sur la Plateforme :
+
+Nom complet ;
+E-mail ;
+Informations relatives à votre profil ;
+Informations sur l’utilisation de la Plateforme ;
+Informations sur les transactions et les paiements ;
+Informations sur la livraison ;
+Communications ;
+Âge ;
+Sexe ;
+Adresse IP ;
+Informations sur la session ;
+Annonces, photos et vidéos de l’article ;
+Demandes ;
+Autres informations soumises par vos soins.
+Le type d’informations que nous collectons peut varier en fonction de votre demande, et du fait que vous ayez ou non un compte sur notre Plateforme.
+
+La base juridique de la collecte et de l'utilisation des données des utilisateurs extérieurs à la Plateforme est notre intérêt légitime à examiner correctement votre demande, tandis que la base juridique de la collecte et de l'utilisation des données des utilisateurs qui ont un compte chez nous est l'exécution du contrat auquel vous avez souscrit (CG) (art. 6 (1) (b) du RGPD).
+
+Si vous interagissez avec un Utilisateur Pro, vos données à caractère personnel à cette fin seront traitées conjointement par Vinted et l’Utilisateur Pro. Vinted est responsable de la collecte des données à caractère personnel et de leur transfert vers un Utilisateur Pro. Les données seront traitées par Vinted et l’Utilisateur Pro afin que les problèmes soient réglés à chaque phase. Veuillez consulter la section 4 de la présente Politique de confidentialité pour de plus amples informations sur le contrôle conjoint.
+
+Afin de répondre à vos demandes, Vinted fournit vos données aux partenaires de services qui fournissent des services d’assistance client.
+
+Les prestataires de services suivants opèrent en dehors de l’Espace économique européen, vos données sont par conséquent susceptibles d’être partagées avec nos agents d’assistance client en dehors de l’Espace économique européen. Dans ces cas précis, les données à caractère personnel sont protégées par les prestataires de services qui s’engagent à respecter les clauses contractuelles types de l’UE pour transférer les données, telles qu’approuvées par la Commission européenne.
+
+Transcom Worldwide Italy SPA (Albanie)
+Transcom Worldwide Tunis S.a.r.l. (Tunisie)
+Transcom Worldwide SAS (Columbie)
+Helpware Inc. (Ukraine)
+Teleperformance Portugal S.A (Egypte)
+Teleperformance Guyana INC. (Guyane)
+Outsourcia Société par actions simplifiée (Maroc)
+PhoneAct S.A.R.L. (Tunisie)
+Les données personnelles collectées et utilisées à cette fin sont conservées pendant 2 ans après la dernière mise à jour relative à votre demande. Si vous avez un compte sur notre Plateforme et que ce compte est supprimé, les données personnelles collectées et utilisées à cette fin seront supprimées en même temps que votre compte, ce qui peut prendre moins de 2 ans.
+
+2.1.16. Pour fournir un service de vérification des articles
+Cette partie s'applique uniquement à la plateforme française (à compter du 22/05/2023), à la plateforme néerlandaise (à compter du 25/09/2023), à la plateforme belge (à compter du 09/10/2023) et à la plateforme espagnole (à compter du 27/11/2023).
+Nous proposons un service facultatif de vérification des articles sur notre plateforme. Si vous, ou un autre membre, souhaitez qu’un article fasse l’objet d’un contrôle et d’une vérification par nos experts, nous collectons et utilisons les données suivantes :
+
+Informations sur l’article soumis à la vérification ;
+Résultats de la vérification ;
+Nom et prénom (pour l’expédition) ;
+Adresse (pour l’expédition).
+L’exécution d’un contrat (CG) auquel vous avez souscrit constitue la base juridique pour lesdites collecte et utilisation de vos données (art. 6(1)(b) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin pendant 5 ans après l’achèvement de la vérification.
+
+2.1.17. Afin de résoudre les différends liés à tout achat entre les membres
+Si vous achetez et/ou vendez des articles sur la Plateforme et que vous êtes impliqué(e) dans un différend avec un autre membre, nous collecterons et utiliserons vos données à caractère personnel, détenues par Vinted, nécessaires à la résolution du différend.
+
+Nous basons lesdites collecte et utilisation sur un intérêt légitime à régler les différends entre nos membres et à défendre les droits et les intérêts de Vinted (art. 6 (1) (f) du RGPD) et, le cas échéant, le respect des obligations légales auxquelles Vinted est soumise (art. 6 (1) (c) du RGPD).
+
+Les données à caractère personnel collectées et utilisées à cette fin sont conservées pendant 1 an après la résolution d'un différend.
+
+2.1.18. Afin de conserver temporairement votre compte désactivé
+Si vous décidez de désactiver votre compte, nous ferons des efforts raisonnables pour nous assurer qu’il n’est plus visible sur la Plateforme et pour limiter l’utilisation de vos données à caractère personnel.  Pendant une période allant jusqu’à 3 mois, il est encore possible de restaurer votre compte s'il a été désactivé accidentellement ou à tort ; si vous changez d'avis et souhaitez revenir sur la Plateforme ; si quelqu'un d'autre accède à votre compte et le supprime à votre insu ; pour protéger notre Plateforme contre les abus par lesquels certains membres suppriment leur compte afin de se débarrasser d'évaluations négatives, d'éviter leurs obligations ou de contourner nos Termes et Conditions, violant ainsi nos intérêts et ceux des autres utilisateurs de la Plateforme ; et/ou pour empêcher les activités malveillantes sur la Plateforme (p. ex. les comptes multiples créés par des spammeurs).
+
+La base juridique de ce stockage de vos données est l'intérêt légitime de Vinted et de ses membres à restaurer votre compte si nécessaire et/ou à prévenir les abus et les activités malveillantes sur la Plateforme (art. 6 (1) (f) du RGPD) et, le cas échéant, à se conformer aux obligations légales auxquelles Vinted est soumis (art. 6 (1) (c) du RGPD).
+
+Les données à caractère personnel sont conservées à cette fin pendant 3 mois à partir de la date de désactivation de votre compte Vinted. À l’issue de ces 3 mois, nous supprimons définitivement votre compte sur notre Plateforme.
+
+Si vous êtes un Utilisateur Pro, nous conserverons vos données pour une durée de 6 mois, après quoi votre compte sera définitivement supprimé.
+
+ 
+
+2.2. Afin d'améliorer votre expérience lors de l’utilisation de la Plateforme
+ 
+
+Nous collectons et utilisons vos données à caractère personnel afin d’améliorer votre expérience lors de l’utilisation de la Plateforme, en vous permettant de personnaliser votre fil d’actualité et vos résultats de recherche, en vous fournissant des suggestions pertinentes et en conservant vos recherches précédentes, en vous envoyant des notifications et, autrement, en rendant l’utilisation de la Plateforme plus agréable.
+
+La base juridique spécifique applicable pour la collecte et l’utilisation de vos données est décrite dans chacune des sections ci-dessous.
+
+2.2.1. Afin d'activer vos préférences en ce qui concerne votre fil d'actualité et vos résultats de recherche
+Si vous choisissez de personnaliser les articles qui s’affichent à votre intention sur la Plateforme (sur le fil d’actualité des articles, le catalogue et les résultats de recherche), nous collecterons et utiliserons les données suivantes dans le but de vous présenter un fil d’actualité personnalisé en fonction de vos préférences :
+
+Informations sur votre éventuel intérêt en ce qui concerne les articles pour les femmes, les hommes ou les enfants ;
+Tailles d’articles préférées ;
+Marques d’articles préférées.
+Votre consentement constitue la base juridique desdites collecte et utilisation (art. 6 (1) (a) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.2.2. Afin de personnaliser votre fil d’actualité et vos résultats de recherche
+Nous personnalisons également le fil d’actualité de l’article en évaluant vos préférences en fonction des éléments suivants :
+
+Sexe ;
+Âge ;
+Pays ;
+Langue ;
+Informations relatives à votre activité de navigation sur la Plateforme ;
+Historique d’achat ;
+Vos préférences.
+L’intérêt légitime de Vinted et de ses membres à rendre la Plateforme plus pratique pour nos membres et, grâce à la personnalisation, vous permettre de voir les offres d’autres membres susceptibles de vous intéresser le plus, constituent la base juridique desdites collection et utilisation (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données personnelles à cette fin tant que votre compte est actif.
+
+2.2.3. Afin de donner la priorité aux articles avec un bon rapport qualité-prix de la part de vendeurs fiables
+Afin de déterminer si vous offrez des articles avec un bon rapport qualité-prix en tant que vendeur fiable, comme décrit ci-dessus, nous collecterons et utiliserons les données suivantes vous appartenant lorsque vous vendrez vos articles sur la Plateforme :
+
+Nombre d’évaluations positives ;
+Informations concernant le fait que le vendeur dispose d'articles qui sont moins chers que 60 % des articles similaires vendus sur la Plateforme (la similitude est déterminée selon la catégorie, la marque et l’état de l'article).
+Nous utilisons les résultats afin de hiérarchiser les articles avec un bon rapport qualité-prix, proposés par des vendeurs fiables, lors de la présentation d’articles à de nouveaux membres, d'augmenter la visibilité des articles téléchargés par les membres qui ont choisi la même langue que vous et/ou résident dans le même pays ou la même région, des articles ajoutés par les nouveaux membres ou marqués comme favoris 3 fois ou plus, des articles pour enfants marqués comme favoris une fois ou plus et des articles qui sont « remontés », et enfin pour montrer des articles pertinents sur la Plateforme.
+
+Notre intérêt légitime à hiérarchiser les articles avec un bon rapport qualité-prix de la part de vendeurs fiables afin de faciliter les ventes et la satisfaction des membres sur la Plateforme constitue la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.2.4. Afin de vous proposer des articles pertinents
+Si vous choisissez de créer des annonces pour des articles sur la Plateforme, nous collecterons et utiliserons les données que vous fournissez dans l’annonce (voir 2.1.5 ci-dessus), en les analysant, afin d’offrir aux membres qui consultent vos articles d’autres articles pertinents ou d’offrir aux membres vos articles susceptibles de les intéresser.
+
+Notre intérêt légitime à améliorer la Plateforme et à veiller à ce que nos membres reçoivent des suggestions et des résultats de recherche pertinents constitue la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.2.5. Pour suggérer des descriptions d’articles pertinentes
+Lorsque vous créez des annonces pour des articles sur la plateforme, nous collectons et analysons les données que vous fournissez dans l’annonce (voir le point 2.1.5 ci-dessus) afin de suggérer la description la plus appropriée pour votre annonce.
+
+Notre intérêt légitime à améliorer la Plateforme et à veiller à ce que nos membres reçoivent des suggestions pertinentes constitue la base juridique desdites collecte et utilisation des données (art. 6(1)(f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.2.6. Afin d'améliorer les résultats de recherche sur la Plateforme
+Nous collectons et utilisons les données fournies dans les annonces (voir la section 2.1.5 ci-dessus) relatives aux articles qui ne contiennent aucune information sur les vendeurs afin d’améliorer les résultats de recherche, en évaluant la pertinence de certains articles lorsqu’un mot clé de recherche spécifique est utilisé, et pour que des catégories pertinentes soient automatiquement suggérées pour les nouvelles annonces. Pour cela, nous utilisons uniquement les annonces d’articles qui ne sont liées à aucun vendeur particulier.
+
+Notre intérêt légitime à améliorer la Plateforme et à veiller à ce que nos membres reçoivent des suggestions et des résultats de recherche pertinents constitue la base juridique desdites collecte et utilisation (Art. 6 (1) (f) du RGPD).
+
+Vinted utilise des prestataires de services qui lui fournissent des services d’analyse de données.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.2.7. Afin d'enregistrer vos recherches récentes
+Nous enregistrons vos mots clés de recherche afin de vous aider à trouver des articles déjà recherchés sur la Plateforme. Nous collectons et utilisons les données suivantes dans le but de fournir des informations sur les articles nouvellement ajoutés sur la Plateforme, en fonction du mot clé que vous avez auparavant utilisé pour effectuer une recherche :
+
+Votre historique de recherche (derniers mots clés utilisés pour effectuer une recherche) ;
+Date et heure de votre recherche ;
+Nombre d’articles nouvellement ajoutés.
+L’intérêt légitime de nos membres et de Vinted à améliorer les résultats de recherche sur la Plateforme constitue la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Vous pouvez supprimer votre historique de recherche à tout moment.
+
+À moins que vous ne supprimiez votre historique de recherche au préalable, nous collectons et utilisons vos données à caractère personnel à cette fin pendant une durée maximale de 6 mois.
+
+2.2.8. Afin de vous aider à attirer plus d’attention sur vos annonces
+Si vous décidez de passer commande pour des services supplémentaires, par exemple pour bénéficier des fonctionnalités de « remontée » et de « Dressing en Vitrine » de manière à offrir plus de visibilité à vos articles sur la Plateforme, nous collecterons et utiliserons les données suivantes :
+
+Informations relatives à votre profil ;
+Services supplémentaires que vous avez achetés ;
+Articles que vous avez sélectionnés pour des services supplémentaires ;
+Durée des services supplémentaires ;
+Date et heure des services supplémentaires que vous avez achetés ;
+Prix des services supplémentaires ;
+Informations sur les paiements ;
+Factures ;
+Statistiques de vos articles lors de l’utilisation des services supplémentaires.
+L’exécution d’un contrat (votre commande de fonctionnalités supplémentaires dans le cadre des CG) auquel vous avez souscrit constitue la base juridique pour la collecte et l’utilisation des données (art. 6 (1) (b) du RGPD).
+
+Pour conclure un contrat (CG) avec vous, nous aurons besoin de vos données à caractère personnel. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de conclure et d’exécuter un contrat (CG) avec vous.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.2.9. Afin de suggérer un prix lorsqu’une annonce est créée pour un article
+Si vous choisissez de créer une annonce pour un article sur la Plateforme, nos algorithmes analyseront son prix, ainsi que la catégorie, la marque et l’état de l’article. Nous utiliserons ensuite ces informations pour vous montrer des photos et des prix d’articles similaires vendus au cours des trois derniers mois afin de vous aider à déterminer le prix de vente de votre article.
+
+Si le prix de vente que vous avez choisi est plus élevé que ceux de la gamme de prix des articles similaires vendus sur la Plateforme au cours des trois derniers mois, Vinted vous donnera également des conseils sur la gamme de prix recommandée à considérer.
+
+Notre intérêt légitime à aider nos membres à choisir le bon prix pour leurs articles constitue la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Pour atteindre la fonctionnalité susmentionnée, nous collectons et utilisons les photos et les prix des articles vendus au cours des 3 derniers mois.
+
+Lorsque vous ajoutez vos articles, nous collectons et utilisons les informations utilisées pour analyser vos articles pendant toute la durée du processus d’ajout de l’article. Lorsque vous vendez des articles, nous collectons et utilisons les données mentionnées ci-dessus pendant 3 mois après la vente de l’article.
+
+2.2.10. Afin d'activer les notifications relatives à vos articles favoris
+Si vous marquez comme favori un article ajouté par un autre membre sur la Plateforme, Vinted vous tiendra informé(e) lorsque son prix aura été réduit ou lorsqu’il aura été vendu. Pour cela, nous collecterons et utiliserons les données suivantes :
+
+Titre de l’article favori ;
+Photo de l’article favori ;
+Vendeur de l’article favori ;
+Prix de l’article favori ;
+Informations sur la vente ou non de l’article favori ;
+Informations sur le prix réduit.
+L’intérêt légitime de nos membres et de Vinted à faciliter les ventes sur la Plateforme constitue la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.2.11. Afin de notifier les vendeurs lorsque vous marquez leurs articles comme favoris
+Si vous marquez un article de la Plateforme comme favori, Vinted en informera le vendeur en conséquence.
+
+L’intérêt légitime de nos membres et de Vinted à faciliter les ventes sur la Plateforme constitue la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Vous pouvez désactiver les notifications susmentionnées en vous connectant à la Plateforme et en modifiant les paramètres pertinents dans les paramètres de confidentialité.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.2.12. Afin de vous permettre de suivre d’autres membres
+Si un membre auquel vous êtes abonné(e) ajoute un nouvel élément sur la Plateforme, nous vous en informerons.
+
+Votre consentement constitue la base juridique desdites collecte et utilisation (art. 6 (1) (a) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.2.13. Afin d'améliorer notre Plateforme
+Vinted s’engage à vous offrir la Plateforme la plus performante qui soit. Lorsque la plateforme est utilisée, Vinted collecte des informations sur les actions qui y sont effectuées (clics de bouton, heures de visite, lecture de notifications, autres informations relatives à une étude de cas en particulier) et les autres données décrites aux sections 2.1, 2.2, 2.5, 2.6 et 5 de la présente Politique de confidentialité afin de nous aider à prendre des décisions sur la façon d’améliorer la Plateforme et d’en faire une expérience optimale pour nos membres.
+
+Notre intérêt légitime à maintenir la performance et à améliorer la Plateforme constitue la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.2.14. Afin de mener à bien des enquêtes
+Nous sommes en permanence à la recherche de moyens pour améliorer votre expérience d’utilisation sur Vinted. C’est la raison pour laquelle nous pourrions vous inviter à participer à une enquête et utiliser vos commentaires. À cette fin, nous collectons et utilisons les données suivantes :
+
+Votre identifiant utilisateur ;
+Votre sexe ;
+Votre âge ;
+L’endroit où vous résidez ;
+Vos réponses à nos questions (par exemple, votre satisfaction à l’égard de la Plateforme, vos besoins concernant la Plateforme, les problèmes que vous rencontrez en utilisant la Plateforme).
+Notre intérêt légitime à recevoir les commentaires de nos membres et à les utiliser pour améliorer la Plateforme constitue la base juridique pour vous inviter à participer à l’enquête (art. 6 (1) (f) du RGPD, art. 13 (2) de la directive 2002/58/CE du Parlement européen et du Conseil du 12 juillet 2002 concernant le traitement des données à caractère personnel et la protection de la vie privée dans le secteur des communications électroniques (directive relative à la vie privée et aux communications électroniques) et art. 81 (2) de la loi lituanienne sur les communications électroniques).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+Si vous souhaitez participer à l’enquête, les informations ci-dessus seront collectées en fonction de votre consentement (art. 6 (1) (a) du RGPD).
+
+Pour nos enquêtes, nous utilisons le prestataire de services Widgix Limited (Royaume-Uni, considéré par la Commission européenne comme sûr en termes de protection des données).
+
+Nous rendrons vos réponses anonymes après 1 an – cela signifie que les réponses ne vous seront plus associées.
+
+2.2.15. Afin de mener à bien des entretiens
+Afin de comprendre les besoins de nos utilisateurs et d’améliorer votre expérience sur la Plateforme, nous menons à bien des entretiens sur site ou en ligne avec vous. À cette fin, nous collectons et utilisons les données suivantes :
+
+Votre identifiant utilisateur ;
+Votre sexe ;
+Votre âge ;
+Vos intérêts ;
+L’enregistrement de votre entretien ;
+Autres données soumises volontairement par vos soins au cours de l’entretien.
+Notre intérêt légitime à recevoir les commentaires de nos membres et à les utiliser pour améliorer la Plateforme (art. 6 (1) (f) du RGPD) constitue la base juridique pour vous inviter à participer à l’entretien sur site.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+Si vous souhaitez participer à l’entretien, les informations ci-dessus seront collectées sur la base de votre consentement (Art. 6 (1) (a) du RGPD).
+
+Nous rendrons vos réponses anonymes après 3 ans – cela signifie que les réponses ne vous seront plus associées.
+
+2.2.16. Afin de vous permettre de partager votre parcours utilisateur
+Nous améliorons constamment notre Plateforme et cherchons des moyens pour améliorer votre expérience d’utilisation sur Vinted. Dans le cas où vous donnez votre consentement, nous vous permettons de partager votre parcours utilisateur à travers notre Plateforme. Nous collecterons et utiliserons les données suivantes :
+
+Votre identifiant utilisateur ;
+Vos coordonnées ;
+La date et l’heure de l’enquête ;
+La catégorie à laquelle vous êtes affecté(e) (par exemple, nouveau membre de notre Plateforme) ;
+Votre enregistrement d’écran ;
+Votre enregistrement vocal ;
+Votre enregistrement vidéo.
+Notre intérêt légitime à recevoir les commentaires de nos membres et à les utiliser pour améliorer la Plateforme constitue la base juridique pour vous inviter à participer au partage de votre parcours utilisateur (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+Si vous souhaitez participer à l’enquête, les informations ci-dessus seront collectées sur la base de votre consentement (art. 6 (1) (a) du RGPD).
+
+Nous rendrons vos réponses anonymes après 3 mois – cela signifie que les réponses ne vous seront plus associées.
+
+2.2.17. Afin de mener à bien la traduction automatique du contenu
+Afin que le contenu soit disponible dans la langue préférée de nos membres, nous avons intégré une solution de traduction automatique à la Plateforme. Nous collectons et utilisons les données suivantes, si vous ou d’autres membres souhaitez une traduction :
+
+Les informations que vous avez fournies dans le champ « À propos de moi ».
+Les descriptions de l’article ;
+Les avis ;
+Les messages.
+À des fins de traduction automatique, Vinted utilise les services fournis par Google LLC (États-Unis), qui est établi en dehors de l’Espace économique européen. Dans ce cas, les données à caractère personnel sont protégées par le prestataire de services qui s’engage à respecter les clauses contractuelles types de l’UE pour transférer les données, telles qu’approuvées par la Commission européenne.
+
+L’intérêt légitime de Vinted et de ses membres à rendre la Plateforme plus pratique et plus facile à comprendre pour nos membres, constitue la base juridique desdites collection et utilisation de vos données à caractère personnel (Art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin pendant 2 semaines après la fin de la transaction.
+
+ 
+
+2.3. Afin de veiller à la sécurité de votre compte et de la Plateforme
+ 
+
+Vinted s’efforce de veiller à ce que les comptes de nos membres et de la Plateforme elle-même soient sécurisés et protégés des cyberattaques, des accès non autorisés et d’autres risques connexes.
+
+2.3.1. Afin de suivre le nombre de visites sur la Plateforme à des fins de sécurité
+Lorsque vous consultez, vous inscrivez ou vous connectez sur le Site internet ou l’Application, nous recueillons et utilisons les données suivantes : 
+
+nom d’utilisateur
+numéro d’identification de l’utilisation ou du visiteur
+adresse e-mail
+adresse IP de votre appareil
+navigateur utilisé par votre appareil
+contenu et URL auxquels vous vous connectez
+informations sur la session
+En cas d’accès via des appareils mobiles, les fichiers log suivants sont également capturés dans le cadre de votre utilisation de l’Application Vinted :
+
+modèle et fabricant de votre appareil mobile
+système d’exploitation utilisé par votre appareil mobile (iOS, Android, etc.)
+Ces données sont utilisées à des fins de sécurité, en particulier pour éviter les cyberattaques de type capture de données, dénis de service et attaques par déni de service distribué, ainsi que les applications et actions multiples interdites.
+
+Notre intérêt légitime à protéger la Plateforme et à assurer sa sécurité et l’intérêt légitime de nos membres à assurer la sécurité de leurs comptes sur la Plateforme constituent la base juridique desdits recueil et utilisation (art. 6 (1) (f) du RGPD).
+
+Les données à caractère personnel recueillies et utilisées à cette fin sont conservées pendant 3 mois.
+
+2.3.2. Afin de vous aider à ne pas utiliser un mot de passe compromis
+Si vous décidez de vous inscrire à l’aide d’un mot de passe ou si vous décidez ultérieurement de changer votre mot de passe, nous le comparerons à ceux d’une base de données de mots de passe compromis au cours de précédentes violations de données qui se sont produites sur d’autres plateformes et services. Afin d'activer cette fonctionnalité, nous prenons le mot de passe, nous le hachons et utilisons ensuite les 5 premiers caractères du hachage sur « Have I Been Pwned » (https://haveibeenpwned.com/) pour effectuer une recherche dans la base de données de mots de passe compromis.
+
+Grâce à cette vérification, nous pouvons protéger votre compte en confirmant si vous utilisez un mot de passe qui n'est pas connu pour avoir été compromis.
+
+Notre intérêt légitime à protéger la Plateforme et à assurer sa sécurité, et l’intérêt légitime de nos membres à assurer la sécurité de leurs comptes sur la Plateforme constituent la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons des données à caractère personnel à cette fin uniquement pendant la durée nécessaire pour effectuer la vérification du mot de passe.
+
+2.3.3. Afin de vous permettre de réinitialiser votre mot de passe
+Si vous avez oublié votre mot de passe ou si vous décidez de le modifier pour d’autres raisons et que vous n’avez pas accès à votre e-mail, nous pouvons vous demander de répondre à quelques questions de sécurité afin de vérifier votre identité. À cette fin, nous collecterons et utiliserons les données suivantes :
+
+Adresse e-mail ;
+Date de naissance ;
+Date d’inscription ;
+Informations sur la dernière transaction ;
+Notre intérêt légitime à protéger la Plateforme, et à assurer sa sécurité et l’intérêt légitime de nos membres à assurer la sécurité de leurs comptes sur la Plateforme constituent la base juridique desdites collecte et utilisation de vos données à caractère personnel (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.3.4. Afin de vérifier votre compte en cas d’actions suspectes liées à celui-ci
+Si nous détectons des actions considérées comme suspectes par Vinted sur votre compte, nous vous demanderons d’effectuer une vérification de base : confirmer vos comptes e-mail, Facebook ou Google. Aux fins de l’exécution d’une vérification de base, nous collecterons et utiliserons les données suivantes :
+
+Adresse e-mail ; ou
+Informations reçues au cours de l’authentification via Facebook ou Google (comme décrit dans la section 2.1.2 ci-dessus).
+Notre intérêt légitime à protéger la Plateforme et à assurer sa sécurité, et l’intérêt légitime de nos membres à assurer la sécurité de leurs comptes sur la Plateforme constituent la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.3.5. Afin d'effectuer une vérification du numéro de téléphone et une vérification en 2 étapes
+Si vous décidez d’appliquer une couche supplémentaire de protection à votre compte et d’activer la vérification par téléphone, nous utiliserons votre numéro de téléphone afin d’activer cette fonctionnalité. Notre intérêt légitime à offrir à nos utilisateurs des mesures supplémentaires pour protéger leur compte constitue la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Vous pouvez également être invité(e) à vérifier votre téléphone en cas d’activités suspectes concernant votre compte. Dans ce cas, la vérification est obligatoire et la collecte et l’utilisation de données à caractère personnel sont basées sur l’exécution d’un contrat (CG) auquel vous avez souscrit (art. 6 (1) (b) du RGPD).
+
+Lorsque vous vérifiez votre numéro de téléphone, Vinted collectera et utilisera votre numéro de téléphone à des fins de vérification en 2 étapes.
+
+Les données à caractère personnel sont nécessaires pour la vérification obligatoire pour effectuer un contrat (CG) avec vous. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de conclure et d’exécuter un contrat (CG) avec vous.
+
+Afin d’effectuer la vérification du numéro de téléphone et la vérification en 2 étapes, nous utilisons le prestataire de services Vonage Holdings Corp. (États-Unis) qui nous permet de vous envoyer des messages de vérification ou de passer des appels de vérification pour dicter le code de vérification lorsque vous n’avez pas vérifié votre numéro de téléphone dans les 5 minutes. Bien que cela se traduise par le partage de vos données en dehors de l’Espace économique européen, celles-ci sont protégées par le prestataire de services qui s’engage à respecter les clauses contractuelles types de l’UE pour transférer les données conformément à ce qui a été approuvé par la Commission européenne.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.3.6. Afin d'effectuer une vérification de sécurité de la source de paiement
+Dans le cadre du processus de sécurité, nous demandons à nos membres de fournir une vérification de leur source de paiement. Afin d’effectuer lesdites vérifications de sécurité, Vinted collecte et utilise les données à caractère personnel suivantes :
+
+Nom d’utilisateur ;
+Lorsque nous effectuons une vérification de sécurité d’une carte bancaire, à savoir les informations contenues sur une photo de la carte bancaire : prénom, nom, date d’expiration de la carte et les quatre derniers chiffres du numéro de la carte, et les autres informations visibles sur le devant de la carte si le membre choisit de ne pas la couvrir ;
+Lorsque nous effectuons une vérification de sécurité d’un compte bancaire, à savoir les informations contenues sur une photo/capture d’écran du relevé bancaire énumérant les frais les plus récents : date et description des derniers frais liés à Vinted et autres informations de paiement si le membre choisit de ne pas les flouter.
+Notre intérêt légitime à protéger la Plateforme et à assurer sa sécurité, et l’intérêt légitime de nos membres à assurer la sécurité de leurs comptes sur la Plateforme constituent la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Les données à caractère personnel collectées et utilisées à cette fin sont conservées pendant 4 jours après la vérification de sécurité.
+
+2.3.7. Afin d'effectuer une vérification de sécurité du compte PayPal
+Dans le cadre du processus de sécurité, nous demandons à nos membres de vérifier la propriété de leurs comptes PayPal, lorsqu’il n’y avait pas de frais réels. Dans le cadre de ce processus, Vinted collecte et utilise les données suivantes :
+
+Nom d’utilisateur ;
+Adresse e-mail d’inscription ;
+Informations contenues sur la/les capture(s) d’écran du profil PayPal : nom complet, adresse et autres données visibles du titulaire du compte.
+Dans le cadre du processus de sécurité, nous demandons également à nos membres qui utilisent PayPal de vérifier la propriété de leurs comptes PayPal. Dans le cadre de ce processus, Vinted collecte et utilise les données suivantes :
+
+Nom d’utilisateur ;
+Adresse e-mail d’inscription ;
+Informations contenues sur la/les capture(s) d’écran du relevé détaillé des commandes Vinted les plus récentes : date, montant, nom complet du titulaire du compte, adresse de livraison et autres données visibles.
+Notre intérêt légitime à protéger la Plateforme et à assurer sa sécurité, et l’intérêt légitime de nos membres à assurer la sécurité de leurs comptes sur la Plateforme constituent la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Les données à caractère personnel collectées et utilisées à cette fin sont conservées pendant 4 jours après la vérification de sécurité.
+
+2.3.8. Pour éviter les paiements frauduleux
+Afin de garantir la sécurité des paiements sur la plateforme et de faire respecter nos CG, nous pouvons être amenés à vérifier les paiements dans le but de détecter tout signe d’activité frauduleuse, telle que l’utilisation non autorisée d’une carte de crédit/débit ou des informations relatives au paiement, les fausses transactions, etc.
+
+Si nous venons à découvrir de tels paiements, nous prenons les mesures appropriées, conformément à ce qui est indiqué dans nos CG, qui peuvent inclure un examen approfondi de la transaction, l’annulation du paiement, voire le blocage du compte du membre associé.
+
+Afin de détecter et d’annuler les paiements suspects, nous pouvons être amenés à utiliser des outils entièrement automatisés. Ce faisant, nous pouvons prévenir les activités frauduleuses de manière efficace et opportune, et ainsi protéger nos membres de tout préjudice. Nous utilisons des moyens pour garantir un taux de précision élevé et l’exactitude de nos outils automatisés, y compris des examens manuels des décisions automatisées.
+
+Les catégories de données suivantes sont utilisées pour prévenir les paiements frauduleux, y compris pour prendre les décisions automatisées de détection et d’annulation des transactions suspectes :
+
+Données relatives à la carte de crédit/débit ;
+Données relatives à la transaction ;
+Données relatives à l’inscription ;
+Données relatives à la session ;
+Données relatives à l’activité sur la Plateforme ;
+Données relatives à la livraison ;
+Données relatives à la sécurité.
+L’exécution d’un contrat (CG) auquel vous avez souscrit constitue la base juridique pour lesdites collecte et utilisation de vos données (art. 6(1)(b) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin pendant 2 ans après la procédure de vérification du paiement.
+
+2.3.9. Afin de nous assurer que des annonces sont conformes à notre Politique d’Authenticité
+Pour certaines annonces, nous collectons et utilisons les données suivantes afin de nous assurer que ces annonces sont conformes à notre Politique d’authenticité :
+
+Informations fournies dans l’annonce (voir la section 2.1.5 ci-dessus) ;
+Informations relatives à l’authenticité de l’article : par exemple, photographies du reçu, du certificat, de l’étiquette, du logo, du motif, des coutures, de l’emballage d’origine, du code relatif à la date, du code d’authenticité ou de toute autre information pertinente permettant de démontrer l’authenticité de l’article.
+Notre intérêt légitime à protéger la Plateforme et nos membres contre d’éventuelles contrefaçons constitue la base juridique d’une telle collecte et d’une telle utilisation de vos données à caractère personnel (Article 6 (1) (f) du RGPD).
+
+Vinted peut être amenée à avoir recours au prestataire de services Real Authentication, Inc. (États-Unis) afin de vérifier si certains articles publiés dans les annonces sur Vinted semblent être authentiques ou non. Real Authentication, Inc. (États-Unis) étant basée en dehors de l’Espace économique européen, toute donnée à caractère personnel traitée par ce prestataire de services est protégée par l’adhésion de celui-ci aux clauses contractuelles types de l’UE relatives au transfert des données, telles qu’approuvées par la Commission européenne.
+
+Nous pouvons partager des photos d’annonces et d’autres preuves d’authenticité, sans vos données à caractère personnel, avec les titulaires de marques, afin de vérifier certains articles.
+
+Les données à caractère personnel collectées et utilisées à cette fin sont conservées pendant 2 ans dès lors qu’elles sont nécessaires aux fins de résoudre un litige entre nos utilisateurs.
+
+2.3.10. Afin de mener à bien une vérification relative à la propriété du compte
+Dans le cadre du processus de sécurité, nous pouvons être amenés à demander à nos membres de vérifier la propriété de leurs comptes Vinted. Afin de confirmer votre identité, nous aurons besoin de l’une des preuves suivantes :
+
+Une photo/capture d’écran de votre relevé bancaire indiquant votre/vos récents débit(s) sur Vinted ;
+Une photo/capture d’écran du relevé détaillé PayPal des commandes Vinted les plus récentes : la date, le montant total, l’adresse de livraison et le nom complet du titulaire du compte doivent être visibles) ;
+Un justificatif de domicile : il peut s’agir d’une facture de services publics datant de 3 mois au maximum et indiquant votre nom et votre adresse actuelle (p. ex., facture de gaz, d’électricité, d’eau, de téléphone fixe, mais pas de téléphone portable), ou d’une photo/capture d’écran de votre relevé bancaire où votre adresse de facturation est visible ;
+Une photo de la carte bancaire que vous avez utilisée pour régler vos achats sur Vinted (le nom complet du titulaire de la carte, les 4 derniers chiffres, la date d'expiration, le nom de la banque, le type de carte, ainsi qu'une note manuscrite avec votre nom d'utilisateur et la date du jour doivent être visibles sur la photo).
+Notre intérêt légitime à protéger la Plateforme, et à assurer sa sécurité et l’intérêt légitime de nos membres à assurer la sécurité de leurs comptes sur la Plateforme constituent la base juridique desdites collecte et utilisation de vos données à caractère personnel (art. 6 (1) (f) du RGPD).
+
+Les données à caractère personnel collectées et utilisées à cette fin sont conservées pendant 3 ans à compter de la date de réception de la preuve.
+
+2.3.11. Afin de vous permettre de signaler un comportement ou un contenu inapproprié
+Si vous décidez de signaler un message inapproprié, une activité sur le forum, un membre, un article, un message indésirable ou frauduleux ou soumettre un rapport relatif à la violation de la propriété intellectuelle, nous recueillerons et utiliserons les données suivantes dans le but d’assurer la sécurité de la plateforme et de ses membres :
+
+Le contenu signalé ;
+Le motif du signalement ;
+Les informations fournies dans le rapport ;
+La date et l’heure de votre signalement.
+Notre intérêt légitime à protéger la Plateforme, et à assurer sa sécurité et l’intérêt légitime de nos membres à assurer la sécurité de leurs comptes sur la Plateforme constituent la base juridique desdites collecte et utilisation de vos données à caractère personnel (art. 6 (1) (f) du RGPD).
+
+Nous recueillerons et utiliserons vos données personnelles à cette fin pour une durée de 14 mois à compter de la date de réception de votre signalement.
+
+2.3.12. Afin de signaler les publications à caractère suicidaire
+Dans des cas exceptionnels, lorsque nous remarquons des publications à caractère suicidaire sur notre plateforme, nous pouvons les signaler à la police. Dans de tels cas, nous collecterons, utiliserons et divulguerons les données suivantes dans le but de signaler les publications à caractère suicidaire :
+
+Nom d’utilisateur ;
+Adresse e-mail ;
+Nom complet ;
+Adresses IP et dernières connexions ;
+Numéro de téléphone (s’il est vérifié) ;
+Impression écran/lien vers la publication du forum ou du fil d’actualité où la déclaration de suicide apparaît.
+La protection de vos intérêts vitaux constitue la base juridique desdites collecte et utilisation (art. 6 (1) (d) du RGPD).
+
+Nous recueillerons et utiliserons vos données personnelles à cette fin pour une durée de 7 mois après vous avoir informé de notre décision relative à la suppression du contenu signalé.
+
+ 
+
+2.4. Afin de superviser le respect et l’application des CG
+ 
+
+Vinted supervise activement le respect et l’application des CG dans le but d’assurer la sécurité de votre compte et de la Plateforme.
+
+2.4.1. Afin de calculer le score de confiance
+Afin d’assurer la sécurité de la Plateforme et de ses membres, Vinted attribue à chaque membre un « score de confiance » calculé à l’aide d’un algorithme, et conserve une base de données des activités frauduleuses généralement perpétrées par des acteurs malveillants. Le « score de confiance » indique la probabilité d’une utilisation illégale de la Plateforme.
+
+Notre algorithme prend en compte les commentaires des membres sur un forum, les messages à d’autres membres, les articles proposés sur la Plateforme, les transactions, les rapports sur le membre par d’autres membres, le profil et les coordonnées du membre, les violations de nos CG par le membre, les adresses IP, les empreintes du navigateur, et d’autres contenus que le membre nous fournit.
+
+Lorsque l’évaluation du membre atteint certains seuils, Vinted peut déclencher une procédure de vérification (le membre est invité à vérifier son numéro de téléphone, son e-mail ou ses comptes Google ou Facebook) ou restreindre l’utilisation de la Plateforme.
+
+Notre intérêt légitime à protéger la Plateforme et ses utilisateurs et à assurer sa sécurité, et l’intérêt légitime de nos membres à assurer leur sécurité sur la Plateforme constituent la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.4.2. Pour identifier et prévenir les comptes et activités malveillants
+Afin d’assurer la sécurité de la plateforme et de ses membres, Vinted collecte et maintient une base de données de mots-clés indiquant les comptes et activités malveillants. Cette base de données peut contenir des e-mails, certains mots ou phrases trouvés dans les messages et d'autres données pertinentes. En comparant l'activité des membres avec les mots-clés de la base de données, nous pouvons identifier et prévenir plus efficacement les mauvais acteurs.
+
+Notre intérêt légitime à protéger la Plateforme et ses utilisateurs et à assurer sa sécurité, et l’intérêt légitime de nos membres à assurer leur sécurité sur la Plateforme constituent la base juridique desdites collecte et utilisation (Art. 6 (1) du RGPD).
+
+Les entrées de la base de données contenant des données à caractère personnel sont conservées pendant 13 mois.
+
+2.4.3. Afin de faire respecter le filtrage des courriers indésirables (spam)
+Afin de protéger nos membres et la Plateforme, nous utilisons des outils de filtrage des courriers indésirables. Ces outils contiennent une liste de mots clés qui sont généralement associés aux courriers indésirables. Si vos messages incluent les mots clés susmentionnés, ils sont stoppés par lesdits outils et examinés manuellement avant d’être envoyés à d’autres membres.
+
+Notre intérêt légitime à protéger la Plateforme et ses utilisateurs et à assurer sa sécurité, et l’intérêt légitime de nos membres à assurer leur sécurité sur la Plateforme constituent la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.4.4. Afin de modérer votre activité sur la Plateforme
+Afin d’assurer la sécurité de la Plateforme et de ses membres, nous modérons régulièrement votre activité sur la Plateforme. Nous pouvons vérifier vos annonces de manière automatique ou encore vérifier vos annonces, commentaires et messages lorsque nous recevons les rapports d’autres membres ou de tiers.
+
+Si vous communiquez avec un autre membre Vinted par l’intermédiaire de messages privés et que vous ou un autre membre nous envoyez un rapport ou transférez des informations sur une transaction, nous collectons et utilisons les informations contenues dans votre communication afin de traquer une violation potentielle de nos CG.
+
+Notre intérêt légitime à protéger la Plateforme et ses utilisateurs et à assurer sa sécurité, et l’intérêt légitime de nos membres à assurer leur sécurité sur la Plateforme constituent la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.4.5. Afin d'émettre et faire respecter des avertissements
+Si, en tant que membre, vous violez nos CG ou prenez d’autres mesures qui donnent lieu à la réception d’un avertissement, nous collectons et utilisons les données suivantes pour émettre et faire respecter l’avertissement :
+
+Nom d’utilisateur ;
+Type d’avertissement reçu par le membre ;
+Date de réception de l’avertissement par le membre.
+Notre intérêt légitime à protéger la Plateforme et ses utilisateurs et à assurer sa sécurité, et l’intérêt légitime de nos membres à assurer leur sécurité sur la Plateforme constituent la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.4.6. Pour supprimer ou masquer du contenu illégal ou allant à l’encontre de nos Termes et conditions 
+Si vous publiez du contenu (annonces, description de profil message, etc.) illégal ou allant à l’encontre de nos Termes et conditions sur notre Plateforme, nous serons dans l’obligation de le supprimer ou de le masquer. Cependant, nous conserverons le contenu supprimé en tant que preuve de violation de nos Termes et conditions.
+
+La base juridique pour recueillir et utiliser ces données est l’exécution d’un contrat (Termes et conditions) auquel vous avez souscrit (Art. 6 (1) (b) du RGPD) ou, le cas échéant, la conformité aux obligations légales auxquelles Vinted est soumis (Art. 6 (1) (c) du RGPD).
+
+Le contenu supprimé sera conservé pour une durée de 7 mois à compter de la décision relative à la suppression.
+
+2.4.7. Afin de détecter et de verrouiller les comptes compromis
+Afin de protéger nos membres et la Plateforme, nous vérifions régulièrement les activités suspectes afin de détecter les comptes compromis. Si nous déterminons que votre compte pourrait être compromis ou si nous recevons votre demande, nous pouvons être amenés à verrouiller votre compte.
+
+Notre intérêt légitime à protéger la Plateforme et ses utilisateurs, et à assurer sa sécurité et l’intérêt légitime de nos membres à assurer leur sécurité sur la Plateforme constituent la base juridique desdites collecte et utilisation de vos données à caractère personnel (Art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif. Si votre compte est successivement bloqué puis débloqué, nous conserverons vos données pendant une durée de 2 ans après le blocage de votre compte. Si votre compte reste bloqué de manière permanente, nous conservons vos données pendant une durée de 5 ans à compter de votre dernière activité sur la plateforme.
+
+2.4.8. Afin de suspendre des membres
+Si vous envoyez trop de messages dans un court laps de temps, vous pouvez être suspendu(e) pendant une durée allant de 1 à 6 heure(s). À cette fin, Vinted collecte et utilise le temps et la durée de la suspension.
+
+Notre intérêt légitime à protéger la Plateforme et ses utilisateurs et à assurer sa sécurité, et l’intérêt légitime de nos membres à assurer leur sécurité sur la Plateforme constituent la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.4.9. Pour bloquer les comptes des membres et faire respecter le blocage
+En fonction de votre utilisation de la Plateforme, et comme expliqué dans nos CG, votre compte peut être bloqué, de manière temporaire ou permanente.
+
+Vinted peut utiliser des outils entièrement automatisés pour ce blocage de compte lorsqu’il s’agit d’assurer l’intégrité de la Plateforme et la fourniture de services sécurisés. Cette automatisation est nécessaire pour que Vinted puisse gérer efficacement la sécurité sur la Plateforme et éviter de nuire aux autres membres.
+
+Les catégories de données utilisées pour prendre la décision sont les suivantes :
+
+Données d’inscription ;
+Votre activité sur la Plateforme ;
+Informations sur la session ;
+Informations fournies dans les annonces ;
+Données de communication ;
+Vos paramètres et préférences.
+Nous établissons des profils d’utilisateurs nuisibles, tels que des escrocs, des vendeurs proposant des articles contrefaits et des utilisateurs trompant nos services d’expédition sur la base de critères identifiés par Vinted, notamment à la suite de signalements d’utilisateurs nuisibles. Les outils automatisés détectent automatiquement les profils nuisibles, ce qui conduit à la décision de bloquer les comptes concernés. Vinted utilise des moyens pour assurer un taux de précision élevé et l’exactitude de son système de blocage automatisé, y compris des examens manuels. Les effets du blocage sont décrits dans nos CG.
+
+L’exécution d’un contrat (CG) auquel vous avez souscrit constitue la base juridique pour lesdites collecte et utilisation de vos données (art. 6 (1) (b) du RGPD).
+
+Nous collectons et utilisons vos données à caractères personnel pour prendre la décision du blocage de votre compte jusqu’à la suppression de votre compte Vinted.
+
+Lorsque votre compte est bloqué, nous recueillons et utilisons les données suivantes pour exécuter le blocage :
+
+Les données de votre compte ;
+Les données relatives au blocage de votre compte, par exemple le motif, la date et l’heure du blocage.
+Notre intérêt légitime à protéger la Plateforme et ses utilisateurs, et à assurer sa sécurité et l’intérêt légitime de nos membres à assurer leur sécurité sur la Plateforme constituent la base juridique desdites collecte et utilisation de vos données à caractère personnel (Art. 6 (1) (f) du RGPD). Pour exécuter le blocage, nous collectons et utilisons vos données à caractère personnel pendant la durée du blocage, c’est-à-dire jusqu’à 14 jours ou 7 mois à partir du moment où vous avez été bloqué(e).
+
+2.4.10. Afin de faire respecter les adresses IP bloquées
+Nous collecterons, utiliserons et bloquerons votre adresse IP si elle présente des signes de cyberattaques ou d’autres risques pour la sécurité de la Plateforme, et ce afin de protéger la Plateforme.
+
+Notre intérêt légitime à protéger la Plateforme et ses utilisateurs et à assurer sa sécurité, et l’intérêt légitime de nos membres à assurer leur sécurité sur la Plateforme constituent la base juridique desdites collecte et utilisation (art. 6 (1) (f) du RGPD).
+
+Les données à caractère personnel collectées et utilisées à cette fin sont conservées pendant 3 mois.
+
+2.4.11. Pour limiter l’utilisation frauduleuse des instruments de paiement 
+S’il existe des signes d’activité frauduleuse en lien avec votre instrument de paiement (par exemple, carte de crédit/débit), nous collecterons et utiliserons votre instrument de paiement et les données relatives à la transaction pour protéger la Plateforme en limitant l’utilisation de votre instrument de paiement.
+
+Notre intérêt légitime à protéger la Plateforme et ses utilisateurs et à assurer sa sécurité, et l’intérêt légitime de nos membres à assurer leur sécurité sur la Plateforme constituent la base juridique desdites collecte et utilisation (Art. 6 (1) du RGPD).
+
+Les données à caractère personnel collectées et utilisées à cette fin sont conservées pendant la durée des restrictions appliquées.
+
+2.4.12. Vérification de la propriété présumée d’un compte pour mineur
+La Plateforme n'étant pas destinée à être utilisée par des personnes âgées de moins de 18 ans (T&Cs), leurs parents/tuteurs peuvent soumettre un rapport indiquant qu'un compte appartient à un mineur et nous demander de bloquer ledit compte.
+
+À cet effet, un parent/tuteur doit fournir les informations suivantes :
+
+Le nom complet du parent ou du tuteur ;
+Le nom d'utilisateur, le nom complet et l'âge du titulaire du compte (qui est vraisemblablement un mineur) ;
+Une preuve de l'autorité parentale (c'est-à-dire un nom de famille identique ou l’autorité pour représenter le mineur dans une relation contractuelle particulière).
+Une fois ces éléments reçus, nous contacterons le titulaire du compte et lui demanderons une preuve de son identité et de son âge. Nous vérifierons ensuite si ces données correspondent aux informations fournies par le parent/tuteur.
+
+Une copie des documents suivants peut servir de preuve d'identité pour vérifier si le titulaire du compte est mineur :
+
+Carte d’identité ou de résidence ;
+Passeport ;
+Permis de conduire ;
+Carte d’étudiant ;
+Carte d’assurance maladie ;
+Carte de transport en commun ;
+Relevé bancaire.
+Il est possible de masquer les informations personnelles contenues dans les documents qui ne sont pas nécessaires à la vérification de l'âge (p. ex. numéro d'identification, photo, adresse, etc.)
+
+La base juridique de la collecte et de l'utilisation des données d'un parent/tuteur est notre intérêt légitime à vérifier la propriété présumée d'un compte pour mineur et à assurer le respect de nos T&Cs (Art. 6 (1) (f) du RGPD).
+
+La base juridique de la collecte et de l'utilisation des données du titulaire du compte est l'exécution d'un contrat (conformité avec nos T&Cs) auquel vous êtes partie (Art. 6 (1) (b) du RGPD).
+
+Les données personnelles collectées et utilisées à cette fin sont conservées pendant une durée de 2 ans. Les copies des documents qui ont été transmises sont supprimées dans les 3 jours suivant leur réception.
+
+ 
+
+2.5. Afin de vous permettre de payer des articles
+ 
+
+Les paiements sur la Plateforme sont effectués par l’intermédiaire de prestataires de services de paiement qui fournissent des services de traitement des paiements et d’entiercement.
+
+Nous avons besoin de la plupart de vos données à caractère personnel pour conclure un contrat (CG) avec vous. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de conclure et d’exécuter un contrat (CG) avec vous (art. 6 (1) (b) du RGPD). Une partie de vos données est nécessaire afin de satisfaire aux obligations légales de nos prestataires de services de paiement lorsque vous êtes membre de notre Plateforme (art. 6 (1) (c) du RGPD). Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ou nos prestataires de services de paiement ne serons pas en mesure de nous conformer aux exigences légales et nous ne serons pas en mesure de fournir nos services.
+
+Ces données sont également utilisées pour améliorer la Plateforme afin que nous puissions offrir une meilleure expérience à nos membres (voir 2.2.12).
+
+2.5.1. Afin de vous permettre d’effectuer un achat ou d’ajouter une carte bancaire à des fins de paiement
+Lorsque vous ajoutez une carte bancaire ou achetez un article ou des services supplémentaires via la Plateforme, nous collectons et utilisons les données suivantes dans le but de vous permettre d’effectuer des paiements :
+
+Nom complet ;
+Les six premiers et les quatre derniers chiffres de votre numéro de carte bancaire ;
+Date d’expiration.
+Lorsque vous ajoutez une carte bancaire ou achetez un article ou des services supplémentaires via la Plateforme, le prestataire de services de paiement (veuillez consulter les sections 2.5.3 ci-dessous) reçoit les données suivantes :
+
+Le prénom et le nom du titulaire de la carte bancaire ;
+Le numéro de carte bancaire ;
+Date d’expiration ;
+Code de sécurité (CVV/CVC).
+L’exécution d’un contrat (conforme aux CG) auquel vous avez souscrit constitue la base juridique pour la collecte et l’utilisation des données (art. 6 (1) (b) du RGPD).
+
+Pour conclure un contrat (CG) avec vous, nous aurons besoin de vos données à caractère personnel. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de conclure et d’exécuter un contrat (CG) avec vous.
+
+Si vous acceptez, nous conserverons les détails de votre carte bancaire pour l’utilisation future.
+
+Votre consentement constitue la base juridique desdites collecte et utilisation (art. 6 (1) (a) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.5.2. Afin de vous permettre d’ajouter un compte bancaire à des fins de retrait
+Lorsque vous ajoutez un compte bancaire à des fins de retrait, nous collectons et utilisons les données suivantes dans le but de vous permettre de retirer de l’argent :
+
+Le prénom et le nom du titulaire du compte ;
+Numéro de compte ;
+Adresse.
+L’exécution d’un contrat (conforme aux CG) auquel vous avez souscrit constitue la base juridique pour la collecte et l’utilisation des données (art. 6 (1) (b) du RGPD).
+
+Pour conclure un contrat (CG) avec vous, nous aurons besoin de vos données à caractère personnel. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de conclure et d’exécuter un contrat (CG) avec vous.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.5.3. Afin de vous permettre de payer et de recevoir des paiements sur notre Plateforme
+Si vous choisissez de payer un vendeur ou des services supplémentaires par carte bancaire, par PayPal, Google Pay, Apple Pay ou par tout autre moyen de paiement intégré à la Plateforme, ou si vous utilisez d’autres services sur la Plateforme pour lesquels des frais sont appliqués, la transaction en question sera collectée et utilisée via notre système de paiement électronique, MANGOPAY (voir nos CG), qui est géré par MANGOPAY S.A. (Luxembourg) (ci-après « MANGOPAY »). Afin d’utiliser MANGOPAY, vous devez fournir les informations suivantes, qui seront transférées à MANGOPAY :
+
+Vos nom et prénom ;
+L’adresse de facturation.
+Si vous utilisez le système de paiement électronique MANGOPAY, MANGOPAY collectera les informations de paiement requises en fonction du mode de paiement choisi (p. ex. carte bancaire, PayPal, Google Pay, Apple Pay ou autre). Le paiement sera ensuite effectué via MANGOPAY et le détenteur ou le facilitateur du moyen de paiement que vous aurez sélectionné. Les règles de protection des données de MANGOPAY et le détenteur ou le facilitateur du moyen de paiement que vous aurez sélectionné seront alors appliqués. Pour de plus amples informations sur la procédure de paiement, veuillez consulter l’Article 7 de nos CG.
+
+Si vous utilisez une carte bancaire comme mode de paiement, Vinted verra uniquement les nom et prénom du titulaire de la carte, les six premiers et les quatre derniers chiffres de votre numéro de carte bancaire et la date d’expiration. Nous utiliserons ces informations pour confirmer le paiement, et à des fins de sécurité.
+
+Si vous achetez un article auprès d’un Utilisateur Pro, vos données à caractère personnel à cette fin seront traitées conjointement par Vinted et l’Utilisateur Pro. Vinted est responsable de la collecte des données à caractère personnel nécessaires pour qu’un Utilisateur Pro puisse identifier les transactions, et du transfert desdites données à l’Utilisateur Pro. Veuillez consulter la section 4 de la présente Politique de confidentialité pour de plus amples informations sur le contrôle conjoint.
+
+En outre, si vous êtes un vendeur sur Vinted et que vous souhaitez recevoir des paiements de la part d’acheteurs par le biais du système de paiement électronique susmentionné pour l’achat de vos produits, vous devrez créer un portefeuille électronique avec MANGOPAY (désigné sur la Plateforme comme un « Solde Vinted »). Pour ce faire, vous devrez nous fournir les données suivantes :
+
+Le prénom et le nom du titulaire du compte ;
+Nationalité ;
+Sa date de naissance ;
+L’adresse de facturation.
+Dans le cadre de la création d'un porte-monnaie Vinted et de l'utilisation du système de paiement électronique MANGOPAY, MANGOPAY agit en tant que responsable de traitement des données. Vous pouvez en savoir plus sur la façon dont MANGOPAY collecte et utilise vos données en consultant la politique de confidentialité de MANGOPAY, accessible à l’adresse suivante : www.mangopay.com/privacy-statement.
+
+Dans la mesure où Vinted collecte et traite vos données, la base juridique pour ce faire est l'exécution d'un contrat (conformité avec nos CGV) auquel vous êtes partie (Art. 6 (1) (b) du GDPR).
+
+Ces données personnelles sont nécessaires à l'exécution d'un contrat (CGV) avec vous. Si vous ne fournissez pas ces données, nous ne serons pas en mesure d'exécuter un contrat (CGV) avec vous.
+
+Nous collectons et traitons vos données personnelles jusqu'à la désactivation de votre compte Vinted, ou jusqu’à 5 ans à compter de votre dernière activité sur votre compte.
+
+2.5.4 Pour permettre les dons
+Lorsque vous effectuez un don via notre Plateforme, nous collectons et utilisons les données suivantes dans le but de vous permettre d’effectuer le don :
+
+Montant du don ;
+Date et heure du don ;
+Nom de l’organisation qui reçoit le don.
+Notre intérêt légitime à apporter de la valeur à nos membres en leur donnant les moyens de soutenir leurs causes constitue la base juridique desdites collecte et utilisation (Art. 6 (1) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.5.5. Afin d’activer les vérifications « Know Your Customer » (KYC) sur notre Plateforme
+Dès que vous atteignez les plafonds KYC fixés par MANGOPAY, MANGOPAY vous demandera de fournir une copie de votre passeport, carte d’identité ou permis de conduire, y compris le permis provisoire. Dans ce cas, nous autoriserons MANGOPAY à collecter auprès de vous les données suivantes afin de permettre à MANGOPAY, en tant que prestataire de services de paiement, d’effectuer une vérification d'identité (intitulé « Know Your Customer » (connaissance du client, KYC) :
+
+Nom complet ;
+Date de naissance ;
+Pays ;
+Adresse ;
+Informations présentes sur le document fourni (la liste exacte dépend du document fourni) : numéro du document, photo, sexe, nationalité, date d’émission, date d’expiration, lieu de naissance, code personnel, signature, autres informations sur un document particulier ;
+Nom complet du représentant légal ou organisationnel (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Date de naissance du représentant légal ou organisationnel (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Adresse du représentant légal ou organisationnel (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Carte d’identité du représentant légal ou organisationnel (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Adresse de l’entreprise (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Numéro de SIRET (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Preuve d’enregistrement (uniquement lorsque vous êtes un Utilisateur Pro) ;
+Statut de la société (uniquement lorsque vous êtes un Utilisateur Pro).
+Dans le cadre de la réalisation des contrôles KYC, MANGOPAY agit en tant que responsable de traitement des données. Vous pouvez en savoir plus sur la manière dont MANGOPAY collecte et traite vos données en consultant la politique de confidentialité de MANGOPAY, accessible à l'adresse suivante : www.mangopay.com/privacy-statement.
+
+Vinted a mis en œuvre l’API de MANGOPAY, une mesure technique qui vous permet de soumettre une copie de votre document et d’autres données à MANGOPAY sans quitter la plateforme. Toutes les copies des documents sont directement acheminées vers notre prestataire de paiement, MANGOPAY, sans être sauvegardées sur les systèmes de Vinted.
+
+Cela est nécessaire pour répondre à notre intérêt légitime de fournir à MANGOPAY les informations nécessaires pour que celle-ci se conforme aux obligations légales auxquelles elle est soumise (art. 6 (1) (f) du RGPD).
+
+2.5.6. Afin de mener à bien les vérifications de personnes politiquement exposées (PPE) sur notre Plateforme
+Dans de rares cas, des informations supplémentaires peuvent être nécessaires pour pouvoir continuer à utiliser Vinted. Lorsque vous avez beaucoup de transactions sur notre Plateforme, notre fournisseur de paiement MANGOPAY peut nous demander d’effectuer d’autres contrôles dans le cadre de mesures de lutte contre le blanchiment d’argent et le financement du terrorisme. Dans ce cas, nous collectons et utilisons les données à caractère personnel suivantes fournies dans un relevé concernant les personnes politiquement exposées (PPE) :
+
+Nom complet ;
+Date et lieu de naissance ;
+Pays de résidence ;
+Adresse ;
+Numéro de téléphone ;
+Adresse e-mail ;
+Fonction exercée et pays où la fonction est exercée ;
+Origine des fonds utilisés sur la Plateforme ou destination des fonds ;
+Informations relatives aux membres de la famille qui sont des PPE (lien avec les PPE, noms complets, dates et lieux de naissance) ;
+Emploi actuel ;
+Date ;
+Signature.
+Ceci est nécessaire afin de satisfaire notre intérêt légitime à fournir à MANGOPAY les informations nécessaires au respect des obligations légales auxquelles MANGOPAY est soumise (Art. 6 (1) (f) du GDPR).
+
+Les données à caractère personnel collectées et utilisées aux fins susmentionnées sont conservées jusqu’à ce que ces informations soient transférées à notre prestataire de services de paiement MANGOPAY.
+
+Dans le cadre de la réalisation des contrôles PPE, MANGOPAY agit en tant que responsable de traitement des données. Vous pouvez en savoir plus sur la manière dont MANGOPAY collecte et traite vos données en consultant la politique de confidentialité de MANGOPAY, accessible à l'adresse suivante : www.mangopay.com/privacy-statement.
+
+2.5.7. Afin d'effectuer des remboursements
+Si un article que vous achetez n’est jamais expédié, arrive endommagé ou n’est pas conforme à la description et que vous faites une réclamation, nous collectons et utilisons les données utilisées pour effectuer un achat (consulter les sections 2.5.1 ci-dessus) dans le but de procéder à un remboursement.
+
+L’exécution d’un contrat (CG) auquel vous avez souscrit constitue la base juridique pour la collecte et l’utilisation des données (art. 6 (1) (b) du RGPD).
+
+Pour conclure un contrat (CG) avec vous, nous aurons besoin de vos données à caractère personnel. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de conclure et d’exécuter un contrat (CG) avec vous.
+
+Les données sur les transactions sont conservées pendant 13 mois à partir du jour de la transaction.
+
+2.5.8. Afin de transférer vos informations vers un Utilisateur Pro
+Si vous achetez un article auprès d’un Utilisateur Pro, nous collectons et transférons votre adresse e-mail vers l’Utilisateur Pro directement afin que celui-ci puisse remplir son obligation qui consiste à vous émettre une facture.
+
+Nous devons procéder ainsi afin de répondre à nos attentes légitimes qui consistent à fournir à l’Utilisateur Pro les informations qui lui sont nécessaires pour se conformer à l’obligation légale (d’émettre une facture) à laquelle il est soumis (Art. 6 (1) (f) du RGPD).
+
+Vos données personnelles à cette fin seront traitées conjointement par Vinted et l’Utilisateur Pro. Vinted est responsable de la collecte des données à caractère personnel et de leur transfert vers l’Utilisateur Pro. Veuillez consulter la section 4 de la présente Politique de confidentialité pour de plus amples informations sur le contrôle conjoint.
+
+2.5.9. Afin de tenir des registres financiers
+Si vous participez à l’achat-vente et/ou à d’autres transactions lorsque vous utilisez la Plateforme, Vinted collectera et utilisera les données suivantes afin d’exécuter ses tâches comptables :
+
+Nom complet ;
+Nom d’utilisateur ;
+Adresse ;
+Numéro d’identification TVA (le cas échéant) ;
+Numéro de compte bancaire ;
+Adresse IP ;
+Données de facturation ;
+Informations de paiement ;
+Indemnités ;
+Annulations de paiement ;
+Informations d'expédition.
+Cela est nécessaire pour se conformer aux obligations légales auxquelles Vinted est soumise (art. 6 (1) (c) du RGPD).
+
+Les réglementations financières nous obligent à conserver les documents comptables qui confirment les transactions pendant 10 ans. Les données utilisées pour déterminer l'emplacement des transactions sont conservées pendant 4 ans.
+
+ 
+
+2.6. Afin de permettre la livraison d’articles achetés sur la Plateforme
+ 
+
+Vinted s’efforce de rendre la livraison des articles achetés sur la Plateforme aussi facile et pratique que possible, en proposant différentes méthodes de livraison sur la Plateforme.
+
+Nous avons besoin de la plupart de vos données à caractère personnel pour conclure un contrat (CG) avec vous. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de conclure et d’exécuter un contrat (CG) avec vous.
+
+Ces données sont également utilisées pour améliorer la Plateforme afin que nous puissions offrir une meilleure expérience à nos membres (voir 2.2.12).
+
+2.6.1. Afin de vous permettre d’expédier ou de recevoir des articles
+Si vous choisissez de saisir vos informations de livraison ou lorsque vous achetez ou vendez des articles, nous collectons et utilisons les données suivantes que vous fournissez à des fins d'expédition et d’envoi :
+
+Nom complet ;
+Pays ;
+Ville ;
+Adresse ;
+Code postal ;
+Numéro de téléphone ;
+Adresse e-mail ;
+Signature ;
+Adresse du point de livraison du colis ;
+Numéro de suivi du colis ;
+Confirmation de la livraison du colis ;
+Autres informations de livraison requises par un prestataire de services de transport particulier.
+L’exécution d’un contrat (CG) auquel vous avez souscrit constitue la base juridique pour la collecte et l’utilisation des données (art. 6 (1) (b) du RGPD).
+
+Pour conclure un contrat (CG) avec vous, nous aurons besoin de vos données à caractère personnel. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de conclure et d’exécuter un contrat (CG) avec vous.
+
+Si vous achetez un article auprès d’un Utilisateur Pro, vos données à caractère personnel à cette fin seront traitées conjointement par Vinted et l’Utilisateur Pro. Vinted est responsable de la collecte des données à caractère personnel et de leur transfert vers l’Utilisateur Pro ou, en cas de recours à des prestataires de services de livraison intégrée, de leur transfert vers un prestataire de services de livraison intégrée. Veuillez consulter la section 4 de la présente Politique de confidentialité pour de plus amples informations sur le contrôle conjoint.
+
+Nous fournissons des données à caractère personnel collectées et utilisées à cette fin aux destinataires suivants :
+
+Vendeur de l’article ;
+Si nous ne sommes pas en mesure de collecter des informations de suivi directement auprès d’un prestataire de transport particulier, nous utilisons le prestataire de services de suivi AfterShip Limited (Hong Kong, Chine). Les données à caractère personnel sont protégées par le prestataire de services qui s’engage à respecter les clauses contractuelles types de l’UE pour transférer les données telles qu’approuvées par la Commission européenne.
+Si le prestataire de transport choisi intègre ses services d’expédition aux services de Vinted, nous lui fournissons également les données susmentionnées (lire plus : https://shipping.vinted.com/privacy-policy-fr).
+Dans le cas contraire, le vendeur est tenu de suivre les instructions et de fournir vos données au prestataire de transport.
+
+Les données à caractère personnel collectées et utilisées à cette fin sont conservées pendant 6 mois.
+
+2.6.2. Afin de suivre votre colis
+Lorsque vous achetez ou vendez des articles sur la Plateforme, nous collectons et utilisons les données suivantes à des fins de suivi des livraisons :
+
+Date et heure de livraison du colis ;
+Numéro de suivi du colis ;
+Adresse ;
+Emplacement du colis.
+Si nous ne sommes pas en mesure de collecter des informations de suivi directement auprès d’un prestataire de transport particulier, nous fournissons les informations de suivi susmentionnées au prestataire de services de suivi AfterShip Limited (Hong Kong, Chine). Les données à caractère personnel sont protégées par le prestataire de services qui s’engage à respecter les clauses contractuelles types de l’UE pour transférer les données telles qu’approuvées par la Commission européenne.
+
+L’exécution d’un contrat (CG) auquel vous avez souscrit (art. 6 (1) (b) du RGPD) constitue la base juridique pour la collecte et l’utilisation des données.
+
+Pour conclure un contrat (CG) avec vous, nous aurons besoin de vos données à caractère personnel. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de conclure et d’exécuter un contrat (CG) avec vous.
+
+Les données à caractère personnel collectées et utilisées à cette fin sont conservées pendant 6 mois.
+
+ 
+
+2.7. Afin de mener à bien des activités marketing
+ 
+
+Vinted cherche à impliquer ses membres dans des campagnes marketing avantageuses pour ces derniers. De même, nous souhaitons vous présenter du matériel marketing à la fois pertinent et attrayant.
+
+2.7.1. Afin de pouvoir vous envoyer des e-mails marketing
+Vous pouvez vous inscrire à notre newsletter et à d’autres e-mails marketing (« e-mails marketing »). Lorsque vous vous inscrivez, nous vous demandons l’autorisation d’utiliser votre adresse e-mail afin de vous envoyer des e-mails marketing contenant les toutes dernières informations sur nos produits et services, en particulier en ce qui concerne les marchandises disponibles sur la Plateforme, les offres spéciales et des campagnes marketing. Si vous ne donnez pas votre consentement lors de votre inscription, vous pouvez à tout moment changer d’avis et accepter de recevoir des e-mails marketing en modifiant les paramètres de votre compte Vinted.
+
+Nous basons lesdites collecte et utilisation sur votre consentement (art. 6 (1) (a) du RGPD, art. 81(1) de la loi lituanienne sur les communications électroniques).
+
+Vous pouvez donner et retirer votre autorisation concernant l’envoi d’e-mails marketing à tout moment, avec effet futur. Sur votre compte Vinted, vous pouvez ajuster vos paramètres afin de choisir les e-mails que vous souhaitez recevoir ou désactiver l’envoi de tout e-mail marketing à l'avenir. Alternativement, vous pouvez cliquer sur « Se désinscrire » à la fin de l’e-mail marketing. Le retrait de l’autorisation n’affectera pas la légalité de la collecte et de l’utilisation précédemment mises en œuvre.
+
+Afin d’envoyer des e-mails de marketing, Vinted utilise les services fournis par Braze, Inc. (États-Unis), qui est établi en dehors de l’Espace économique européen. Dans ce cas, les données à caractère personnel sont protégées par le prestataire de services qui s’engage à respecter les clauses contractuelles types de l’UE pour transférer les données, telles qu’approuvées par la Commission européenne.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.7.2. Pour personnaliser les communications marketing  
+Afin de vous montrer des publicités et des messages marketing plus pertinents sur notre Plateforme, nous pouvons les personnaliser en utilisant les données fournies lors de votre inscription (voir 2.1.1, 2.1.2 et 2.1.3), ainsi que les données liées à votre compte Vinted (voir 2.2), votre activité sur notre forum (voir 2.1.10), vos fichiers log (voir 2.3.1) et d'autres moyens (voir 2.7.7).
+
+Afin de personnaliser les messages marketing à votre intention, Vinted utilise les services fournis par Braze, Inc. (États-Unis), qui est établi en dehors de l’Espace économique européen. Dans ce cas, les données à caractère personnel sont protégées par le prestataire de services qui s’engage à respecter les clauses contractuelles types de l’UE pour transférer les données, telles qu’approuvées par la Commission européenne.
+
+Nous pouvons également utiliser vos données personnelles pour afficher des publicités Vinted personnalisées sur des plateformes tierces telles que Google, YouTube, Instagram ou Facebook. À cette fin, nous pouvons partager votre adresse e-mail, votre numéro de téléphone, votre adresse IP et votre identifiant Facebook avec Meta, Inc. (États-Unis) et votre adresse e-mail avec Google, Inc. (États-Unis). Dans ce cas, les données personnelles sont protégées par les plateformes tierces qui signent les clauses contractuelles types de l'UE relatives au transfert de données, telles qu'approuvées par la Commission européenne.
+
+Nous fondons cette collecte et cette utilisation sur notre intérêt légitime à vous présenter des messages marketing et des publicités que nous jugeons pertinents pour vous (art. 6 (1) (f) du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.7.3. Afin de vous contacter pour des opportunités publicitaires et/ou en matière de revenus
+Si vous vous inscrivez sur la Plateforme, nous pouvons vous contacter via le système de messagerie de la Plateforme pour vous proposer de partager votre contenu (p.ex. des photos) sur nos profils de réseaux sociaux, de participer à nos campagnes marketing, de partager vos coordonnées avec la presse ou pour toute autre opportunité publicitaire et/ou en matière de revenus. Cela nous permet de nous assurer que seuls les membres qui donnent leur consentement sont présentés sur nos profils de réseaux sociaux ou bénéficient d’opportunités publicitaires et/ou en matière de revenus.
+
+Nous basons lesdites collecte et utilisation sur notre intérêt légitime à augmenter votre publicité et celle de Vinted et/ou à vous fournir des possibilités de revenus (Art. 6 (1) (f) du RGPD).
+
+Si vous y consentez, nous pouvons vérifier les informations de votre profil afin de veiller à ce que seuls les membres qui ont une bonne réputation (c’est-à-dire qui respectent les CG) se voient proposer des opportunités publicitaires et/ou en matière de revenus par nos soins. La collecte et l’utilisation de vos données à caractère personnel à cette fin sont basées sur votre consentement (Art. 6 (1) (a) du RGPD).
+
+Si vous consentez à participer aux opportunités publicitaires et/ou en matière de revenus que nous proposons, la collecte et l’utilisation ultérieures de vos données à caractère personnel seront fondées sur votre consentement (Art. 6 (1) (a), du RGPD).
+
+Si vous consentez à participer aux opportunités publicitaires et/ou en matière de revenus que nous proposons, la collecte et l’utilisation ultérieures de vos données à caractère personnel seront fondées sur votre consentement (Art. 6 (1) (a), du RGPD).
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+Les messages eux-mêmes sont supprimés après 12 mois.
+
+2.7.4. Afin de mener des campagnes publicitaires vous impliquant
+Si vous consentez à participer à nos campagnes publicitaires, nous utiliserons votre numéro de téléphone pour vous contacter avec une proposition de participation et vous donnerons plus de détails sur le projet.
+
+Si vous signez un contrat avec Vinted lié à la campagne publicitaire, nous collecterons et utiliserons les données suivantes dans le but de remplir et d’exécuter un contrat entre vous et Vinted :
+
+Nom complet ;
+Date de naissance ;
+Nationalité ;
+Informations sur votre certificat d’entreprise ou votre activité professionnelle individuelle.
+Si vous fournissez votre adresse et des photos de votre intérieur, nous les utiliserons pour venir chez vous et filmer la publicité. Si vous donnez votre consentement, nous pouvons également inclure votre nom, votre âge, votre ville ou votre histoire dans les campagnes publicitaires.
+
+Nous basons votre invitation à participer à nos campagnes publicitaires sur notre intérêt légitime à accroître la publicité à propos de vous et de Vinted (Art. 6 (1) (f) du RGPD). Si vous acceptez, votre participation à notre campagne publicitaire sera fondée sur un contrat entre Vinted et vous (Art. (6) (1) (b), du RGPD).
+
+Ces données peuvent être transférées à nos partenaires (agences de publicité, administrateurs) qui sont responsables de la mise en œuvre de la campagne publicitaire.
+
+Les données à caractère personnel de votre participation à notre campagne publicitaire sont nécessaires pour exécuter un contrat avec vous. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de conclure et d’exécuter un contrat avec vous.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.7.5. Afin de présenter vos articles lors de campagnes marketing
+Si vous ne retirez pas votre consentement, les données de vos articles publiés (comme les photos, les titres, les descriptions et les catégories) sont susceptibles d'être utilisées, de même que tout autre contenu que vous créez sur la plateforme et ce, dans le but de vous aider à vendre vos articles et/ou de promouvoir Vinted. Il peut s'agir de mettre en valeur votre contenu sur diverses plateformes en ligne (telles que des bannières et des articles sur des sites Web tiers), sur les réseaux sociaux (comme Facebook, Instagram, etc.) et sur d'autres canaux. Vous pouvez à tout moment mettre fin à l'utilisation de votre contenu dans le cadre de campagnes marketing en retirant votre consentement dans les paramètres de confidentialité de votre compte.
+
+Nous basons cette collecte et notre utilisation sur notre intérêt commercial légitime d'accroître la visibilité de vos articles et/ou de Vinted (Art. 6 (1) (f) du RGPD).
+
+Pour présenter votre contenu sur les canaux mentionnés, nous partageons vos données avec des destinataires pertinents tels que les fournisseurs de services publicitaires, les opérateurs des plateformes de réseaux sociaux, etc.
+
+Il peut arriver que vos données soient transférées en dehors de l'Espace économique européen. Dans ces cas précis, les données à caractère personnel sont protégées par les exploitants qui s'engagent à respecter les clauses contractuelles types de l'UE pour transférer les données ou à se conformer aux décisions en matière d'adéquation, toutes deux approuvées par la Commission européenne.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu'à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif. Si vous choisissez de retirer votre consentement, nous cesserons d'utiliser vos données à cette fin dès lors que vous aurez pris cette décision.
+
+2.7.6. Afin de vous permettre de voir des publicités personnalisées
+Avec votre consentement, Vinted permettra à ses partenaires de services publicitaires de collecter votre adresse IP et/ou l’identifiant de votre appareil mobile, de placer leurs cookies sur vos appareils et d’utiliser ensuite ces données afin de personnaliser les publicités qui vous sont présentées. Cela signifie qu’avec votre consentement, vous recevrez des publicités en fonction de vos intérêts et de votre activité sur la Plateforme. A savoir, les partenaires de services publicitaires collecteront et utiliseront les données suivantes :
+
+L’adresse IP de la connexion ;
+L’identifiant de l’appareil mobile ;
+L’identifiant de publicité ;
+Informations sur les sites Web consultés par le visiteur (liste des pages et des produits consultés, sélectionnés, mis dans le panier ou acheté sur la Plateforme) ;
+URL des pages consultées par le visiteur (« référant »), URL de la page précédente consultée par le visiteur ;
+Informations techniques relatives au navigateur, au type d’appareil et à la version du système d’exploitation du visiteur (« agent utilisateur ») ;
+Marque temporelle (date, heure) ;
+Les informations à propos de possibles relations parmi les différents navigateurs et les appareils ;
+Autres informations collectées par un prestataire de services publicitaires spécifique.
+La base juridique pour effectuer ceci est l’art. 61(4) de la loi lituanienne sur les communications électroniques. Dans la mesure où il s’agit de données à caractère personnel, nous basons lesdites collecte et utilisation sur votre consentement (art. 6 (1) (a) du RGPD).
+
+Vous pouvez, à tout moment, choisir de ne pas recevoir de marketing et de publicités personnalisés en changeant les paramètres concernés sur la Plateforme. Le retrait de l’autorisation n’affectera pas la légalité de la collecte et de l’utilisation précédemment mises en œuvre.
+
+Afin de permettre à nos prestataires de services de vous montrer des publicités personnalisées, nous fournissons vos données aux partenaires qui fournissent des services publicitaires personnalisés.
+
+À cette fin, les informations sont collectées par les partenaires de services publicitaires et ne sont pas stockées par Vinted.
+
+2.7.7. Afin d'évaluer l’efficacité des campagnes promotionnelles
+Lorsque vous utilisez la Plateforme, Vinted analyse ses activités marketing et la façon dont vous utilisez la Plateforme (lorsque vous vous inscrivez, vous connectez, créez une annonce, vendez ou achetez quelque chose, téléchargez la photo d’un article, ouvrez notre Application, enregistrez ou installez l’application, etc.) afin d’évaluer l’efficacité des campagnes promotionnelles et de mieux comprendre le comportement des visiteurs lorsqu’ils ont regardé une certaine annonce et consulté notre plateforme ou téléchargé notre Application.
+
+Nous basons cette collecte et notre utilisation sur notre intérêt commercial légitime d’évaluer l’efficacité de nos campagnes promotionnelles afin de les améliorer (art. 6 (1)(f) du RGPD).
+
+Afin d’effectuer l’évaluation susmentionnée, Vinted fournit vos données aux prestataires de services qui fournissent des services d’évaluation de l’efficacité des campagnes promotionnelles.
+
+Notre prestataire de services, Braze, Inc. (États-Unis), est établi en dehors de l’Espace économique européen. Dans ce cas, les données à caractère personnel sont protégées par le prestataire de services qui s’engage à respecter les clauses contractuelles types de l’UE pour transférer les données, telles qu’approuvées par la Commission européenne.
+
+Afin d’optimiser nos campagnes publicitaires, nous envoyons certaines informations sur vos activités, telles que celles concernant vos applications ouvertes, vos sessions, vos inscriptions, vos connexions, les informations concernant vos ajouts d’articles, vos téléchargements de photos pour des articles ou vos achats d’articles, etc. sur les plateformes publicitaires de Google et de Facebook. Ainsi, nous transférons les données de vos activités aux destinataires suivants :
+
+Meta Platforms, Inc. (États-Unis). Les données à caractère personnel sont protégées par le prestataire de services qui s’engage à respecter les clauses contractuelles types de l’UE pour transférer les données telles qu’approuvées par la Commission européenne ;
+Google LLC (États-Unis). Les données à caractère personnel sont protégées par le prestataire de services qui s’engage à respecter les clauses contractuelles types de l’UE pour transférer les données telles qu’approuvées par la Commission européenne ;
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.7.8. Afin de gérer nos profils de réseaux sociaux
+Si vous êtes intéressé(e) par notre activité et suivez nos profils sur les réseaux sociaux, nous collectons et utilisons les données suivantes vous concernant afin de gérer nos sites de réseautage social :
+
+Prénom et nom de famille ;
+Adresse e-mail ;
+Sexe ;
+Pays ;
+Photo ;
+Message ;
+Heure et date de réception du message ;
+Contenu du message ;
+Pièces jointes au message ;
+Réponse au message ;
+Temps de réponse au message ;
+Informations sur notre évaluation ;
+Commentaires sur une publication ;
+Partages de la publication ;
+Informations sur les réactions à la publication.
+Nous basons lesdites collecte et utilisation sur notre intérêt légitime de gérer nos profils de réseaux sociaux (art. 6(1) (f) RGPD).
+
+Afin de gérer nos comptes de réseaux sociaux, nous recevons et fournissons des données aux opérateurs de plateformes de réseaux sociaux suivants :
+
+Les exploitants des plateformes de réseaux sociaux suivants étant établis en dehors de l’Espace économique européen, vos données sont par conséquent susceptibles d’être transférées en dehors de l’Espace économique européen. Dans ces cas précis, les données à caractère personnel sont protégées par les exploitants qui s’engagent à respecter les clauses contractuelles types de l’UE pour transférer les données, telles qu’approuvées par la Commission européenne :
+
+LinkedIn Corporation (États-Unis) ;
+Google LLC (États-Unis) ;
+Meta Platforms, Inc. (États-Unis) ;
+Les données à caractère personnel collectées et utilisées à cette fin sont conservées tant que vous êtes inscrit sur un réseau social spécifique.
+
+Autorité de contrôle conjointe avec Facebook
+
+Vinted exploite une « page d'abonnés » sur la plateforme du réseau social Facebook. Facebook et Vinted sont uniquement responsables conjointement du traitement des données dites « données de Statistiques de Pages » (Art. 26 (1), première phrase, du RGPD) dans la mesure où ces données sont utilisées pour la création de ce que l’on appelle les « Statistiques de Pages et uniquement pour les phases de la collecte de données depuis la page des abonnés Vinted jusqu'à la transmission à Facebook. Eu égard au traitement des autres données, Vinted et Facebook sont responsables séparément du traitement des données.
+
+Dans le cadre de leur autorité de contrôle conjointe, Vinted et Facebook ont conclu un accord (dit « addendum au contrôleur des Statistiques de Pages »). L’accord concerne le traitement des données collectées et utilisées dans le cadre d’une consultation ou d’une interaction avec notre page d’abonnés, mais uniquement dans la mesure où ces données sont également traitées (ultérieurement) aux fins des « Statistiques de Pages ». Les « Statistiques de Pages » incluent des services d'analyse qui nous aident à mieux comprendre les interactions sur notre site. À cet égard, nous ne recevons aucune donnée à caractère personnel de la part de Facebook, mais uniquement une évaluation et une illustration anonymes. Facebook fournit de plus amples informations à ce sujet sur sa page d'aide dédiée aux « Statistiques de Pages ». Les informations concernant les données relatives aux « Statistiques de Pages » expliquent la façon dont les « données relatives aux statistiques de Pages » sont collectées et utilisées pour créer les « Statistiques de Pages ». Cela inclut les mesures ci-après :
+
+Le nombre de vues et d’interactions avec une page, une publication, une vidéo, une « story » ou tout autre contenu associé à une page ;
+L’abonnement ou le désabonnement à une page ;
+Les réactions ou une contribution à une page (par ex. « J’aime » ; recommandation, partage, commentaire, abonnement, etc.) ;
+Le fait de masquer une contribution à une page ou de la signaler comme indésirable ;
+Le fait de passer la souris sur un lien vers une page ou sur le nom ou la photo de profil d’une page pour afficher un aperçu du contenu de la page ;
+Le nombre de clics sur le site Web, le numéro de téléphone, le bouton « planification d’itinéraire » ou tout autre bouton sur une page ;
+Le nombre de vues d’un événement sur une page, de réactions à un événement (y compris le type de réaction), de clics sur un lien pour les billets concernant l’événement ;
+Le démarrage d’une discussion sur « messenger » avec la page ;
+Le nombre de vues ou de clics concernant des articles dans une boutique de site Web ;
+L’adresse IP ainsi que d’autres informations disponibles sur votre appareil sous forme de cookies.
+Le traitement des données relatives aux visiteurs de notre page d’abonnés a pour objectif de mettre la page à disposition et d’obtenir une évaluation statistique de l’utilisation de notre page. Cette évaluation est rendue anonyme pour Vinted. La base légale du traitement des données est l’article 6 (1)(f) du RGPD. Nos intérêts légitimes dans le traitement des données à caractère personnel lors de la visite du site et de la création des « Statistiques du site » consistent à présenter la société et la Plateforme et, par exemple, à contacter les membres et les parties intéressées, et à fournir des informations sur les produits et les promotions. Il s’agit également de la collecte de données pour la création d’évaluations et d’illustrations anonymes relatives à l’utilisation de notre page d’abonnés.
+
+Si vous souhaitez exercer vos droits concernant vos données (voir point 7. ci-après), il serait certainement plus efficace pour vous de prendre directement contact avec Facebook. Si vous avez besoin d'assistance dans l’exercice de vos droits, vous pouvez nous contacter. Conformément à notre accord, Facebook assume la responsabilité principale du respect des obligations relatives au traitement conjoint des « données de Statistiques de Pages ». Cela inclut la possibilité d’exercer les droits suivants :
+
+Le droit d’accès (Art. 15 du RGPD) ;
+Le droit à l’effacement ou droit à l’oubli (Art. 17 du RGPD) ;
+Le droit à a limitation du traitement (Art. 18 du RGPD) ;
+Le droit à la portabilité des données (Art. 20 du RGPD) ; et
+Le droit d’opposition (Art. 21 du RGPD).
+Facebook fournit de plus amples informations relatives à l’exercice de ces droits sur la page « Informations concernant les données de Statistiques de Pages ».
+
+Autorité de contrôle conjointe avec LinkedIn
+
+Vinted exploite une « page entreprise » sur la plateforme du réseau social LinkedIn. LinkedIn et Vinted ne sont que conjointement responsables (Art. 26 (1) phrase 1 du RGPD) du traitement de ce que l’on appelle les « données statistiques », qui nous permettent de recevoir des statistiques et des observations anonymisées sur la manière dont les visiteurs interagissent avec notre page. Eu égard au traitement des autres données, Vinted et LinkedIn sont responsables séparément du traitement des données.
+
+Dans le cadre de l’autorité de contrôle conjointe, Vinted et LinkedIn ont conclu un accord (dit « Addendum au contrôleur conjoint des statistiques de pages »), au sein duquel les obligations relatives à la protection des données sont partagées entre LinkedIn et Vinted. L’accord stipule ce qui suit :
+
+LinkedIn est chargé de vous permettre d’exercer vos droits conformément au RGPD. Pour ce faire, vous pouvez contacter LinkedIn en ligne via le lien suivant : https://www.linkedin.com/help/linkedin/ask/PPQ ou via les coordonnées figurant dans les directives relatives à la protection des données. Vous pouvez contacter le délégué à la protection des données de LinkedIn Irlande via le lien suivant : https://www.linkedin.com/help/linkedin/ask/TSO-DPO. Vous pouvez également nous joindre via les coordonnées mentionnées ci-dessous pour exercer vos droits relatifs au traitement de vos données à caractère personnel aux fins des statistiques. Dans ce cas, nous transmettrons votre demande à LinkedIn.
+LinkedIn et nous-mêmes avons convenu que la commission irlandaise de protection des données sera l’autorité de contrôle responsable de la surveillance du traitement des statistiques. Vous avez toujours le droit de déposer une plainte auprès de la commission irlandaise de protection des données (voir www.dataprotection.ie) ou de toute autre autorité de contrôle.
+Le traitement des données relatives aux visiteurs de notre page entreprise LinkedIn a pour objectif de mettre la page à disposition et d’obtenir une évaluation statistique de l’utilisation de notre page. Cette évaluation est rendue anonyme pour Vinted (LinkedIn ne partage pas de données à caractère personnel avec nous en nous fournissant les statistiques, nous avons uniquement accès à une version résumée des statistiques ; de même, nous ne sommes pas en mesure de tirer des conclusions sur les membres individuels à partir des informations contenues dans les statistiques). La base légale du traitement des données est l’Art. 6 (1) (f) du RGPD. Nos intérêts légitimes dans le traitement des données à caractère personnel lors de la visite du site et de la création des « Statistiques » consistent à présenter la société et la Plateforme et, par exemple, à contacter les membres et les parties intéressées, et à fournir des informations sur les produits et les promotions. Il s’agit également de la collecte de données pour la création d’évaluations et d’illustrations anonymes relatives à l’utilisation de notre page entreprise.
+
+2.7.9. Afin de vous permettre de participer au programme de parrainage de Vinted
+Si vous parrainez un(e) ou plusieurs ami(e)(s) sur la Plateforme de Vinted, vous pouvez remporter des chèques cadeau Vinted. Nous collecterons et utiliserons les données suivantes dans le but de vous permettre de participer au programme de parrainage de Vinted et de vous fournir un chèque cadeau Vinted :
+
+Votre nom de membre ;
+Votre lien de référence ;
+Les données du profil du membre invité ;
+La date et l’heure de l’inscription du membre invité ;
+Le nombre d’articles téléchargés par le membre invité ;
+La date et l’heure de téléchargement des articles ;
+Les informations sur la vente menée à terme d’articles ajoutés par le membre invité ;
+Le chèque cadeau ;
+Le montant du chèque cadeau ;
+L’expiration du chèque cadeau.
+L’exécution d’un contrat (CG) auquel vous avez souscrit (art. 6 (1) (b) du RGPD) constitue la base juridique pour la collecte et l’utilisation des données.
+
+Pour conclure un contrat (CG) avec vous, nous aurons besoin de vos données à caractère personnel. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de conclure et d’exécuter un contrat (CG) avec vous.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+ 
+
+2.8. À des fins légales
+ 
+
+2.8.1. Afin de traiter vos demandes liées aux données à caractère personnel
+Si vous utilisez vos droits statutaires concernant vos données (consulter la section 7 ci-dessous), nous collecterons et utiliserons les données contenues dans votre demande en plus de toute autre donnée à caractère personnel détenue par Vinted dans le but d’examiner la demande, d’y répondre et, le cas échéant, de prendre les mesures nécessaires.
+
+Afin de répondre à vos demandes, Vinted fournit vos données aux partenaires de service qui nous consultent en matière de législation sur la protection des données.
+
+Si vous interagissez avec un Utilisateur Pro, vos données à caractère personnel à cette fin seront traitées conjointement par Vinted et l’Utilisateur Pro. Vinted et l’Utilisateur Pro sont responsables de la collecte des données à caractère personnel et de leur transfert vers l’autre partie, ainsi que du traitement de toutes les autres données nécessaires à la résolution des problèmes à chaque phase. Veuillez consulter la section 4 de la présente Politique de confidentialité pour de plus amples informations sur le contrôle conjoint.
+
+Cela est nécessaire pour se conformer aux obligations légales auxquelles Vinted est soumise (art. 6 (1) (c) du RGPD).
+
+Les données à caractère personnel collectées et utilisées à cette fin sont conservées pendant 3 ans à partir du jour où nous répondons à votre demande.
+
+2.8.2. Afin de fournir des informations à la police et à d’autres institutions de l’État
+Si nous avons des motifs raisonnables de soupçonner que vous êtes impliqué dans des activités illégales ou si nous recevons l’ordre de la part d’une autorité publique (par exemple, exigeant que nous supprimions le contenu illégal que vous avez publié), nous recueillerons et utiliserons les données nécessaires afin de les signaler à la police et à d’autres institutions de l’État, ou afin d’exécuter l’ordre reçu.
+
+Vinted fournit également les données susmentionnées à la police et à d’autres institutions de l’État lorsqu’elle reçoit des demandes d’informations concernant les enquêtes menées par ces institutions.
+
+Cela est nécessaire pour se conformer aux obligations légales auxquelles Vinted est soumise (art. 6 (1) (c) du RGPD).
+
+Les données à caractère personnel sont nécessaires pour remplir nos obligations légales lorsque vous êtes membre de notre Plateforme. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de nous conformer aux exigences légales.
+
+Nous recueillerons et utiliserons vos données personnelles à cette fin aussi longtemps que l’exige la procédure judiciaire ou administrative en cours, mais pas au-delà de 3 mois à compter de la dernière réponse reçue des autorités compétentes (sauf dans le cas où une période de rétention est précisée par les autorités).
+
+2.8.3. Afin de déclarer tes gains et les informations te concernant en tant que contribuable
+Si tu atteins un certain nombre de ventes ou un certain volume de gains, nous sommes dans l’obligation de collecter et de déclarer tes gains et des informations te concernant en tant que contribuable aux autorités fiscales pertinentes de l’Union européenne. Il s’agit d’une exigence légale en vertu de la directive (UE) 2021/514 du Conseil du 22 mars 2021 (directive DAC7). 
+
+Pour plus d’informations, nous t’invitons à consulter notre Centre d’aide.
+
+Le cas échéant, nous collecterons et utiliserons les données suivantes à des fins de déclaration : 
+
+Nom complet
+Date de naissance
+Adresse
+Pays
+Nombre de ventes
+Montant des gains
+Coordonnées du compte bancaire et nom complet de son·sa titulaire
+Numéro d’identification fiscale (NIF)
+Lieu de naissance (si tu n’as pas de NIF)
+Frais, taxes et commissions de Vinted
+Numéro de TVA (uniquement si tu es vendeur·se Pro)
+Raison sociale (uniquement si tu es vendeur·se Pro)
+Code d’entreprise enregistré (uniquement si tu es vendeur·se Pro) 
+Adresse commerciale (uniquement si tu es vendeur·se Pro)
+Établissement stable (uniquement si tu es vendeur·se Pro)
+En outre, si vous êtes vendeur, les autorités fiscales peuvent également être amenées à nous demander de recueillir certaines données (telles qu'une copie de votre carte d'identité/passeport et/ou de votre certificat de résidence fiscale) afin de vérifier que les informations que nous leur avons fournies sont correctes.
+
+Ces informations sont nécessaires pour être conforme aux exigences légales auxquelles Vinted est soumis (art. 6 (1) (c) du RGPD).
+
+Si tu ne fournis pas ces informations avant la fin de l’année calendaire, nous ne serons pas en mesure de nous conformer aux obligations légales et ton accès à Vinted sera restreint :
+
+Tes annonces seront masquées ;
+Tu ne pourras plus effectuer de retraits à partir de ton porte-monnaie Vinted ; et/ou
+Tu ne pourras plus utiliser le solde de ton porte-monnaie Vinted pour régler tes achats.
+Les données personnelles collectées et utilisées à ces fins sont conservées pendant 5 ans à compter de la fin de la période de la déclaration qu’elles concernent.
+
+2.8.4. Afin de défendre nos droits par rapport aux rétrofacturations
+Si vous avez des transactions via nos prestataires de services de paiement, nous collecterons et utiliserons vos données à caractère personnel détenues par Vinted dans la mesure du nécessaire pour résoudre une situation particulière.
+
+Nous basons lesdites collecte et utilisation de vos données à caractère personnel sur un intérêt légitime à défendre nos droits dans le cas où une procédure de rétrofacturation serait engagée contre Vinted (Art. 6 (1) (f) du RGPD).
+
+Les données à caractère personnel collectées et utilisées à cette fin sont conservées pendant 13 mois à compter de la dernière transaction.
+
+2.8.5. Afin de se conformer à la loi française pour une République numérique
+Afin de vous afficher une version pertinente de notre Plateforme, qui est conçue pour se conformer à la loi française pour une République numérique, nous collectons vos données de localisation (pays), en fonction de votre adresse IP, afin de déterminer si vous êtes physiquement en France.
+
+Cela est nécessaire pour se conformer aux obligations légales auxquelles Vinted est soumise (art. 6 (1) (c) du RGPD).
+
+Les données à caractère personnel sont nécessaires pour remplir nos obligations légales lorsque vous êtes membre de notre Plateforme. Dans le cas où vous ne nous fournissez pas ces données à caractère personnel, nous ne serons pas en mesure de nous conformer aux exigences légales.
+
+Nous collectons et utilisons vos données à caractère personnel à cette fin jusqu’à la désactivation de votre compte Vinted ou pendant 5 ans à partir du moment où votre compte devient inactif.
+
+2.8.6. Afin de défendre les droits et les intérêts de Vinted
+Si vous êtes impliqué(e) dans un différend avec Vinted ou si nous devons procéder à l’exécution de nos CG ou autrement défendre, appliquer, exercer et faire respecter nos droits, nous collecterons et utiliserons toutes vos données à caractère personnel détenues par Vinted dans la mesure du nécessaire pour résoudre une situation particulière.
+
+Nous basons lesdites collecte et utilisation sur un intérêt légitime de défendre les droits et les intérêts de Vinted (art. 6 (1) (f) du RGPD).
+
+Les données à caractère personnel collectées et utilisées à cette fin sont conservées pendant 5 ans après que nous ayons identifié la nécessité de défendre nos droits et intérêts spécifiques, et, en cas de litige, jusqu’à l’exécution finale de la décision contraignante de l’organe autorisé.
+
+ 
+
+3. Bénéficiaires des données à caractère personnel
+ 
+
+Vinted transfère ou partage des données à caractère personnel avec des prestataires de services uniquement dans la mesure où cela est nécessaire et autorisé conformément à la législation en vigueur. Les prestataires de services vers lesquels vos données à caractère personnel sont transférées ou avec lesquels elles sont partagées à des fins spécifiques sont décrits à la section 2 ci-dessus. De plus, nous désignons les prestataires de services suivants qui, par conséquent, reçoivent des données à caractère personnel en tant que destinataires de données.
+
+Nous menons et améliorons constamment la maintenance technique de la Plateforme afin de protéger la sécurité et la confidentialité des données à caractère personnel que nous traitons et d’effectuer certaines fonctions liées à l’entreprise qui contribuent à rendre nos services disponibles et fonctionnels. Pour cette raison, nous transférons vos données de profil aux prestataires de services qui fournissent les services de cloud et d’hébergement, la sécurité informatique, la maintenance et les services techniques, et les services de communication :
+
+Les prestataires de services suivants étant établis en dehors de l’Espace économique européen, vos données sont par conséquent susceptibles d’être transférées en dehors de l’Espace économique européen. Dans ces cas précis, les données à caractère personnel sont protégées par les prestataires de services qui s’engagent à respecter les clauses contractuelles types de l’UE pour transférer les données, telles qu’approuvées par la Commission européenne :
+
+Amazon Web Services, Inc. (États-Unis) ;
+Google LLC (États-Unis) ;
+Apple Inc. (États-Unis) ;
+Microsoft Corporation (États-Unis) ;
+Slack Technologies, Inc. (États-Unis).
+BlackLine Systems, Inc. (États-Unis) ;
+Chronicle, LLC (États-Unis) ;
+True Partners Consulting, LLC (États-Unis) ;
+Arcaris, Inc. (États-Unis) ;
+Havas Edge, Inc. (États-Unis) ;
+Cloudflare, Inc. (États-Unis).
+Nous transférons des données à caractère personnel aux avocats, assistants d’avocats, notaires, huissiers de justice, commissaires aux comptes, comptables, agents de recouvrement, consultants, agences de traduction, prestataires de services informatiques, compagnies d’assurance et services d’archivage qui fournissent des services à Vinted.
+
+Par ailleurs, nous partageons des données au sein du groupe Vinted. Les données traitées au sein du groupe Vinted sont transférées à Vinted, UAB (Lituanie) dans la mesure nécessaire à la gestion du groupe Vinted.
+
+Vinted est légalement tenue de fournir des données à caractère personnel et/ou d’utilisation aux autorités en charge d'une enquête, de poursuites pénales ou de surveillance, si et dans la mesure où cela est nécessaire pour éviter les risques envers le public et pour la poursuite d’actes criminels.
+
+Vinted peut partager vos données avec des tiers lors du transfert des obligations et des droits relatifs à la relation contractuelle entre vous et Vinted à ces tiers, conformément aux CG (disponible via le lien www.vinted.fr/terms-and-conditions), en particulier dans le cas du transfert d’un secteur d’activité, d'une fusion par constitution d’une nouvelle société, d'une fusion par absorption, d'une scission ou de tout changement de contrôle qui concerne Vinted. Avant un tel événement, Vinted vous informera séparément sur les informations relatives au partage de vos données et obtiendra votre consentement lorsque cela est légalement nécessaire.
+
+ 
+
+4. Ce que vous devez savoir lorsque vous interagissez avec un Utilisateur Pro
+ 
+
+Contrôle conjoint de Vinted et de l’Utilisateur Pro – Base de l’accord
+
+Dans le cadre des sections 2.1.6, 2.1.7, 2.1.8, 2.1.9, 2.1.15, 2.5.3, 2.5.8, 2.6.1 et 2.8.1, vos données à caractère personnel à cette fin seront traitées conjointement par Vinted et l’Utilisateur Pro et vous êtes informé(e) du traitement des données par VINTED et les opérateurs de comptes commerciaux (« Utilisateurs Pro Vinted »), appelés les « responsables conjoints du traitement ». Cela signifie que VINTED et les utilisateurs Vinted Pro sont tous les deux responsables du respect de certaines obligations légales lorsqu’ils traitent des données à caractère personnel en tant que responsables conjoints du traitement. Il n’y a pas de contrôle conjoint pour tous les traitements de données, mais uniquement pour certains fins et certaines étapes de traitement, qui sont expliquées plus en détail dans chaque section de la présente Politique de confidentialité (voir 2.1.6, 2.1.7, 2.1.8, 2.1.9, 2.1.15, 2.5.3, 2.5.8, 2.6.1 et 2.8.1).
+
+Dans le cadre de la présente section, nous souhaitons vous informer de la base de l’accord sur les responsabilités conjointes auxquelles nous nous sommes engagés avec les utilisateurs Vinted Pro, conformément à la phrase 2 de l’Art. 26 (2) du RGPD. Dans la mesure où il existe deux responsables conjoints du traitement, nous souhaitons vous expliquer qui est responsable de quoi.
+
+Point de contact pour les questions et l’exercice des droits du sujet des données : si vous avez des questions ou souhaitez exercer l’un de vos droits relatifs à vos données, vous pouvez contacter le point de contact désigné (phrase 3 de l’Art. 26 (1) du RGPD) à l’adresse suivante : privacysupport@vinted.fr.
+En général, VINTED et les utilisateurs Vinted Pro sont tous les deux responsables du respect des obligations légales du RGPD. Bien que VINTED et les utilisateurs Vinted Pro conviennent de certaines responsabilités qui s’appliquent lorsque nous agissons en tant que responsables conjoints du traitement, VINTED est responsable de :
+
+vous servir de point de contact (phrase 3 de l’Art. 26 (1) du RGPD ;
+gérer la communication centralisée avec vous en ce qui concerne les droits relatifs à vos données (Art. 15, 16, 17, 18 et 20 du RGPD) ;
+vous fournir des informations sur le traitement des données (Art. 13 et 14 du RGPD) ;
+vous informer de la base de notre accord (phrase 2 de l’Art. 26 (2) du RGPD), ce que nous faisons dans la présente section ;
+vous informer des violations de données associées aux risques élevés relatifs à vos droits et libertés (Art. 34 (1) du RGPD), dans le cas où une telle violation de données se produit.
+Toutes les autres responsabilités énoncées par le RGPD sont respectées par VINTED et par les utilisateurs Vinted Pro. Ces autres responsabilités ne vous concernent généralement pas directement en tant que sujet des données. Il s’agit plutôt des obligations générales des responsables conjoints du traitement, telles que le maintien de mesures de sécurité et la conservation d’un dossier des activités de traitement. En ce qui concerne le traitement de données en dehors du champ d’application du contrôle conjoint, VINTED et les utilisateurs Vinted Pro sont indépendamment et séparément responsables et les informations fournies dans la présente section ne sont pas applicables.
+
+ 
+
+5. Utilisation de cookies
+ 
+
+Vinted utilise des cookies et des technologies similaires sur la Plateforme. Pour en savoir plus, consultez notre Politique d’utilisation des cookies.
+
+ 
+
+6. Droit d’amendement
+ 
+
+Dans la mesure où nous développons constamment nos services, nous nous réservons le droit de modifier la présente Politique de confidentialité à tout moment, sous réserve des règlements applicables. Toute modification sera publiée sur cette page dans les meilleurs délais. Indépendamment de ce qui précède, vous devrez consulter cette page régulièrement pour toute mise à jour.
+
+ 
+
+7. Vos droits statutaires concernant vos données à caractère personnel
+ 
+
+7.1. Quels sont vos droits ?
+ 
+
+Sous réserve des conditions, des restrictions et des exceptions établies par les dispositions légales en matière de protection des données, vous avez le droit à tout moment :
+
+d’être informé(e) des données que nous collectons et utilisons et de demander l’accès aux données concernées ou d’en exiger une copie (droit d’être informé(e)). Vous pouvez également accéder à toutes les données que vous nous avez directement fournies sur la Plateforme (consulter les sections 1, 2.5 et 2.6), à tout moment, sur votre compte Vinted ;
+d’exiger la correction de données inexactes et, sous réserve de la nature de la collecte et de l’utilisation, le renseignement de données incomplètes (droit de rectification). Vous pouvez également vous-même modifier l’ensemble des données que vous nous avez directement fournies sur la Plateforme (2.1, 2.5 et 2.6), à tout moment, sur votre compte Vinted (à l’exception des messages envoyés et des publications ou avis sur un forum) ;
+sous réserve d’une cause juste, d’exiger la suppression de vos données (droit de suppression);
+d’exiger la restriction de la collecte et de l’utilisation de vos données, à condition que les critères statutaires soient respectés (droit de restreindre le traitement);
+sous réserve des critères statutaires respectés, de recevoir les données que vous avez fournies sous une forme structurée, actuelle et lisible par une machine, et de transférer lesdites données à un autre processeur ou, lorsque cela est faisable d'un point de vue technique, de les faire transférer par Vinted (droit à la portabilité des données);
+de s’opposer à la collecte et à l’utilisation des données, uniquement lorsque lesdites collecte et utilisation sont fondées sur une tâche effectuée dans l’intérêt public ou dans l’exercice de l’autorité officielle conférée (art. 6 (1) (e) du RGPD) ou d’un intérêt légitime (art. 6 (1)f) du RGPD), notamment le profilage, selon les mêmes motifs de collecte et d’utilisation de données que ceux expliqués dans d’autres sections de la présente déclaration (droit de contester). Vous avez également le droit de vous opposer, à tout moment, à la collecte de vos données à caractère personnel à des fins de marketing direct ;
+de retirer à tout moment toute autorisation que vous nous avez fournie. Ledit retrait n’affectera pas la légalité de la collecte et de l’utilisation effectuées avant le retrait et sur la base de l’autorisation accordée. Vous pouvez retirer votre autorisation concernant l’envoi de notre newsletter en réglant les paramètres de votre compte Vinted afin de bloquer l’envoi de tout autre e-mail marketing. Alternativement, vous pouvez cliquer sur « Se désinscrire » à la fin de l’e-mail marketing ;
+lorsqu’une décision légale ou d’importance similaire vous concernant a été prise de manière totalement automatisée, d’obtenir une intervention humaine de la part de Vinted, d’exprimer votre point de vue et de contester la décision ;
+de ne pas être soumis(e) à un traitement discriminatoire pendant l’exercice de vos droits.
+Pour exercer un quelconque droit spécifié dans la présente section, vous pouvez contacter Vinted et soumettre votre demande en utilisant les coordonnées (consulter la section 8 ci-dessous). Indépendamment de tout autre recours juridique, vous avez également le droit à tout moment de soumettre une plainte auprès des autorités de surveillance.
+
+ 
+
+7.2. Comment vérifierons-nous votre demande ?
+ 
+
+Votre demande doit fournir suffisamment d’informations qui nous permettent de vérifier raisonnablement que vous êtes la personne ou le représentant autorisé de la personne dont nous avons collecté les données à caractère personnel (prénom, nom de famille, URL de votre profil public, adresse e-mail, autres informations que nous pouvons demander à des fins de vérification), décrire votre demande avec suffisamment d'informations qui nous permettent de bien la comprendre, l’évaluer et d'y répondre, et confirmer, sous peine de sanctions, que vous êtes la personne dont les données à caractère personnel font l’objet de la demande.
+
+Si votre demande est soumise par un représentant autorisé, une autorisation écrite et des informations qui vérifient l’identité du représentant doivent être incluses dans la demande.
+
+Nous ne pouvons pas vous fournir les informations ou faire respecter tout autre droit que vous avez si nous ne pouvons pas vérifier votre identité ou votre droit de demande et de confirmation des informations qui vous concernent.
+
+Afin de vérifier votre identité, nous pouvons vous demander de fournir des informations supplémentaires vous concernant. Nous utiliserons uniquement ces informations et celles fournies dans la demande pour vérifier votre identité ou votre droit de demande.
+
+ 
+
+8. Nos coordonnées
+ 
+
+Si vous avez des questions concernant la collecte et le traitement de vos données dans le cadre de votre utilisation de la Plateforme, ou concernant vos droits, merci de nous contacter à l'adresse suivante : privacysupport@vinted.fr.
+
+Responsable de la protection des données Vinted :
+
+Vinted, UAB
+
+Svitrigailos st. 13
+
+LT-03228 Vilnius
+
+République de Lituanie

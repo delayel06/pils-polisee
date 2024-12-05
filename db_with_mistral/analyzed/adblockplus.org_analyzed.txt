@@ -1,0 +1,58 @@
+```json
+{
+  "website_name": "Adblock Plus",
+  "information": [
+    {
+      "title": "Les données collectées incluent les informations du navigateur, du système d'exploitation, et l'adresse IP.",
+      "severity_tag": "Orange",
+      "details": "Lors de l'utilisation des produits Adblock Plus ou Adblock Browser, des informations telles que la version du navigateur, la version de l'extension, le système d'exploitation, la date de la dernière mise à jour, et l'adresse IP sont collectées automatiquement. Ces données sont utilisées pour des raisons techniques et pour améliorer les produits."
+    },
+    {
+      "title": "Les données de paiement sont collectées et partagées avec des fournisseurs de services de paiement.",
+      "severity_tag": "Rouge",
+      "details": "Lors de la réception de dons, des informations telles que le montant du don, la langue du navigateur, le nom et la version de l'extension, le type et la version du navigateur, le système d'exploitation, et des informations sur les notifications téléchargées sont collectées. Ces données sont partagées avec des fournisseurs de services de paiement pour des raisons de comptabilité et de détection de fraude."
+    },
+    {
+      "title": "Les rapports d'erreurs et de crash sont collectés et partagés avec des services tiers.",
+      "severity_tag": "Orange",
+      "details": "Pour les produits mobiles et Adblock Plus pour Safari sur macOS, des rapports de crash et d'erreurs sont collectés. Ces données incluent des identifiants uniques, le type de dispositif, la version de l'application, et des traces de crash. Ces informations sont partagées avec des services tiers pour l'analyse des crash."
+    },
+    {
+      "title": "Les données de suivi des événements sont collectées et utilisées pour améliorer les produits.",
+      "severity_tag": "Jaune",
+      "details": "Des données de suivi des événements, telles que la version de l'application, le type de dispositif, les plateformes utilisées, et les interactions anonymes, sont collectées. Ces données sont utilisées pour améliorer les produits et l'expérience utilisateur."
+    },
+    {
+      "title": "Les données de navigation sont collectées et utilisées pour des raisons de sécurité et d'analyse.",
+      "severity_tag": "Orange",
+      "details": "Lors de l'utilisation des sites web, des informations telles que l'adresse IP, les requêtes, les réponses, et les journaux d'activité sont collectées. Ces données sont utilisées pour générer des statistiques d'utilisation et pour enquêter sur des problèmes de sécurité potentiels."
+    },
+    {
+      "title": "Les données de support utilisateur sont collectées et conservées pendant une durée limitée.",
+      "severity_tag": "Vert",
+      "details": "Lors de la fourniture de support utilisateur, des informations telles que le nom d'utilisateur, les informations de dispositif, la version de l'application, et les URL problématiques sont collectées. Ces données sont conservées pendant une durée limitée après la résolution du cas de support."
+    },
+    {
+      "title": "Les données de candidature sont collectées et utilisées pour des raisons de recrutement.",
+      "severity_tag": "Vert",
+      "details": "Lors de la soumission d'une candidature en ligne, des informations telles que le nom, l'adresse e-mail, le CV, et d'autres documents volontaires sont collectées. Ces données sont utilisées pour évaluer les candidatures et pour des raisons de planification organisationnelle."
+    },
+    {
+      "title": "Les données de forum et de blog sont conservées pendant la durée de l'existence du compte ou du commentaire.",
+      "severity_tag": "Vert",
+      "details": "Les données fournies par les utilisateurs dans le cadre du forum et du blog sont conservées pendant la durée de l'existence du compte ou du commentaire. Ces données incluent les informations de profil, les commentaires, et les adresses e-mail si explicitement autorisées."
+    },
+    {
+      "title": "Les données de partenariat sont conservées pendant une durée de 10 ans.",
+      "severity_tag": "Vert",
+      "details": "Les données relatives aux partenariats, telles que les informations de contact et les détails des transactions, sont conservées pendant une durée de 10 ans pour des raisons de conformité légale et de gestion des relations avec les partenaires."
+    },
+    {
+      "title": "Les utilisateurs peuvent exercer leurs droits de protection des données conformément au RGPD.",
+      "severity_tag": "Vert",
+      "details": "Les utilisateurs ont le droit de demander l'accès, la rectification, la suppression, et la portabilité de leurs données personnelles. Ils peuvent également s'opposer au traitement de leurs données et retirer leur consentement à tout moment."
+    }
+  ],
+  "final_score": 69.2
+}
+```

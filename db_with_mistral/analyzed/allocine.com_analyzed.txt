@@ -1,0 +1,58 @@
+```json
+{
+  "website_name": "AlloCiné",
+  "information": [
+    {
+      "title": "Les données personnelles sont collectées principalement lors de la création de compte ou de l'inscription à la newsletter.",
+      "severity_tag": "Yellow",
+      "details": "Les informations personnelles sont recueillies via divers moyens tels que les formulaires de création de compte, les inscriptions à la newsletter, les participations à des jeux-concours, les publications sur le site, les interactions avec les équipes, les cookies et les partenaires comme Google ou Apple."
+    },
+    {
+      "title": "Les données personnelles sont traitées pour des finalités déterminées et légitimes, conformément au RGPD.",
+      "severity_tag": "Green",
+      "details": "Les données sont utilisées pour des raisons spécifiques telles que l'authentification, l'adaptation du service, la localisation du terminal, le stockage du consentement aux cookies, la mesure de l'audience, la diffusion de publicités ciblées, la souscription à des offres, la création de comptes personnels, l'envoi de newsletters, la gestion des commentaires, la participation à des jeux-concours, l'envoi de notifications push et la gestion des réclamations."
+    },
+    {
+      "title": "Les données personnelles sont conservées pendant une durée conforme aux dispositions légales et réglementaires.",
+      "severity_tag": "Yellow",
+      "details": "Les données sont conservées pendant une période nécessaire pour atteindre leurs finalités, ne dépassant pas 13 mois pour les cookies de session. Les données sont effacées ou anonymisées lorsqu'elles ne sont plus nécessaires."
+    },
+    {
+      "title": "Les données personnelles sont partagées avec des collaborateurs et sous-traitants pour assurer un service de qualité.",
+      "severity_tag": "Orange",
+      "details": "Les données sont transmises aux collaborateurs d'AlloCiné et à des sous-traitants pour des prestations telles que l'envoi de newsletters, l'hébergement des données, la gestion des réclamations, et la réalisation de segments d'audience. Des mesures de sécurité strictes sont appliquées pour protéger les données."
+    },
+    {
+      "title": "Certaines données personnelles peuvent être transférées hors de l'Union Européenne, mais des mesures de protection sont mises en place.",
+      "severity_tag": "Red",
+      "details": "Les données peuvent être transmises à des pays hors de l'Union Européenne ne présentant pas un niveau adéquat de protection. Des conventions de flux transfrontières avec des clauses contractuelles types émises par la Commission européenne sont utilisées pour garantir la protection des données."
+    },
+    {
+      "title": "Les utilisateurs disposent de droits sur leurs données personnelles, conformément à la réglementation applicable.",
+      "severity_tag": "Green",
+      "details": "Les utilisateurs ont le droit d'accéder, de rectifier, d'effacer, de retirer leur consentement, de s'opposer au traitement, de recevoir leurs données dans un format structuré, de demander la limitation des traitements et de formuler des directives relatives au sort de leurs données après leur décès."
+    },
+    {
+      "title": "Les utilisateurs peuvent exercer leurs droits en contactant le délégué à la protection des données.",
+      "severity_tag": "Green",
+      "details": "Pour exercer leurs droits, les utilisateurs peuvent contacter AlloCiné par courrier postal ou électronique. Une réponse sera adressée dans un délai de 1 mois à compter de la réception de la demande."
+    },
+    {
+      "title": "Les données personnelles peuvent être utilisées pour la diffusion de publicités ciblées.",
+      "severity_tag": "Orange",
+      "details": "Les données sont utilisées pour diffuser des publicités ciblées sur le site et sur des plateformes comme Facebook. Les utilisateurs peuvent s'opposer à ce traitement en consultant la politique de cookies."
+    },
+    {
+      "title": "Les données personnelles peuvent être conservées pour des raisons légitimes et impérieuses ou pour la défense de droits en justice.",
+      "severity_tag": "Yellow",
+      "details": "En cas d'opposition au traitement des données pour des raisons tenant à la situation particulière de l'utilisateur, le traitement peut être maintenu si des motifs légitimes et impérieux prévalent ou si les données sont nécessaires à la constatation, l'exercice ou la défense de droits en justice."
+    },
+    {
+      "title": "La politique de confidentialité peut être modifiée en cas d'évolution légale ou jurisprudentielle.",
+      "severity_tag": "Yellow",
+      "details": "La politique de confidentialité peut être modifiée en cas d'évolution légale, jurisprudentielle, suite à des décisions de la CNIL ou à l'ajout d'une nouvelle finalité. Toute modification substantielle sera portée à la connaissance des utilisateurs."
+    }
+  ],
+  "final_score": 65
+}
+```

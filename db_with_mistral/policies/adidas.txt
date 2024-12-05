@@ -1,0 +1,2690 @@
+POLITIQUE DE PROTECTION DES DONNEES PERSONNELLES
+
+MISE À JOUR LE : 2024-09-03
+
+ 
+
+1.      Quelles sont les informations que vous donne cette Politique ?
+
+2.      Qui est responsable de tes Données à caractère personnel ?
+
+3.      Comment exercer tes droits à l'égard de tes Données à caractère personnel ?
+
+3.1.         Accéder à tes Données à caractère personnel
+
+3.2.         Obtenir une copie portable et lisible par machine de tes Données à caractère personnel que tu peux partager avec une autre société
+
+3.3.         Supprimer ton compte et toutes les Données à caractère personnel liées à ton adresse e-mail
+
+3.4.         T'assurer que tes Données à caractère personnel sont correctes
+
+3.5.         Se désabonner de nos e-mails et messages marketing cibles
+
+3.6.         Restreindre notre manière d'utiliser tes Données à caractère personnel
+
+3.7.         Retirer ton consentement
+
+3.8.         Contester lorsque nous traitons tes Données à caractère personnel sur la base de l'« Intérêt légitime » (y compris en te désabonnant de nos messages de marketing direct)
+
+3.9.         T'opposer à une décision générée uniquement par un processus de prise de décisions automatisé sans intervention humaine
+
+3.10.      Assistance générale
+
+3.11.      Déposer une plainte auprès de ton autorité locale de supervision de la protection des données
+
+3.12.      Utiliser des outils tiers pour exercer tes droits individuels
+
+4.      Quelles Données à caractère personnel recueillons et utilisons-nous (« Catégories de Données à caractère personnel ») ?
+
+5.      Comment et pourquoi utilisons-nous tes Données à caractère personnel ?
+
+5.1.         « NOTICE SUR LES COOKIES »: Recueil des informations de ton appareil sur notre site Web et les applis à l'aide de cookies, de pixels, de balises et de technologies similaires
+
+5.1.a.          « OBLIGATOIRES » – fonctionnalité du site et déroulement des activités.
+
+5.1.b.          « FONCTIONNELS » – performances et amélioration du site Web
+
+5.1.c.           « MARKETING » – performances et amélioration du site Web.
+
+5.2.         Exploiter la boutique en ligne adidas et les plateformes adidas
+
+5.2.a.          Fonctionnement des sites et applis
+
+5.2.b.          Sécurité du domaine et du réseau et authentification utilisateur
+
+5.2.c.           Connexion continue
+
+5.2.d.          Vente des produits adidas - Commandes en ligne et hors ligne
+
+5.2.e.          Enrichissement et amélioration de ton expérience d'achat numérique
+
+5.2.f.      Détection des fraudes de paiement
+
+5.2.g.          Livraison des produits
+
+5.2.h.          Suivi de livraison électronique
+
+5.2.i.      Analyse opérationnelle des activités
+
+5.2.j.      Service client
+
+5.3.         Afficher des publicités ciblées et envoyer des messages marketing individualisés
+
+5.3.a.          Messages marketing personnalisés par e-mail (inscription à la newsletter)
+
+5.3.b.          Messages marketing personnalisés par e-mail (via un contrat existant)
+
+5.3.c.           Messages ciblés sur des plateformes publicitaires tierces
+
+5.3.d.          Acquisition de contenu généré par l'utilisateur (user-generated content ou UGC) sur les réseaux sociaux
+
+5.3.e.          Notifications push (communications au sein de l'appli)
+
+5.3.f.      Notification push sur les appareils mobiles en fonction de votre localisation actuelle
+
+5.4.         Administrer les Programmes d'adhésion adidas et organiser des événements et des activités
+
+5.4.a.          Administration des adhésions adiClub
+
+5.4.b.          Participation aux Tirages au Sort et Aux Concours
+
+5.4.c.           Inscription à des événements privés
+
+5.4.d.          Inscription à des événements ouverts
+
+5.5.         Améliorer et développer les produits et services de la marque adidas
+
+5.5.a.          Recherche et développement produits
+
+5.6.         Se conformer aux obligations légales
+
+5.6.a.          Obligation légale - Coopération avec les autorités de règlementation et d'application de la loi (y compris les tribunaux)
+
+5.6.b.          Preuve – Litige contractuel et/ou conformité légale
+
+6.      Destinataires de tes Données à caractère personnel
+
+7.      Que fait adidas lorsque nous transférons tes Données à caractère personnel en dehors de l'UE/EEE ?
+
+8.      Comment sécurisons-nous tes Données à caractère personnel ?
+
+9.      Questions générales, assistance
+
+10.   Délégué à la protection des données
+
+ 
+
+1.     Quelles sont les informations que vous donne cette Politique ?
+
+La présente Politique de Protection Des Donnees Personnelles (« Politique ») fournit des informations sur la manière dont adidas (« adidas », « nous », « notre/nos/nôtre(s) ») recueille et utilise tes « Données à caractère personnel » (informations fournies par toi ou par d'autres personnes que nous pouvons identifier comme t'appartenant). Nous t'encourageons à consulter la présente Politique et les autres Politiques de confidentialité que nous publions fréquemment car elles peuvent être mises à jour afin de refléter les derniers développements sans notification préalable.
+
+ 
+
+Cette Politique s'applique aux différentes finalités et différents scénarios dans le cadre desquels tes Données à caractère personnel sont recueillies directement depuis nos sites Web ou applis exploités par les entités responsables identifiées dans cette Politique, ainsi que lorsque tes Données à caractère personnel sont obtenues indirectement auprès d'autres sources, et utilisées par les entités adidas responsables et d'autres. Tes Données à caractère personnel sont utilisées pour tous les scénarios décrits dans la présente Politique lorsque nous avons la permission et le droit (« Base juridique ») de le faire. Lorsque le scénario s'applique exclusivement à une plateforme spécifique que nous exploitons, le nom de la plateforme sera mentionné après le titre entre crochets comme dans cet exemple : TITRE - {nom de la plateforme}.
+
+ 
+
+Lis les informations générales ainsi que les scénarios spécifiques en cliquant sur les titres pertinents ci-dessous. Tu dois également lire toute Politique de confidentialité supplémentaire affichée lorsque tu nous communiques des Données à caractère personnel car elles fournissent des détails sur le scénario spécifique qui peut ne pas être couvert par la présente Politique.
+
+ 
+
+Si tu accèdes à l'une de nos plateformes en utilisant un réseau privé virtuel (également appelé « VPN ») pour interagir avec nous, y compris pour effectuer des achats, dans un pays qui n'est pas ton pays actuel ou de résidence, lis la Politique de confidentialité affichée sur cette plateforme ou ce portail spécifique pour comprendre comment les entités responsables, nos marques affiliées et nos filiales adidas utilisent et protègent tes Données à caractère personnel dans ce pays.
+
+ 
+
+2.     Qui est responsable de tes Données à caractère personnel ?
+
+Aux fins décrites dans la présente Politique et conformément aux lois locales sur la protection de la vie privée et au RGPD, les entités adidas suivantes sont responsables :
+
+ 
+
+adidas AG - Adi-Dassler Str. 1, 91074 Herzogenaurach, Allemagne (« adidas AG »)
+
+adidas France S.a.r.l. – 1 Allée des Orcades, Strasbourg, 67000, France (« adidas France »)
+
+ 
+
+En outre, aux fins de :
+
+§  La vente des produits adidas – commandes en ligne et hors ligne
+
+§  La recherche et le développement de produits
+
+ 
+
+Les entités adidas ci-dessous sont responsables de tes Données à caractère personnel :
+
+ 
+
+adidas AG
+
+adidas France
+
+adidas International Trading AG - Am Platz 1b, Root D4, Lucerne, 6039, Suisse
+
+ 
+
+Elles agissent en qualité de « Responsables conjoints du traitement » d'adidas en vertu du RGPD et des lois locales sur la protection de la vie privée. Elles sont conjointement responsables de déterminer pourquoi (« Finalité »), comment (« Traitement ») et si (« Base juridique ») nous utilisons tes Données à caractère personnel. Dans la présente Politique, nous les appelons « Entités responsables » pour faciliter la compréhension.
+
+ 
+
+Pour certains scénarios décrits dans cette Politique, il peut y avoir d'autres entités affiliées ou non à adidas également responsables de l'utilisation de tes Données à caractère personnel. Consulte le scénario spécifique pour plus d'informations.
+
+adidas AG traite également vos demandes d'exercice de vos droits concernant vos données personnelles (tel que décrit dans cette déclaration). Bien sûr, vous êtes libre de contacter l'une des entités responsables pour formuler vos demandes.
+
+ 
+
+adidas AG traiterait également tout incident lié à la sécurité des données et dirigerait la coopération et la communication avec les autorités chargées de la protection des données. Notre autorité principale est le bureau d'État bavarois pour la surveillance de la Protection des données, situé à Ansbach, en Allemagne.
+
+3.     Comment exercer tes droits à l'égard de tes Données à caractère personnel ?
+
+Tu disposes de tous les droits décrits ci-dessous à l'égard de l'ensemble de tes Données à caractère personnel fournies aux Entités responsables. Lis et suis les instructions pour exercer tes droits en temps opportun. Si une société non affiliée à adidas est indépendamment responsable de tes Données à caractère personnel, tu devras contacter et lire la Politique de confidentialité de la société non affiliée à adidas pour exercer tes droits auprès d'elle. Ta demande ne pourra pas être traitée si nous ne pouvons pas vérifier ton identité. Nous pouvons poser des questions de vérification supplémentaires si nous avons des doutes raisonnables sur ton identité afin de protéger l'ensemble des Données à caractère personnel et des droits de nos clients.
+
+ 
+
+Si tu as des questions générales ou as besoin d'une assistance et d'une aide immédiates concernant tes droits ou la manière dont nous utilisons tes Données à caractère personnel, contacte notre Service client. Tu peux trouver ses coordonnées et ses canaux en cliquant sur ce lien https://adidas.com/help.
+
+ 
+
+3.1.         Accéder à tes Données à caractère personnel
+
+3.2.         Obtenir une copie portable et lisible par machine de tes Données à caractère personnel que tu peux partager avec une autre société
+
+3.3.         Supprimer ton compte et toutes les Données à caractère personnel liées à ton adresse e-mail
+
+ 
+
+Pour accéder à tes informations et Données à caractère personnel détaillant la manière dont adidas collecte et utilise tes Données à caractère personnel, obtenir une copie portable et lisible par machine de ton fichier ou supprimer tes Données à caractère personnel, utilise notre outil en libre-service en suivant les instructions ci-dessous. Ton adresse e-mail est requise car elle nous permet de t'identifier et d'exécuter ta demande.
+
+Si tu as besoin d'aide, contacte notre équipe du Service client : (https://adidas.com/help).
+
+ 
+
+ADIDAS SITE WEB
+
+Étape 1
+
+Fais défiler jusqu'au bas de la page, puis clique sur « Gérer les Données».
+
+Étape 2
+
+Sélectionne l'une des options suivantes : 1) « Envoyez-moi mes données » ; 2) « Envoyez-moi mes données lisibles par machine » ; ou 3) ou « Supprimez mes données et mon compte ».
+
+Étape 3
+
+Saisis ton nom de famille et l'adresse e-mail que tu as communiquée à adidas. Si le nom de famille et l'adresse e-mail ne correspondent pas aux informations que nous avons enregistrées, ta demande sera rejetée. N'hésite pas à contacter notre équipe locale du Service client (https://adidas.com/help) si tu as besoin d'aide.
+
+Étape 4
+
+Vérifie ta boîte de réception et suis les instructions mentionnées dans l'e-mail afin de confirmer ton adresse e-mail. Note que ta demande ne sera pas traitée si tu ne vérifies pas ton adresse e-mail et qu'elle sera supprimée après 30 jours.
+
+Étape 5
+
+Vérifie à nouveau ta boîte de réception dans un délai de 30 jours et clique sur le lien pour récupérer le fichier que tu as demandé OU obtenir une confirmation de la suppression de tes données.
+
+Étape 6
+
+Répète les étapes 1 à 5 si tu souhaites soumettre une autre demande.
+
+ 
+
+APPLI ADIDAS & APPLI CONFIRMED
+
+Étape 1
+
+Rends-toi dans « PARAMÈTRES ».
+
+Étape 2
+
+Clique sur « GÉRER LE COMPTE ».
+
+Étape 3
+
+Sélectionne l'une des options suivantes : 1) « Envoyez-moi mes données » ; 2) « Envoyez-moi mes données lisibles par machine » ; ou 3) ou « Supprimez mes données et mon compte ».
+
+Étape 4
+
+Saisis ton nom de famille et l'adresse e-mail que tu as communiquée à adidas. Note que ces champs sont pré-remplis.
+
+Étape 5
+
+Vérifie ta boîte de réception et suis les instructions mentionnées dans l'e-mail afin de confirmer ton adresse e-mail. Note que ta demande ne sera pas traitée si tu ne vérifies pas ton adresse e-mail et qu'elle sera supprimée après 30 jours.
+
+Étape 6
+
+Vérifie à nouveau ta boîte de réception dans un délai de 30 jours et clique sur le lien pour récupérer le fichier que tu as demandé OU obtenir une confirmation de la suppression de tes données.
+
+ 
+
+RUNTASTIC.COM
+
+Étape 1
+
+Connectez-vous à runtastic.com.
+
+Étape 2
+
+Cliquez sur "Home" (Accuiel).
+
+Étape 3
+
+Accédez à Account & Data (Compte et données) sur le côté gauche.
+
+Étape 4
+
+Sélectionnez l'une des options suivantes : 1) « EXPORTER LES DONNÉES » ; ou 2) « DEMANDER LA SUPPRESSION » sur le côté droit de l'écran.
+
+Étape 5
+
+Consultez votre e-mail et suivez les instructions que nous vous avons fournies dans celui-ci. Veuillez noter que votre demande ne sera pas traitée si vous n'avez pas vérifié votre adresse électronique, et que la demande sera supprimée au bout de 30 jours. Si vous n'avez pas encore vérifié votre e-mail, vous pouvez demander un nouveau lien de confirmation en cliquant sur « Envoyer un nouvel e-mail de confirmation » sur Runtastic.com.
+
+Étape 6
+
+Vérifie à nouveau ta boîte de réception dans un délai de 30 jours et clique sur le lien pour récupérer le fichier que tu as demandé OU obtenir une confirmation de la suppression de tes données.
+
+Étape 7
+
+ Répète les étapes 1 à 6 si tu souhaites soumettre une autre demande.
+
+ 
+
+Pour consulter et obtenir une copie des informations concernant ta commande/transaction avant et/ou après la livraison de ta commande.
+
+ 
+
+ADIDAS SITE WEB
+
+Étape 1
+
+Fais défiler jusqu'en haut de la page, puis clique sur « statut de la commande ».
+
+Étape 2
+
+Saisis le numéro de commande et l'adresse e-mail que tu as utilisée pour réaliser l'achat. Note que si tu as effectué des achats auprès de différents sites adidas, tu dois répéter cette procédure sur tous les sites pour accéder aux commandes que tu as passées sur chaque site spécifique. N'hésite pas à contacter notre équipe locale du Service client (https://adidas.com/help) si tu as besoin d'aide.
+
+Étape 3
+
+Clique sur « C'est parti ! ».
+
+Étape 4
+
+Consulte la commande correspondant au numéro de commande et à l'adresse e-mail directement sur le site Web.
+
+ 
+
+APPLI ADIDAS & APPLI CONFIRMED
+
+Étape 1
+
+Rends-toi dans « PARAMÈTRES ».
+
+Étape 2
+
+Clique sur « COMMANDES ».
+
+Étape 3
+
+Consulte toutes les commandes passées depuis ton profil actuel en fonction du pays/de la localisation spécifique.
+
+Étape 4
+
+Répète les étapes 1 à 3 pour toute commande effectuée depuis les paramètres d'autres pays/localisations.
+
+ 
+
+Pour supprimer les informations de ta commande/transaction
+
+Tu peux demander la suppression de ces informations, ce qui limitera ton accès aux informations. Toutefois, les informations seront archivées et conservées dans nos dossiers pendant 10 ans conformément aux exigences légales et contractuelles. Consulte notre section « Vente des produits adidas - Commandes en ligne et hors ligne» pour plus d'informations.
+
+ 
+
+Note que le délai de traitement standard via notre outil en libre-service est d'un mois. En fonction de la complexité de ta demande et du nombre d'autres demandes que nous traitons au même moment, notre délai de traitement peut être prolongé de deux mois supplémentaires pour les raisons suivantes : 1) nous ne parvenons pas à t'identifier à partir de ton adresse e-mail et/ou de tout autre identifiant, et nous pouvons ne pas être en mesure de traiter ta demande du tout ; et/ou 2) tu n'utilises pas ou ne peux pas utiliser notre outil en libre-service et as besoin d'une assistance supplémentaire ; et/ou 3) tu demandes que ta réponse soit fournie par un autre moyen qu'un e-mail.
+
+ 
+
+En outre, réfère-toi aux détails fournis dans la présente Déclaration de confidentialité pour obtenir des informations sur : a) les raisons pour lesquelles nous détenons des Données à caractère personnel te concernant ; b) les catégories de Données à caractère personnel que nous détenons ; c) notre utilisation de tes Données à caractère personnel ; d) qui a accès à tes Données à caractère personnel (et leur localisation) ; e) où tes Données à caractère personnel sont susceptibles d'être transférées ; f) la durée pendant laquelle nous conservons tes Données à caractère personnel ; g) si tu ne nous as pas communiqué tes Données à caractère personnel directement, comment nous les avons obtenues ; h) tes droits en vertu des lois applicables et la possibilité de restreindre le traitement ; et i) si nous utilisons tes Données à caractère personnel pour toute prise de décisions automatisée ; et j) dans certains cas, tu as le droit de savoir comment notre prise de décisions automatisée fonctionne si la décision t'affecte de manière significative.
+
+ 
+
+3.4.         T'assurer que tes Données à caractère personnel sont correctes
+
+ 
+
+Contacte le Service client (https://adidas.com/help) pour apporter des modifications à tes informations et accède à ton compte adidas pour effectuer des modifications directement.
+
+ 
+
+3.5.         SE DESABONNER DE NOS E-MAILS ET MESSAGES MARKETING CIBLES
+
+ 
+
+Tu peux te désabonner des newsletters en modifiant tes préférences dans ton compte utilisateur. Tu peux également te désabonner en cliquant sur le lien dans les e-mails de marketing.
+
+ 
+
+Compte via le site Internet adidas :
+
+1.           Connecte-toi à ton compte.
+
+2.           Va dans « Préférences ».
+
+3.           Modifie tes préférences et clique sur « Enregistrer ».
+
+ 
+
+Web via https://www.runtastic.com/ :
+
+1.           Connecte-toi à ton compte.
+
+2.           Clique sur le menu déroulant à côté de ton avatar et va dans « Paramètres de confidentialité ».
+
+3.           Désélectionne les communications marketing.
+
+ 
+
+Dans l’e-mail de marketing :
+
+1.           Clique sur « Se désabonner » au bas de la newsletter ou de l’e-mail de marketing dont tu veux te désabonner.
+
+2.           Coche la case de confirmation pour te désabonner.
+
+3.           Clique sur « Mettre à jour les préférences ».
+
+ 
+
+Ton abonnement à la newsletter ou à l’e-mail de marketing sera alors résilié. Le traitement de ta demande peut prendre jusqu’à 72 heures. Tu pourrais donc continuer de recevoir des newsletters ou des e-mails de marketing pendant cette période après avoir soumis ta demande.
+
+ 
+
+Application adidas, application CONFIRMED :
+
+Notifications push :
+
+1.           Accède à ton profil via la barre de navigation inférieure
+
+2.           À partir de là, clique sur Paramètres en haut
+
+3.           Désélectionne les notifications push
+
+ 
+
+adidas Running:
+
+1.           Accède à ton profil via la barre de navigation inférieure.
+
+2.           À partir de là, clique sur Paramètres en haut et sélectionne « Confidentialité ».
+
+3.           Tu peux maintenant facilement désactiver le curseur « Reste informé ».
+
+ 
+
+Si tu as besoin d’aide ou si ta demande de désabonnement n’a pas fonctionné, contacte notre service client (https://adidas.com/help) et demande à ce que ton adresse e-mail soit supprimée et à te désabonner de la liste de marketing par e-mail adidas.
+
+ 
+
+3.6.         Restreindre notre manière d'utiliser tes Données à caractère personnel
+
+3.7.         Retirer ton consentement
+
+3.8.         Contester lorsque nous traitons tes Données à caractère personnel sur la base de l'« Intérêt légitime » (y compris en te désabonnant de nos messages de marketing direct)
+
+3.9.         T'opposer à une décision générée uniquement par un processus de prise de décisions automatisé sans intervention humaine
+
+3.10.      Assistance générale
+
+ 
+
+Contacte notre équipe du Service client (https://adidas.com/help) pour obtenir une assistance générale. Tu trouveras ses coordonnées dans la section « DEMANDER À NOTRE SERVICE CLIENT » via la rubrique AIDE.
+
+ 
+
+3.11.      Déposer une plainte auprès de ton autorité locale de supervision de la protection des données
+
+ 
+
+Tu as le droit de déposer une plainte auprès de l'autorité locale si tu n'es pas satisfait(e) de la manière dont nous avons traité l'un de tes droits énumérés ci-dessus.
+
+ 
+
+Nous t'invitons d'abord à partager et à discuter de tes préoccupations et réclamations concernant la manière dont nous traitons tes droits individuels et utilisons tes Données à caractère personnel avec notre équipe chargée de la confidentialité et notre Délégué à la protection des données en écrivant à notre boîte de réception Demandes et réclamations concernant le respect de la vie privée adidas (dataprotection@adidas.com) afin que nous puissions rapidement répondre à tes préoccupations et réclamations.
+
+ 
+
+3.12.      Utiliser des outils tiers pour exercer tes droits individuels
+
+Nous comprenons qu'il existe des outils, applications, solutions et sites web exploités par des sociétés autres qu'adidas qui t'aident à exercer tes droits individuels. En fonction de la conception de ces outils, nous pouvons avoir besoin de te contacter directement pour vérifier ton identité avant de pouvoir traiter tes demandes via des solutions tierces.
+
+ 
+
+Nous ne pouvons traiter ta demande que si nous avons vérifié ton identité et que nous sommes sûrs que les données personnelles sont les bien les tiennes. Nous ne pouvons pas télécharger de fichiers vers des portails tiers car cela représente un risque sérieux pour la sécurité des données des systèmes et de l'infrastructure d'adidas et pourrait donc entraîner une violation de données.
+
+ 
+
+Par conséquent, même lorsque tu as fait une demande en utilisant un outil tiers, nous pouvons toujours te demander d'utiliser notre solution automatisée ou de contacter notre service client en suivant les instructions ci-dessus pour notre site web ou nos applications adidas afin de vérifier ton identité et de nous assurer que ta demande est traitée en temps voulu et de manière sécurisée.
+
+ 
+
+Si quelconque des droits énumérés ici ne sont pas clairs, renseigne-toi auprès de ton autorité locale pour connaître tes droits en matière de Données à caractère personnel en vertu de la loi et pour mieux comprendre ce que ces droits signifient.
+
+4.     Quelles Données à caractère personnel recueillons et utilisons-nous (« Catégories de Données à caractère personnel ») ?
+
+La plupart du temps, tu nous fournis tes Données à caractère personnel à des fins spécifiques. Cependant, parfois, ces Données à caractère personnel peuvent également être utilisées à d'autres fins si nous avons le droit et la permission (« Base juridique ») de le faire. En outre, nous pouvons utiliser tes Données à caractère personnel provenant d'autres sociétés ou sources à certaines fins, si cela est légalement autorisé. Consulte les Catégories de Données à caractère personnel ci-dessous pour t'aider à comprendre comment nous utilisons tes Données à caractère personnel. Les Catégories incluent les Données à caractère personnel que tu as fournies directement et indirectement aux Entités responsables.
+
+ 
+
+§  Informations d'identité 
+
+Toutes les informations qui t'identifient en tant qu'individu vivant. Elles peuvent inclure : nom [prénom, nom, initiales], date de naissance, adresse e-mail incluant ton nom, ton numéro de téléphone, ton identifiant de consommateur unique (y compris ton identifiant de membre, ou ton identifiant sur n'importe quelle plateforme adidas), ton surnom, ton mot de passe, tes identifiants et pseudos sur les réseaux sociaux, ton empreinte digitale sur ton appareil, les codes des cartes cadeaux qui te sont remises, ton identité et ton expression sexuelles.
+
+             
+
+§  Coordonnées
+
+Toutes les informations que nous pouvons utiliser pour te contacter. Elles comprennent : ton numéro de téléphone, ton adresse de livraison et de facturation, ton adresse e-mail, ton identifiant Messenger, ton pseudo sur les réseaux sociaux, tout autre canal de communication que tu as utilisé pour nous contacter afin d'obtenir plus d'informations.
+
+ 
+
+§  Informations de paiement, d'achat et de transaction
+
+Toutes les informations que nous utilisons pour compléter, ou en relation avec, ton enregistrement d'achat et ta facture. Elles comprennent : tes informations de paiement (numéro de carte de crédit, coordonnées bancaires ou détails d'une plateforme de paiement), ton profil de risque pour les paiements (nous étant fourni par notre solution de risque pour les paiements), les détails de ton panier d'achat (les articles que tu as commandés), tes informations de livraison, ton adresse de livraison et de facturation, ton numéro de commande client, ton historique d'achats chez adidas, l'identifiant de la transaction, l'identifiant de la facture, l'identifiant de la transaction auprès du magasin de détail, la valeur d'achat, le numéro de confirmation de ta commande et le numéro de suivi de ta commande.
+
+ 
+
+§  Mensurations
+
+Toutes les informations que nous pouvons utiliser pour nous assurer que les articles te vont. Elles peuvent inclure par exemple : pointure, taille de vêtement, taille, poids, tour de taille, tour de poitrine, tour de hanche, longueur d'entrejambe, morphologie, mesure talon-pointe.
+
+toutes les informations relatives à ton adhésion au adiClub. Elles incluent : ton identifiant source de l'acquisition (où tu t'es inscrit(e)), ton pays d'adhésion, ton identifiant de membre adiClub, la date à laquelle tu es devenu(e) membre, l'identifiant du magasin (si tu t'es inscrit(e) dans un magasin de détail, y compris un magasin franchisé), les points d'adhésion, l'historique d'engagement, l'historique des récompenses et les bons d'adhésion qui t'ont été remis.
+
+ 
+
+§  Informations de localisation
+
+Toutes les informations que nous pouvons utiliser pour savoir ou deviner où tu te trouves, en temps réel ou autrement. Elles peuvent inclure : ton lieu de résidence, ta localisation de connexion actuelle [adresse IP], les informations de localisation de ton appareil en temps réel via ses capteurs et signaux, ta localisation GPS (si tu acceptes de la partager, par exemple, via les paramètres de ton appareil mobile), ou les informations qui nous aident à deviner où tu te trouves, comme le site adidas spécifique que tu as visité et qui pourrait nous donner des indications sur ta localisation, ou lorsque tu t'« inscris » à un événement ou sur un site Web sur la page d'un réseau social indiquant la localisation et s'il est partagé avec nous.
+
+ 
+
+§  Informations sur l'administration des adhésions
+
+Toutes les informations relatives à ton adhésion au adiClub. Elles incluent : ton identifiant source de l'acquisition (où tu t'es inscrit(e)), ton pays d'adhésion, ton identifiant de membre adiClub, la date à laquelle tu es devenu(e) membre, l'identifiant du magasin (si tu t'es inscrit(e) dans un magasin de détail, y compris un magasin franchisé), les points d'adhésion, l'historique d'engagement, l'historique des récompenses et les bons d'adhésion qui t'ont été remis.
+
+ 
+
+§  Informations sur le comportement et les préférences
+
+Toutes les informations indiquant tes préférences, qu'elles soient explicites (si tu les as fournies) ou implicites. Elles peuvent inclure : tes activités (sports) préféré(e)s, les informations sur la participation à des événements, tes routines d'exercice, tes interactions numériques en magasin, tes sites/marques préférés, ta langue préférée, tes préférences en termes d'attributs de produits et de produits, tes préférences de localisation de magasin, ton historique d'achat (tous les articles dans les paniers), les articles de ta wishlist, tous les détails de « préférence » que tu nous as fournis dans le cadre des paramètres de ton profil et de la plateforme, toutes les informations que tu nous fournis lorsque tu interagis avec nos communautés telles qu'adidas Runners, participes à des événements ou des campagnes en tant que formateur(-trice), membre de l'équipe, participant(e) ou en tant que promoteur de nos événements.
+
+ 
+
+§  Informations de navigation
+
+Toutes les informations sur ton comportement de navigation. Elles peuvent inclure : le nom de ton navigateur, ton adresse IP (y compris ton adresse IP hachée), les données de parcours, les données et l'heure de tes visites sur le site, le temps resté sur le site, les pages visitées et les liens sur lesquels tu as cliqué dans nos messages de marketing ou notre site Web, l'URL de renvoi qui t'a amené(e) sur notre site.
+
+ 
+
+§  Informations sur l'appareil mobile
+
+Toutes les informations relatives à ton appareil mobile. Elles peuvent inclure : l'identificateur unique étendu (EUI) de l'appareil, l'identifiant de l'appareil, l'empreinte digitale sur l'appareil, les informations IP/Wifi, le système d'exploitation, les données stockées sur l'appareil lorsque l'accès est accordé, les informations de journal lorsque l'accès à un appareil (comme la caméra) est accordé.
+
+ 
+
+§  Interactions et activités sur les réseaux sociaux
+
+Toutes les informations te concernant que nous obtenons via différents réseaux sociaux tels que Facebook, Instagram, Google, etc., lorsque nous utilisons ces canaux à des fins publicitaires, analytiques ou pour enrichir ton profil avec adidas. Elles peuvent inclure : toutes les informations disponibles sur les réseaux sociaux qui sont accessibles au public, telles que tes pseudos sur les réseaux sociaux, tes interactions et publications publiques sur les réseaux sociaux, tes mentions « J'aime » et autres réactions, tes connexions sur les réseaux sociaux, tes photos publiques, ou celles que tu nous envoies en nous mentionnant ou en suivant nos publications sur les réseaux sociaux en utilisant des « pseudos » ou des « hashtags », les commentaires ou messages que tu as partagés avec nous en public ou en privé sur les plateformes de réseaux sociaux. En outre, nous pouvons être en mesure d'obtenir des informations indirectement auprès de sociétés de médias sociaux (Facebook, Google, etc.) lorsque nous diffusons des publicités sur ces plateformes, qui peuvent inclure ta participation et ton adhésion à des sujets et/ou groupes particuliers, les paramètres de ton profil et tes préférences, ainsi que ton comportement sur différentes plateformes appartenant à la même entreprise.
+
+ 
+
+§  Correspondence
+
+Toutes tes correspondances avec les équipes du Service client, et/ou nos employés et notre personnel. Elles peuvent inclure : une correspondance écrite avec nous (e-mails ou publications ou messages sur nos plateformes), et les enregistrements vocaux réalisés par le Service client lorsque nous avons le droit de le faire.
+
+ 
+
+§  Images et enregistrements
+
+Tous les enregistrements d'images, de voix ou de vidéo que nous avons capturés ou obtenus par lesquels tu peux être identifié(e). Ils peuvent inclure : des images de caméras de surveillance, des photos prises dans nos magasins de détail et/ou lors d'événements, des enregistrements vidéo réalisés pendant des événements ou des interactions spécifiques, des enregistrements vocaux effectués pendant des événements ou des interactions (à l'exclusion de la correspondance avec le Service client), toutes les images que tu partages avec nous via les réseaux sociaux.
+
+ 
+
+§  Informations sur l'activité physique
+
+Toutes les informations liées à ton activité physique que tu suis à l'aide de nos plateformes (y compris adidas Running et Training). Elles peuvent inclure : le type d'activité, la distance, la durée de l'exercice, la routine d'exercice (heure de début et de fin), la condition physique, le rythme, les données d'utilisation de l'espace et la vitesse.
+
+ 
+
+§  Informations sur la santé
+
+Toutes les informations relatives à ta santé ou à tes fonctions vitales telles que ton indice de masse corporelle (IMC), tes pulsations par minute ou les informations concernant tout handicap. Ces informations ne sont utilisées que lorsque tu nous as autorisés à les utiliser, avec ton consentement, pour des raisons et à des fins spécifiques.
+
+ 
+
+§  Opinion personnelle
+
+Toutes les opinions que tu partages avec nous qui indiquent ton point de vue et tes commentaires. Ils peuvent être fournis lorsque tu nous communiques des retours d'information et évalues notre service ou nos produits, ou si tu participes à des discussions sur la recherche et le développement de produits.
+
+5.     Comment et pourquoi utilisons-nous tes Données à caractère personnel ?
+
+Dans cette section, nous fournissons des détails sur tous les scénarios et raisons (« Finalités ») dans lesquels nous pouvons recueillir (directement et indirectement) et utiliser tes Données à caractère personnel à partir de toutes nos plateformes.
+
+ 
+
+FINALITES - Pourquoi recueillons-nous et utilisons-nous tes Données à caractère personnel ?
+
+TRAITEMENT - Que faisons-nous à tes Données à caractère personnel ?
+
+BASE JURIDIQUE - Pourquoi sommes-nous autorisés à utiliser tes Données à caractère personnel pour cette Finalité ?
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL - Quelles Catégories de Données à caractère personnel utilisons-nous à cette fin ?
+
+Y compris les Données à caractère personnel que tu nous as fournies pour cette Finalité, et les Données à caractère personnel que nous avons obtenues d'autres sources pour d'autres fins. Plus précisément, il s'agit des Catégories de Données à caractère personnel que tu nous as fournies ou non à cette fin spécifique, mais soit que nous avons dans nos registres, soit que nous avons obtenues auprès d'une autre source à des fins différentes, et dont nous savons qu'elles sont liées à toi.
+
+DURÉE DE CONSERVATION   - Combien de temps conservons-nous tes Données à caractère personnel pour cette Finalité ?
+
+CATÉGORIES DE DESTINATAIRES   - Avec qui (types de fournisseurs de services ou entreprises) partageons-nous tes Données à caractère personnel pour atteindre la Finalité ?
+
+5.1.         « NOTICE SUR LES COOKIES »: Recueil des informations de ton appareil sur notre site Web et les applis à l'aide de cookies, de pixels, de balises et de technologies similaires
+
+TRAITEMENT
+
+Lorsque tu consultes le site adidas, nous stockons des collecteurs de données tels que des cookies, des balises, des pixels, des conteneurs de balises, des marqueurs, entre autres, dans ton navigateur afin d'obtenir certaines informations sur ta session de navigation actuelle. Ces technologies sont souvent dénommées « Cookies  collectivement par les autres sites Web. Les Cookies permettent aussi à notre site Web de retenir tes actions et préférences (notamment tes références de connexion, ta langue, ta taille de police et d'autres préférences d'affichage) sur une période donnée, pour que tu n'aies pas à les saisir de nouveau à chaque fois que tu reviens sur le site ou passes d'une page à une autre. Nous utilisons des Cookies dans différents buts, signifiant aussi qu'ils ont différentes bases juridiques. Passe en revue les informations ci-dessous pour comprendre comment nous utilisons différents types de Cookies pour accomplir différents buts.
+
+ 
+
+Gérer les cookies dans ton navigateur
+
+Tu peux modifier les paramétrages de ton navigateur pour supprimer les cookies ou empêcher qu'ils ne soient mémorisés sur ton ordinateur ou appareil mobile sans ton autorisation. Le menu d'aide de ton navigateur devrait fournir des informations sur la façon de gérer les paramétrages de tes cookies.
+
+ 
+
+Tu peux également sélectionner l'option « Se déconnecter de tous mes appareils » dans la section de ton compte.
+
+ 
+
+Découvre comment cela fonctionne pour ton navigateur ici :
+
+ 
+
+Internet Explorer : https://support.microsoft.com/help/17442/windows-internet-explorer-delete-manage-cookies
+
+Mozilla Firefox : https://support.mozilla.org/fr/kb/cookies-informations-sites-enregistrent
+
+Google Chrome : https://support.google.com/chrome/answer/95647?hl=fr
+
+Safari : http://support.apple.com/kb/PH5042
+
+Opera : https://www.opera.com/fr/secure-private-browser
+
+Adobe (cookies flash) : https://www.adobe.com/fr/privacy/policies/flash-player.html
+
+Appli Google Chrome : https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DAndroid&hl=fr
+
+ 
+
+Ces sites Web t'aideront aussi à mieux comprendre comment fonctionne la publicité basée sur les Cookies et comment tu peux gérer tes Paramètres relatifs aux Cookies :
+
+https://optout.aboutads.info/?c=3&lang=fr
+
+https://www.youronlinechoices.com/fr/
+
+Page de désinscription de la Network Advertising Initiative : http://optout.networkadvertising.org/?c=1
+
+ 
+
+Pour en savoir plus sur les lois régissant l'utilisation des « Cookies », rends-toi à l'adresse : http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm
+
+                                           5.1.a.      « OBLIGATOIRES » – fonctionnalité du site et déroulement des activités. 
+
+Nous utilisons des « Cookies obligatoires » pour exploiter notre site. Cela inclut le stockage d'un identifiant unique pour te gérer et t'identifier en tant que visiteur unique sur notre site, afin de te fournir un service précis et constant. Cela inclut de s'assurer que nous retenions les produits que tu as placés dans ton panier, ou la langue que tu préfères utiliser. Ils sont mémorisés pour la durée de ta session de navigation. Sans ces Cookies, tu ne pourras pas voir notre site convenablement.
+
+ 
+
+Plus précisément, elles nous permettent de faire les choses suivantes :
+
+ 
+
+§  Diagnostics et analyses du site
+
+Cette technologie est utilisée pour recueillir des informations sur la façon dont les visiteurs utilisent le site/l'application. Par exemple, quelles pages les visiteurs consultent le plus souvent, et s'ils reçoivent des messages d'erreur des pages web.
+
+ 
+
+§  Maintenance de la sécurité du site
+
+Cette technologie est utilisée pour assurer la sécurité du site et des utilisateurs. Par exemple, session expirée pour des raisons de sécurité.
+
+ 
+
+§  Routage
+
+Cette technologie est utilisée pour diriger les clients vers des versions/applications spécifiques d'un service, comme cela peut être le cas lors d'une migration technique.
+
+ 
+
+§  Chargement du site
+
+Cette technologie est utilisée pour permettre au site de se charger. Sans cette technologie, le site ne se chargera tout simplement pas et les personnes pourront recevoir un message d'erreur lorsqu'elles tenteront de le charger.
+
+ 
+
+§  Connexion multi-sessions demandée par l'utilisateur
+
+Cette technologie est explicitement demandée par l'utilisateur pour se souvenir de son identifiant utilisateur ou rester connecté(e) pour plus d'une session.
+
+ 
+
+§  Identification et authentification de l'utilisateur
+
+Cette technologie est utilisée à des fins d'identification et d'authentification des utilisateurs : par exemple, pour gérer et communiquer des jetons de sécurité à différents services au sein d'un site web afin d'identifier le statut du visiteur (p. ex. connecté ou non).
+
+ 
+
+§  Permettre les fonctions essentielles
+
+Cette technologie est essentielle pour permettre à un utilisateur de se déplacer sur le site/l'application et d'utiliser ses fonctionnalités. Par exemple, les paniers d'achat et la facturation électronique : elle est utilisée notamment pour mémoriser le texte saisi par l'utilisateur, pour sélectionner la taille, ou pour ajouter des achats à des paniers ou pour revenir à la page précédente de l'utilisateur ou à un autre endroit du site/de l'application.
+
+ 
+
+§  Test A/B - Conception
+
+Cette technologie est utilisée pour tester la conception. Tester les variations de conception en utilisant des tests A/B ou multivariables afin d'assurer l'homogénéité de la présentation et de la perception pour l'utilisateur du site durant la session en cours et les suivantes.
+
+ 
+
+§  Analyse commerciale des sites/applications non-marketing
+
+Cette technologie est utilisée pour l'analyse commerciale concernant des activités non-marketing sur le site web (telles que la performance des produits). Par exemple, l'analyse web — où les données collectées sont limitées à l'utilisation par l'opérateur du site web uniquement, pour gérer la performance et la conception du site/de l'application.
+
+ 
+
+BASE JURIDIQUE          
+
+Obligatoires
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL
+
+Informations de navigation
+
+Informations sur l'appareil mobile
+
+Informations de localisation
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Session de navigation
+
+Durée de la session de navigation pendant que tu accèdes au site web ou poursuis ta session, qui dure tant que ta session de navigation n'a pas expiré.
+
+À tout moment
+
+Tu peux supprimer manuellement ces cookies en suivant les instructions fournies par le navigateur que tu utilises dans les paramètres du navigateur.
+
+ 
+
+Tealium [utag_main]
+
+Nous utilisons Tealium [utag_main] pour respecter la période de conservation définie pour chaque cookie. Si tu supprimes, bloques manuellement ou restreins de quelque manière que ce soit notre utilisation de [utag_main], les cookies peuvent être stockés dans ton navigateur pendant une période différente de la période de conservation prévue dans cet Avis et dans le Répertoire des cookies.
+
+ 
+
+Pour plus d'informations sur tous les cookies que nous utilisons sur cette plateforme, consulte notre Répertoire des cookies : ICI.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES
+
+Filiales et sociétés affiliées d'adidas AG
+
+Fournisseurs d'assistance pour l'administration du site
+
+ 
+
+                                           5.1.b.       « FONCTIONNELS » – performances et amélioration du site Web
+
+Nous utilisons des « Cookies fonctionnels » pour améliorer continuellement les performances de notre site Web.
+
+ 
+
+Plus précisément, elles nous permettent de faire les choses suivantes :
+
+ 
+
+§  Analyse commerciale des sites/applications non-marketing
+
+Cette technologie est utilisée pour l'analyse commerciale concernant des activités non-marketing sur le site web (telles que la performance des produits). Par exemple, l'analyse web — où les données collectées sont limitées à l'utilisation par l'opérateur du site web uniquement, pour gérer la performance et la conception du site/de l'application.
+
+ 
+
+BASE JURIDIQUE
+
+Consentement
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL
+
+Informations d'identité 
+
+Informations de navigation
+
+Informations sur l'appareil mobile
+
+Informations de localisation
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Session de navigation jusqu'à 24 mois
+
+À tout moment
+
+Tu peux supprimer manuellement ces cookies en suivant les instructions fournies par le navigateur que tu utilises dans les paramètres du navigateur.
+
+ 
+
+Tealium [utag_main]
+
+Nous utilisons Tealium [utag_main] pour respecter la période de conservation définie pour chaque cookie. Si tu supprimes, bloques manuellement ou restreins de quelque manière que ce soit notre utilisation de [utag_main], les cookies peuvent être stockés dans ton navigateur pendant une période différente de la période de conservation prévue dans cet Avis et dans le Répertoire des cookies.
+
+ 
+
+Pour plus d'informations sur tous les cookies que nous utilisons sur cette plateforme, consulte notre Répertoire des cookies : ICI.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+Fournisseurs d'assistance pour l'administration du site
+
+Fournisseurs de services de conseils commerciaux
+
+Fournisseurs de solutions d'analyse des données
+
+ 
+
+                                           5.1.c.      « MARKETING » – performances et amélioration du site Web.
+
+Nous utilisons des « Cookies marketing » fournis par nos partenaires publicitaires pour nous assurer que nos messages publicitaires te soient montrés au bon moment et au bon endroit. Ces Cookies sont persistants mais limités dans le temps. Ces Cookies contiennent une clé unique pour distinguer les habitudes de navigation de chaque utilisateur. Nous utilisons aussi ces Cookies pour limiter le nombre de fois où un utilisateur voit une annonce particulière sur un site Web et pour mesurer l'efficacité d'une campagne particulière. L'identifiant stocké par ces Cookies est fourni par nos partenaires. Nous ne pouvons pas utiliser le même identifiant dans nos propres systèmes. Nous utilisons aussi ces cookies afin de proposer des publicités pertinentes pour ta géolocalisation immédiate, par exemple pour te fournir l'emplacement de la boutique la plus proche pouvant proposer le produit que tu recherches.
+
+ 
+
+Plus précisément, elles nous permettent de faire les choses suivantes :
+
+ 
+
+§  Publicité de tiers
+
+Cette technologie est utilisée pour partager les données des consommateurs collectées avec des plateformes publicitaires et des éditeurs tiers (non adidas). Par exemple : partager des informations avec nos partenaires comme facebook afin que nous puissions utiliser les données pour nos publicités sur facebook – pas pour que facebook puisse les communiquer à d'autres annonceurs ou vendeurs de données, etc.
+
+ 
+
+§  Suivi du comportement - MARKETING
+
+Cette technologie est utilisée pour collecter les données des appareils des consommateurs et les comportements de navigation web connexes (p. ex. clickstream)
+
+ 
+
+§  Analyse des performances marketing
+
+Cette technologie est utilisée pour suivre le comportement d'un consommateur sur le site ou l'application afin d'améliorer la performance de nos activités marketing.
+
+ 
+
+§  Analyse de précision marketing
+
+Cette technologie est utilisée pour analyser le comportement et les préférences des consommateurs pour leur proposer des publicités et messages numériques plus précis et personnalisés, ainsi que d'autres ROI marketing. Par exemple, les taux de réponse publicitaire — lorsque les données sont utilisées exclusivement pour calculer les taux de réponse (taux de clics) afin d'améliorer l'efficacité de la publicité achetée sur un site autre que le site de destination.
+
+ 
+
+§  RTB – Real Time Bidding (enchères en temps réel)
+
+Cette technologie permet les enchères en temps réel (« RTB »).
+
+ 
+
+§  Suivi de plusieurs appareils
+
+Nous utilisons Google Analytics pour collecter les données des appareils des consommateurs et les comportements de navigation Web connexes sur tous les appareils (p. ex., téléphone portable / tablette / ordinateur) sur lesquels tu utilises le même identifiant (identifiant de l'appareil ou identifiant du consommateur), par exemple en suivant les consommateurs qui consultent nos produits depuis un téléphone, puis se reconnectent pour effectuer des achats à partir d'une tablette ou d'un ordinateur portable. Nous le faisons pour améliorer l'efficacité de nos différents canaux marketing.
+
+ 
+
+BASE JURIDIQUE
+
+Consentement
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL
+
+Informations d'identité (quand adidas y a accès)
+
+Informations de navigation
+
+Informations sur l'appareil mobile
+
+Informations de localisation : celles-ci sont recueillies en observant ton comportement de navigation
+
+Informations d'adhésion (quand adidas y a accès)
+
+Informations de préférence et comportementales (si adidas y a accès)
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Session de navigation jusqu'à 24 mois
+
+À tout moment
+
+Tu peux supprimer manuellement ces cookies en suivant les instructions fournies par le navigateur que tu utilises dans les paramètres du navigateur.
+
+ 
+
+Tealium [utag_main]
+
+Nous utilisons Tealium [utag_main] pour respecter la période de conservation définie pour chaque cookie. Si tu supprimes, bloques manuellement ou restreins de quelque manière que ce soit notre utilisation de [utag_main], les cookies peuvent être stockés dans ton navigateur pendant une période différente de la période de conservation prévue dans cet Avis et dans le Répertoire des cookies.
+
+ 
+
+Pour plus d'informations sur tous les cookies que nous utilisons sur cette plateforme, consulte notre Répertoire des cookies : ICI.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+Fournisseurs d'assistance pour l'administration du site
+
+Fournisseurs de services de conseils commerciaux
+
+Fournisseurs de solutions d'analyse des données
+
+Partenaires d'agences publicitaires
+
+Réseaux sociaux
+
+Fournisseurs de services marketing ciblés
+
+ 
+
+5.2.         Exploiter la boutique en ligne adidas et les plateformes adidas
+
+ 
+
+                                           5.2.a.      Fonctionnement des sites et applis
+
+TRAITEMENT
+
+Nous vérifions tout le trafic vers nos sites et applis, et analysons les données reçues par nos serveurs pour : a) faire fonctionner les sites connectés à notre domaine et nos applis, b) réparer les bugs pour s'assurer que la mise en forme et le design sont correctement affichés, c) réparer les bugs pour s'assurer que les sites et les applications fonctionnent correctement, et d) surveiller le respect de nos Conditions générales.
+
+ 
+
+BASE JURIDIQUE          
+
+Intérêt légitime
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d'identité
+
+Coordonnées
+
+Informations de navigation
+
+Informations sur l'appareil mobile 
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Session de navigation
+
+Nous avons besoin de tes données tant que tu es sur le site. Nous les conservons pendant la durée de ta session de navigation.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+Fournisseurs d'assistance pour l'administration du site
+
+ 
+
+                                           5.2.b.      Sécurité du domaine et du réseau et authentification utilisateur
+
+TRAITEMENT
+
+Afin de protéger nos domaines, détecter les activités inhabituelles, prévenir les menaces pour la sécurité et protéger les visiteurs de notre site de tous accès non autorisés (notamment de hackers), nous contrôlons tout le trafic vers nos sites, et authentifions les informations de connexion utilisateur en utilisant des jetons pour vérifier les détails que tu nous fournis et les comparer avec les autres informations disponibles, comme les références que tu nous as fournies directement ou par le biais d'autres plateformes (telles que Runtastic ou Facebook) ou les informations disponibles dans le domaine public pour assurer que seuls les utilisateurs « autorisés » aient accès à nos sites.
+
+ 
+
+reCAPTCHA
+
+Nous utilisons le système reCaptcha exploité par Google sur nos sites Web et nos applis pour authentifier l'identité de l'utilisateur et protéger nos plateformes contre les logiciels malveillants (ou connus sous le nom de « bot ») qui pourraient se livrer à des activités abusives sur nos plateformes. reCAPTCHA fonctionne en recueillant des informations sur ton matériel et tes logiciels (par exemple, les données sur l'appareil et l'application). Ces données sont partagées avec Google pour analyse. Les données saisies par reCAPTCHA sont également soumises à la Politique de confidentialité et aux Conditions d'utilisation de Google.
+
+ 
+
+BASE JURIDIQUE          
+
+Intérêt légitime
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d'identité
+
+Coordonnées
+
+Informations de navigation
+
+Informations sur l'appareil mobile 
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Session de navigation
+
+Nous avons besoin de tes données tant que tu es sur le site. Nous les conservons pendant la durée de ta session de navigation.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+Fournisseurs d'assistance pour l'administration du site
+
+ 
+
+                                           5.2.c.      Connexion continue
+
+TRAITEMENT
+
+Si tu choisis de rester connecté(e) en continu, tu n'es pas obligé(e) de te connecter à chaque fois que tu visites le site Web d'adidas pendant un délai maximum de 30 jours. Tes Données à caractère personnel seront utilisées par le site Web d'adidas pour afficher tes informations personnelles : ton adresse e-mail sera utilisée pendant le processus de paiement pour t'informer de l'adresse e-mail qui sera utilisée pour la confirmation de commande, ton prénom sera utilisé à des fins de personnalisation et ton identifiant unique pourra être utilisé pour les analyses frontend. Note qu'aucun statut de consentement ne sera enregistré.
+
+Ces informations de profil de base seront stockées pendant un maximum de 30 jours dans le navigateur utilisé pour la connexion par le biais d'un jeton d'accès. Le jeton d'accès est un cookie HTTP uniquement. Le jeton est valide pendant 20 minutes si la fonction « Rester connecté » a été sélectionnée. Une fois le jeton expiré, il n'est plus possible d'accéder aux informations personnelles, ainsi la session de connexion est terminée. Pour les connexions continues, nous stockons également un jeton de rafraîchissement dans le navigateur qui peut être utilisé pour rafraîchir le jeton d'accès dans un délai de 30 jours et prolonger le délai de connexion de la session de cette manière. Si ce jeton de rafraîchissement est manquant (si tu n'as pas choisi de rester connecté(e) en continu ou si les cookies ont été effacés), le jeton d'accès ne peut pas être actualisé. Par conséquent, ta session ne peut plus être prolongée et tu ne seras plus connecté(e).
+
+Remarque : si tu as choisi la connexion continue, tes coordonnées personnelles peuvent être exposées à un tiers non autorisé si tu oublies de te déconnecter de la connexion continue depuis un appareil accessible au public.
+
+ 
+
+BASE JURIDIQUE          
+
+Intérêt légitime
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d'identité
+
+Coordonnées
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Les informations seront conservées dans ton navigateur pendant un maximum de 30 jours. Tu peux supprimer les données toi-même en effaçant les cookies de ton navigateur ou en sélectionnant l'option « Se déconnecter de tous mes appareils » dans la section de ton compte.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+Fournisseurs d'assistance pour l'administration du site
+
+ 
+
+                                           5.2.d.      Vente des produits adidas - Commandes en ligne et hors ligne
+
+TRAITEMENT
+
+Pour traiter tes commandes en ligne et/ou au sein de l'application, te proposer différentes options de paiement, créer un processus de paiement fluide, assurer que ton paiement soit reçu, en respect des exigences de nos Conditions générales (3. Conditions d'achat) (pour te vendre les produits) y compris concernant le traitement des factures, la livraison, les services de personnalisation, les échanges et remboursements et Click & Collect. Ta commande ne peut pas être finalisée si nos solutions de détection des fraudes de paiement signalent ta transaction comme étant suspecte et potentiellement frauduleuse. Note que le système de détection des fraudes de paiement est un processus de prise de décisions automatisé. Il est nécessaire pour nous permettre de conclure le contrat avec toi. Tu as le droit de demander une vérification humaine de cette décision, et de la contester.
+
+ 
+
+BASE JURIDIQUE          
+
+Exécution contractuelle
+
+Intérêt légitime
+
+Obligation légale
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d'identité
+
+Coordonnées
+
+Informations de localisation
+
+Mensurations
+
+Informations de paiement, d'achat et de transaction
+
+Correspondances
+
+Informations de navigation
+
+Informations sur l'appareil mobile
+
+Informations sur l'administration des adhésions (lorsque l'adhésion à la marque adidas s'applique / si adidas en dispose)
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Durée du contrat et période de limitation obligatoire (10 ans). Nous devons conserver les informations en cas de contentieux juridique concernant le contrat.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+Partenaires commerciaux (le cas échéant)
+
+Fournisseurs de production
+
+Fournisseurs de services de livraison
+
+Fournisseurs de solutions de lutte contre les risques liés aux paiements
+
+Fournisseurs de traitement des paiements
+
+ 
+
+                                           5.2.e.      Enrichissement et amélioration de ton expérience d'achat numérique
+
+TRAITEMENT
+
+Lorsque tu fais des achats sur différentes plateformes d'achat numérique adidas (site Web adidas, et appli adidas), nous recueillons tes Données à caractère personnel pour enrichir et améliorer ton expérience d'achat, de navigation et de paiement. Cela peut inclure de t'aider à trouver la bonne taille, de t'aider à visualiser comment un produit t'ira via nos plateformes numériques, ou lorsque tu interagis avec des plateformes pour toute expérience spécifique que nous mettons à disposition via nos plateformes numériques directement ou via nos appareils numériques dans les magasins de détail.
+
+ 
+
+§  PROFILAGE (PERSONNALISATION)
+
+Nous créons un profil te concernant en regroupant toutes les informations que tu nous as fournies directement ou indirectement. Cela nous permet d'établir une interaction personnalisée avec toi sur la base de nos interactions passées et d'autres informations que nous pouvons utiliser pour savoir ce que tu aimes ou n'aimes pas. Lorsque tu te connectes ou consultes notre boutique en ligne à l'aide d'une adresse e-mail enregistrée, nous pouvons ensuite afficher les articles spécialement sélectionnés pour toi en fonction de ton profil.
+
+ 
+
+§  Data Enrichment
+
+We create a single, unified consumer profile of you by matching all personal data which you can be identified. This includes personal data we collected  directly or indirectly from you across digital media or offline, the feedback you provide to us, your interaction and communication with us through our various platforms and communication channels.
+
+ 
+
+§  Improve data models
+
+We use data science and your profile and personal data to create data models that can help us improve the logic in our analytics activities that give us more insight about your comments and feedback, your interactions, preference and needs in our products and services. We will compare the data model we created using your profile with other similar consumer profiles and categories to further predict and analyse your preference.
+
+ 
+
+ 
+
+§  RECOMMANDATION SUR LA TAILLE
+
+Pour t'aider à trouver la taille qui correspond le mieux à tes mensurations, nous utilisons des widgets de recommandations de tailles sur notre appli et notre site Web. Le widget te recommandera la taille appropriée pour un certain produit adidas en utilisant des algorithmes d'apprentissage automatique. Le widget associera les mensurations que tu nous as fournies avec les informations sur les produits adidas, les détails de ton panier et l'historique de tes achats (s'ils sont disponibles) afin de te recommander la taille la plus appropriée pour un certain produit adidas. Les recommandations sur la taille sont fournies par un prestataire tiers.
+
+ 
+
+BASE JURIDIQUE          
+
+Intérêt légitime
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Mensurations
+
+Informations sur le comportement et les préférences
+
+Informations de paiement, d'achat et de transaction
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Nous les conservons tant que tu ne supprimes pas tes données.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Prestataires de recommandations sur la taille
+
+ 
+
+§  EXPÉRIENCE D'ESSAYAGE PAR RÉALITÉ AUGMENTÉE ET RECHERCHE VISUELLE
+
+Sur nos applications, nous te donnons la possibilité d'utiliser ton appareil photo à différentes fins : pour voir comment certains produits adidas t'iraient grâce à la fonctionnalité de réalité augmentée (RA), et pour rechercher les produits adidas par image. À cette fin, nous proposons des kits de développement logiciel tiers (SDK) sur nos applications. Nous te demanderons ta permission avant d'utiliser ton appareil photo pour essayer cette fonction. Nous ne stockerons aucune photo ou vidéo de ton appareil photo. Nous analyserons ensuite comment tu utilises la fonction de RA pour améliorer notre conception de l'expérience utilisateur afin de nous assurer que tu continues d'interagir avec nous sur nos applications.
+
+ 
+
+§  Assistant shopping IA
+
+Si tu décides d’utiliser le Assistant shopping IA widget, toutes les informations que tu fournis dans le widget seront traitées par l’intelligence artificielle pour t'aider à trouver la chaussure que tu recherches. Nous n’avons pas besoin de données personnelles pour t’aider à trouver le produit ; cependant, tes INFORMATIONS DE NAVIGATION seront traitées à des fins d’optimisation des performances internes (du widget et du service client). Les informations fournies dans le widget ne sont pas stockées avec ton profil d’adhésion (le cas échéant).
+
+ 
+
+BASE JURIDIQUE          
+
+Intérêt légitime
+
+Consentement (Assistant shopping IA)
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Mensurations
+
+Informations sur le comportement et les préférences
+
+Informations de navigation (Assistant shopping IA)
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Nous les conservons tant que tu ne supprimes pas tes données.
+
+Assistant shopping IA : 14 Jours
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Prestataires de services de réalité augmentée
+
+Prestataires de recherche visuelle
+
+ 
+
+                                            5.2.f.      Détection des fraudes de paiement
+
+TRAITEMENT
+
+Nous collectons ton adresse IP, les données relatives à ton appareil, ton navigateur, ta connexion et ton comportement lorsque tu visites les sites adidas en utilisant le SDK JavaScript de notre fournisseur de solutions de lutte contre les risques liés aux paiements (Payment Risk Solution, « PRS ») (remarque : SDK signifie « Software Development Kit » [Kit de développement logiciel]). Ces données seront étiquetées avec un identifiant utilisateur généré par le fournisseur de PRS (« ID PRS ») et stockées sur le serveur du fournisseur de PRS. Si tu n’achètes rien pendant ta session de navigation, les données seront stockées sur le serveur du fournisseur pendant une durée maximale d’un an. Elles ne seront toutefois pas utilisées pour un algorithme ou un modèle de décision.
+
+ 
+
+Si tu décides d’acheter quelque chose pendant ta session de navigation, les informations que tu nous fournis dans le cadre du processus de paiement, y compris tes : informations d’identité, coordonnées, informations de paiement, d’achat et de transaction (y compris des informations partielles de la carte de crédit) seront également divulguées au fournisseur de PRS via une Interface de programmation d’application (Application Programming Interface, API). Ces données seront étiquetées avec le même ID PRS que les autres informations collectées pendant ta session de navigation. Toutes les données avec le même ID PRS seront traitées par les modèles d’apprentissage automatique de notre fournisseur de PRS et renvoyées avec une recommandation de transaction. La recommandation est émise en temps réel ; cependant, adidas peut examiner et remplacer manuellement toute recommandation automatisée fournie par la solution PRS.
+
+ 
+
+Les informations recueillies par notre fournisseur de PRS seront également utilisées pour former le modèle et l’algorithme d’apprentissage automatique du fournisseur de PRS et pour fournir des recommandations aux autres clients du fournisseur de PRS.
+
+ 
+
+BASE JURIDIQUE          
+
+Exécution contractuelle
+
+Intérêt légitime : d’adidas ainsi que d’autres clients des fournisseurs de PSR pour détecter et prévenir les fraudes de paiements
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d’identité
+
+Coordonnées
+
+Informations de paiement, d’achat et de transaction
+
+Informations de navigation
+
+Informations sur l’appareil mobile
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Toutes les catégories de données à caractère personnel des clients ayant acheté auprès d’adidas au cours de la session de navigation : stockées par le fournisseur de PRS pendant la durée du contrat avec adidas
+
+Informations de navigation des clients qui n’ont pas acheté pendant la session de navigation : conservées par le fournisseur de PRS pendant 2 semaines (jusqu’à 1 an dans des cas exceptionnels)
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+Fournisseurs de solutions de lutte contre les risques liés aux paiements
+
+Fournisseurs de traitement des paiements
+
+Fournisseurs de solutions cloud informatiques
+
+                                           5.2.g.      Livraison des produits
+
+TRAITEMENT
+
+Une fois que tu as passé une commande avec succès, nous utilisons tes coordonnées (domicile et/ou adresse d'expédition) et d'autres informations de paiement, d'achat et de transaction pour te livrer les produits que tu as achetés.
+
+ 
+
+BASE JURIDIQUE          
+
+Exécution contractuelle
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d'identité : Nom
+
+Coordonnées : Adresse de livraison
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Durée du contrat et période de limitation obligatoire. Nous devons conserver les informations en cas de contentieux juridique concernant le contrat.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+Prestataires de services
+
+Fournisseurs de solutions cloud informatiques
+
+ 
+
+                                           5.2.h.      Suivi de livraison électronique
+
+TRAITEMENT
+
+Ce service est fourni par nos Fournisseurs de services de livraison et est soumis à la disponibilité du Fournisseur de services de livraison qui dessert ton adresse de livraison. Selon le Fournisseur de services de livraison, tu peux avoir la possibilité de suivre ta commande en utilisant les services fournis directement par nos partenaires de livraison. Ce service est fourni sur la base de l'intérêt légitime de nos clients afin qu'ils puissent organiser la réception de leurs colis. Cependant, avec certains prestataires de services, cela est uniquement possible avec ton consentement. Le service est hébergé sur la plateforme du Partenaire de livraison. Nous te conseillons de lire sa Politique de confidentialité pour le traitement de tes Données à caractères personnelles à cette fin.
+
+ 
+
+BASE JURIDIQUE          
+
+Intérêt légitime / et, le cas échéant, consentement
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d'identité : adresse e-mail
+
+Coordonnées : numéro de téléphone
+
+Toute autre information que tu peux directement et volontairement fournir au Partenaire de livraison
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Tel que déterminé par notre Partenaire de livraison.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Fournisseurs de services de livraison
+
+                                             5.2.i.      Analyse opérationnelle des activités
+
+TRAITEMENT
+
+Nous devons connaître nos performances en tant qu'entreprise. Ceci est dans l'intérêt de nos actionnaires, des membres de notre conseil d'administration, de nos employés et de nos partenaires, ainsi que de nos clients. Nous créons des modèles de données à différentes fins d'analyses et réalisons des analyses sur la base de ces modèles de données afin de comprendre comment nos produits se vendent sur différents marchés, quelles sont les caractéristiques populaires de nos produits, ce qui a fonctionné et ce qui n'a pas fonctionné en ce qui concerne nos campagnes de publicité et marketing, nos conceptions de produits et notre stratégie de distribution, la conception de notre site Web et l'expérience utilisateur dans son ensemble, afin de nous permettre d'établir, de mettre en œuvre et d'évaluer notre stratégie commerciale.
+
+ 
+
+Cela inclut, par exemple, l'analyse de données pour comprendre comment les utilisateurs parcourent notre site et utilisent l'appli afin d'améliorer la conception de notre expérience utilisateur pour nous assurer que tu continues d'acheter nos produits et d'interagir avec nous via nos sites et applications.
+
+Nous supprimons toute information d'identité qui t'identifierait directement (par exemple, ton nom et ton adresse e-mail), et nous utilisons seulement notre adresse IP d'identification interne unique pour minimiser tout risque potentiel pour ta vie privée.
+
+ 
+
+§  PROFILAGE (PERSONNALISATION)
+
+Nous créons un profil te concernant en regroupant toutes les informations que tu nous as fournies directement ou indirectement. Cela nous permet d'établir une interaction personnalisée avec toi sur la base de nos interactions passées et d'autres informations que nous pouvons utiliser pour savoir ce que tu aimes ou n'aimes pas. Lorsque tu te connectes ou consultes notre boutique en ligne à l'aide d'une adresse e-mail enregistrée, nous pouvons ensuite afficher les articles spécialement sélectionnés pour toi en fonction de ton profil.
+
+ 
+
+§  ENRICHISSEMENT DES DONNÉES
+
+Nous créons un profil client unique en faisant correspondre toutes les données personnelles te correspondant. Cela inclut les données personnelles que nous avons recueillies directement ou indirectement sur les médias numériques ou hors ligne, les commentaires que tu nous fournis, tes interactions et ta communication avec nous par le biais de nos différentes plateformes et canaux de communication.
+
+ 
+
+§  AMÉLIORER LES MODÈLES DE DONNÉES
+
+Nous utilisons la science des données, ton profil et tes données personnelles pour créer des modèles de données qui peuvent nous aider à améliorer la logique de nos activités d'analyse, lesquelles nous aident à mieux comprendre tes commentaires et ton feedback, tes interactions, tes préférences et tes besoins en ce qui concerne nos produits et nos services. Nous comparerons le modèle de données que nous avons créé en utilisant ton profil avec d'autres profils et catégories de consommateurs similaires afin de mieux prévoir et analyser tes préférences.
+
+ 
+
+Pour en savoir plus sur la manière dont nos Fournisseurs de solutions d'analyse des données fournissent des services d'analyse en utilisant tes données, rends-toi ici :
+
+ 
+
+Recueil de données d'Adobe Analytics : https://experienceleague.adobe.com/docs/analytics/technotes/privacy-overview.html?lang=fr
+
+ 
+
+Recueil de données de Google Analytics :
+
+https://support.google.com/analytics/answer/6318039?hl=fr
+
+ 
+
+BASE JURIDIQUE          
+
+Intérêt légitime
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d'identité : identifiant de consommateur unique (uniquement)
+
+Mensurations
+
+Informations sur le comportement et les préférences
+
+Informations de localisation
+
+Informations de paiement, d'achat et de transaction
+
+Informations sur l'activité physique
+
+Informations de navigation
+
+Informations sur l'appareil mobile
+
+Correspondances
+
+Interactions et activités sur les réseaux sociaux
+
+Opinion personnelle
+
+Informations sur l'administration des adhésions (lorsque l'adhésion à la marque adidas s'applique / si adidas y a accès)
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Lorsque nous utilisons les services d'analyse fournis par les fournisseurs identifiés ci-dessus, nous devons conserver les données pour la période spécifiée par ces fournisseurs. Tu peux trouver la durée de conservation indiquée par les fournisseurs ici :
+
+ 
+
+Adobe Analytics : 36 mois (https://experienceleague.adobe.com/docs/analytics/technotes/data-retention.html?lang=fr)
+
+ 
+
+Google Analytics : 38 mois
+
+(https://support.google.com/analytics/answer/7667196?hl=fr)
+
+ 
+
+Nous avons besoin des informations pendant cette durée afin de produire une analyse précise de nos opérations commerciales.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+Acheteurs et investisseurs potentiels
+
+Fournisseurs de services de conseils commerciaux
+
+Fournisseurs de solutions d'analyse des données
+
+Fournisseurs de solutions cloud informatiques
+
+                                             5.2.j.      Service client
+
+TRAITEMENT
+
+Nous recueillons tes Données à caractère personnel pour répondre à tes questions concernant ta commande, t'informer lorsque le produit que tu aimes est disponible si tu le demandes et répondre à tes questions et préoccupations par le biais de différents canaux de communication que nous mettons à ta disposition, y compris si tu nous contactes pour toute question concernant tes droits en matière de Données à caractère personnel. Tes demandes à notre service client seront analysées afin que nous puissions te fournir un service utile à l'avenir. Nous pouvons enregistrer nos conversations téléphoniques avec toi à des fins d'assurance qualité uniquement si tu acceptes l'enregistrement.
+
+ 
+
+§  ENRICHISSEMENT DES DONNÉES
+
+Nous créons un profil client unique en faisant correspondre toutes les données personnelles te correspondant. Cela inclut les données personnelles que nous avons recueillies directement ou indirectement sur les médias numériques ou hors ligne, les commentaires que tu nous fournis, tes interactions et ta communication avec nous par le biais de nos différentes plateformes et canaux de communication.  
+
+ 
+
+§  AMÉLIORER LES MODÈLES DE DONNÉES
+
+Nous utilisons la science des données, ton profil et tes données personnelles pour créer des modèles de données qui peuvent nous aider à améliorer la logique de nos activités d'analyse, lesquelles nous aident à mieux comprendre tes commentaires et ton feedback, tes interactions, tes préférences et tes besoins en ce qui concerne nos produits et nos services. Nous comparerons le modèle de données que nous avons créé en utilisant ton profil avec d'autres profils et catégories de consommateurs similaires afin de mieux prévoir et analyser tes préférences.
+
+ 
+
+BASE JURIDIQUE          
+
+Intérêt légitime
+
+Consentement (pour l'enregistrement de nos conversations téléphoniques)
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d'identité
+
+Coordonnées
+
+Informations de localisation
+
+Mensurations
+
+Informations de paiement, d'achat et de transaction
+
+Correspondances
+
+Informations sur l'administration des adhésions (lorsque l'adhésion à la marque adidas s'applique / si adidas y a accès)
+
+Images et enregistrements (avec ton consentement uniquement)
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Période de limitation obligatoire : 2 ans
+
+Nous devons conserver les informations en cas de contentieux juridique.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+Partenaires commerciaux (le cas échéant)
+
+Fournisseurs de services de livraison
+
+Fournisseurs de solutions de lutte contre les risques liés aux paiements
+
+Fournisseurs de traitement des paiements
+
+Fournisseurs de solutions cloud informatiques
+
+5.3.         Afficher des publicités ciblées et envoyer des messages marketing individualisés
+
+ 
+
+                                           5.3.a.      Messages marketing personnalisés par e-mail (inscription à la newsletter)
+
+TRAITEMENT
+
+Nous t'envoyons des messages marketing qui, selon nous, t'intéresseront (« personnalisés ») à l'adresse e-mail que tu nous as fournie ou par le biais des notifications push lorsque tu as installé notre appli. Pour t'envoyer des messages « personnalisés », nous observons ton comportement en ligne (et parfois, le cas échéant, hors ligne), et analysons ton comportement afin d'estimer au mieux quelles gammes de produits pourraient t'intéresser, et desquelles tu pourrais bénéficier. Cela nécessite que nous recueillions diverses catégories de Données à caractère personnel auprès de toi. Nous utilisons différents outils d'analyse pour comprendre ce que signifie ton comportement en ce qui concerne ton appréciation et ton aversion pour nos diverses gammes de produits, et pour comprendre l'impact (taux de réussite) des messages t'étant livrés.
+
+ 
+
+§  PROFILAGE (GESTION DE L’AUDIENCE)
+
+Nous créons un profil te concernant en regroupant toutes les informations que tu nous as fournies directement ou indirectement. Cela nous permet d'établir une interaction personnalisée avec toi sur la base de nos interactions passées et d'autres informations que nous pouvons utiliser pour savoir ce que tu aimes ou n'aimes pas. Nous utilisons les technologies de gestion d'audience pour nous assurer que les bons messages et informations te parviennent au bon moment via le bon canal. Cela inclut l'envoi de messages marketing d'offres et de produits ou la communication via les médias numériques par le biais de publicités sur les plateformes de la marque adidas. Le niveau de personnalisation dépend de la permission que tu nous as donnée.
+
+ 
+
+§  ANALYSES MARKETING
+
+Nous utilisons tes données à différentes fins d'analyse pour mieux comprendre : a) comment tu navigues sur nos plateformes et les utilises ; b) les produits qui t'intéressent ; c) les caractéristiques de nos produits et plateformes que tu aimes ; d) la qualité de nos services, y compris le service client, les campagnes marketing et publicitaires s'adressant à toi, et ta réaction à ces services ; e) la conception de nos produits et sites web ; f) et si l'expérience utilisateur globale a fonctionné pour toi ou non. Nous utilisons cette analyse pour améliorer la pertinence de notre communication marketing et la qualité de notre expérience de personnalisation sur l'ensemble de nos canaux et plateformes.
+
+ 
+
+§  ENRICHISSEMENT DES DONNÉES
+
+Nous créons un profil client unique en faisant correspondre toutes les données personnelles te correspondant. Cela inclut les données personnelles que nous avons recueillies directement ou indirectement sur les médias numériques ou hors ligne, les commentaires que tu nous fournis, tes interactions et ta communication avec nous par le biais de nos différentes plateformes et canaux de communication.
+
+ 
+
+§  AMÉLIORER LES MODÈLES DE DONNÉES
+
+Nous utilisons la science des données, ton profil et tes données personnelles pour créer des modèles de données qui peuvent nous aider à améliorer la logique de nos activités d'analyse, lesquelles nous aident à mieux comprendre tes commentaires et ton feedback, tes interactions, tes préférences et tes besoins en ce qui concerne nos produits et nos services. Nous comparerons le modèle de données que nous avons créé en utilisant ton profil avec d'autres profils et catégories de consommateurs similaires afin de mieux prévoir et analyser tes préférences.
+
+ 
+
+BASE JURIDIQUE          
+
+Consentement
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d'identité
+
+Coordonnées
+
+Informations de localisation
+
+Mensurations (si adidas y a accès)
+
+Informations de paiement, d'achat et de transaction (si adidas y a accès)
+
+Interactions et activités sur les réseaux sociaux (si adidas y a accès)
+
+Informations sur l'activité physique (si adidas y a accès)
+
+Informations de navigation
+
+Informations sur l'appareil mobile
+
+Informations de préférence et comportementales (si adidas y a accès)
+
+Informations sur l'administration des adhésions (lorsque l'adhésion à la marque adidas s'applique / si adidas y a accès)
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Nous les conservons tant que tu ne retires pas ton consentement à ce que l'on t'envoie des e-mails ou que tu n'exprimes pas ton refus à notre encontre quant au traitement de tes Données à caractère personnel à des fins marketing.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG 
+
+Fournisseurs d'assistance marketing par e-mail
+
+Fournisseurs de solutions cloud informatiques
+
+                                           5.3.b.      Messages marketing personnalisés par e-mail (via un contrat existant)
+
+TRAITEMENT
+
+Lorsque tu achètes nos produits ou conclues n'importe quel contrat avec nous, nous considérons qu'il s'agit d'une manifestation de tes intérêts pour nos produits, services, promotions et diverses offres. Nous t'envoyons des messages marketing qui, selon nous, t'intéresseront (« personnalisés ») à l'adresse e-mail que tu nous as fournie ou par le biais des notifications push lorsque tu as installé notre appli. Pour t'envoyer des messages « personnalisés », nous observons ton comportement en ligne (et parfois, le cas échéant, hors ligne), et analysons ton comportement afin d'estimer au mieux quelles gammes de produits pourraient t'intéresser, et desquelles tu pourrais bénéficier. Cela nécessite que nous recueillions diverses catégories de Données à caractère personnel auprès de toi. Nous utilisons différents outils d'analyse pour comprendre ce que signifie ton comportement en ce qui concerne ton appréciation et ton aversion pour nos diverses gammes de produits, et pour comprendre l'impact (taux de réussite) des messages t'étant livrés.
+
+ 
+
+§  PROFILAGE (GESTION DE L’AUDIENCE)
+
+Nous créons un profil te concernant en regroupant toutes les informations que tu nous as fournies directement ou indirectement. Cela nous permet d'établir une interaction personnalisée avec toi sur la base de nos interactions passées et d'autres informations que nous pouvons utiliser pour savoir ce que tu aimes ou n'aimes pas. Nous utilisons les technologies de gestion d'audience pour nous assurer que les bons messages et informations te parviennent au bon moment via le bon canal. Cela inclut l'envoi de messages marketing d'offres et de produits ou la communication via les médias numériques par le biais de publicités sur les plateformes de la marque adidas. Le niveau de personnalisation dépend de la permission que tu nous as donnée.
+
+ 
+
+§  ANALYSES MARKETING
+
+Nous utilisons tes données à différentes fins d'analyse pour mieux comprendre : a) comment tu navigues sur nos plateformes et les utilises ; b) les produits qui t'intéressent ; c) les caractéristiques de nos produits et plateformes que tu aimes ; d) la qualité de nos services, y compris le service client, les campagnes marketing et publicitaires s'adressant à toi, et ta réaction à ces services ; e) la conception de nos produits et sites web ; f) et si l'expérience utilisateur globale a fonctionné pour toi ou non. Nous utilisons cette analyse pour améliorer la pertinence de notre communication marketing et la qualité de notre expérience de personnalisation sur l'ensemble de nos canaux et plateformes.
+
+ 
+
+§  ENRICHISSEMENT DES DONNÉES
+
+Nous créons un profil client unique en faisant correspondre toutes les données personnelles te correspondant. Cela inclut les données personnelles que nous avons recueillies directement ou indirectement sur les médias numériques ou hors ligne, les commentaires que tu nous fournis, tes interactions et ta communication avec nous par le biais de nos différentes plateformes et canaux de communication.
+
+ 
+
+§  AMÉLIORER LES MODÈLES DE DONNÉES
+
+Nous utilisons la science des données, ton profil et tes données personnelles pour créer des modèles de données qui peuvent nous aider à améliorer la logique de nos activités d'analyse, lesquelles nous aident à mieux comprendre tes commentaires et ton feedback, tes interactions, tes préférences et tes besoins en ce qui concerne nos produits et nos services. Nous comparerons le modèle de données que nous avons créé en utilisant ton profil avec d'autres profils et catégories de consommateurs similaires afin de mieux prévoir et analyser tes préférences.
+
+ 
+
+BASE JURIDIQUE          
+
+Intérêt légitime
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d'identité
+
+Coordonnées
+
+Informations de localisation
+
+Mensurations (si adidas y a accès)
+
+Informations de paiement, d'achat et de transaction (si adidas y a accès)
+
+Interactions et activités sur les réseaux sociaux (si adidas y a accès)
+
+Informations sur l'activité physique (si adidas y a accès)
+
+Informations de navigation
+
+Informations sur l'appareil mobile
+
+Informations de préférence et comportementales (si adidas y a accès)
+
+Informations sur l'administration des adhésions (lorsque l'adhésion à la marque adidas s'applique / si adidas y a accès)
+
+ 
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Nous les conservons tant que tu ne retires pas ton consentement à ce que l'on t'envoie des e-mails ou que tu n'exprimes pas ton refus à notre encontre quant au traitement de tes Données à caractère personnel à des fins marketing.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG 
+
+Fournisseurs d'assistance marketing par e-mail
+
+Fournisseurs de solutions cloud informatiques
+
+ 
+
+                                           5.3.c.      Messages ciblés sur des plateformes publicitaires tierces
+
+TRAITEMENT
+
+Nous utilisons des plateformes publicitaires tierces comme Facebook, Google, YouTube, Instagram, etc. pour t'envoyer des messages ciblés, sur la base de ton comportement et de tes habitudes en matière de navigation, à des moments et endroits spécifiques de ces plateformes afin d'accroître l'efficacité de nos campagnes de publicité. Pour ce faire, nous partageons tes Données à caractère personnel avec nos Partenaires d'agences publicitaires ainsi qu'avec les réseaux sociaux. Nous utilisons des solutions tierces comme Google Analytics et Facebook Business Manager pour nous aider à mieux cibler nos campagnes et messages pour nos clients. Les réseaux sociaux essaieront d'associer ton profil à leur base de données afin de déterminer le moment et l'endroit optimaux (la page que tu parcours) pour te montrer une publicité d'adidas. Nous devons aussi analyser les informations nécessaires pour comprendre l'impact de nos campagnes. Si tu n'acceptes pas que nous te suivions dans ce but, tu verras tout de même des publicités d'adidas sur les réseaux sociaux et d'autres plateformes tierces de manière aléatoire. Lis également la Politique de confidentialité sur les réseaux sociaux pour comprendre comment ils utilisent tes Données à caractère personnel à cette fin.
+
+ 
+
+§  PROFILAGE (GESTION DE L’AUDIENCE)
+
+Nous créons un profil te concernant en regroupant toutes les informations que tu nous as fournies directement ou indirectement. Cela nous permet d'établir une interaction personnalisée avec toi sur la base de nos interactions passées et d'autres informations que nous pouvons utiliser pour savoir ce que tu aimes ou n'aimes pas. Nous utilisons les technologies de gestion d'audience pour nous assurer que les bons messages et informations te parviennent au bon moment via le bon canal. Cela inclut l'envoi de messages marketing d'offres et de produits ou la communication via les médias numériques par le biais de publicités sur les plateformes de la marque adidas. Le niveau de personnalisation dépend de la permission que tu nous as donnée.
+
+ 
+
+§  ANALYSES MARKETING
+
+Nous utilisons tes données à différentes fins d'analyse pour mieux comprendre : a) comment tu navigues sur nos plateformes et les utilises ; b) les produits qui t'intéressent ; c) les caractéristiques de nos produits et plateformes que tu aimes ; d) la qualité de nos services, y compris le service client, les campagnes marketing et publicitaires s'adressant à toi, et ta réaction à ces services ; e) la conception de nos produits et sites web ; f) et si l'expérience utilisateur globale a fonctionné pour toi ou non. Nous utilisons cette analyse pour améliorer la pertinence de notre communication marketing et la qualité de notre expérience de personnalisation sur l'ensemble de nos canaux et plateformes.
+
+ 
+
+§  ENRICHISSEMENT DES DONNÉES
+
+Nous créons un profil client unique en faisant correspondre toutes les données personnelles te correspondant. Cela inclut les données personnelles que nous avons recueillies directement ou indirectement sur les médias numériques ou hors ligne, les commentaires que tu nous fournis, tes interactions et ta communication avec nous par le biais de nos différentes plateformes et canaux de communication.
+
+ 
+
+§  AMÉLIORER LES MODÈLES DE DONNÉES
+
+Nous utilisons la science des données, ton profil et tes données personnelles pour créer des modèles de données qui peuvent nous aider à améliorer la logique de nos activités d'analyse, lesquelles nous aident à mieux comprendre tes commentaires et ton feedback, tes interactions, tes préférences et tes besoins en ce qui concerne nos produits et nos services. Nous comparerons le modèle de données que nous avons créé en utilisant ton profil avec d'autres profils et catégories de consommateurs similaires afin de mieux prévoir et analyser tes préférences.
+
+ 
+
+Pour en savoir plus sur la manière dont nos Partenaires publicitaires et les réseaux sociaux nous aident à atteindre ce but, consulte leurs sites :
+
+ 
+
+Publicités personnalisées de Google : https://support.google.com/adspolicy/answer/143465?hl=fr
+
+Politiques publicitaires de Google : https://support.google.com/adspolicy/answer/6020956
+
+ 
+
+Audiences similaires Facebook : https://www.facebook.com/business/help/164749007013531
+
+Conditions des audiences personnalisées Facebook : https://www.facebook.com/legal/terms/customaudience
+
+ 
+
+BASE JURIDIQUE          
+
+Consentement
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d'identité
+
+Coordonnées (si adidas y a accès)
+
+Informations de localisation
+
+Mensurations (si adidas y a accès)
+
+Informations de paiement, d'achat et de transaction (si adidas y a accès)
+
+Interactions et activités sur les réseaux sociaux (si adidas y a accès)
+
+Informations sur l'activité physique (si adidas y a accès)
+
+Informations de navigation
+
+Informations sur l'appareil mobile
+
+Informations de préférence et comportementales (si adidas y a accès)
+
+Opinion personnelle
+
+Informations sur l'administration des adhésions (lorsque l'adhésion à la marque adidas s'applique / si adidas y a accès)
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Nous les conservons tant que tu ne retires pas ton consentement.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG 
+
+Partenaires d'agences publicitaires
+
+Réseaux sociaux
+
+Fournisseurs de services marketing ciblés
+
+Fournisseurs de solutions cloud informatiques
+
+ 
+
+                                           5.3.d.      Acquisition de contenu généré par l'utilisateur (user-generated content ou UGC) sur les réseaux sociaux
+
+TRAITEMENT
+
+Nous t'invitons à nous fournir tes images via les réseaux sociaux en suivant des instructions spécifiques comme « #yesadidas ». Nous utilisons les images que tu fournis pour les communications de nos campagnes. Nous obtiendrons les droits de ton image par l'intermédiaire d'un accord de licence prenant la forme de nos conditions générales. En nous soumettant tes images via les réseaux sociaux, tu acceptes que nous utilisions tes images conformément à la description présente dans l'accord de licence.
+
+ 
+
+BASE JURIDIQUE          
+
+Exécution contractuelle
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d'identité : ton pseudo sur les réseaux sociaux
+
+Informations communautaires : images, vidéos, commentaires, enregistrements sonores et autres fichiers fournis via le réseau social faisant la promotion d'adidas
+
+Interactions et activités sur les réseaux sociaux
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Durée de l'accord de licence et période de limitation obligatoire en cas de contentieux.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+Partenaires d'événement (le cas échéant)
+
+Partenaires de prise en charge de l'UGC
+
+Partenaires d'agences publicitaires
+
+Réseaux sociaux
+
+Fournisseurs de solutions cloud informatiques (le cas échéant)
+
+ 
+
+                                           5.3.e.      Notifications push (communications au sein de l'appli)
+
+TRAITEMENT
+
+Lorsque tu utilises l'appli adidas, nous utilisons les notifications push de cette appli pour communiquer avec toi concernant les buts énoncés dans cette Politique. Cela comprend les informations en rapport avec les buts sur la base de l'Exécution contractuelle (comme ton achat). Tu peux désactiver les notifications push à tout moment via les « Paramètres » de tes appareils mobiles. Toutefois, si tu désactives les notifications push, nous pouvons avoir besoin de te contacter par e-mail pour te faire part de messages importants relatifs à ton achat.
+
+ 
+
+BASE JURIDIQUE          
+
+Intérêt légitime
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations de navigation ET informations sur l'appareil mobile
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Tant que tu utilises l'appli et n'as pas désactivé les notifications push.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+ 
+
+                                            5.3.f.      Notification push sur les appareils mobiles en fonction de votre localisation actuelle
+
+TRAITEMENT
+
+Nous devons accéder à tes informations de localisation en temps réel via tes appareils mobiles pour pouvoir t’envoyer des notifications push concernant un événement ou une boutique adidas plus proche de l’endroit où tu te trouves.
+
+ 
+
+Lorsque tu actives le partage de localisation pour l’application adidas, même quand tu n’utilises pas l’application, ou lorsque l’application est fermée, tu permets à l’application adidas de continuer à accéder aux données de localisation de ton appareil mobile en arrière-plan.
+
+ 
+
+adidas met en place un « géorepérage » autour d’un lieu d’intérêt spécifique, comme un magasin ou un événement. Ce périmètre géographique est enregistré auprès du service de localisation qui se trouve sur ton appareil mobile, tel que Google ou Apple. Nous ne recevons pas d’informations sur ta localisation précise en temps réel. Nous ne recevons que les informations fournies par les services de localisation quand ton appareil mobile entre et sort de nos périmètres géographiques.
+
+ 
+
+Appareil Android et service de localisation Google : Nous vérifions toutes les 15 minutes si un appareil est proche de l’un de nos périmètres géographiques. Nous stockons un cache sur ton appareil pour enregistrer la localisation à partir de laquelle la demande a été faite et nous permettre d’invalider le cache stocké sur ton appareil lorsque tu t’éloignes.
+
+Appareil Apple et service de localisation : adidas est informé à chaque fois qu’un utilisateur se déplace de plus de 500 m environ pour nous permettre de réenregistrer les régions par ordre de proximité des utilisateurs (pour parvenir à une limite de 20 régions). Nous conservons temporairement ta dernière localisation connue. Les informations sont supprimées lorsque tu fermes l’application.
+
+ 
+
+BASE JURIDIQUE          
+
+Consentement
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+§  Informations sur l’appareil mobile
+
+Informations sur le Wi-Fi/l’adresse IP
+
+Système d’exploitation
+
+Journal d’activité sur l’appareil
+
+Applications installées sur l’appareil
+
+EUI de l’appareil
+
+ID d’appareil
+
+§  Informations de localisation
+
+Informations en temps réel sur la localisation de l’appareil – Capteurs/Signaux de l’appareil
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Tant que tu ne désactives pas la notification push ou le suivi de localisation.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+ 
+
+5.4.         Administrer les Programmes d'adhésion adidas et organiser des événements et des activités
+
+ 
+
+                                           5.4.a.      Administration des adhésions adiClub
+
+Cette section s'applique lorsque tu crées et enregistres un compte d'adhésion et deviens membre adiClub.
+
+ 
+
+adidas recueille et utilise tes Données à caractère personnel de membre adiClub aux fins suivantes :
+
+ 
+
+1. Le respect des Conditions générales d'adhésion ; et
+
+2. Le profilage pour le contenu personnalisé, l'expérience, les analyses commerciales et marketing et les messages marketing ciblés
+
+ 
+
+1. Respect des Conditions générales d'adhésion
+
+ 
+
+
+Lorsque tu demandes et crées un compte d'adhésion, nous collectons et utilisons tes Données à caractère personnel pour administrer ton compte et nous conformer aux Conditions générales d'adiClub.
+
+ 
+
+Cela inclut ce qui suit :
+
+a.     collecter, stocker et traiter les Données à caractère personnel que tu as fournies dans le formulaire d'inscription pour créer un profil d'adhésion et un compte pour toi ;
+
+b.     assigner un identifiant d'adhésion à ton profil et à ton compte et utiliser l'identifiant d'adhésion ainsi que d'autres informations d'identité que tu as fournies en vue de t'identifier ;
+
+c.     pour stocker les informations de connexion de ton compte d’adhésion sur notre plateforme d’authentification globale pour te permettre de te connecter à toutes les plateformes adidas éligibles (site Internet adidas, application adidas, application CONFIRMED, application adidas Running et application adidas Training) avec une seule combinaison d’informations de connexion ;
+
+d.     afficher ton statut actuel d'adhésion, y compris les informations de ton profil, ton niveau, tes points et d'autres informations pertinentes dans tous les domaines et applications adidas ;
+
+e.     t'envoyer des messages à des fins d'administration de l'adhésion par e-mail, y compris des messages sur l'état de ton compte (passage au niveau supérieur et/ou inférieur), la gestion (récompenses débloquées pour toi et comment les récupérer) et les demandes de maintenance (par exemple, réinitialisation du mot de passe) ;
+
+f.      envoyer des messages à des fins d'administration de l'adhésion via une notification push dans les applications adidas concernant le statut de ton compte (passage au niveau supérieur et/ou inférieur), la gestion (récompenses déverrouillées pour toi) et les demandes de maintenance (par exemple, réinitialisation du mot de passe). Tu peux désactiver les notifications push à tout moment depuis les « Paramètres » de tes appareils mobiles. Toutefois, si tu désactives les notifications push, nous pouvons avoir besoin de te contacter par e-mail pour te faire part de messages importants relatifs à ton adhésion ;
+
+g.     vérifier et utiliser les informations de ton profil et de ton compte dans le but de participer à des défis réservés aux membres et/ou à des tirages au sort. Cela inclura également le partage de tes coordonnées avec des partenaires qui nous aident à administrer les tirages au sort, en particulier dans le cas où tu remportes un prix ;
+
+h.     calculer tes points club afin de t'offrir des récompenses. Cela inclura le partage de tes données avec des partenaires qui nous aident à administrer la récompense, dans le cas où la récompense peut être fournie par l'intermédiaire d'un partenaire ou exclusivement par le partenaire ;
+
+i.       mettre à jour ton statut de points une fois que tu as utilisé des points contre des récompenses ;
+
+j.       garder une trace de ton activité et de ton historique d'échange ;
+
+k.     te donner accès à des offres et promotions spéciales ;
+
+l.      t'envoyer des invitations à des événements exclusifs ;
+
+m.   te donner accès à des produits en édition limitée ;
+
+n.     te fournir les fonctionnalités de base d'adidas running et training (sujettes à changement) dans le cadre de l'offre d'adhésion ;
+
+o.     te donner accès aux fonctionnalités Premium d'adidas running et training offertes en récompense de ton adhésion conformément aux Conditions générales d'adhésion ;
+
+p.     te donner accès aux fonctionnalités Premium d'adidas running et training via un abonnement souscrit auprès de runtastic GmbH ;
+
+q.     stocker ton adresse de livraison et tes informations de paiement afin de raccourcir le temps de passage en caisse en ligne et sur l'appli ;
+
+r.      stocker ton historique de commandes complet afin que tu puisses y accéder à tout moment ;
+
+s.     te permettre de suivre la livraison de ta commande depuis ton compte :
+
+t.      accéder à ton profil d'adhésion et te fournir des services et une assistance, y compris la mise à jour des informations de ton compte conformément à tes instructions, la fourniture d'une assistance et des réponses à tes questions concernant ton compte, tes achats, l'assistance technique pour l'utilisation de nos applications, la réponse à tes questions concernant la confidentialité, lorsque tu contactes adidas par le biais de différents canaux de communication à l'aide de ton identifiant et de ton profil d'adhésion ;
+
+u.     stocker toutes les Données à caractère personnel que nous recueillons auprès de toi, directement ou indirectement, qui ont été identifiées via ton identifiant de membre ou par e-mail avec ton profil d'adhésion, y compris les informations que tu as peut-être partagées dans un magasin et un point de vente de la marque adidas ainsi que dans les magasins franchisés participants d'adidas, afin de permettre le calcul de points et de niveaux permettant d'activer tous les points énumérés ci-dessus ; et
+
+v.      partager des informations à des fins d'administration des adhésions avec les partenaires adiClub et recevoir des données des partenaires adiClub dans le but de gagner des points et des récompenses tel que spécifié dans les Conditions générales. Cela est strictement basé sur ton consentement explicite au moment où les données sont collectées par les partenaires adiClub ; si tu souhaites cesser de partager des données avec le partenaire adiClub ou avec adidas, tu peux retirer ton consentement à tout moment.
+
+w.    examen du statut d’activité de ton compte pour supprimer des comptes inactifs (résiliés) : ton compte est considéré comme inactif au terme de  quatre (4) années durant lesquelles : tu n’as effectué aucun achat, ni visité et/ou utilisé l’une des fonctionnalités de notre site et de nos applications, ni ouvert l’une des communications par e-mail que nous t’avons envoyées, ni apporté des modifications à ton profil, ni interagi avec adidas de quelque manière que ce soit pendant 4 ans. Une fois que ton compte est considéré comme inactif, toutes tes données hébergées par adidas (application adidas.com/adidas/adidas en cours d’exécution/application confirmée) associées à ton compte de membre seront supprimées.
+
+ 
+
+En outre, aux fins de :
+
+ 
+
+§  te donner accès aux fonctionnalités Premium d'adidas running et training via un abonnement souscrit auprès de runtastic GmbH 
+
+ 
+
+Les entités adidas ci-dessous sont responsables de tes Données à caractère personnel :
+
+adidas AG
+
+Runtastic GmbH – Pluskaufstraße 7, 4061 Pasching, Autriche (“adidas Runtastic”)
+
+ 
+
+BASE JURIDIQUE          
+
+Exécution contractuelle (TRAITEMENT: a-u)
+
+Consentement (TRAITEMENT: v)
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations sur l'administration des adhésions
+
+Informations d'identité 
+
+Coordonnées
+
+Informations de navigation
+
+Informations sur l'appareil mobile
+
+Correspondance
+
+Images et enregistrements (quand adidas y a accès)
+
+Opinion personnelle (quand adidas y a accès)
+
+Mensurations (si adidas y a accès)
+
+Informations de paiement, d'achat et de transaction (si adidas y a accès)
+
+Interactions et activités sur les réseaux sociaux (si adidas y a accès)
+
+Informations sur l'activité physique (si adidas y a accès)
+
+Informations de préférence et comportementales (si adidas y a accès)
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Membres actifs : Durée du contrat. Les informations limitées seront conservées séparément pendant 3 ans après la résiliation du contrat, en cas de litige concernant le contrat.
+
+Membres inactifs (TRAITEMENT : w) : 4 ans.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+Acheteurs et investisseurs potentiels
+
+Fournisseurs de services de conseils commerciaux
+
+Fournisseurs de solutions d'analyse des données
+
+Partenaires du adiClub
+
+ 
+
+2. Profilage pour le contenu personnalisé, l'expérience et les analyses commerciales et marketing
+
+ 
+
+TRAITEMENT
+
+Nous utilisons tes Données à caractère personnel pour créer du contenu personnalisé pour toi et nous assurer d'interagir avec toi de manière à ce que tu sois plus susceptible de conserver et de maintenir ton adhésion, de répondre à nos messages marketing ciblés, de continuer à acheter des produits adidas et d'utiliser les plateformes adidas.
+
+ 
+
+Cela inclut ce qui suit :
+
+a.     t'envoyer des messages personnalisés par e-mail sur la manière d'obtenir des points club ou de conserver ton niveau, y compris des messages promotionnels sur les produits, services et recommandations lifestyle adidas (tu peux te désabonner de ces messages à tout moment en utilisant la fonction « Me désabonner » incluse dans chaque message) ;
+
+b.     t'envoyer des notifications push via les applications adidas sur la manière d'obtenir des points club ou de conserver ton niveau, y compris des messages promotionnels sur les produits, services, recommandations de fitness et lifestyle d'adidas (tu peux désactiver les notifications push à tout moment depuis les « Paramètres » de tes appareils mobiles). Toutefois, tu peux tout de même recevoir des e-mails depuis lesquels tu peux te désabonner directement ;
+
+c.   suivre et surveiller ton comportement de navigation en ligne (si tu es connecté(e) et as accepté notre utilisation de certaines technologies de suivi sur le site Web et dans nos applications, y compris l'utilisation de cookies, pixels, balises) ;
+
+d.     stocker toutes les Données à caractère personnel que nous recueillons auprès de toi, directement ou indirectement, qui ont été identifiées via ton identifiant d'adhésion ou par e-mail avec ton profil d'adhésion, y compris les informations que tu as peut-être partagées dans un magasin et un point de vente de la marque adidas ainsi que dans les magasins franchisés participants d'adidas, afin de permettre le calcul de points et de niveaux et de les utiliser pour enrichir ton profil de membre comme détaillé ci-dessous ; et
+
+e.   analyser et évaluer toutes les Données à caractère personnel que nous recueillons auprès de toi, directement ou indirectement, qui ont été identifiées via ton identifiant d'adhésion ou par e-mail avec ton profil d'adhésion, y compris les informations que tu as peut-être partagées dans un magasin et un point de vente de la marque adidas ainsi que dans les magasins franchisés participants d'adidas. Plus précisément, cela inclut l'utilisation de tes Données à caractère personnel des manières suivantes :
+
+ 
+
+§  PROFILAGE (GESTION DE L'AUDIENCE)
+
+Nous créons un profil te concernant en regroupant toutes les informations que tu nous as fournies directement ou indirectement. Cela nous permet d'établir une interaction personnalisée avec toi sur la base de nos interactions passées et d'autres informations que nous pouvons utiliser pour savoir ce que tu aimes ou n'aimes pas. Nous utilisons les technologies de gestion d'audience pour nous assurer que les bons messages et informations te parviennent au bon moment via le bon canal. Cela inclut l'envoi de messages marketing d'offres et de produits ou la communication via les médias numériques par le biais de publicités sur les plateformes de la marque adidas. Le niveau de personnalisation dépend de la permission que tu nous as donnée.
+
+ 
+
+§  ANALYSES MARKETING
+
+Nous utilisons tes données à différentes fins d'analyse pour mieux comprendre : a) comment tu navigues sur nos plateformes et les utilises ; b) les produits qui t'intéressent ; c) les caractéristiques de nos produits et plateformes que tu aimes ; d) la qualité de nos services, y compris le service client, les campagnes marketing et publicitaires s'adressant à toi, et ta réaction à ces services ; e) la conception de nos produits et sites web ; f) et si l'expérience utilisateur globale a fonctionné pour toi ou non. Nous utilisons cette analyse pour améliorer la pertinence de notre communication marketing et la qualité de notre expérience de personnalisation sur l'ensemble de nos canaux et plateformes.
+
+ 
+
+§  ENRICHISSEMENT DES DONNÉES
+
+Nous créons un profil client unique en faisant correspondre toutes les données personnelles te correspondant. Cela inclut les données personnelles que nous avons recueillies directement ou indirectement sur les médias numériques ou hors ligne, les commentaires que tu nous fournis, tes interactions et ta communication avec nous par le biais de nos différentes plateformes et canaux de communication.
+
+ 
+
+§  AMÉLIORER LES MODÈLES DE DONNÉES
+
+Nous utilisons la science des données, ton profil et tes données personnelles pour créer des modèles de données qui peuvent nous aider à améliorer la logique de nos activités d'analyse, lesquelles nous aident à mieux comprendre tes commentaires et ton feedback, tes interactions, tes préférences et tes besoins en ce qui concerne nos produits et nos services. Nous comparerons le modèle de données que nous avons créé en utilisant ton profil avec d'autres profils et catégories de consommateurs similaires afin de mieux prévoir et analyser tes préférences.
+
+ 
+
+BASE JURIDIQUE          
+
+Intérêt légitime
+
+Tu as le droit de contester notre intérêt légitime à tout moment.
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations sur l'administration des adhésions
+
+Informations d'identité 
+
+Coordonnées
+
+Informations de navigation
+
+Informations sur l'appareil mobile
+
+Correspondance
+
+Images et enregistrements (quand adidas y a accès)
+
+Opinion personnelle (quand adidas y a accès)
+
+Mensurations (si adidas y a accès)
+
+Informations de paiement, d'achat et de transaction (si adidas y a accès)
+
+Interactions et activités sur les réseaux sociaux (si adidas y a accès)
+
+Informations sur l'activité physique (si adidas y a accès)
+
+Informations de préférence et comportementales (si adidas y a accès)
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Durée de l'adhésion et tant que tu ne t'opposes pas à notre intérêt légitime en supprimant tes Données à caractère personnel
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+Acheteurs et investisseurs potentiels
+
+Fournisseurs de services de conseils commerciaux
+
+Fournisseurs de solutions d'analyse des données
+
+Partenaires du adiClub
+
+ 
+
+                                           5.4.a.      Utilisation des fonctionnalités d'adidas Running
+
+TRAITEMENT
+
+Le traitement de vos données personnelles a pour but de vous garantir une expérience utilisateur fluide lors de l'utilisation d'adidas Running. Cela inclut tout traitement de données nécessaire à l'utilisation des fonctionnalités spécifiques que vous souhaitez activer, par exemple la comparaison des données d'activité avec celles d'autres utilisateurs, si vous participez à un classement ou à un défi.
+
+ 
+
+BASE JURIDIQUE
+
+Exécution contractuelle
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL
+
+Informations sur l'administration des adhésions
+
+Informations d'identité
+
+Coordonnées
+
+Informations de navigation
+
+Informations sur l'appareil mobile
+
+Correspondance
+
+Images et enregistrements (quand adidas y a accès)
+
+Opinion personnelle (quand adidas y a accès)
+
+Mensurations (si adidas y a accès)
+
+Informations de paiement, d'achat et de transaction (si adidas y a accès)
+
+Interactions et activités sur les réseaux sociaux (si adidas y a accès)
+
+Informations sur l'activité physique (si adidas y a accès)
+
+Informations de préférence et comportementales (si adidas y a accès)
+
+ 
+
+DURÉE DE CONSERVATION
+
+Durée du contrat et période de limitation obligatoire. Nous devons conserver les informations en cas de contentieux juridique concernant le contrat.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES
+
+Filiales et sociétés affiliées d'adidas AG
+
+Fournisseurs de solutions d'analyse des données
+
+Fournisseurs de solutions cloud informatiques
+
+Fournisseurs de solutions CRM
+
+ 
+
+                                           5.4.b.      Participation aux Tirages au Sort et Aux Concours
+
+TRAITEMENT
+
+Nous utilisons tes informations pour vérifier ton éligibilité à participer aux tirages au sort et aux concours, et pour te contacter en utilisant les coordonnées que tu partages avec nous. Si tu es le/la gagnant(e) du concours ou du tirage au sort, nous utiliserons tes informations pour t'envoyer le prix et nous conformer à d'autres exigences administratives et légales si nécessaire.
+
+ 
+
+BASE JURIDIQUE
+
+Exécution contractuelle
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL
+
+Informations d'identité
+
+Coordonnées
+
+Informations sur le comportement et les préférences (uniquement si c'est nécessaire pour le projet)
+
+Informations sur l'activité physique (si adidas y a accès)
+
+Mensurations
+
+Informations de paiement, d'achat et de transaction
+
+ 
+
+DURÉE DE CONSERVATION
+
+La durée du concours + deux mois
+
+ 
+
+CATÉGORIES DE DESTINATAIRES
+
+Responsable du traitement d'adidas organisant l'événement.
+
+Filiales et sociétés affiliées d'adidas AG
+
+Partenaires d'événement (le cas échéant)
+
+Fournisseurs de services de livraison
+
+ 
+
+                                           5.4.c.      Inscription à des événements privés
+
+TRAITEMENT
+
+Lorsque tu t'inscris à un événement organisé par nos soins où les places sont limitées, nous utilisons les Données à caractère personnel que tu fournis afin de te réserver une place. Tes Données à caractère personnel seront utilisées conformément aux Conditions générales associées à l'événement. Lis la Politique de confidentialité spécifique que nous pouvons publier au moment de l'inscription, le cas échéant.
+
+ 
+
+BASE JURIDIQUE          
+
+Exécution contractuelle
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d'identité
+
+Coordonnées
+
+Informations de localisation
+
+Informations sur l'activité physique : toute information que nous pouvons recueillir auprès de toi le jour de l'événement.
+
+Informations sur le comportement et les préférences (si collectées pour l'événement spécifique)
+
+Images et enregistrements (si collectés pour l'événement spécifique)
+
+Opinion personnelle (si collectée pour l'événement spécifique)
+
+Interactions et activités sur les réseaux sociaux (si collectées pour l'événement spécifique)
+
+Informations sur l'administration des adhésions (lorsque l'adhésion à la marque adidas s'applique / si adidas y a accès)
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Durée de l'événement et période de limitation obligatoire en cas de contentieux.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Responsable du traitement d'adidas organisant l'événement.
+
+Filiales et sociétés affiliées d'adidas AG
+
+Partenaires d'événement (le cas échéant)
+
+Fournisseurs de solutions cloud informatiques (le cas échéant)
+
+ 
+
+                                           5.4.d.      Inscription à des événements ouverts
+
+TRAITEMENT
+
+Nous organisons aussi fréquemment des événements ouverts à tous. Nous utilisons les Données à caractère personnel que tu fournis pour te tenir informé(e) des événements qui t'intéressent. Lis la Politique de confidentialité spécifique que nous pouvons publier au moment de l'inscription, le cas échéant.
+
+ 
+
+BASE JURIDIQUE          
+
+Intérêt légitime
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Informations d'identité
+
+Coordonnées
+
+Informations de localisation
+
+ Informations sur l'activité physique : toute information que nous pouvons recueillir auprès de toi le jour de l'événement.
+
+Informations sur l'administration des adhésions (lorsque l'adhésion à la marque adidas s'applique / si adidas y a accès)
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Pendant la durée de l'événement + 36 mois si les données d'un événement particulier sont utilisées dans un but d'ANALYSE OPÉRATIONNELLE DES ACTIVITÉS.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Responsable du traitement d'adidas organisant l'événement.
+
+Filiales et sociétés affiliées d'adidas AG
+
+Partenaires d'événement (le cas échéant)
+
+Fournisseurs de solutions cloud informatiques (le cas échéant)
+
+ 
+
+5.5.         Améliorer et développer les produits et services de la marque adidas
+
+                                           5.5.a.      Recherche et développement produits
+
+TRAITEMENT
+
+Nous menons des analyses et recherches pour améliorer nos produits et services. Cela inclut de te poser des questions dans des sondages, de te demander des retours, de te demander de tester nos produits et de nous fournir des évaluations, de demander aux autres fournisseurs de services de mener des recherches sur les produits et marchés pour nous, d'essayer de nouvelles technologies dans notre produit pouvant recueillir des Données à caractère personnel pour garder de l'avance sur la concurrence. Nous conservons ces informations sur la base de notre « intérêt légitime », ainsi, en participant à tout(e) sondage ou évaluation d'un produit, tu conviens du fait que c'est dans notre intérêt légitime. Lorsque cela est possible pour le projet spécifique ou si tu t'opposes à cet intérêt légitime, nous supprimerons toute information d'identité, de contact ou d'appareil mobile, de sorte que les informations ne pourront plus être utilisées pour t'identifier, ne seront plus tes Données à caractère personnel, et seront considérées comme « anonymisées ».
+
+ 
+
+§  ENRICHISSEMENT DES DONNÉES
+
+Nous créons un profil client unique en faisant correspondre toutes les données personnelles te correspondant. Cela inclut les données personnelles que nous avons recueillies directement ou indirectement sur les médias numériques ou hors ligne, les commentaires que tu nous fournis, tes interactions et ta communication avec nous par le biais de nos différentes plateformes et canaux de communication.
+
+ 
+
+BASE JURIDIQUE
+
+Intérêt légitime
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Mensurations (uniquement si c'est nécessaire pour le projet)
+
+Informations d'identité (uniquement si c'est nécessaire pour le projet)
+
+Coordonnées (uniquement si c'est nécessaire pour le projet)
+
+Informations de localisation (uniquement si c'est nécessaire pour le projet)
+
+Informations sur le paiement, l'achat et la transaction (uniquement si c'est nécessaire pour le projet)
+
+Interactions et activités sur les réseaux sociaux (uniquement si c'est nécessaire pour le projet)
+
+Informations sur l'activité physique (uniquement si c'est nécessaire pour le projet)
+
+Informations de navigation (uniquement si c'est nécessaire pour le projet)
+
+Informations sur l'appareil mobile (uniquement si c'est nécessaire pour le projet)
+
+Correspondances (uniquement si c'est nécessaire pour le projet)
+
+Informations sur le comportement et les préférences (uniquement si c'est nécessaire pour le projet)
+
+Informations sur l'administration des adhésions (lorsque l'adhésion à la marque adidas s'applique / si adidas y a accès)
+
+ 
+
+DURÉE DE CONSERVATION     
+
+La durée du projet et la période de conservation obligatoire énoncée pour protéger nos droits de propriété intellectuelle.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES        
+
+Filiales et sociétés affiliées d'adidas AG
+
+Acheteurs et investisseurs potentiels
+
+Fournisseurs de services de conseils commerciaux
+
+Fournisseurs de solutions d'analyse des données
+
+Fournisseurs de production
+
+Fournisseurs de solutions cloud informatiques
+
+ 
+
+5.6.         Se conformer aux obligations légales
+
+                                           5.6.a.      Obligation légale - Coopération avec les autorités de règlementation et d'application de la loi (y compris les tribunaux)
+
+TRAITEMENT
+
+Lorsque nous avons l'obligation légale de fournir tes Données à caractère personnel pour des raisons de sécurité nationale et publique, la prévention du crime, les enquêtes et poursuites, la lutte contre le blanchiment d'argent, les procédures judiciaires, la protection des droits et libertés des autres individus, et l'application des poursuites civiles, nous fournirons les informations demandées par les autorités ou parties lorsque nous constaterons que cette demande est exigée par la loi. Nous pouvons ne pas être en mesure de t'en informer si cela va à l'encontre de la loi.
+
+ 
+
+BASE JURIDIQUE          
+
+Obligation légale
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL          
+
+Toutes les catégories de données personnelles tel que demandé par l'autorité d'application de la loi.
+
+ 
+
+DURÉE DE CONSERVATION     
+
+Tant que cela est exigé par la loi.
+
+ 
+
+CATÉGORIES DE DESTINATAIRES
+
+Filiales et sociétés affiliées d'adidas AG
+
+Autorités gouvernementales locales et nationales, y compris les autorités fiscales
+
+Autorités judiciaires locales et nationales
+
+Agences locales et nationales d'application de la loi
+
+ 
+
+                                           5.6.b.      Preuve – Litige contractuel et/ou conformité légale
+
+TRAITEMENT
+
+Nous devons conserver des preuves en cas de litige contractuel, ou pour nous défendre en cas d'audits d'enquête ou de litiges concernant le respect de la vie privée, y compris la manière dont nous avons traité tes droits individuels.
+
+ 
+
+BASE JURIDIQUE
+
+Obligation légale
+
+ 
+
+CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL
+
+Toutes les catégories de Données à caractère personnel pouvant être utilisées comme preuve
+
+ 
+
+DURÉE DE CONSERVATION
+
+Période de limitation obligatoire en fonction de la période contractuelle et/ou de l'exigence légale
+
+ 
+
+CATÉGORIES DE DESTINATAIRES
+
+Filiales et sociétés affiliées d'adidas AG 
+
+6.     Destinataires de tes Données à caractère personnel
+
+Tu peux trouver une liste des Destinataires des données traitant tes Données à caractère personnel conformément aux instructions des Entités responsables ci-dessous. La liste est sujette à modification si nécessaire.
+
+ 
+
+ENTREPRISE - SERVICE
+
+adidas International Marketing B.V. | Pays-Bas - Services d'exploitation et de marketing de la boutique en ligne
+
+Demandware Inc.| États-Unis - Hébergement du site Web
+
+Adyen | Pays-Bas - Processus de paiement
+
+Klarna | Suède- Processus de paiement
+
+InfoSys Technologies Ltd. | Inde, EPAM | Biélorussie - Développement de sites Web
+
+Adobe Analytics | Irlande, Google Analytics | États-Unis - Analyses Web
+
+Sprinklr | États-Unis, Olapic Inc. | États-Unis - Analyse des réseaux sociaux
+
+Flurry | États-Unis, Apps Flyer | Israël - Analyse de l'application mobile
+
+Qualtrics LLC | États-Unis – Enquête, Net Promoter Score
+
+act.3 | Allemagne, cip Trademarketing GmbH | Allemagne - Gestion des événements
+
+Neolane Ltd. | France - Marketing
+
+Batterii LLC | États-Unis - Informations sur les consommateurs
+
+TBWA Worldwide Inc. | États-Unis, Media Monk Netherlands, IRIS | Australie - Agences GRC
+
+Olapic, Inc. | États-Unis - Partenaires d'assistance UGC
+
+Affiliés adidas | Mondial - Gestion des relations avec les consommateurs
+
+Teleperformance | Allemagne - Service client
+
+DHL | Allemagne - Livraison de produits
+
+Forter Inc. | Royaume-Uni, États-Unis, Israël, Singapour – Fournisseurs de solutions de lutte contre les risques liés aux paiements – Prévention de la fraude
+
+Feedzai | Allemagne - Prévention de la fraude
+
+PayPal | États-Unis - Service de paiement
+
+Apple Pay, Google Pay | USA - Paiements mobiles
+
+Facebook (WhatsApp, Instagram) | États-Unis - Interactions avec les réseaux sociaux
+
+Facebook Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2 | Irlande - Interactions avec les réseaux sociaux
+
+Twitter | États-Unis - Interactions avec les réseaux sociaux
+
+Google | États-Unis - Interactions avec les réseaux sociaux
+
+Runtastic GmbH | Autriche - Communauté santé et fitness
+
+Google Analytics | États-Unis - Analyses
+
+Adobe Analytics | États-Unis - Analyses
+
+Anatwine Limited | Royaume-Uni - Expérience des consommateurs
+
+AWIN AG | Allemagne - Partenaire publicitaire
+
+MediaCom | Royaume-Uni - Partenaire publicitaire
+
+Salesforce - Logiciel GRC | Analyse des données
+
+Wunderman - Services de marketing par e-mail
+
+Stuffstr Limited - Partenaire de vente
+
+Webhelp – Fournisseur de service client
+
+Fit Analytics GmbH – Fournisseur de recommandations sur les tailles
+
+Bazaarvoice, Inc | États-Unis – Fournisseur d'analyses de notation
+
+mParticle Inc | États-Unis – Analyse d'applications mobiles
+
+Amplitude Inc | États-Unis – Analyse d'applications mobiles
+
+Appsflyer Ltd | Israël – Analyse d'applications mobiles
+
+Visenze Pte. Ltd | Singapour - Prestataire de recherche visuelle
+
+Vyking Limited | Royaume-Uni - Fournisseur de services de réalité augmentée
+
+nShift | Royaume-Uni - Plateforme de gestion des livraisons multi-porteurs
+
+ 
+
+Si vous utilisez les applications adidas Running, veuillez également consulter https://www.runtastic.com/pdfs/terms/recipients_of_personal_data.pdf pour obtenir de plus amples informations sur les destinataires potentiels des données relatives aux applications, les catégories de données concernées et l'objectif du partage des données.
+
+ 
+
+Lorsque tes Données à caractère personnel peuvent être utilisées par quelqu'un d'autre que les Responsables du traitement des données d'adidas via des plateformes, applications adidas ou ailleurs à ses propres fins, consulte la Politique de confidentialité du Responsable du traitement non affilié à adidas pour plus d'informations sur la manière dont il gère tes données à caractère personnel.
+
+7.     Que fait adidas lorsque nous transférons tes Données à caractère personnel en dehors de l'UE/EEE ?
+
+En fonction de l'activité de traitement des Données à caractère personnel, tes Données à caractère personnel sont partagées avec différentes « Catégories de destinataires ». Lorsque le destinataire est situé en dehors de l'UE/EEE, nous avons mis en œuvre les mesures nécessaires, comme la signature des clauses contractuelles types de l'Union européenne agréées par la Commission de l'UE et les mesures de protection appropriées.  
+
+8.     Comment sécurisons-nous tes Données à caractère personnel ?
+
+Nous mettons en œuvre les mesures techniques et organisationnelles appropriées pour faire face aux risques relatifs à notre utilisation de tes Données à caractère personnel, comprenant la perte, l'altération ou l'accès non autorisé à tes Données à caractère personnel, et te permettons d'exercer tes droits. Nous exigeons de nos fournisseurs de services qu'ils fassent de même par l'intermédiaire d'accords contractuels. Tu dois toutefois savoir que toute transmission de tes Données à caractère personnel via Internet a lieu à tes propres risques. Nous pouvons uniquement protéger tes Données à caractère personnel lorsqu'elles sont en notre possession.
+
+9.     Questions générales, assistance
+
+SERVICE CLIENT
+
+adidas - (https://adidas.com/help)
+
+Si tu as des questions générales ou as besoin d'une assistance et d'une aide immédiates concernant tes droits ou la manière dont nous utilisons tes Données à caractère personnel, contacte notre Service client. Tu peux trouver ses coordonnées et ses canaux en cliquant sur ce lien https://adidas.com/help.
+
+ 
+
+AUTORITÉS LOCALES
+
+Si tu as des questions concernant tes droits, consulte les sites Web et bureaux de tes autorités locales.
+
+10.  Délégué à la protection des données 
+
+ 
+
+DataProtection@adidas.com
+
+ 
+
+Global Legal (Privacy) | DPO
+
+adidas AG
+
+Adi-Dassler-Straße 1
+
+91074 Herzogenaurach
+
+Allemagne

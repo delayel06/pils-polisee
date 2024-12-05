@@ -1,0 +1,58 @@
+```json
+{
+  "website_name": "Adobe Privacy Policy",
+  "information": [
+    {
+      "title": "La collecte des données par Adobe dépend des applications et sites visités",
+      "severity_tag": "Yellow",
+      "details": "La collecte de données se fait par les applications d’Adobe et les sites visités. La collecte des données personnelles se fait dans le but d'améliorer l'expérience utilisateur. Les données collectées peuvent inclure des informations personnelles et des données de navigation."
+    },
+    {
+      "title": "Les utilisateurs ont des choix concernant la collecte et l'utilisation de leurs données",
+      "severity_tag": "Green",
+      "details": "Adobe offre aux utilisateurs des choix concernant la manière dont leurs informations sont collectées et utilisées. Les utilisateurs peuvent accéder à ces choix via le Centre de confidentialité d'Adobe."
+    },
+    {
+      "title": "Les clients commerciaux d'Adobe peuvent utiliser les données pour personnaliser leurs services",
+      "severity_tag": "Orange",
+      "details": "Les clients commerciaux d'Adobe utilisent les solutions Adobe pour personnaliser et améliorer la performance de leurs sites web, applications et messages marketing. Les données peuvent également être utilisées pour gérer des documents numériques de manière sécurisée."
+    },
+    {
+      "title": "Les transferts de données transfrontaliers sont possibles",
+      "severity_tag": "Orange",
+      "details": "Adobe peut transférer des données à l'étranger pour améliorer l'expérience utilisateur. Les utilisateurs doivent être conscients que les lois étrangères peuvent être différentes de celles de leur pays d'origine."
+    },
+    {
+      "title": "Les cookies et technologies similaires sont utilisés pour collecter des données",
+      "severity_tag": "Yellow",
+      "details": "Adobe utilise des cookies et des technologies similaires pour collecter des données. Ces technologies permettent d'améliorer l'expérience utilisateur et de personnaliser les services."
+    },
+    {
+      "title": "Les jeunes utilisateurs bénéficient de protections spécifiques",
+      "severity_tag": "Green",
+      "details": "Adobe met en place des protections spécifiques pour les jeunes utilisateurs. Les jeunes utilisateurs doivent être conscients des protections mises en place pour eux."
+    },
+    {
+      "title": "Les utilisateurs peuvent contacter Adobe pour des questions de confidentialité",
+      "severity_tag": "Green",
+      "details": "Les utilisateurs peuvent contacter Adobe pour toute question concernant la confidentialité. Les informations de contact sont disponibles sur le site d'Adobe."
+    },
+    {
+      "title": "Les données sont utilisées pour améliorer les performances et la sécurité",
+      "severity_tag": "Yellow",
+      "details": "Les données collectées par Adobe sont utilisées pour améliorer les performances et la sécurité des services. Les utilisateurs doivent être conscients que leurs données peuvent être utilisées à ces fins."
+    },
+    {
+      "title": "Les utilisateurs ont des droits supplémentaires en fonction de leur état",
+      "severity_tag": "Green",
+      "details": "Les utilisateurs peuvent bénéficier de droits supplémentaires en fonction de leur état. Les utilisateurs doivent être conscients de leurs droits et des protections supplémentaires disponibles."
+    },
+    {
+      "title": "Les données peuvent être partagées avec des tiers pour des raisons de sécurité",
+      "severity_tag": "Red",
+      "details": "Adobe peut partager des données avec des tiers pour des raisons de sécurité. Les utilisateurs doivent être conscients que leurs données peuvent être partagées avec des tiers."
+    }
+  ],
+  "final_score": 67
+}
+```

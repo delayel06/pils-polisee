@@ -1,0 +1,744 @@
+Politique de protection de vos données personnelles
+Sommaire
+Le responsable de traitement
+Le délégué à la protection des données de Cdiscount
+Quelles sont les données traitées par Cdiscount et ses partenaires, pour quelles raisons et pour combien de temps ?
+Mesures de sécurité
+Comment exercer vos droits ?
+Mes données sont-elles envoyées en dehors de l'Union européenne ?
+Cookies
+Profilage
+Les traitements de données personnelles mis en œuvre par Cdiscount, Cnova Pay et Floa pour le paiement fractionné
+Les traitements de données personnelles mis en oeuvre conjointement par AWIN et Cdiscount
+Les traitements de données personnelles mis en oeuvre conjointement par Isendpro et Cdiscount
+1. Le responsable de traitement
+Cdiscount est une société anonyme, immatriculée au RCS Bordeaux sous le n° B424059822, représentée par M. Thomas METIVIER, en qualité de Président Directeur Général et dont le siège social est situé au 120-126, Quai de Bacalan - 33067 BORDEAUX Cedex.
+
+Cdiscount, en qualité de responsable de traitement, édite le site www.cdiscount.com et procède, à ce titre, à différentes utilisations de vos données personnelles, c’est-à-dire toute information permettant de vous identifier (par exemple votre nom, votre adresse e-mail, vos informations de facturation) (ci-après les « Données »).
+
+2. Le délégué à la protection des données de Cdiscount
+Le Délégué à la protection des données (ci-après le « DPD ») de Cdiscount s’assure de la conformité des traitements de données personnelles réalisés par Cdiscount. Vous pouvez le contacter (i) par mail envoyé à informatique-et-libertes@cdiscount.com ou (ii) par courrier postal adressé à Cdiscount, Délégué à la protection des données personnelles, 120-126 quai de Bacalan 33000 BORDEAUX.
+
+3. Quelles sont les données utilisées par Cdiscount et ses partenaires, pour quelles raisons et pour combien de temps ?
+Nous traitons vos Données pour les finalités suivantes :
+
+3.1. La gestion des contrats entre Cdiscount et vous
+Description : nous traitons vos Données dans le cadre de la gestion de vos contrats conclus avec Cdiscount (contrat d’achat de biens ou de prestations de services sur le site www.cdiscount.com, contrat d’abonnement « Cdiscount à volonté », contrat d’abonnement « Cdiscount Famille », etc.). Cette finalité comprend les opérations nécessaires à la gestion de vos commandes, à la livraison de vos produits, à la mise à disposition de vos services, au paiement de vos commandes et de vos abonnements et aux facturations afférentes.
+
+La base légale de ce traitement est l’exécution du contrat.
+
+Dans le cadre de la reconduction tacite de votre abonnement « Cdiscount à volonté », si les informations de la carte bancaire utilisées lors de la souscription à l’abonnement sont périmées, nous utilisons les informations des cartes bancaires enregistrées dans votre espace client afin de permettre le renouvellement de votre contrat.
+
+Catégorie de données traitées : vos données d’identification (exemple : le nom, le prénom, les coordonnées postales et électroniques…), les données liées à votre situation personnelle (notamment dans le cadre de l’abonnement « Cdiscount famille »), vos données de transaction (numéro de commande, détail de la commande), vos données de paiement (données bancaires), vos données de connexion (exemple : adresse IP) vos données de suivi de la relation commerciale (exemple : commandes, factures, montant de la commande, historique d’achats…).
+
+Durée de conservation : vos Données sont conservées en base courante le temps nécessaire à l’exécution du contrat conclu avec Cdiscount. Vos Données sont conservées en base intermédiaire le temps nécessaire à la défense en justice des droits de Cdiscount.
+
+Le numéro de la carte bancaire et la date de validité en vue d'une opération de paiement unique sont conservés jusqu'à la fin du délai de rétractation (14 jours à compter de la réception du bien ou de la conclusion du contrat en cas de prestations de service). Vos informations peuvent être conservées, en archive intermédiaire, 13 mois à partir de la date du débit pour preuve en cas de contestation de la transaction. Ce délai peut être étendu à 15 mois afin de prendre en compte la possibilité d'utilisation de cartes de paiement à débit différé.
+
+Destinataires : vos Données peuvent être transmises aux :
+- Prestataires logistiques (transporteurs, entrepôts, points relais 
+- Banques et prestataires de paiement 
+- Prestataires spécialisés dans la gestion de la communication par téléphone ou mail      
+- Voyagistes
+- Prestataires spécialisés dans la gestion de la relation client
+- Nos vendeurs marketplace  : pour en savoir plus, vous pouvez consulter l’article 7 « Données personnelles » des conditions générales d’utilisation de la Marketplace.
+- Autorités publiques et administratives sur demande de leur part
+
+
+3.2. La gestion de la prospection commerciale
+
+Description :
+- Nous traitons vos Données pour vous faire bénéficier des promotions et offres spéciales de Cdiscount. Les campagnes de prospection commerciale peuvent être réalisées par email, SMS, téléphone et courrier. La base légale de ce traitement est votre consentement pour les emails et les SMS ou notre intérêt légitime pour le téléphone ou le courrier, ou lorsque nous vous proposons par emails et SMS des biens ou services analogues déjà achetés ou souscrits auprès de Cdiscount.
+
+- Nous transmettons vos Données à des partenaires afin qu’ils vous adressent des communications par téléphone ou par courrier lorsque vous ne vous y êtes pas opposés. La base légale de ce traitement est notre intérêt légitime.
+
+- Nous traitons vos Données afin de vous permettre de participer à nos jeux-concours. L’utilisation de vos Données est fondée sur l’exécution du contrat (le règlement de jeu).         
+
+- Pour les clients professionnels, nous traitons vos Données pour vous faire bénéficier des promotions et offres spéciales de Cdiscount. Les campagnes de prospection commerciales peuvent être réalisées par email, SMS, téléphone et courrier. La base légale de ce traitement notre intérêt légitime.
+
+Catégorie de données traitées : vos données d’identification (exemple : le nom, le prénom, les coordonnées postales et électroniques…), vos données de transaction (numéro de la transaction, détail de l'achat…), vos données de paiement, vos données de connexion (date de la dernière connexion) et vos données de suivi de la relation commerciale (exemple : commandes, factures, montant de la commande, historique d’achats…).
+
+Durée de conservation : vos Données sont conservées jusqu’au retrait de votre consentement ou l’exercice de votre droit d’opposition ou 3 ans à compter du dernier contact pour les prospects ou à compter de la fin de la relation commerciale pour les clients.
+
+Destinataires de vos Données : vos Données peuvent être transmises aux partenaires figurant en annexe 1.
+
+3.3. La lutte contre la fraude
+Description : nous traitons vos Données afin de lutter contre la fraude au paiement et la fraude au retour colis. La base légale de ce traitement est notre intérêt légitime.
+
+Catégorie de données : vos données d’identification (exemple : le nom, le prénom, les coordonnées postales et électroniques…), vos données de paiement, vos données de connexion (adresse IP, données de navigation…) et vos données de suivi de la relation commerciale (exemple : commandes, factures, montant de la commande, historique d’achats…).
+
+Durées de conservation : en cas de régularisation de l’impayé, vos Données sont conservées 48h à compter de la régularisation OU en cas d’absence de régularisation, 3 ans à compter de l’impayé. A l’issue de ce délai, les données sont anonymisées ou supprimées.
+
+Destinataires de vos Données : vos Données peuvent être transmises aux prestataires externes spécialisés dans l’édition de solutions de lutte contre la fraude.
+
+3.4. La facilitation de vos paiements ultérieurs
+Description : vos Données sont traitées afin de vous proposer une fonctionnalité permettant de faciliter vos éventuels paiements ultérieurs (fonctionnalité « Paiement rapide » telle qu’indiquée dans votre espace client). La base légale de ce traitement est votre consentement pour les clients qui n’ont pas souscrit à l’abonnement « Cdiscount à volonté » et notre intérêt légitime pour les abonnés « Cdiscount à volonté ».
+
+Catégorie de données : vos données d’identification (exemple : le nom, le prénom, les coordonnées postales et électroniques…) et vos données de paiement.
+
+Durées de conservation : Lorsque vous enregistrez votre carte bancaire dans votre espace client, les informations sont conservées jusqu’au retrait de votre consentement ou jusqu’ à la date d’expiration de la carte bancaire.
+
+Pour les clients qui optent pour un abonnement « Cdiscount à volonté » afin de bénéficier, gratuitement ou non, de services annexes visant à faciliter leurs achats (livraison rapide, ventes privées, accès à des contenus supplémentaires, etc.), les informations sont conservées tant que vous ne vous y êtes pas opposés.
+
+Destinataires de vos Données : vos Données peuvent être transmises aux prestataires externes spécialisés dans les services de paiement et de transaction.
+
+3.5. Suivi et amélioration de la relation client
+Description :
+- Nous traitons vos Données afin de :
+- gérer vos réponses à nos enquêtes de satisfaction et d’améliorer la relation client. Pour l’utilisation de vos Données, nous nous basons sur votre consentement ou notre intérêt légitime.
+
+- gérer vos réclamations (ce qui inclut le fait de créer des bons d’achats pour vous), gérer notre service après-vente et répondre à vos éventuelles demandes relatives à vos contrats. La base légale de ce traitement est l’exécution du contrat.
+
+- répondre à vos demandes de droits conformément au paragraphe 4 ainsi qu’aux demandes d’autorités tierces (par exemple, la police judiciaire). L’utilisation de vos Données est fondée sur nos obligations légales.
+
+Catégorie de données : vos données d’identification (exemple : le nom, le prénom, les coordonnées postales et électroniques…), les données liées à votre situation personnelle, vos données de paiement, vos données de connexion (adresse IP, historique de navigation…) et vos données de suivi de la relation commerciale (exemple : commandes, factures, montant de la commande, historique d’achats, abonnements souscrits…).
+
+Durées de conservation : vos Données sont conservées en base courante le temps nécessaire à l’exécution du contrat conclu avec Cdiscount. Vos Données sont conservées en base intermédiaire le temps nécessaire à la défense en justice des droits de Cdiscount.
+
+Les pièces d’identités demandées en cas de l’exercice de vos droits sont conservées le temps nécessaire à la vérification de votre identité puis sont supprimées immédiatement.
+
+Destinataires de vos Données : vos Données peuvent être transmises aux :
+- Prestataires permettant la gestion des questionnaires de satisfaction          
+- Prestataires spécialisés dans la gestion de la relation client (centre d’appels, service après-vente)          
+- Autorités publiques et administratives sur demande de leur part
+
+
+3.6. Le recouvrement
+Description: nous traitons vos Données afin de recenser les impayés et permettre le recouvrement des sommes restants dues. De plus, nous les utilisons afin d’identifier les personnes en situation d'impayé aux fins d'exclusion pour toute transaction à venir. La base légale est l’exécution du contrat ou notre intérêt légitime.
+
+Catégorie de données : vos données d’identification (nom, prénom, coordonnées postales et électroniques…), vos données de transaction et de paiement et vos données de suivi de la relation commerciale.
+
+Durées de conservation: en cas de régularisation de l’impayé, vos informations sont conservées 48h à compter de la régularisation OU en cas d’absence de régularisation, 3 ans à compter de l’impayé. A l’issue du délai, les données sont anonymisées ou supprimées.
+
+Destinataires de vos Données: vos Données peuvent être transmises aux :
+- Prestataires externes spécialisés dans le recouvrement et dans le risque crédit            
+- Autorités publiques et administratives sur demande de leur part
+
+3.7. Gestion des avis clients
+Description :
+- Nous traitons vos Données afin de nous permettre de gérer vos avis sur les produits proposés sur le site www.cdiscount.com et/ou sur les  vendeurs présents sur le site www.cdiscount.com et/ou nous permettre d’intégrer vos avis sur d’autres sites. Nous traitons vos Données en nous fondant sur votre consentement ou notre intérêt légitime.        
+
+- Nous traitons vos Données afin de permettre la conduite de campagnes de test des produits proposés sur le site www.cdiscount.com . La base légale est l’exécution du contrat.
+
+Catégorie de données : vos données d’identification (exemple : le nom, le prénom, les coordonnées postales et électroniques…), vos données de connexion (adresse IP, historique de navigation…), vos données de suivi de la relation commerciale (exemple : commandes, suivi de la livraison…) et les données relatives aux contributions des personnes qui déposent des avis sur des produits, services ou contenus, notamment leur pseudonyme.
+
+Durées de conservation : Les avis sur un produit sont diffusés sur le site pendant un délai de 10 ans à compter de leur publication sur le site. Les avis portant sur le produit Cdiscount à Volonté sont diffusés sur le site pendant un délai de 3 ans à compter de leur publication sur le site. Les avis portant sur un vendeur marketplace sur le site pendant un délai de 12 mois glissants à compter de leur publication sur le site. Passé ces délais, Cdiscount anonymise les avis (c’est-à-dire qu’il lui est impossible d’identifier la personne physique étant à l’origine de l’avis) afin de les conserver sans limitation de durée.
+
+Destinataires de vos Données : vos Données peuvent être transmises aux prestataires spécialisés dans la modération des avis et la gestion des campagnes testeurs.
+
+3.8. Publicité ciblée en ligne
+Description : nous traitons vos Données afin de vous afficher de la publicité de la part de Cdiscount ou de nos partenaires susceptibles de vous intéresser, et ce en fonction de vos préférences, lorsque vous naviguez sur notre site ou sur les réseaux sociaux ou d’autres sites internet.
+
+Par exemple, vous pourrez voir de la publicité sur un produit vendu par Cdiscount lorsque vous naviguez sur vos réseaux sociaux OU si vous avez visité le site d’un fabricant de chaussures, vous pourrez voir une publicité sur le site de Cdiscount relatif au produit vendu par ce fabricant.
+
+L’affichage de ces publicités ciblées se fait sur des segments d’audience, c’est-à-dire sur des profils d’utilisateurs constitués sur des caractéristiques communes, sur la base de données de navigation (ex : pages visitées, produits consultés), données de transaction (ex : produit acheté) et/ou données déclaratives (ex : code postal). Il peut s’agir par exemple de profils d’acheteurs ou d’intentionnistes manifestant un intérêt pour le sport, le bricolage, ou l’ameublement.
+
+La base légale de ce traitement est votre consentement (pour le dépot des cookies et le partage/réconciliation d'identifiants) et notre intérêt légitime pour la constitution et l’activation de segments d’audience permettant l’affichage de publicité ciblée en ligne..
+
+Catégorie de données : vos données d’identification (exemple : le nom, le prénom, les coordonnées postales et électroniques…), les données liées à votre situation personnelle, vos données de transaction et de paiement, vos données de connexion (adresse IP, historique de navigation…) et vos données de suivi de la relation commerciale (exemple : commandes, factures, montant de la commande, historique d’achats, abonnements souscrits…). Ces données sont utilisées uniquement pour la constitution et l’activation de segments d’audience pour permettre l’affichage de campagnes publicitaires ciblées sur le site de Cdiscount. Elles ne sont pas partagées aux annonceurs tiers diffusant de la publicité sur notre site internet. Pour la diffusion de publicité de Cdiscount sur des sites externes ou réseaux sociaux, les données traitées et partagées avec certains partenaires (Meta, Google, Tik Tok, Snapchat, Microsoft et Criteo), sont l’adresse email hachée (c’est-à-dire transformée en une chaine de caractères hexadécimaux rendant l’adresse illisible), adresse IP, user agent et mobile id, ce afin de permettre la réconciliation d’identifiants uniques, dans le but de vous proposer des publicités ou contenus personnalisés, tout au long de votre expérience en ligne. Dans tous les cas, seules les données des personnes ayant consenti au dépôt de cookies ou autres traceurs à des fins publicitaires sont traitées et partagées le cas échéant à nos partenaires publicitaires.
+
+Durées de conservation : vos Données sont conservées pour une durée maximale de 2 ans. A l’issue du délai, les données sont anonymisées.
+
+Destinataires de vos Données : vos Données peuvent être transmises aux :
+- Prestataires spécialisés dans l’affichage de publicités en ligne sur le site Cdiscount et sur d’autres sites externes         
+- Réseaux sociaux (Meta, Google, Tik Tok, Snapchat, Microsoft) et autres partenaires publicitaires (Criteo, TF1 Publicité,…). Notre société a noué des partenariats publicitaires notamment avec TF1 Publicité, ces partenariats sont décrits en Annexe 2 de la présente politique de protection de vos données.
+
+3.9. Optimisation et personnalisation de votre navigation
+Description : nous traitons vos Données afin de personnaliser votre navigation sur notre site en vous proposant des produits susceptibles de vous intéresser. La base légale est votre consentement ou notre intérêt légitime.
+
+Catégorie de données : vos données d’identification (exemple : le nom, le prénom, les coordonnées postales et électroniques…), les données liées à votre situation personnelle (CSP), vos données de transaction et de paiement, vos données de connexion (adresse IP…) et vos données de suivi de la relation commerciale (exemple : commandes, factures, montant de la commande, historique d’achats, abonnements souscrits…).
+
+Durées de conservation : vos Données sont conservées pour une durée maximale de 5 ans. A l’issue du délai, les données sont anonymisées.
+
+Destinataires de vos Données : vos Données peuvent être transmises aux :
+- Prestataires spécialisés dans l’optimisation de votre navigation par l’affichage de produits personnalisés, la personnalisation des produits présentés sur le site en fonction de votre navigation et de vos intérêts          
+- Prestataires permettant l’envoi de notifications mobiles, web et/ou SMS
+- Prestataires spécialisés dans le suivi et la mesure de performance des campagnes publicitaires
+
+3.10. Rapports statistiques
+ 
+
+Description : nous traitons vos Données afin d’élaborer des statistiques permettant d’améliorer notre connaissance de vos attentes envers nos produits et nos services. La base légale est notre intérêt légitime.
+
+Catégorie de données : vos données d’identification (numéro de client) et vos données de connexion (adresse IP).
+
+Durées de conservation : le temps nécessaire à la réalisation de l’objectif visé par les statistiques ou jusqu’à l’exercice de votre droit d’opposition.
+
+Destinataires de vos Données : vos Données peuvent être transmises aux prestataires spécialisés dans la réalisation de rapports statistiques
+
+4. Mesures de sécurité
+Nous nous engageons à mettre en œuvre les mesures techniques et organisationnelles appropriées afin de garantir un haut niveau de sécurité.
+
+Ces mesures sont définies en prenant en compte notamment l'état des connaissances technologiques, la nature, la portée, le contexte et les finalités du traitement ainsi que les risques identifiés.
+
+Nous vous informons que nous respectons la norme de sécurité de l’industrie des cartes de paiement PCI DSS, gage de notre expertise en termes de sécurité. Dans ce cadre, Cdiscount fait l’objet, tous les ans, d’un audit technique et organisationnel qui est conduit par des auditeurs externes indépendants.
+
+Par ailleurs, nos procédures internes comprennent une procédure dite de « Privacy by design » assurant que l’ensemble de nos projets informatiques respecte un niveau élevé de confidentialité et de sécurité pour vos Données.
+
+Cette procédure prévoit, pour tous les projets, une analyse de la maturité de ce dernier au regard des enjeux relatifs à la protection des Données et à la sécurité informatique.
+
+Des audits et contrôles périodiques de nos solutions informatiques sont menés tout au long de l’année par le DPD et l’équipe dédiée à la sécurité informatique pour maintenir ce haut niveau d’exigence dans le temps.
+
+5. Comment exercer vos droits ?
+Vous trouverez ci-après une description de vos droits ainsi que des modalités techniques à votre disposition pour les exercer.
+
+Concernant les demandes qui parviendraient au DPD par courriel à informatique-et-libertes@cdiscount.com ou (ii) par courrier postal adressé à Cdiscount, Délégué à la protection des données personnelles, 120-126 quai de Bacalan 33000 Bordeaux, nous vous prions d’indiquer l'adresse électronique rattachée à votre compte client sur le Site (ou de l'utiliser dans le cas d'un email) ainsi que vos noms et prénoms.
+
+Dans l'hypothèse où vous ne parviendriez pas à retrouver l'adresse électronique rattachée à votre compte client sur le site ou en cas d’incertitude sérieuse sur votre identité, des informations complémentaires relatives à votre identité pourront vous être demandées conformément à l'article 12 du RGPD.
+
+Nous vous adresserons une réponse dans un délai d’un (1) mois maximum suivant la date de réception de votre demande. Ce délai pourra être prolongé de deux (2) mois supplémentaires compte tenu de la complexité et du nombre de demandes.
+
+Par soucis de transparence, vous trouverez ci-après une présentation de vos droits :
+
+Droit d’accès : Vous avez le droit de nous demander la confirmation que des Données vous concernant sont ou non traitées et le cas échéant l’accès auxdites Données ainsi que :
+- les raisons pour lesquelles nous détenons vos Données ;        
+- les catégories de Données que nous détenons ;        
+- notre utilisation de vos Données ;        
+- qui a accès à vos Données (et leur localisation) ;        
+- où vos Données sont susceptibles d'être transférées ;        
+- la durée pendant laquelle nous conservons vos Données ;        
+- si vous ne nous avez pas communiqué vos Données directement, comment nous les avons obtenues ;        
+- vos droits en vertu des lois applicables et la possibilité de limiter le traitement ;        
+- la possibilité d’introduire une réclamation auprès de l’autorité de contrôle compétente ;
+
+Droit de rectification : Vous pouvez demander la rectification des informations inexactes ou incomplètes vous concernant (par exemple une adresse erronée).
+
+Droit d’opposition : Vous pouvez vous opposer à tout moment à ce qu’un organisme utilise certaines de vos Données en mettant en avant des raisons tenant à votre situation particulière. Vous avez le droit de demander à exercer votre droit d’opposition vis-à-vis des traitements exploités à des fins de prospection commerciale. De manière générale, vous pouvez, à tout moment, vous opposer au traitement de vos Données, par Cdiscount, à des fins de prospection commerciale ou à la communication de vos Données à des partenaires sélectionnés de Cdiscount à des fins de prospection commerciale, en envoyant un email à informatique-et-libertes@cdiscount.com.
+
+Plus spécifiquement, si vous êtes concerné par la prospection téléphonique, vous pouvez vous opposer en vous inscrivant gratuitement sur le site www.bloctel.fr ou en vous rendant directement sur votre compte client Cdiscount dans la rubrique « Mes informations personnelles » /« Mes données et droits » / « Mes communications ».
+
+Le droit de retrait du consentement : Vous pouvez, à tout moment, retirer votre consentement au traitement de vos Données, par Cdiscount, à des fins de prospection commerciale ou à la communication de vos Données à des partenaires sélectionnés de Cdiscount à des fins de prospection commerciale, en envoyant un email à informatique-et-libertes@cdiscount.com.
+Par ailleurs, Cdiscount met à votre disposition des moyens simples de retirer votre consentement dans le cadre de :
+
+- La prospection par courriel de la part de Cdiscount ou de nos partenaires par la transmission de vos Données : en cliquant sur les liens hypertextes « Gérer mes abonnements » ou « Me désabonner » présents dans chaque email de prospection ou en vous rendant directement sur votre compte client Cdiscount dans la rubrique « Mes données personnelles » « Mes communications ».
+
+- La prospection par SMS de la part de Cdiscount ou de nos partenaires par la transmission de vos Données : en envoyant la mention « STOP SMS »  au 36007 ou en vous rendant directement sur votre compte client Cdiscount dans la rubrique « Mes données personnelles » « Mes communications ».
+
+Droit de suppression : vous avez le droit de demander à un organisme l'effacement de Données vous concernant dans les cas suivants :
+- Vos Données sont utilisées à des fins de prospection ;        
+- Les Données ne sont plus nécessaires au regard des objectifs pour lesquelles elles ont été initialement collectées ou traitées ;        
+- Vous retirez votre consentement ou vous vous êtes opposé au traitement de vos Données ;        
+- Vos Données font l’objet d’un traitement illicite ;        
+- Vos Données ont été collectées lorsque vous étiez mineur dans le cadre de la société de l’information (blog, forum, réseau social, site web…) ;        
+- Vos Données doivent être effacées pour respecter une obligation légale. En cas de demande de suppression de vos Données, Cdiscount sera néanmoins tenue de les conserver sous forme d’archivage intermédiaire, et ce pour la durée nécessaire à la satisfaction de ses obligations légales, comptables et fiscales. Vous pouvez demander la suppression de vos Données, en vous connectant à votre compte client, dans la rubrique « Mes données personnelles » « Droit de suppression ».
+
+Le droit à la portabilité : vous pouvez demander la communication d’une partie des Données que vous nous avez fournies dans un format lisible par une machine mais aussi la transmission de ces Données à un tiers de votre choix.
+
+Le droit de plainte : vous pouvez, à tout moment, porter réclamation devant l’autorité de contrôle compétente (en France, la CNIL : www.cnil.fr)
+
+Le droit de formuler des directives post-mortem : vous avez le droit de formuler des directives post-mortem spécifiques et générales concernant la conservation, l’effacement et la communication de vos Données. En l’absence de toute directive, vos héritiers peuvent s’adresser à Cdiscount afin :
+- D’accéder aux traitements de Données permettant « l’organisation et le règlement de la succession du défunt »        
+- Et/ou de faire procéder à la clôture de votre Compte sur le site et/ou de s’opposer à la poursuite du traitement de vos Données.
+
+
+Droit à la limitation : vous avez le droit de demander à un organisme de geler temporairement l’utilisation de certaines de vos Données notamment pendant l’examen de votre demande d’exercice d’un autre droit. Il est important de noter que ce droit ne s’applique que si :
+- Vous contestez l’exactitude de vos Données pendant la durée nous permettant de vériﬁer l’exactitude de ces dernières,        
+- Vous considérez que nous traitons illicitement vos Données et que vous exigez une limitation de leur utilisation plutôt qu’un effacement,        
+- Nous n’avons plus besoin de vos Données au regard des finalités visées en paragraphe 2 mais que celles-ci sont encore nécessaires pour la constatation, l’exercice ou la défense de vos droits en justice,        
+- En cas d’exercice de votre droit d’opposition pendant la durée de vériﬁcation portant sur le point de savoir si les motifs légitimes que nous poursuivons prévalent sur les vôtres.
+
+6. Mes données sont-elles envoyées en dehors de l'Union européenne ?
+Vos Données sont transmises pour les besoins des finalités définies ci-dessus à des sociétés situées dans des pays hors de l’Union européenne. Dans ce cas, et avant tout transfert, Cdiscount s’assure de respecter les garanties nécessaires à la sécurisation de tels transferts. Des transferts hors Union européenne sont réalisés dans le cadre des activités suivantes:
+
+Finalité de traitement	Pays de destination des données	Encadrement du transfert
+Gestion des contrats
+
+Pays de situation des vendeurs marketplace (propre à chaque vendeur et indiqué dans l’espace d’information qui le concerne)
+
+Article 49 1 b) du Règlement général sur la protection des données
+
+Lutte contre la fraude
+
+Notre partenaire est situé en Irlande.
+Ce partenaire peut effectuer des transferts ultérieurs vers les Etats-Unis, l’Ile Maurice, le UK, le Canada, l’Australie, la Suisse, la Géorgie et la Bulgarie.
+
+Clauses contractuelles types/ mesures complémentaires de protection ou décisions d’adéquation (Canada, Suisse) dont le Data Privacy Framework (Etats-Unis)
+
+Suivi et amélioration de la relation client
+
+Nous privilégions des partenaires situés en France, deux partenaires sont situés respectivement au Maroc et aux Etats-Unis.
+Certains de nos partenaires peuvent effectuer des transferts ultérieurs vers le Sénégal, la Côte d’Ivoire, le Maroc, les Etats-Unis et l’Inde.
+
+Clauses contractuelles types ou Data Privacy Framework (Etats-Unis)
+
+Recouvrement
+
+Nous privilégions des partenaires situés en France. Ces partenaires peuvent effectuer des transferts ultérieurs vers la Tunisie et la Côte d’Ivoire
+
+Clauses contractuelles types
+
+Gestion des avis clients
+
+Etats-Unis
+
+Data Privacy Framework
+
+Publicité en ligne
+
+Etats-Unis, Israël, UK, Canada, Singapour
+
+Clauses contractuelles types ou Data Privacy Framework (Etats-Unis) Décision d’adéquation (Israël, UK, Canada)
+
+Optimisation et personnalisation de la navigation
+
+Etats-Unis. Notre partenaire peut effectuer des transferts ultérieurs vers la Suisse, le Canada, et l’Inde
+
+Data Privacy Framework et clauses contractuelles types
+
+7. Cookies
+Cette rubrique est consacrée à notre politique de gestion des cookies sur le site. Elle vous permet d’en savoir plus sur l’origine et l'usage des informations de navigation traitées à l'occasion de votre consultation de notre site internet et sur vos droits.
+
+7.1 Qu’est-ce qu’un cookie ?
+Un cookie est un petit fichier texte qui demande la permission d’être placé sur le disque dur de votre ordinateur par les sites Internet que vous consultez. Ils sont largement utilisés pour faire fonctionner plus efficacement les sites Internet. Certains de ces cookies sont nécessaires au fonctionnement du site. D’autres ont pour fonction de vous identifier et, en fonction de votre navigation, d’aider nos équipes à améliorer le Site.
+
+Un cookie ne peut pas donner accès à des informations vous concernant que vous ne souhaitez pas partager. Un cookie a une durée de vie limitée et est supprimé par votre navigateur une fois celle-ci expirée. Seule la société qui dépose le cookie est susceptible de lire ou de modifier les informations contenues dans ce cookie.
+
+7.2 Finalités et type de cookies
+Différents cookies sont utilisés pour des finalités différentes. Les cookies les plus courants sont les suivants :
+
+Cookies fonctionnels
+
+Ces cookies sont obligatoires pour le fonctionnement du site Cdiscount et de ses fonctionnalités
+(par exemple, cookie lié à la conservation du panier d’achat) et, à ce titre, exemptés du recueil du consentement.
+
+
+Cookies dits de « mesure d’audience »
+
+Ces cookies sont utilisés pour mesurer l'audience du site Cdiscount, ou bien pour tester des versions
+différentes afin d'optimiser ses choix éditoriaux en fonction de leurs performances respectives.
+
+Dans certains cas, ces cookies peuvent être regardés comme « essentiels » nécessaires à la fourniture du service explicitement
+demandé par l'utilisateur, et ainsi être exemptés du recueil du consentement.
+Ceux considérés comme non "essentiels" sont soumis à votre consentement.
+
+
+Cookies de personnalisation de contenu
+
+Ces cookies sont utilisés pour personnaliser l’affichage de produits et services en fonction de ceux que vous avez précédemment consultés sur le site (recommandation de produits, mise en avant de catégories précédemment consultées).
+Il peut également s’agir de cookies pour utiliser le tchat qui vous permet de poser des questions à un bot ou à un agent pour vous accompagner dans votre expérience d'achat.
+
+
+Cookies publicitaires
+
+Ces cookies permettent d’afficher, en temps réel, le contenu le plus adapté à vos centres d’intérêt déduits de votre navigation récente sur un ou plusieurs sites,
+plutôt que des contenus qui auraient moins d’intérêt pour vous.
+
+Ces contenus publicitaires (graphismes, animations, vidéos, etc.) sont susceptibles de contenir des cookies émis par Cdiscount,
+par ses prestataires ou par des tiers (pour ces derniers) qui ont associé un cookie au contenu publicitaire d'un annonceur.
+
+En particulier, lors de votre navigation sur notre site web et si vous y avez consenti, le cookie Mediarithmics permet d’attribuer un identifiant aux navigateurs utilisés par les internautes qui visitent le site Cdiscount et le tag collecte les informations de navigation de ces internautes (identifiants client pseudonymisés (GUID), pages consultées, arborescence du site, références des produits, mots clés recherchés, contenu du panier) qui sont associées au cookie ID de Mediarithmics.
+Pour les personnes ayant consenti au cookie Mediarithmics uniquement, nous partageons alors avec Mediarithmics, certaines informations vous concernant (civilité, âge, produits achetés, mode de paiement, …), ce afin de constituer des segments d’audience ou profils utilisateurs. Vous pouvez retirer votre consentement à tout moment en refusant les cookies publicitaires via le lien « gérer les cookies » accessible depuis chaque page du site www.cdiscount.com ou via le bouton à l’article 7.4 ci-dessous.
+
+L’activation des segments avec des partenaires tiers est basée sur la réconciliation du cookie ID Mediarithmics avec le cookie ID du partenaire.
+
+L’activation de ces segments d’audience permet l’affichage de publicité ciblée pour des annonceurs sur le site de Cdiscount www.cdiscount.com (affichage display) ou en extension d’audience (Google shopping, réseaux sociaux, et autres sites internet). Pour en savoir plus sur ces traitements, nous vous invitons à consulter la politique de protection des données personnelles de Mediarithmics accessible sous ce lien : https://www.mediarithmics.io/legal/fr-data-policy. Si vous souhaitez exercer vos droits d'accès, de rectification, d'opposition ou de suppression des données personnelles vous concernant dans le cadre de la réconciliation d’identifiants opérée par Mediarithmics, vous pouvez contacter directement Mediarithmics à l’adresse suivante : privacy@mediarithmics.com
+
+
+Des emplacements publicitaires ou recommandations sur notre site (page d’accueil, page du panier commande, …) sont personnalisés en fonction de votre historique de navigation sur le site (votre historique de recherche, de clic, de mise au panier ou encore d’achat). Certains de ces emplacements sont utilisés pour la mise en avant de produits de vendeurs de la marketplace en contrepartie d’une rémunération et sont identifiés par la mention « sponsorisé ». Pour en savoir plus sur les produits sponsorisés, vous pouvez consulter notre Rubrique « référencement et classement ».
+
+Si vous ne souhaitez pas voir s’afficher des publicités ou des recommandations pour des produits sponsorisés liés à votre historique de navigation sur le site, il vous suffit de vous rendre dans votre centre de gestion de préférence via l’onglet « Gérer mes cookies » accessible en bas de chaque page du site ou sur le bouton « Gérer mes cookies » situé au paragraphe 7.4. Une fois dans votre centre de préférence, cliquez sur le lien « afficher les partenaires » en bas à gauche puis dans la liste des partenaires associés à Cdiscount, sélectionnez et refusez le cookie de la solution « Tracking by Cdiscount » et enfin cliquez sur le bouton « appliquer les modifications ». En cas de refus du cookie de la solution « Tracking by Cdiscount », vous pourrez toujours voir des publicités ou des recommandations pour des produits sponsorisés mais ces derniers ne seront pas liés à votre historique de navigation.
+
+7.3 Les responsabilités liées aux cookies
+ 
+
+ o Les cookies de Cdiscount et ses sous-traitants
+
+Cdiscount est responsable de l'émission et de l'utilisation de cookies par ses soins sur le site. Certains types de Cookies (« essentiels » ou de mesures d’audiences) sont exemptés du consentement.
+
+ o Les cookies émis par des sociétés tierces
+
+L'émission et l'utilisation de cookies par des tiers sur notre site (ex : Facebook, Critéo, etc.), sont soumises aux politiques de protection de la vie privée de ces tiers. Ces cookies ne sont pas indispensables à la navigation sur le site.
+
+Le site intègre les technologies de partenaires publicitaires qui permettent la reconnaissance de votre terminal de connexion et les données relatives à votre navigation sur votre terminal de connexion afin d’afficher des publicités adaptées à vos centres d’intérêt en fonction de votre navigation.
+
+Ces partenaires publicitaires collectent vos données de navigation pour :
+- Nous permettre de vous proposer des publicités concernant nos produits ou services ou ceux des vendeurs Marketplace sur des sites et applications tiers ;       
+- Permettre aux marques et aux sites d’e-commerce de vous proposer des publicités concernant leurs  produits ou services sur le site.
+
+Cdiscount est susceptible de partager des Données telles que votre adresse email (chiffrée en SHA 256) ou tout autre identifiant technique avec nos partenaires publicitaires afin d’établir un lien entre vos différents terminaux de connexion ou navigateurs internet et vous proposer une expérience homogène et continue sur ceux-ci.
+
+Pour en savoir plus sur les technologies utilisées par nos partenaires publicitaires, veuillez consulter leurs politiques de confidentialité :
+- Critéo
+- Facebook
+- Google +
+
+Cette liste de partenaire n'est pas exhaustive. Pour consulter la liste complète, nous vous invitons à cliquer sur le bouton "gérer mes cookies" situé au paragraphe 7.4.
+
+7.4 Gérer le dépot des cookies
+Conformément à la directive 2002/58/CE du 12 juillet 2002, la société Cdiscount recueille votre consentement préalable au dépôt des cookies sauf pour les cookies « essentiels » et certains cookies de mesure d’audience exemptés de consentement.
+
+Vous pouvez faire le choix à tout moment d'exprimer et de modifier vos souhaits en matière de cookies, par les moyens décrits ci-dessous.
+
+ o Paramétrage des cookies avec l’outil proposé par Cdiscount
+
+Vous êtes informé de la collecte de ces informations dès votre première connexion sur www.cdiscount.com par l'intermédiaire du bandeau d'information relatif aux cookies. Afin de se conformer à la règlementation, Cdiscount utilise un outil permettant à l’internaute de paramétrer le dépôt des cookies lors de sa connexion sur le site.
+
+
+Pour accéder à la liste des cookies déposés et en configurer le dépôt cliquez ici :
+
+Gérer mes cookies
+
+
+
+Lorsque vous utilisez notre application, vous pouvez gérer le dépot des cookies via le menu de gauche de l'application dans la rubrique "Gérer mes cookies".
+
+Des traceurs sont déposés dans le local storage du site. Le local storage fonctionne par sous-domaine. Si vous choisissez de supprimer certains traceurs du local storage sur un sous domaine de Cdiscount, seuls les traceurs de ce sous domaine seront supprimés. Pour supprimer l'intégralité des traceurs du local storage, nous vous conseillons de le faire en utilisant l'outil proposé par Cdiscount.
+
+ • Paramétrage de votre navigateur
+
+La configuration de chaque logiciel de navigation est différente. Elle est généralement décrite dans le menu d'aide de votre logiciel de navigation. Nous vous invitons donc à en prendre connaissance. Vous pourrez ainsi savoir de quelle manière modifier vos souhaits en matière de cookies.
+
+Internet Explorer™
+Support Microsoft
+Safari™
+Support Apple
+Chrome™
+Support Google
+Firefox™
+Support Mozilla
+Opera™
+Support Opéra
+
+
+Attention : Tout paramétrage que vous pouvez entreprendre sur votre logiciel de navigation concernant l’acceptation ou le refus des cookies sera susceptible de modifier votre navigation sur Internet et vos conditions d'accès à certains services nécessitant l'utilisation de ces mêmes cookies. Par exemple, en refusant certains cookies essentiels vous risquez de ne plus pouvoir passer commande sur notre site. Si vous choisissez de refuser l’enregistrement de cookies dans votre terminal ou si vous supprimez ceux qui y sont enregistrés, nous déclinons toute responsabilité pour les conséquences liées au fonctionnement dégradé de nos services résultant de l'impossibilité pour nous d'enregistrer ou de consulter les cookies nécessaires à leur fonctionnement et que vous auriez refusés ou supprimés.
+
+ o Paramétrage de votre smartphone
+
+Vous avez la possibilité de contrôler le dépôt des Cookies directement depuis votre smartphone :
+
+iOS
+Support Apple
+Android
+Support Google
+Chrome™
+Support Chrome
+
+
+ o Création d’une liste d’opposition au dépôt des cookies
+Pour bloquer la collecte et l’utilisation d’informations vous concernant par des sociétés publicitaires souhaitant vous proposer des publicités basées sur vos intérêts, vous pouvez accéder aux sites suivants :
+o La plate-forme de désabonnement de la NAI : http://www.networkadvertising.org/choices/
+o La plate-forme de désabonnement de l’EDAA : http://www.youronlinechoices.com
+o La plate-forme de désabonnement de la DDA : http://www.networkadvertising.org
+
+8. Profilage
+
+Dans le cadre de certains traitements, nous utilisons vos Données afin de réaliser du profilage. Les traitements visés par le profilage sont les suivants :
+
+- La gestion des contrats entre Cdiscount et vous
+- La prospection commerciale et la publicité ciblée en ligne
+- La lutte contre la fraude
+- Optimisation et personnalisation de votre navigation
+
+Le profilage consiste en l’établissement d’un profil individualisé à partir des Données d’un individu en vue d’évaluer cette personne et de prédire son comportement, comme ses préférences, ses habitudes de vie, etc.
+Ce profilage est fondé sur l’analyse de différentes variables tel quel le type de produits ou de services commandés ainsi que le profil du client.
+9. Les traitements de données personnelles mis en œuvre par Cdiscount, Cnova Pay et Floa pour le paiement fractionné
+Cdiscount, CnovaPay et FLOA ont conjointement défini les finalités des traitements rattachés au paiement fractionné et contribuent conjointement à leur mise en œuvre.
+
+CnovaPay est une société par actions simplifiée, au capital de 5 000 000 euros, dont le siège social est situé 120 quai de Bacalan à Bordeaux (33300) et immatriculée au RCS de Bordeaux sous le n°827 802 737. Cnova Pay est agréée par l’Autorité de Contrôle Prudentiel et de Résolution (« ACPR »), en qualité de société de financement sous le numéro 78191 et procède, à ce titre, à différents traitements de vos Données en qualité de responsable de traitements distinct ou conjoint.
+
+FLOA est une société anonyme au capital de 72 297 200 42 773 400 euros, dont le siège social est situé 71 Rue Lucien Faure - Bâtiment G7 - à Bordeaux (33300), immatriculée au RCS de Bordeaux sous le n°434 130 423. FLOA (https://www.floabank.fr/) est un établissement bancaire et procède, à ce titre, à différents traitements de vos Données en qualité de responsable de traitements exclusif distinct ou conjoint.
+Cdiscount, Cnova Pay et FLOA mettent par ailleurs en œuvre des traitements spécifiques pour leur propre compte. Dans le cadre du paiement fractionné, Cdiscount, Cnova Pay et FLOA agissent donc pour certains traitements en tant que responsables conjoints du traitement et pour d’autres en tant que responsables de traitement distincts.
+
+9.1 Quelles données sont traitées par Cdiscount, Cnova Pay et FLOA ?
+Cdiscount, Cnova Pay et FLOA traitent des :
+
+
+- Données d’identification : identifiant client, nom, prénom, adresse postale, adresse électronique, etc.
+- Donnée de trafic / de connexion : comportement de navigation sur le site, nombre de connexions, etc.
+- Données financières : informations liées à la carte bleue (e-card ou non, Token CB, BIN, date d’expiration de la carte), panier d’achat, historique d’achat du compte client, historique de paiement du compte client, contenu du panier, montant de la commande, etc.
+
+9.2 Pour quelles finalités Cdiscount, Cnova Pay et FLOA traitent vos données ?
+ - En qualité de responsables du traitement conjoints :
+Vos Données sont traitées par Cdiscount, Cnova Pay et FLOA en qualité de responsables conjoints de traitement pour la finalité suivante : exécution du contrat de paiement fractionné par carte bancaire.
+       
+
+N°	Étapes du paiement fractionné	Processus	Responsable conjoint en charge	Base légale
+1
+
+Promotion du paiement fractionné
+
+Détermination du parcours-client sur le site www.cdiscount.com.
+
+Cdiscount
+
+Intérêt légitime
+
+2
+
+Scoring du client
+
+Scoring n°1 (obligatoire)
+
+CnovaPay
+
+Exécution du contrat
+
+Scoring n°2 (falcultatif)
+
+Floa
+
+Exécution du contrat
+
+3
+
+Octroi du paiement fractionné
+
+Décision d'octroi du paiement
+
+CnovaPay
+
+Exécution du contrat
+
+Encaissement de l'échéance 1
+
+CnovaPay
+
+Exécution du contrat
+
+4
+
+Cession de la créance
+
+Cession des échéances 2 et suivantes de la créance du Client par Cdiscount à FLOA
+
+CnovaPay
+
+Exécution du contrat
+
+5
+
+Encaissement, recouvrement et suivi administratif et des réclamations
+
+Encaissement des échéances 2 et suivantes
+
+Floa
+
+Exécution du contrat
+
+Envoi de courriels et SMS de relance
+
+Floa
+
+Exécution du contrat
+
+Recouvrement des échéances impayées
+
+Floa
+
+Exécution du contrat
+
+Suivi des réclamations inhérentes au paiement fractionné
+
+Floa
+
+Exécution du contrat
+
+Cession de la créance en cas de créance irrécouvrable
+
+Floa
+
+Exécution du contrat
+
+Dans le cadre de l’exécution des traitements de Données pour les finalités précitées, Cdiscount, Cnova Pay et FLOA, en tant que responsables conjoints de traitements, s’engagent vis-à-vis de vous à :
+
+- fournir une information claire sur les traitements des Données effectués ;
+- conserver les Données selon les durées prévues par la règlementation ;
+- vous permettre d’exercer vos droits relatifs à vos Données (accès, rectification, suppression, etc.) indistinctement auprès de Cdiscount, CnovaPay ou FLOA.
+
+
+ - En qualité de responsables de traitement distincts :
+
+En qualité de responsables de traitement distincts : Vos Données sont traitées par Cdiscount et par FLOA en qualité de responsables de traitement distincts pour les finalités suivantes :
+
+N°
+
+Finalité
+
+Processus
+
+Responsables du traitement distinct
+
+Base légale
+
+1
+
+Prospection commerciale par Cdiscount
+
+Envoi de prospection commerciale aux clients ayant souscrit à l’offre de paiement fractionné
+
+Cdiscount
+
+Intérêt légitime
+
+2
+
+Prospection commerciale par Floa
+
+Floa
+
+Intérêt légitime
+
+Vous pouvez obtenir plus d’informations sur ces traitements en accédant à la politique de confidentialité de FLOA grâce au lien de téléchargement suivant : politique de confidentialité de FLOA .
+
+En souscrivant à l’offre de paiement fractionné, vous devenez client de Cnova Pay et FLOA. À ce titre et en tant que client de Cdiscount, vous êtes susceptibles de recevoir des offres commerciales portant sur des produits et services analogues au paiement fractionné par voie électronique (ex : SMS, courriels, appels via automates) de la part de Cdiscount et de FLOA.
+
+Au titre du Code des Postes et des Communications Electroniques, vous avez la faculté de vous opposer à la réception de prospection commerciale par Cdiscount et/ou FLOA au moment de votre souscription à l’offre de paiement fractionné et dans chaque communication qui vous sera adressée par la suite.
+
+Nous attirons votre attention sur le fait que les demandes d’opposition sont gérées indépendamment par Cdiscount et FLOA ; à titre d’exemple, si vous décidez de vous opposer à la réception d’offres commerciales de la part de Cdiscount, vous pourrez continuer à recevoir des offres de la part de FLOA dès lors que vous n’avez pas également signifié votre opposition à FLOA et inversement.
+
+9.3 Gestion des demandes de droit par Cdiscount, Cnova Pay et FLOA
+Le DPD de CDISCOUNT s’assure de la conformité des processus visées au paragraphe 8.3 réalisés par CDISCOUNT. Vous pouvez le contactez (i) par mail envoyé à informatique-et-libertes@cdiscount.com ou (ii) par courrier postal adressé à Cdiscount, Délégué à la protection des données personnelles, 120-126 quai de Bacalan 33000BORDEAUX.
+
+Le DPD de CNOVAPAY s’assure de la conformité des processus visées au paragraphe 8.3 réalisés par CNOVAPAY. Vous pouvez le contactez (i) par mail envoyé à dpo@cnovapay.com ou (ii) par courrier postal adressé à CnovaPay, Délégué à la protection des données personnelles, 120-126 quai de Bacalan 33000 BORDEAUX.
+
+Le DPD de FLOA s’assure de la conformité des processus visées au paragraphe 8.3 réalisés par FLOA. Vous pouvez le contactez (i) par courriel envoyé à dpofloa@floa.fr ou (ii) par courrier postal adressé à FLOA, Délégué à la protection des données personnelles, 71 Rue Lucien Faure - Bâtiment G7 - à Bordeaux (33300).
+
+9.4 Qui sont les destinataires de vos données dans le cadre du paiement fractionné ?
+N°	Finalités	Catégories de destinataires des Données
+1
+
+Promotion du paiement fractionné
+
+
+- Services internes
+- Prestataires externes spécialisés dans le suivi et la mesure d’audience
+- Prestataire externe spécialisé dans l'analyse du comportement de l'internaute
+- Prestataires externes spécialisés dans la personnalisation des offres
+
+2
+
+Évaluation du niveau de risque d'insolvabilité du client
+
+- Services internes
+- Prestataire externe spécialisé dans l'analyse du comportement de l'internaute
+- Sous réserve des conditions de levée du secret professionnel, aux autorités judiciaires, administratives, financières
+ou autres organismes gouvernementaux, notamment, à la Banque de France (Fichier National des Incidents de Remboursement
+de Crédit aux Particuliers, par exemple).
+
+3
+
+Octroi du paiement fractionné
+
+Aucun
+
+4
+
+Cession de la créance
+
+FLOA
+
+5
+
+Encaissement, recouvrement et suivi administratif et des réclamations
+
+
+- Services internes
+- Autorités publiques et administratives
+- Prestataires externes spécialisés dans le recouvrement et dans le risque crédit
+
+9.5 Combien de temps Cdiscount, Cnova Pay et Floa conservent-elles vos données liées au paiement fractionné ?
+N°	Finalités	Durée
+1
+
+Promotion du paiement fractionné
+
+5 ans à compter de la fin de la relation commerciale pour les clients.
+3 ans à compter du dernier contact commercial pour les prospects.
+
+2
+
+Évaluation du niveau de risque d'insolvabilité du client
+
+Pour l’évaluation réalisée par CnovaPay : 5 ans à compter de la fin de la relation contractuelle.
+
+Pour l’évaluation réalisée par FLOA (facultatif) :
+Pour les clients : 5 ans à compter de la fin de la relation contractuelle
+Pour les prospects : 3 ans à compter du dernier contact
+Pour les prospects refusés : 6 mois à compter du refus.
+
+3
+
+Octroi du paiement fractionné
+
+5 ans à compter de la fin de la relation commerciale.
+
+4
+
+Cession de la créance
+
+Jusqu’à la date de passage de la créance en créance irrécouvrable, étendue de la durée de la prescription légale
+
+5
+
+Encaissement, recouvrement et suivi administratif et des réclamations
+
+Durée nécessaire à la procédure, étendue de la durée de prescription légale
+
+9.6 Vos données sont-elles transférées hors de l’Union européenne ?
+En cas de transferts internationaux depuis l’Espace économique européen (EEE) vers un pays n’appartenant pas à l’EEE, le transfert de vos Données peut avoir lieu sur la base d’une décision rendue par la Commission européenne, lorsque celle-ci a reconnu que le pays dans lequel vos données seront transférées assure un niveau de protection adéquat.
+
+En cas de transfert de vos Données vers un pays dont le niveau de protection de vos données n’a pas été reconnu comme adéquat par la Commission européenne, soit nous nous appuierons :
+- sur une dérogation applicable à la situation spécifique (par exemple, si le transfert est nécessaire pour exécuter un contrat conclu avec vous) ;
+- sur des clauses contractuelles types approuvées par la Commission européenne.
+Sur simple demande formulée aux DPD de Cnova Pay, CDISCOUNT et de FLOA, ces derniers vous fourniront davantage d’informations quant à ces transferts, ainsi qu’une copie des documents autorisant le transfert de Données hors de l’Union européenne.
+
+10 Les traitements de données personnelles mis en oeuvre conjointement par Cdiscount et Awin
+10.1. Awin
+AWIN est une société, dont le siège social est situé à Landsberger Allee 104 BC, 10249 Berlin, immatriculée au RCS de Berlin-Charlottenburg sous le n° HRB 75459.
+
+10.2. Quelles donnees sont traitées par Awin et Cdiscount ?
+Les données traitées par Awin sont les données liées à votre commande (montant et numéro de votre commande…).
+
+10.3. Pour quelles finalités Awin et Cdiscount traitent vos données ?
+Awin est un partenaire de gestion du programme d’affiliation de Cdiscount. L’outil proposé par AWIN nous permet de savoir par quel site externe vous êtes arrivé sur notre site et ainsi permettre la rémunération de notre partenaire. Dans ce cadre, Awin traite vos Données en qualité de responsable de traitement conjoint. Vous pouvez consulter leur politique de confidentialité ici.
+
+10.4. Gestion des demandes de droit par Awin et Cdiscount
+Vous pouvez contactez le DPD de AWIN (i) par courriel envoyé à global-privacy@awin.com ou (ii) par courrier postal adressé à AWIN AG Délégué à la protection des données, Landsberger Allee 104 BC, 10249 Berlin- Allemagne.
+
+Vous pouvez contactez le DPD de Cdiscount (i) par mail envoyé à informatique-et-libertes@cdiscount.com ou (ii) par courrier postal adressé à Cdiscount, Délégué à la protection des données personnelles, 120-126 quai de Bacalan 33000 BORDEAUX.
+
+10.5. Combien de temps Cdiscount et Awin conservent-t-elles vos données ?
+Les données sont conservées 3 ans à compter de leur collecte par Cdiscount et AWIN.
+
+10.6. Vos données sont-elles transférées hors de l’union européenne ?
+Dans le cadre de ces traitements, AWIN et Cdiscount ne transfèrent pas vos Données en dehors de l’Union européenne.
+
+11. Les traitements de données personnelles mis en oeuvre conjointement par Cdiscount et Isendpro
+11.1. ISENDPRO
+ISENDPRO est une société à responsabilité limitée, dont le siège social est situé 12 boulevard d’Athènes, 13001 MARSEILLE, immatriculée au RCS de Marseille sous le numéro 443 014 238.
+
+11.2. Quelles donneesdonnées sont traitées par Isendpro et Cdiscount ?
+Les données traitées par ISENDPRO sont les suivantes :
+
+- Vos données d’identification (par exemple, votre numéro de téléphone)
+;- Vos données liées à vos préférences
+;- Vos données de connexion
+- Les données liées à votre commande
+
+11.3 Pour quelles finalités Isendpro et Cdiscount traitent vos données ?
+ISENDPRO édite une plateforme d’envoi de SMS. L’outil proposé par ISENDPRO permet à Cdiscount de vous envoyer des SMS de la part de Cdiscount ou de ses partenaires. Dans le cadre de ce partenariat, ISENDPRO et Cdiscount sont responsables de traitement conjoint pour la mise en œuvre de campagne publicitaire par voie de SMS pour le compte des partenaires de Cdiscount.
+
+ISENDPRO est responsable de l’enregistrement, de l’organisation, de la conservation et de l’extraction de vos Données ainsi que de leurs mises à disposition sur leur plateforme.
+
+Cdiscount est responsable de l’utilisation de vos Données qui lui sont mises à disposition via la plateforme éditée par ISENDPRO.
+
+Vous pouvez consulter la politique de confidentialité de ISENDPRO ici.
+
+11.4. Gestion des demandes de droit par Isendpro et Cdiscount
+Vous pouvez contactez le DPD de ISENDPRO (i) par courriel envoyé à dpo@isendpro.com..
+
+Vous pouvez contactez le DPD de Cdiscount (i) par mail envoyé à informatique-et-libertes@cdiscount.com ou (ii) par courrier postal adressé à Cdiscount, Délégué à la protection des données personnelles, 120-126 quai de Bacalan 33000 BORDEAUX.
+
+11.5. Combien de temps Cdiscount et Isendpro conservent-t-elles vos donnees ?
+ISENDPRO conserve vos Données pendant 3 mois et 1 an pour les données statistiques. Conformément au paragraphe 2 mentionné précédemment, Cdiscount conserve vos Données jusqu’au retrait de votre consentement (voie électronique) ou 3 ans à compter du dernier contact pour les prospects ou à compter de la fin de la relation commerciale pour les clients. A l’issu de ces délais, les données sont anonymisées ou supprimées.
+
+11.6. Vos donnees sont-elles transférées hors de l’union européenne ?
+Dans le cadre de ces traitements, ISENDPRO et Cdiscount ne transfèrent pas vos Données en dehors de l’Union européenne.
+
+**********************************
+
+La présente politique sera actualisée autant que de besoin afin de répondre aux exigences de la réglementation applicable à la protection des Données. Elle sera, a minima, révisée tous les trois (3) ans.
+
+Le 01/10/2024
+
+Validé par le Délégué à la protection des Données de Cdiscount

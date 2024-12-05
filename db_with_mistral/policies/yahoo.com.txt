@@ -1,0 +1,1141 @@
+
+
+
+
+
+
+Politique de confidentialité de Yahoo | Yahoo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CGU
+
+
+
+Vie privée
+
+
+Back
+
+
+
+Vie privée
+
+
+
+Politique relative à la vie privée 
+
+
+Commandes
+
+
+Publicités pertinentes
+
+
+Sujets
+
+
+Politique en matière de cookies
+
+
+
+
+
+Propriété Intellectuelle
+
+
+
+Règlement de la communauté
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CGU
+
+Vie privée
+
+
+
+Politique relative à la vie privée 
+
+
+Commandes
+
+
+Publicités pertinentes
+
+
+Sujets
+
+
+Politique en matière de cookies
+
+
+
+
+Propriété Intellectuelle
+
+Règlement de la communauté
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Politique de confidentialité de Yahoo
+
+
+
+
+
+
+Politique de confidentialité de Yahoo
+
+
+Agrandir tout
+Réduire tout
+
+
+
+Version 3.1, dernière mise à jour : septembre 2023 (la précédente Politique de confidentialité est disponible ici).
+La présente Politique de confidentialité indique qui nous sommes, décrit les informations que nous collectons auprès de vous et avec qui nous les partageons, et présente également vos droits dans le cadre des lois relatives à la protection des données.
+Pour vous simplifier la navigation dans la présente Politique de confidentialité, nous avons mis certains mots et expressions en gras. Vous pouvez cliquer sur ces termes pour en voir la définition.
+
+
+
+
+1. Qui sommes-nous ?
+Nous, Yahoo EMEA Limited, sommes une société de technologie et de médias. Yahoo EMEA Limited est une société établie en vertu des lois irlandaises au ####Dublin-v2address#### Irlande. Yahoo EMEA Limited est le responsable du traitement des données, ce qui signifie que nous sommes responsables du pourquoi et comment l'information personnelle que nous collectons via nos services est utilisée et conservée.
+
+Nous fournissons les services suivants.
+Nos services aux consommateurs, sous les marques telles que Yahoo et AOL. Nous pouvons proposer la plupart de ces sites et applications gratuitement grâce à nos services de publicité numérique.
+Nos services de publicité numérique, qui choisissent, diffusent et mesurent les publicités diffusées sur nos sites et applications, et sur ceux de nos partenaires. En savoir plus sur le fonctionnement des publicités numériques.
+
+Dans la présente Politique de confidentialité, nos services aux consommateurs et nos services de publicité numérique sont collectivement désignés ci-après comme « nos services ».
+
+
+
+
+2. Quand est-ce que la présente Politique de confidentialité s'applique
+ 
+
+
+La présente Politique de confidentialité s’applique lorsque :
+vous utilisez les services aux consommateurs, décrits dans nos Conditions Générales d’Utilisation, au Royaume-Uni, dans l’Union européenne (UE), dans l’Espace économique européen (EEE), au Moyen-Orient ou en Afrique
+vous utilisez les sites et applications d’autres sociétés qui utilisent nos services de publicité numérique, ou
+nous utilisons vos informations qui nous ont été fournies par des tiers (par exemple, si nous traitons des informations vous concernant que nous obtenons auprès de partenaires ou sur des sites Web accessibles publiquement).
+
+ 
+
+
+La présente Politique de confidentialité ne s’applique pas :
+lorsque vous êtes un client professionnel de nos services de publicité numérique (dans ce cas, notre Politique relative à la vie privée de Yahoo pour les professionnels s’applique)
+lorsque vous consultez d’autres sites Web et applications par l’intermédiaire de liens sur nos services aux consommateurs
+lorsque vous n’utilisez pas nos services (dans ce cas, c’est notre avis destiné aux personnes n’utilisant pas les services Yahoo qui s’applique) 
+à nos employés pendant leur travail, ou
+lorsque le fournisseur des services que vous utilisez est une autre société Yahoo (et non Yahoo EMEA Limited).
+
+
+
+
+3. Catégories d’informations
+
+Dans le cadre de cette Politique de confidentialité, nous faisons référence à différentes catégories d’informations personnelles que nous traitons.
+Cliquez sur le signe + à droite pour en savoir plus sur ces catégories d’informations.
+
+
+Le tableau ci-dessous détaille les catégories d’informations que nous collectons et traitons.
+
+Catégorie
+
+
+Description
+
+
+Informations du compte
+
+
+Informations telles que votre nom d’utilisateur, votre mot de passe, votre activité de connexion, ainsi que les identifiants uniques que nous avons créés pour votre compte.
+
+
+Informations de géolocalisation approximatives
+
+
+Informations sur votre emplacement approximatif (par exemple, la ville ou le pays dans lequel vous vous trouvez). Les informations de géolocalisation précises (décrites ci-dessous) sont exclues.
+
+
+Enregistrement d’appels
+
+
+Enregistrements d’appels téléphoniques entre vous et nous, notamment avec notre équipe de services réservés aux membres.
+
+
+Mails commerciaux
+
+
+E-mails de vendeurs et d’autres organisations (les mails personnels échangés entre des personnes sont exclus).
+
+
+Coordonnées
+
+
+Informations telles que vos nom, adresse mail, numéro de téléphone et adresse postale.
+
+
+Informations relatives aux préférences déclarées par l’utilisateur
+
+
+Informations que vous fournissez pour personnaliser ou améliorer votre utilisation de nos services aux consommateurs, par exemple les symboles boursiers que vous ajoutez à votre portefeuille financier ou les équipes sportives que vous suivez sur notre site dédié aux sports.
+
+
+Données démographiques
+
+
+Cela inclut votre âge, votre sexe, votre état civil et vos informations socioéconomiques (par exemple, votre niveau de scolarité, votre situation d’emploi et votre tranche de revenus).
+
+
+Informations sur l'appareil
+
+
+Informations concernant votre appareil telles que votre navigateur (et sa version), système d’exploitation (et sa version), résolution d’écran et type d’appareil.
+
+
+Informations sur les mails
+
+
+Informations concernant les e-mails (y compris les mails commerciaux) que vous envoyez et recevez par l’intermédiaire de notre service de messagerie telles que l'objet du mail, le contenu des mails entrants et sortants et des pièces jointes (dans certains cas précis indiqués dans cette Politique de confidentialité), ainsi que les métadonnées de vos mails telles que l’heure de leur envoi.
+
+
+Avis
+
+
+Commentaires, suggestions ou réponses à des enquêtes que vous nous fournissez concernant nos services aux consommateurs ou après avoir contacté notre équipe de services réservés aux membres.
+
+
+Informations financières
+
+
+Informations relatives aux paiements : numéros, dates d’expiration, codes de vérification de carte de débit et de crédit et détails concernant le compte PayPal.
+
+
+Documents d’identité
+
+
+Informations détaillées des documents d’identité officiels tels que votre permis de conduire, votre passeport ou carte nationale d’identité lorsque vous devez confirmer votre identité.
+
+
+Centres d’intérêt déduits
+
+
+Centres d’intérêt que nous pensons que vous avez d’après votre activité sur nos services aux consommateurs. Par exemple, nous présumons que le sport vous intéresse si vous consultez nos sites et nos applications sur le sport, recherchez des contenus relatifs au sport à l’aide de nos services de recherche ou recevez des mails commerciaux concernant le sport à l’aide de nos services de messagerie.
+
+
+Informations sur les activités en ligne
+
+
+Informations concernant vos interactions avec nos services aux consommateurs : historique de vos recherches, interactions avec nos services de publicité numérique.
+
+
+Informations de géolocalisation précises
+
+
+Informations décrivant avec précision votre localisation. Ces informations peuvent inclure les coordonnées (latitude et longitude) de votre appareil qui sont suffisamment précises pour vous localiser (par exemple, une adresse).
+
+
+Informations d'achat
+
+
+Informations concernant vos achats, reçus et abonnements auprès de nous.
+
+
+Identifiants techniques
+
+
+Série de lettres et de chiffres qui identifie, par exemple, votre appareil ou une adresse IP. Cette catégorie comprend les identifiants stockés dans les cookies.
+
+
+Contenu généré par l’utilisateur
+
+
+Réponses à des sondages, et commentaires sur des articles dans nos services aux consommateurs et dans les promotions sponsorisées par Yahoo.
+
+
+
+
+
+4. Comment collectons-nous vos informations
+ 
+
+
+Nous collectons des informations vous concernant à différents moments et depuis différentes sources en fonction de/du :
+la manière dont vous utilisez nos services aux consommateurs
+la manière dont vous interagissez avec nos services de publicité numérique
+vos paramètres de confidentialité que vous avez définis
+vos paramètres de confidentialité avec d’autres entreprises qui ont le droit de nous communiquer des informations
+droit dont nous disposons, ou non, d’utiliser vos informations issues de sources disponibles publiquement.
+
+Nous collectons certaines de ces informations à l’aide des cookies et de technologies similaires. Consultez notre politique relative aux cookies pour en savoir plus.
+
+
+
+5. Quand collectons-nous vos informations
+
+Lorsque vous utilisez nos services aux consommateurs, ou les sites ou applications d’autres entreprises qui utilisent nos services de publicité numérique, nous collectons vos informations.
+Cliquez sur le signe + à droite pour en savoir plus sur quand nous collectons vos informations.
+
+
+
+Nous collectons les informations suivantes que vous nous fournissez lorsque vous utilisez nos services aux consommateurs.
+
+Type d’informations
+
+
+Moment où nous les collectons
+
+
+Vos informations du compte, données démographiques, coordonnées.
+
+
+Lorsque vous créez un compte.
+
+
+Vos coordonnées, informations du compte, et documents d’identité.
+
+
+Afin de fournir un support technique ou de gérer votre compte dans certains cas précis.
+
+
+Vos avis et enregistrements d’appels.
+
+
+Lors d’appels téléphoniques et dès que vous interagissez avec notre équipe du support technique.
+
+
+Informations relatives aux préférences déclarées par l'utilisateur que vous avez fournies afin de personnaliser votre expérience telles que les symboles boursiers et vos équipes sportives favorites.
+
+
+Lorsque vous fournissez les informations.
+
+
+Informations financières que vous fournissez pour payer des services par abonnement.
+
+
+Lorsque vous effectuez le paiement ou vous inscrivez à nos services.
+
+
+Coordonnées et contenu généré par l’utilisateur que vous fournissez dans les enquêtes, les commentaires et les promotions sponsorisées par Yahoo.
+
+
+Lorsque vous fournissez des informations sur nos services aux consommateurs dans les enquêtes, les commentaires et les promotions sponsorisées par Yahoo.
+
+
+
+Nous collectons les informations suivantes lorsque vous utilisez nos services aux consommateurs (collecte directe).
+
+Type d’informations
+
+
+Moment où nous les collectons
+
+
+Informations concernant votre activité, notamment :
+
+
+Informations sur votre activité en ligne sur nos services aux consommateurs telles que les publicités ou articles sur lesquels vous avez cliqué, vos recherches, les applications que vous avez installées ou utilisées, ainsi que la fréquence, la durée et l'heure de vos visites.
+
+
+Lorsque vous cliquez sur des publicités ou des articles, ou installez ou utilisez nos sites et applications.
+
+
+Informations sur vos mails.
+
+
+Lorsque vous utilisez les services de messagerie de Yahoo ou d’AOL pour envoyer et recevoir des e-mails.
+
+
+Le site que vous avez consulté ou l’application que vous avez utilisée immédiatement avant et après vous être servi de nos services aux consommateurs.
+
+
+Lorsque vous commencez à utiliser et arrêtez d’utiliser nos services aux consommateurs.
+
+
+Informations d'achat concernant le type et la durée de vos abonnements ou achats effectués sur nos services aux consommateurs.
+
+
+Lorsque votre abonnement auprès de nous commence et s’arrête, ou lorsque l’achat est effectué.
+
+
+Informations concernant votre appareil, notamment :
+
+
+Informations sur l’appareil, par exemple, paramètres de langue, région géographique et fuseau horaire de votre appareil.Identifiants techniques, par exemple, adresses IP, fournisseur de services Internet, identifiants d'appareil, et réseau mobile.Informations de géolocalisation précises et informations de géolocalisation approximatives, basées sur votre adresse IP et sur les signaux GPS, Wi-Fi ou Bluetooth.
+
+
+Lorsque vous utilisez nos services aux consommateurs.
+
+
+
+Nous collectons les informations suivantes lorsque vous utilisez des applications et sites tiers qui font appel à nos services de publicité numérique (collecte indirecte).
+
+Type d’informations
+
+
+Moment où nous les collectons
+
+
+Informations concernant votre activité, notamment :
+
+
+Information sur votre activité en ligne sur des applications et sites tiers, comme les publicités ou articles sur lesquels vous avez cliqué.
+
+
+Lorsque vous cliquez sur des publicités que nous fournissons par l’intermédiaire de nos services de publicité numérique.
+
+
+Informations concernant votre appareil, notamment :
+
+
+Informations sur l’appareil, par exemple, paramètres de langue, région géographique et fuseau horaire de votre appareil.Identifiants techniques, par exemple, adresses IP, fournisseur de services Internet, identifiants d'appareil, et réseau mobile.Informations de géolocalisation précises et informations de géolocalisation approximatives, basées sur votre adresse IP et sur les signaux GPS, Wi-Fi ou Bluetooth.
+
+
+Lorsque vous utilisez un site ou une application d’un partenaire qui utilise nos services de publicité numérique.
+
+
+
+Nous collectons les informations suivantes auprès de partenaires par l’intermédiaire d’accords contractuels ou de sources disponibles publiquement.
+
+Type d’informations
+
+
+Moment où nous les collectons
+
+
+Informations issues de sources disponibles publiquement ou auprès de nos partenaires commerciaux et de fournisseurs de données tiers liés par contrat, notamment les identifiants techniques, les données démographiques, les informations sur l’appareil, les Information sur l'activité en ligne, les centres d’intérêt déduits, les informations de géolocalisation précises et les informations de géolocalisation approximatives.
+
+
+Lorsque nous accédons à des informations disponibles publiquement ou concluons un accord avec des partenaires qui nous fournissent les services.
+
+
+Coordonnées et données démographiques issues de plateformes de réseaux sociaux.
+
+
+Lorsque vous utilisez votre identifiant de réseaux sociaux pour utiliser nos services aux consommateurs.
+
+
+
+
+
+6. Comment utilisons-nous vos informations et bases juridiques invoquées
+ 
+
+
+
+Lorsque vous utilisez nos services aux consommateurs, ou les sites ou applications d’autres entreprises qui utilisent nos services de publicité numérique, nous utilisons vos informations pour les objectifs suivants:
+vous fournir les services aux consommateurs
+vous fournir des publicités, notamment pour la création de profils de centres d'intérêt et la personnalisation des publicités que nous diffusons
+personnaliser le contenu que nous vous diffusons, notamment pour la création de profils de centres d’intérêt
+vous proposer directement nos services aux consommateurs
+comprendre, développer et améliorer nos services
+développer et fournir des informations sur nos services
+authentifier nos utilisateurs et protéger nos systèmes, notamment de toute activité frauduleuse, abusive ou illégale
+effectuer des recherches, identifier, déposer ou défendre des actions en justice
+nous conformer aux lois et règlements pertinents (conformité juridique).
+
+ 
+
+
+Lorsque nous traitons les informations associées à ces objectifs, nous invoquons des bases juridiques (motifs juridiques valides). Les bases juridiques que nous invoquons sont les suivantes :
+Contrat - le traitement est nécessaire dans le cadre d’un contrat qui vous lie à nous ou vous nous avez demandé de prendre des mesures particulières avant de signer un contrat avec nous.
+Consentement  - vous nous avez donné clairement votre autorisation.
+Intérêts légitimes - le traitement est nécessaire pour nos intérêts légitimes ou pour ceux d’un tiers, sauf s’il existe une raison valable de protéger vos informations personnelles qui prévaut sur nos intérêts légitimes ou ceux d’un tiers.
+Obligation légale - le traitement est nécessaire pour que nous puissions nous conformer au droit qui s’applique (à l’exception de nos obligations contractuelles).
+Intérêts vitaux - le traitement est nécessaire pour protéger la vie d’une personne.
+
+Cliquez sur le signe + à droite pour en savoir plus.
+
+
+
+Exécuter le contrat qui nous lie avec vous
+Nous traitons vos informations lorsque cela est nécessaire pour conclure ou poursuivre un contrat avec vous. Pour connaître les clauses du contrat, consultez les Conditions Générales d’Utilisation.
+
+Traitement réalisé pour vous fournir nos services aux consommateurs
+
+Catégorie d’informations que nous traitons
+
+
+Raisons pour lesquelles nous traitons ces informations
+
+
+Informations sur les mailsCoordonnées
+
+
+Pour vous fournir notre service de messagerie.
+
+
+CoordonnéesInformations financièresInformations d'achat
+
+
+Vous fournir un service par abonnement, traiter le paiement de votre abonnement et vous donner l’historique de vos achats.
+
+
+Informations du compteCoordonnéesDocuments d’identité
+
+
+Vous fournir un accès sécurisé à votre compte et, dans certaines circonstances, vérifier votre identité lorsque vous nous contactez afin de bénéficier du support technique. Nous ne demandons des documents d’identité que si cela s’avère nécessaire pour des raisons de sécurité.
+
+
+Informations sur l’appareil
+
+
+Pour optimiser la version de nos services aux consommateurs que vous demandez. Par exemple, si vous utilisez nos services aux consommateurs sur un appareil mobile, nous proposons la version mobile ; de la même manière, si vous les utilisez sur un ordinateur de bureau ou portable, nous proposons la version pour ordinateur.
+
+
+Identifiants techniques
+
+
+Pour mémoriser vos informations de connexion lorsque vous vous connectez à nos services aux consommateurs.
+
+
+Information relatives aux préférences déclarées par l'utilisateur
+
+
+Pour vous proposer des fonctionnalités ou pour afficher des contenus que vous avez demandés sur nos services aux consommateurs. Par exemple, nous enregistrons et conservons les symboles boursiers que vous ajoutez à votre portefeuille financier ou les équipes sportives que vous suivez sur notre site dédié aux sports.
+
+
+Informations sur l` activité en ligneIdentifiants techniquesInformations de géolocalisation approximatives
+
+
+Pour traiter les requêtes que vous saisissez dans nos services de recherche et pour vous fournir des résultats de recherche pertinents.
+Pour afficher des articles, des vidéos et d’autres contenus que nous diffusons et que diffusent nos partenaires de contenu. Nous ne personnaliserons pas le contenu que nous vous diffusons sans votre consentement.
+
+
+Informations sur l'activité en ligneIdentifiants techniquesInformations de géolocalisation approximativesIdentifiants d'appareil
+
+
+Pour détecter les pannes de réseau et de système, surveiller les performances de notre système et de notre réseau, et équilibrer le trafic sur notre infrastructure réseau.
+
+
+Informations de géolocalisation approximatives
+
+
+Pour vous fournir les services aux consommateurs appropriés disponibles dans votre région (par exemple, pour fournir des résultats de recherche localisés tels que des restaurants à proximité de votre localisation au moment où vous recherchez des restaurants). Nous n’utiliserons pas vos informations de géolocalisation précises sans votre consentement.
+
+
+Information relatives aux préférences déclarées par l'utilisateurCoordonnéesDonnées démographiquesAvis
+
+
+Pour augmenter votre engagement sur nos services aux consommateurs par l’intermédiaire de promotions auxquelles vous choisissez de participer.
+
+
+
+
+Avec votre consentement
+Nous avons besoin de votre consentement (autorisation) pour utiliser vos informations pour certaines activités de traitement. Cela signifie que nous n’effectuerons ce traitement que si vous l’acceptez explicitement, par exemple en cliquant sur « J’accepte ». Vous pouvez retirer votre consentement pour les traitements indiqués ci-dessous (de i à v) via vos paramètres de confidentialité.
+
+Traitement réalisé pour fournir certaines fonctionnalités de nos services aux consommateurs
+
+Catégorie d’informations que nous traitons
+
+
+Raisons pour lesquelles nous traitons ces informations
+
+
+Informations sur les mails
+
+
+Vous fournir des fonctionnalités de produit, par exemple :
+des fonctionnalités de messagerie (par exemple, le suivi des colis, l’identification des e-mails relatifs aux voyages, y compris ceux concernant les réservations de vols et d’hôtels, et le désabonnement d’un simple geste des e-mails que vous ne souhaitez plus recevoir) ;
+autres fonctionnalités sur nos services aux consommateurs (dans certains pays, par exemple, la page d’accueil de Yahoo affiche vos dépenses en fonction des reçus d’achats qui vous ont été envoyés par e-mail).
+Si vous utilisez nos services dans l’Espace économique européen (EEE), au Royaume-Uni ou en Suisse, vous pouvez accéder à vos paramètres de confidentialité afin de contrôler la façon dont nous utilisons les informations sur vos mails pour les fonctionnalités de produits.
+
+
+Coordonnées
+
+
+Pour vous envoyer les bulletins d’informations auxquels vous vous êtes abonné dans le cadre de votre utilisation de nos services aux consommateurs.
+
+
+
+Traitement réalisé pour fournir des publicités personnalisées, y compris pour concevoir un profil de centres d’intérêt en matière de publicité
+
+Catégorie d’informations que nous traitons
+
+
+Raisons pour lesquelles nous traitons ces informations
+
+
+Informations du compteInformations de géolocalisation approximativesCoordonnéesInformations relatives aux préférences déclarées par l'utilisateurDonnées démographiquesInformations sur l’appareilCentres d’intérêt déduitsInformations sur l'activité en ligneInformations de géolocalisation précisesInformations d'achatIdentifiants techniques
+
+
+Pour cibler et vous diffuser des publicités personnalisées sur nos services aux consommateurs, et sur les sites et applications d’autres sociétés qui utilisent nos services de publicité numérique.
+Pour mesurer l’efficacité de nos publicités et pour créer des profils de centres d'intérêt relatifs à la publicité et basés sur vos centres d’intérêt déduits.
+Si vous refusez ou retirez votre consentement concernant notre utilisation de vos informations personnelles dans l’objectif de diffuser des publicités ciblées, nous continuerons à diffuser des publicités, mais elles ne seront pas personnalisées en fonction de ces catégories d’informations.
+Découvrez le fonctionnement de la publicité numérique pour savoir comment nous utilisons vos informations afin de vous diffuser des publicités. Les politiques publicitaires de Yahoo ne permettent pas le traitement des données d’enfants dont on sait qu'ils ont moins de 18 ans à des fins de publicité ciblée.
+
+
+Mails commerciaux
+
+
+Pour créer des profils de centres d’intérêt pour la publicité afin de personnaliser les publicités que nous diffusons sur nos services.
+Vous pouvez utiliser vos paramètres de confidentialité pour définir si nous pouvons analyser vos mails commerciaux, par exemple les reçus des commerçants, à des fins de publicité.
+Pour plus d’informations, consultez la section Yahoo et AOL Mail de la page de nos services aux consommateurs.
+
+
+
+Traitement réalisé pour vous fournir des contenus personnalisés, y compris pour concevoir un profil de centres d’intérêt en matière de contenu
+
+Catégorie d’informations que nous traitons
+
+
+Raisons pour lesquelles nous traitons ces informations
+
+
+Informations du compteInformations de géolocalisation approximativesCoordonnéesInformations relatives aux préférences déclarées par l'utilisateurDonnées démographiquesInformations sur l’appareilCentres d’intérêt déduitsInformation sur l'activité en ligneInformations de géolocalisation précisesInformations d'achatIdentifiants techniques
+
+
+Pour vous fournir des contenus personnalisés et pour créer des profils de centres d'intérêt en matière de contenu basés sur vos centres d’intérêt déduits.
+Par exemple, si vous lisez régulièrement des articles sur nos services aux consommateurs concernant les sports ou les marchés financiers, nous créerons des profils qui vous identifient comme « amateur de sports » ou « consommateur d’informations sur la finance ». Lorsque vous consulterez nos services aux consommateurs, vous verrez d’autres articles sur ces centres d’intérêt. De la même manière, si vous ajoutez un symbole boursier d’une entreprise à votre portefeuille d’actions Yahoo, nous vous proposerons d’autres articles d’actualités sur cette entreprise.
+Si vous refusez ou retirez votre consentement concernant notre utilisation de vos informations personnelles dans l’objectif de diffuser des contenus personnalisés, nous continuerons à diffuser des contenus, mais ils ne seront pas basés sur vos centres d’intérêt déduits. De la même manière, nous n’utiliserons pas de cookies et d’autres technologies similaires pour mesurer votre interaction avec le contenu que nous vous diffusons.
+
+
+Mails commerciaux
+
+
+Pour créer des profils de centres d'intérêt afin de personnaliser le contenu que nous vous diffusons sur nos services aux consommateurs.
+Vous pouvez utiliser vos paramètres de confidentialité pour définir si nous pouvons utiliser vos mails commerciaux afin de personnaliser le contenu diffusé.
+Pour plus d’informations, consultez la section Yahoo et AOL Mail de la page de nos services aux consommateurs.
+
+
+
+Traitement réalisé pour vous proposer nos services directement et pour promouvoir les produits et services de partenaires
+
+Catégorie d’informations que nous traitons
+
+
+Raisons pour lesquelles nous traitons ces informations
+
+
+CoordonnéesDonnées démographiques
+
+
+Pour vous proposer directement nos services aux consommateurs et pour promouvoir les produits et services de partenaires lorsque :
+vous créez un compte sur l’un de nos services aux consommateurs
+vous nous indiquez vos centres d’intérêt
+vous utilisez certains services aux consommateurs pour lesquels vos informations sont nécessaires pour que nous puissions fournir la fonctionnalité que vous demandez.
+Nous utilisons également votre adresse e-mail pour vous envoyer les bulletins d’informations auxquels vous vous êtes abonné dans le cadre de nos services aux consommateurs.
+
+
+
+Traitement réalisé pour comprendre, développer et améliorer nos services aux consommateurs
+
+Catégorie d’informations que nous traitons
+
+
+Raisons pour lesquelles nous traitons ces informations
+
+
+Mails commerciaux
+
+
+Pour créer des statistiques agrégées qui utilisent des informations non identifiables issues de mails commerciaux que vous et les autres utilisateurs avez reçus.
+Ces statistiques agrégées nous aident à comprendre comment nos services aux consommateurs sont utilisés, quels sont les produits et services commerciaux les plus populaires, ainsi que d’autres comportements des consommateurs.
+Si vous utilisez nos services dans l’Espace économique européen (EEE), au Royaume-Uni ou en Suisse, vous pouvez utiliser vos paramètres de confidentialité afin de définir si nous pouvons inclure dans nos statistiques agrégées des informations non identifiables issues de vos mails commerciaux.
+Pour plus d’informations, consultez la section Yahoo et AOL Mail de la page de nos services aux consommateurs.
+
+
+
+
+Traitement basé sur un intérêt légitime
+Nous traitons vos informations lorsque ce traitement est dans notre intérêt légitime ou dans celui de nos partenaires.
+
+Traitement réalisé pour mesurer, comprendre, développer et améliorer nos services aux consommateurs
+
+Catégorie d’informations que nous traitons
+
+
+Raisons pour lesquelles nous traitons ces informations
+
+
+Informations du compteCoordonnéesInformations relatives aux préférences déclarées par l'utilisateurDonnées démographiquesInformations sur l’appareilAvisInformations financièresInformations de géolocalisation approximativesCentres d’intérêt déduitsInformations sur l'activité en ligneInformations de géolocalisation précisesInformations d'achatIdentifiants techniquesContenu généré par l’utilisateur
+
+
+Pour créer des aperçus qui nous aideront à :
+mesurer et comprendre le fonctionnement et l’utilisation de nos services aux consommateurs
+créer des contenus, services et fonctionnalités plus pertinents pour nos services aux consommateurs
+compiler des statistiques agrégées concernant l’utilisation de nos services aux consommateurs et créer des mesures générales sur les sites Web (par exemple, le nombre d’utilisateurs qui ont visité un site Yahoo, lu un article ou regardé une vidéo sur nos services aux consommateurs).
+Exemples de ce type de traitement :
+décompte du nombre de lectures d’un article ou de visualisations d’une vidéo dans nos services aux consommateurs
+décompte et comparaison des différents types de navigateurs ou appareils utilisés pour accéder à nos services aux consommateurs
+test d’assurance qualité (y compris les tests de sécurité), détection et suppression des bugs, et mesure des performances des services (par exemple, durée de chargement de nos pages et de nos applications).
+
+
+
+Traitement réalisé à des fins d’authentification et de sécurité, y compris pour éviter et détecter toute activité frauduleuse, abusive ou illégale
+
+Catégorie d’informations que nous traitons
+
+
+Raisons pour lesquelles nous traitons ces informations
+
+
+Informations du compteCoordonnéesDocuments d’identité
+
+
+Pour vérifier votre identité dans certains cas, notamment lorsque vous oubliez votre mot de passe ou que vous demandez l’accès à vos informations.
+
+
+Toutes les catégories d’informations
+
+
+Pour éviter et détecter toute activité frauduleuse, abusive ou illégale, et pour protéger votre compte et nos systèmes.
+Nous utilisons votre adresse IP pour protéger nos services aux consommateurs de toute activité frauduleuse liée aux publicités, et d’autres technologies et activités malfaisantes.
+Nous analysons également les informations sur vos mails, et y recherchons des virus et d’autres logiciels malveillants qui nuiraient aux performances ou à la sécurité de nos services de messagerie et de notre réseau. Par exemple, nous utilisons les informations sur les mails pour surveiller les performances, effectuer des analyses de sécurité, détecter et réparer des défaillances et des pannes, résoudre des problèmes et des bugs, planifier et prévoir les capacités, optimiser le trafic et équilibrer les charges.
+
+
+
+Traitement réalisé pour effectuer des recherches, identifier, déposer ou défendre des actions en justice, partager des informations avec d’autres parties concernées, y compris les forces de l’ordre, et pour répondre à des demandes juridiques
+
+Catégorie d’informations que nous traitons
+
+
+Raisons pour lesquelles nous traitons ces informations
+
+
+Toutes les catégories d’informations
+
+
+Pour prendre en compte et, le cas échéant, y répondre, des demandes juridiques, des actions en justice, des contentieux ou d’autres litiges.
+Pour détecter, rechercher ou combattre :
+les fraudes et d’autres activités illégales ;
+les problèmes techniques et de sécurité.
+Cela peut inclure le partage d’informations avec d’autres sociétés technologiques afin de vous protéger des menaces de sécurité et de signaler les contenus illégaux aux forces de l’ordre, aux ministères et à d’autres autorités.
+Nous partageons vos informations avec nos conseillers externes lorsque nous avons besoin de conseils juridiques, ou avec d’autres personnes dans le cadre d’actions en justice et d’autres litiges.
+
+
+
+Traitement réalisé pour fournir des publicités
+
+Catégorie d’informations que nous traitons
+
+
+Raisons pour lesquelles nous traitons ces informations
+
+
+Identifiants techniques
+
+
+Pour diffuser des publicités et protéger nos services aux consommateurs des activités frauduleuses liées à la publicité.
+Par exemple, si nous n’avons pas votre consentement pour utiliser les cookies et des technologies similaires afin de vous fournir des publicités ou de personnaliser les publicités diffusées, nous diffuserons des publicités basées sur des informations telles que la page sur laquelle vous vous trouvez ou le moment de la journée (ces publicités sont souvent appelées publicités de base ou contextuelles). Lorsque nous diffusons ces publicités, nous utilisons votre adresse IP pour vous fournir les publicités et nous assurer que vous n’êtes pas un utilisateur frauduleux.
+Découvrez le fonctionnement de la publicité numérique pour savoir comment nous utilisons vos informations afin de diffuser des publicités.
+
+
+
+
+Respecter nos obligations légales
+Nous traitons vos informations lorsque nous sommes tenus de le faire pour des raisons de conformité à nos obligations légales.
+
+Catégorie d’informations que nous traitons
+
+
+Raisons pour lesquelles nous traitons ces informations
+
+
+Informations de géolocalisation approximativesIdentifiants techniques
+
+
+Nous traiterons votre adresse IP pour déterminer la juridiction et les termes juridiques qui s’appliquent à vous.
+
+
+Informations du compteInformations sur l'activité en ligneIdentifiants techniques
+
+
+Pour appliquer vos choix en matière de confidentialité sur nos services.
+
+
+Toutes les catégories d’informations
+
+
+Pour répondre à une demande légale valide d’un régulateur, d’un organisme chargé de l’application de la loi ou d’une autre autorité publique. Des demandes légales valides peuvent être, par exemple, des mandats de perquisition ou des décisions de tribunal.
+La liste suivante répertorie des exemples de nos obligations légales en vertu des législations irlandaise et de l’Union européenne:
+Si des organismes publics, y compris les Commissaires fiscaux irlandais (Irish Revenue Commissioners) et le Bureau du Directeur de l’application du droit des sociétés (Office of the Director of Corporate Enforcement) nous demandent des informations, nous devons nous conformer au droit des sociétés et au droit fiscal (par exemple, à la Loi sur les sociétés 2014 (Companies Act 2014)).
+Si les forces de l’ordre irlandaises nous demandent des informations relatives à une enquête criminelle, nous devons nous conformer à la Loi sur le système de justice pénale de 1997 (Criminal Justice Act 1997) (dispositions diverses) (telle que modifiée), le cas échéant.
+Si la Commission irlandaise pour la concurrence et la protection du consommateur (Irish Competition and Consumer Protection Commission) nous demande des informations, nous devons nous conformer au droit de la concurrence et de la consommation (par exemple, à la Loi de la concurrence et de la protection du consommateur de 2014 (Competition and Consumer Protection Act 2014)).
+Lorsque nous collectons, traitons, stockons et conservons des informations personnelles, nous devons nous conformer au droit de la protection des données (notamment au Règlement général sur la protection des données, à la Loi sur la protection des données de 2018 (Data Protection Act 2018) et aux Règlements des communautés européennes (Réseaux et services de communications électroniques) (Vie privée et communications électroniques) de 2011).
+Nous devons nous conformer à toute décision du tribunal qui exige que nous fournissions des informations relatives à des procédures judiciaires, y compris les décisions découlant du Règlement (UE) n° 1215/2012 concernant la compétence judiciaire, la reconnaissance et l’exécution des décisions en matière civile et commerciale.
+
+
+
+Protéger les intérêts vitaux
+Nous traitons vos informations lorsque nous sommes tenus de le faire pour protéger vos intérêts vitaux ou ceux d’une autre personne.
+
+Catégorie d’informations que nous traitons
+
+
+Raisons pour lesquelles nous traitons ces informations
+
+
+Toutes les catégories d’informations
+
+
+Pour examiner et partager des informations, y compris avec les forces de l’ordre et d’autres organismes, dans des circonstances où vos intérêts vitaux ou ceux d’une autre personne doivent être protégés, notamment en cas d’urgence.
+Les intérêts vitaux comprennent la protection de votre vie (et celle d’autres personnes) et la santé physique ou mentale, ainsi que la détection, le retrait et la signalisation de contenus illégaux. Par exemple, nous utilisons des outils de détection pour identifier le matériel relatif à l'abus sexuel d'enfants dans notre service de messagerie. Lorsque nous détectons des matériels relatifs aux abus sexuels d'enfants, nous le signalons au Centre national pour les enfants disparus et exploités des États-Unis (National Center for Missing & Exploited Children).
+Lors de la protection des intérêts vitaux, nous luttons contreles comportements préjudiciables et promouvons la sûreté, l’intégrité et la sécurité, y compris lorsque nous enquêtons sur des notifications de comportements nuisibles ou que nous prenons les mesures appropriées telles que le partage des informations avec les autorités concernées lorsqu’une personne a besoin d’aide.
+
+
+
+
+
+7. Partage de vos informations
+
+La liste ci-dessous répertorie les catégories de destinataires avec lesquels nous partageons vos informations.
+Cliquez sur le signe + à droite pour en savoir plus sur ces destinataires et sur les raisons pour lesquelles nous partageons vos informations avec eux.
+
+
+
+Catégorie de destinataire
+
+
+Raisons pour lesquelles nous partageons vos informations
+
+
+Sociétés Yahoo
+
+
+Nous partageons vos informations avec d’autres sociétés Yahoo à des fins diverses, notamment :
+pour vous fournir les services aux consommateurs que vous utilisez
+pour protéger nos services aux consommateurs et nos systèmes en détectant tout accès ou utilisation non autorisé et en les empêchant
+pour comprendre le fonctionnement de nos services aux consommateurs et de nos services de publicité numérique
+pour améliorer les fonctionnalités et services existants, et pour en développer de nouveaux.
+
+
+Sous-traitants agissant pour notre compte
+
+
+Nous partageons vos informations avec des sous-traitants qui travaillent pour notre compte et traitent vos informations conformément à nos instructions. Les sous-traitants incluent :
+les fournisseurs de stockage dans le cloud
+les fournisseurs de services d’applications
+les services de gestion des abonnements et des paiements
+les partenaires de sécurité et les fournisseurs de services
+les plateformes d’avis et de commentaires.
+
+
+Partenaires publicitaires
+
+
+Si vous consentez au partage de vos informations avec nos partenaires publicitaires pour les objectifs mentionnés ci-dessous, nous partagerons ces informations avec nos partenaires publicitaires et nous autoriserons ces partenaires à collecter les informations concernant votre activité en ligne, votre appareil, vos informations de géolocalisation approximatives et vos vos identifiants techniques afin qu’ils puissent :
+diffuser des publicités sur nos services aux consommateurs aux personnes qui sont les plus susceptibles de vouloir les visionner
+faire correspondre les informations à votre sujet dont ils disposent et celles que nous détenons
+créer des profils de centres d'intérêt en matière de publicité vous concernant et concernant votre appareil
+Suivre l’évolution du nombre d’utilisateurs qui ont visionné une publicité spécifique ou qui ont cliqué dessus
+Analyser les performances et l’efficacité de nos publicités et de celles de tiers
+développer et améliorer leurs services
+lutter contre la fraude et détecter le trafic généré par des robots
+effectuer des audits et des recherches, créer des rapports pour les annonceurs, y compris concernant l’audience que nous atteignons.
+Avec votre consentement, Yahoo partagera également les centres d’intérêt déduits vous concernant que nous avons créés avec Taboola afin que Taboola puisse effectuer les opérations ci-dessus. Pour en savoir plus sur Taboola, vous pouvez lire leur Politique de confidentialité.
+Vous pouvez à tout moment afficher la liste des partenaires publicitaires avec lesquels nous travaillons ou gérer la façon dont ils utilisent vos informations en cliquant sur les liens "Paramètres de confidentialité et de cookies" ou "Tableau de bord sur la vie privée" disponibles sur nos sites et dans nos applications.
+Nous faisons partie du Cadre de transparence & de consentement d’IAB Europe et nous nous conformons à ses spécifications et politiques. Nous exploitons la plateforme de gestion des consentements et notre numéro d’identification est le 14.
+
+
+Partenaires de recherche
+
+
+Lorsque vous utilisez nos services de recherche, nous partageons vos informations avec des partenaires de recherche pour fournir nos services de recherche. Les partenaires de recherche reçoivent les informations sur votre activité en ligne, les identifiants techniques et les informations de géolocalisation approximatives. Ils peuvent utiliser vos informations afin de fournir des fonctionnalités de recherche supplémentaires telles que les cartes, les listes d’entreprises locales ou les informations sur des vols. Pour plus d’informations sur nos services de recherche et sur notre mode de partage de vos informations avec les partenaires de recherche, accédez à la page de nos services aux consommateurs.
+
+
+Partenaires de contenus et de réseaux sociaux
+
+
+Si nous avons votre consentement, nous partagerons les informations sur votre activité en ligne, les informations sur l’appareil et les informations de géolocalisation approximatives avec nos partenaires de contenus et de réseaux sociaux afin de leur permettre de fournir des contenus pertinents et d’autres fonctionnalités dans le cadre de nos services aux consommateurs, notamment:
+articles d’actualités et de divertissement
+publications imbriquées dans des réseaux sociaux
+boutons vous permettant de partager et d’aimer des contenus sur des plateformes de réseaux sociaux
+vidéos et podcasts imbriqués, et autres widgets interactifs.
+Ces partenaires utiliseront vos informations conformément à vos paramètres de confidentialité, à leurs propres politiques de confidentialité et aux accords que nous avons conclus avec eux. Vous pouvez à tout moment afficher la liste des partenaires de contenu et de réseaux sociaux avec lesquels nous travaillons ou gérer la façon dont ils utilisent vos informations en cliquant sur les liens "Paramètres de confidentialité et de cookies" ou "Tableau de bord sur la vie privée" disponibles sur nos sites et dans nos applications.
+
+
+Partenaire d’e-commerce
+
+
+Nous collaborons avec des partenaires d’e-commerce pour fournir des listes de produits, des catalogues, des paniers, des alertes de prix, des traitements des paiements et d’autres fonctionnalités de commerce en ligne associées. Les partenaires d’e-commerce sont notamment AWIN, Skimlinks, Amazon, et Sovrn.
+Dans nos services aux consommateurs, nos partenaires d’e-commerce peuvent, par exemple, afficher des hyperliens vers des biens et services tiers. Si vous cliquez sur ces hyperliens, vous serez redirigé vers des vendeurs, des fabricants ou d’autres sites et applications qui fournissent des informations sur ces produits et services et vous permettent de les acheter. Ces partenaires collecteront des informations liées à votre activité et utiliseront ces informations conformément à leurs politiques et aux accords que nous avons passés avec eux.
+
+
+Agences gouvernementales ou autres tiers
+
+
+Nous partageons des informations avec des tiers et les forces de l’ordre pour :
+Nous conformer à une ordonnance de tribunal ou à une procédure juridique similaire, ou pour empêcher la fraude et d’autres activités illégales.
+Protéger nos droits, notre propriété et notre sécurité et ceux de nos utilisateurs. Par exemple, nous pouvons fournir des informations (par exemple, votre adresse IP) aux forces de l’ordre en cas d’urgence où la sécurité d’une personne est compromise.
+Détecter, rechercher ou combattre, par exemple, les fraudes, les activités illégales, ainsi que les problèmes techniques et de sécurité. Cela inclut le partage d’informations avec d’autres sociétés technologiques pour la protection contre des menaces de sécurité.
+Pour nous conformer à des exigences juridiques ou réglementaires.
+Pour exercer nos droits juridiques, y compris les enquêtes relatives au non-respect de nos Conditions Générales d’Utilisation.
+
+
+Nouveaux propriétaires
+
+
+Si la propriété ou le contrôle de tout ou partie de Yahoo (ou d’un ou de plusieurs de nos services aux consommateurs ou de nos services de publicité numérique) change ou est susceptible de changer suite à une fusion, à une acquisition ou à une vente d’actifs, nous sommes susceptibles de transférer vos informations au nouveau propriétaire (ou au propriétaire potentiel) ou au nouveau contrôleur.
+
+
+
+
+8. Exercice de vos droits en matière de confidentialité
+
+Vous avez certains droits sur vos informations, y compris le droit de recevoir une copie de vos informations personnelles, afin de contrôler notre mode de traitement de certaines informations, et de corriger ou supprimer des informations personnelles.
+Cette section fournit des informations supplémentaires sur vos droits et sur la manière de les exercer.
+
+Ces droits peuvent être limités dans certaines circonstances. Par exemple, lorsque nous :
+ne pouvons pas vérifier votre identité
+devons, conformément à la loi, restreindre vos droits en matière de confidentialité
+avons un motif professionnel valable de conserver vos informations personnelles
+devons protéger les droits de tiers.
+
+Cliquez sur le signe + à droite pour en savoir plus.
+
+
+Comment exercer vos droits en matière de confidentialité
+Vous pouvez exercer vos droits en matière de confidentialité dans vos paramètres de confidentialité. Vous pouvez également exercer vos droits en matière de confidentialité en complétant notre formulaire de confidentialité.
+
+Révoquer votre consentement
+Si vous nous avez donné votre consentement pour traiter vos informations ou pour utiliser les cookies et des technologies similaires, vous pouvez révoquer votre consentement à tout moment. Vous pouvez le faire via vos paramètres de confidentialité.
+Veuillez noter que la révocation de votre consentement n’aura pas d’incidence sur la légalité des traitements effectués sur la base de ce consentement avant sa révocation.
+
+
+S'opposer au traitement de vos informations
+Vous avez le droit de vous opposer à ce que nous traitions vos informations personnelles. Vous pouvez mettre à jour vos préférences marketing à tout moment dans vos paramètres de confidentialité. Vous pouvez également vous opposer en remplissant notre formulaire relatif à la confidentialité.
+
+Lorsque vous vous opposez, nous prendrons en compte un certain nombre de facteurs :
+vos attentes raisonnables ;
+les avantages et les risques pour vous, pour nous ou d’autres personnes ;
+d’autres méthodes disponibles qui pourraient atteindre le même objectif.
+
+
+
+Restreindre le traitement de vos informations
+Dans certains cas, vous pouvez restreindre le traitement de vos informations pendant une certaine période, à condition que les motifs soient valables. Pour ce faire, veuillez nous contacter à l’aide de notre formulaire relatif à la confidentialité.
+
+
+Obtenir des copies de vos informations
+Vous avez le droit de nous demander une copie des informations personnelles dont nous disposons à votre sujet. Vous pouvez télécharger une copie de vos informations à partir de vos paramètres de confidentialité ou à l’aide de notre formulaire relatif à la confidentialité.
+
+
+Droit à la portabilité des données
+Ce droit à la portabilité des données vous permet de recevoir des informations accessibles et lisibles par une machine, et de demander à une organisation de transférer vos informations à une autre organisation (par exemple, à un autre fournisseur de messagerie). Vous pouvez le faire par l’intermédiaire de vos paramètres de confidentialité.
+
+
+Supprimer vos informations
+Vous avez le droit, dans certains cas, de nous demander de supprimer vos informations. Nous supprimerons les informations, sauf si la loi nous oblige à les conserver ou si nous avons un motif professionnel valable de les conserver.
+Vous pouvez supprimer votre compte et les informations qui y sont associées à tout moment, dans vos paramètres de confidentialité ou en nous contactant à l’aide de notre formulaire relatif à la confidentialité.
+Si vous nous demandez de supprimer votre compte, nous supprimerons vos informations ou les rendrons anonymes dans les 30 jours, sauf si les circonstances nous contraignent à les garder (par exemple, si la loi nous oblige à les conserver).
+Vous pouvez demander que des URL spécifiques ne figurent plus dans les résultats des recherches portant sur votre nom dans Yahoo Search et AOL Search. Cette procédure s’intitule généralement « droit à l’oubli ». Vous pouvez formuler cette requête en consultant notre page relative au droit à l’oubli.
+
+
+Corriger vos informations
+Vous avez le droit de corriger les informations que vous avez fournies si elles ne sont plus pertinentes ou si elles sont incomplètes. Vous pouvez mettre à jour vos informations à tout moment dans la page des informations de votre compte ou en nous contactant à l’aide de notre formulaire relatif à la confidentialité.
+
+
+Signaler un problème
+Si vous avez des questions ou des préoccupations concernant la manière dont vos informations sont traitées, vous pouvez contacter notre délégué à la protection des données en envoyant un e-mail à l’adresse dpo-contact@yahooinc.com ou en nous écrivant à l’adresse fournie dans la section Nous contacter ci-dessous. Si notre réponse ne vous satisfait pas, vous avez également le droit de déposer une plainte auprès de l'autorité de protection des données du pays dans lequel vous habitez ou travaillez. Trouvez votre autorité de protection des données locale.
+Si vous habitez en Suisse, vous pouvez contacter le préposé fédéral à la protection des données et à la transparence (PFPDT).
+
+
+
+
+
+9. Mode de protection de vos informations
+Nous prenons la protection de vos informations très au sérieux. Afin de protéger vos informations, nous suivons un programme complet sur la sécurité des informations et utilisons des mesures techniques et organisationnelles telles que la vérification en deux étapes, le chiffrement, la pseudonymisation et la formation continue de nos employés sur la sécurité. Nous évaluons également en permanence les menaces émergentes, les dernières technologies en matière de sécurité et les bonnes pratiques.
+Lorsque vous nous contacterez, nous vous demanderons de fournir certaines informations qui nous permettront de vérifier votre identité et votre droit d’accès au compte. De cette manière, votre compte et les informations associées sont protégés de tout accès non autorisé.
+
+
+
+10. Durée de conservation de vos informations
+ 
+
+
+
+Nous conservons généralement vos informations aussi longtemps que nécessaire pour répondre :
+aux objectifs décrits à la section 6 de la présente Politique de confidentialité
+à d’autres objectifs légitimes tels que la mise en conformité à nos obligations légales et l’application de nos Conditions Générales d’Utilisation
+aux objectifs de sécurité.
+
+Dans certains cas, nous stockons vos informations pendant une période plus longue (par exemple, lorsque nous devons satisfaire aux obligations légales).
+Cliquez sur le signe + à droite pour en savoir plus.
+
+
+
+La période de conservation de vos informations dépend de différents facteurs :
+le type des informations
+la raison pour laquelle les informations sont collectées et traitées
+les besoins professionnels (par exemple, la création de sauvegardes qui nous permettent de restaurer nos services en cas de sinistre)
+toute obligation légale à laquelle nous devons nous conformer.
+
+Par exemple, nous conservons le contenu de votre compte de messagerie tant que votre compte est actif. Pour que votre compte reste actif, vous devez vous y connecter au moins une fois tous les 12 mois. Si votre compte devient inactif, votre boîte de réception sera supprimée automatiquement et ne pourra pas être restaurée. Si votre compte reste inactif pendant six mois de plus, ce qui correspond à une inactivité totale de 18 mois, la désactivation et la suppression de votre compte par nos systèmes seront planifiées automatiquement. Nous vous préviendrons par le biais de votre autre canal de communication (si vous en avez configuré un) avant que cela ne se produise.
+Veuillez noter que les comptes d’abonnés payants restent actifs pendant la période d’abonnement, quelle que soit l’activité du compte.
+
+
+
+11. Transfert de vos informations vers d’autres pays
+
+Nous collaborons avec les sociétés Yahoo (nos filiales) et d’autres entreprises dans différents pays. Ces pays ont peut-être des lois sur la confidentialité et la protection des données différentes de celles de votre pays.
+Lorsque nous transférons vos informations, nous nous appuyons sur les mesures appropriées en place pour protéger les informations transférées vers d’autres pays.
+Cliquez sur le signe + à droite pour en savoir plus sur ces mesures.
+
+
+
+Lorsque nous transférons des informations à nos filiales ou à des entreprises dans d’autres pays, nous veillons à ce que des mesures soient en place pour protéger les informations. Les mesures sur lesquelles nous nous appuyons sont :
+les décisions d’adéquation, si le destinataire se trouve dans un pays considéré comme étant « adéquat » par l’Espace économique européen (EEE) et le Royaume-Uni
+les clauses contractuelles types adoptées par la Commission européenne ou le Royaume-Uni.
+
+Les pays vers lesquels nous transférons les informations personnelles sont notamment l’Australie, le Royaume-Uni, l’Inde, les États-Unis, le Canada, Singapour, Taïwan et Israël.
+
+Nous pouvons invoquer d’autres conditions pour transférer vos informations, par exemple lorsque le transfert est nécessaire :
+pour nous conformer à un contrat qui a été conclu, dans votre intérêt, entre le responsable de traitement et une autre partie
+pour établir, déposer ou défendre des actions en justice
+pour des raisons importantes d’intérêt public
+pour protéger les intérêts vitaux d’une personne.
+
+Si vous avez des questions sur les clauses contractuelles types ou si vous souhaitez obtenir une copie de ces clauses, vous pouvez nous contacter à l’aide de notre formulaire relatif à la confidentialité ou en utilisant les coordonnées fournies dans la section ci-dessous.
+
+
+
+
+12. Comment nous contacter
+Si vous avez des questions concernant cette Politique de confidentialité, souhaitez nous faire part d’une question ou voulez exercer vos droits en matière de confidentialité, la méthode la plus simple et la plus rapide consiste à nous contacter à l’aide de notre formulaire relatif à la confidentialité en ligne.
+Vous pouvez également nous écrire à l'adresse suivante :
+Équipe Vie Privée (The Privacy Team)
+Yahoo EMEA Limited ####Dublinaddress####Irlande
+Si vous souhaitez contacter notre délégué à la protection des données, vous pouvez envoyer un e-mail à dpo-contact@yahooinc.com ou écrire à :
+Délégué à la protection des données (The Data Protection Officer)
+Yahoo EMEA Limited ####Dublinaddress####Irlande
+
+
+
+
+13. Modifications apportées à la présente Politique de confidentialité
+La présente Politique de confidentialité est régulièrement mise à jour.
+Certaines modifications seront mineures mais si nous procédons à d'importants changements sur la manière dont nous utilisons ou partageons vos informations, nous vous en tiendrons informé au préalable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                ©2024 Yahoo. All Rights Reserved.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+
+
+
+

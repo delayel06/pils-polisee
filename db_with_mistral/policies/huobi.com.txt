@@ -1,0 +1,399 @@
+HTX Platform Privacy PolicyBuy CryptoQuick TradeBuy virtual assets with Visa, Mastercard, and moreFiat DepositDeposit fiat currencies at a low feeP2PMatch the best price with zero feesMarketsFavoritesMonitor your favorite trading pairs in real timeSpotSeize trading opportunities with Spot MarketsFuturesEarn oversized returns with Futures MarketsTradeSpotTrade virtual assets with our advanced toolsETPIncrease your leverage with no liquidation risksMarginUse leverage to amplify your profitsTrading BotTrade automatically with quant strategiesConvertCrypto-to-crypto swap, zero fees, no slippageDerivativesUSDT-M FuturesFutures products settled in USDTCoin-M FuturesFutures products settled in cryptocurrenciesOptionsEuropean and American-style options to multiply your assetsCopy TradingTrade like an expert by following their tradesEarnEarnEarn passive income on your virtual assetsDual InvestmentStructured product with enhanced yieldsCrypto LoansQuick crypto loans to satisfy your trading needsOTC LoanBorrow to scale up your trades and profitsFinanceStakingVote and enjoy high rewardsETH 2.0A new era for EthereumBrokerage (Lending)Borrow and repay easily anytimeBrokerage (OTC)Make block trades with zero feesActivitiesRewards HubWin cryptos and other rewards every dayNewListingDiscover the next big crypto projectPrimeBoxUnbox fun and great prizesTrading CompetitionTrade your way up to the leaderboard$HTX ZoneClaim $HTXUnlock task rewards dailyPrimepoolPoint your camera at QR code to get HTX AppMore optionsLanguageEnglish简体中文繁體中文РусскийFrançaisEspañol-ESEspañol-LATürkçeTiếng ViệtPortuguês-PTItalianoEnglish (India)УкраїнськаBahasa IndonesiaCurrency Announcement  Search 
+        Home
+      Announcement     HTX Platform Privacy Policy       HTX Platform Privacy Policy   
+                            2021/04/27 09:25
+                         Terms & Conditions 由  Translate 
+                            Translate
+                          Last updated on 8 OCT 2024
+1. Policy Statement
+The HTX Platform (hereinafter referred to as the “Platform”, “we” or “us”) allows its users (hereinafter referred to as “the Users” or “you”) to trade in digital assets (“Digital Assets”) and also provides other services related to Digital Assets (the “Services”). This privacy policy (hereinafter referred to as “Policy”) explains how we collect, use, process, disclose, share, transfer, and protect the Users’ personal information (“Personal Information”) obtained through the access and usage of the Platform. For convenience, you and us are hereby collectively referred to as “both Parties” and individually as “each Party”.
+We fully understand and respect the importance of your Personal Information to you, and we will adopt corresponding appropriate safety protection measures to protect your Personal Information in accordance with the requirements of the applicable laws and regulations. In view of this, this Policy is formulated to inform you of your rights with respect to the processing of your Personal Information. We will not use your personal information for any purpose not covered in this Policy without prior notification to you and/or your consent. 
+This Policy applies to all the Services on the Platform. You shall read this Policy carefully before using the Platform and seek independent legal advice, if necessary. If you do not agree with or understand this Policy, please do not use or access the Services. By using the Services, you shall be deemed to have acknowledged, understood, and agreed to bound by and consent in full to the Policy, including any modifications to this Policy from time to time. 
+ 
+2. Definitions
+“Confidential Information” means the Identification Information, Third Party Information and Usage Information.
+“Corporate Identification Information” has the meaning ascribed in article 3.2.
+“Digital Assets” has the meaning ascribed in article 1.
+“Identification Information” has the meaning ascribed in article 3.2.
+“Party” has the meaning ascribed in article 1.
+“Personal Identification Information” has the meaning ascribed in article 3.1.
+“Personal Information” has the meaning ascribed in article 3.1.
+“Platform” has the meaning ascribed in article 1.
+“Policy” means the HTX Platform Privacy Policy.
+“Services” has the meaning ascribed in article 1.
+“Third Party Information” has the meaning ascribed in article 3.4.
+“Usage Information” has the meaning ascribed in article 3.3.
+“User” has the meaning ascribed in article 1.
+ 
+3. How we Collect and Use your Information
+3.1 Personal Identification Information
+We collect certain Personal Information from you when you create an Account on the Platform. Where you are an individual, we may collect, including, but not limited to, your:
+(i) full name;
+(ii) address (and permanent address if it differs from your address). Your address (or permanent address) shall be verified in the manner prescribed by us;
+(iii) proof of Address Documents, including bank, brokerage, and/or credit card statements, utility bills, mortgage statements, and/or property tax statements;
+(iv) valid email address;
+(v) date of birth;
+(vi) nationality;
+(vii) identification information such as your driver’s license number, Social Security or Identification number, Passport number or other government-issued identification documents; 
+(viii) photographs of you with your identification documents;
+(ix) copies of your official identification documents, including passports, identify cards (both front and back) and/or other identification documents issued by the relevant authorities;
+(x) Electronic identification information such as biometric information generated based on photographic images, videos or facial scans that you provide in order for us to verify your identity;
+(xi) other information that we may request or obtain from you from time to time,
+
+
+
+
+
+
+
+
+
+
+
+
+             If you log in using Google authorization, we will store your Google OpenID and email address exclusively for the purpose of creating your account. Rest assured that we will not share your Google information with any other platforms. 
+           
+
+
+
+
+
+
+
+
+
+
+
+the “Personal Identification Information”.
+ 
+3.2 Where you are a legal entity other than an individual, we may collect, including, but not limited to, your:
+(i) registration and incorporation documents;
+(ii) articles of association or memorandum;
+(iii) ownership structure and description of such ownership structure;
+(iv) board resolution designating your authorised representative responsible for the Account;
+(v) identification documents of the directors, major shareholders and the authorised representative(s), which may include the identification information in clause 3.1(i) to (xi) above. Generally, shareholder’s holding 10% or more of the relevant entity’s voting power is required to be identified;
+(vi) registered business address; and
+(vii) other information that we may request or obtain from you from time to time,
+the “Corporate Identification Information” and together with the Personal Identification Information, the “Identification Information”. You shall have the obligation to keep the Identification up to date. 
+3.3 We use the Identification Information for the following purposes:
+(a) to assist in the registration of your Account with the Platform;
+(b) for you to access and use the Services;
+(c) to facilitate our contact with you;
+(d) for the safety and security of the Platform, including protecting the integrity of the Platform;
+(e) to assist us in any legal proceedings;
+(f) to enable us to comply with any legal and regulatory framework to combat money-laundering and/or financing of terrorism.As part of this, we use verification and authentication processes that typically include electronic identity verification, and comparisons of your biometric and facial scan data (from your provided ‘selfie’ or video) against your identification documents. All such information is securely maintained by us and our third party providers, and is only disclosed where we are required to do so by applicable laws, rules or regulations.
+(g) to send marketing communications;
+(h) for internal business purposes and record keeping; and/or
+(i) other purposes which we may deem to be necessary from time to time.
+ 
+3.4 Usage Information
+When you access and/or use the Services on the Platform, we may collect certain information relating to your use of the Services, which include, but not limited to, your:
+(i) transaction information, which includes Account balances, trading activity, deposits, withdrawals and customer service interactions;
+(ii) bank account and debit/credit card information;
+(iii) browser information, such as your IP address, domain name, login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+(iv) log information, such as your device information, device manufacturer, system version, IMEI, device fingerprint information, location, system activity, number and length of visits and page interactions; 
+(v) communications which you have with us; 
+(vi) any surveys completed by you; and
+(vii) other information which we may collect from you from time to time, 
+together, the “Usage Information”. We may use the Usage Information for the following purposes:
+(a) to ensure the safety of your Account and its Digital Assets;
+(b) to provide you with a more convenient and personalised experience using the Services;
+(c) to assist in any investigations or resolving any potential disputes;
+(d) to improve the quality of the Services;
+(e) to manage the operations of the Platform; 
+(f) for data analysis of the usage of the Platform; and/or
+(g) for other purposes which we may deem to be necessary from time to time.
+ 
+3.5 Third Party Information
+We may collect information from third parties relating to you, which may include, but not limited to, information from:
+(i) your bank when you make a bank transfer to use the Services;
+(ii) advertising, search and analytics providers;
+(iii) public databases, credit bureaus and identification verification partners;
+(iv) authorities relating to a potential investigation relating to your use of the Services; and 
+(v) other information which we may collect from time to time,
+together, the “Third Party Information”. Before obtaining the Third Party Information, we shall require such Third Party to obtain your consent before collecting such Third Party Information. We may use the Third Party Information for the following purposes:
+(a) to assist with internal and/or external investigations;
+(b) to fulfil our legal or regulatory obligations;
+(c) personal data processing activities, such as identity verification, payment processing, compliance with court orders, other reporting obligations and anti-money laundering or combating the financing of terrorism policies; and
+(d) other purposes which we may deem necessary from time to time.
+Before obtaining the Third Party Information, we require the Third Parties to obtain your prior consent in accordance with any applicable laws, rules and regulations before collecting the Third Party Information. We shall use the same level of protective measures as those used for the Personal Information to protect the Third Party Information.
+ 
+4. How we Use Cookies 
+When you use the Services, we may use data files called cookies (“Cookies”) which are stored on your device. We use Cookies to recognise you as a user of the Platform, collect information about your use of the Services, to customise the Services for your use and to collect information about your device. 
+ 
+5. How we Share, Transfer or Disclose your Information
+5.1.We shall not disclose any Confidential Information to any third party, except:
+(i) to the extent required by applicable laws, rules and regulations;
+(ii) to comply with requests from relevant authorities;
+(ii) under a legal obligation to disclose such information;
+(iii) when it is in our legitimate business interests to disclose such information;
+(iv) when the disclosure is in line with the HTX Platform User Agreement and/or this Policy;
+(v) where the Confidential Information is already public;
+(vi) where the disclosure is necessary for the operation of the Platform;
+(vii) where the disclosure is necessary to protect the interests of the Platform and/or other users; and/or
+(viii) at your request or with your consent.
+5.2.We shall endeavour to make such disclosures on a “need-to-know” basis, and may disclose the Confidential Information to the following parties (“Receiving Parties”):
+(a) any affiliates and subsidiaries;
+(b) our service providers and business partners; and/or
+(c) relevant authorities to assist them with their investigations.
+5.3.Where disclosures on the Confidential Information are made pursuant to this article 5, the Receiving Parties may store the Confidential Information within their own systems to comply with their legal or other obligations. 
+5.4. Where third party providers are engaged by us to perform specific functions, including but not limited to electronic identity verification, data analysis and risk management, they may have access to your Information only to the extent necessary to perform their services.
+5.5 In particular, we engage third party electronic identity verification providers solely for the purpose of identity verification and authentication. These providers collect and retain your Personal Identification Information (including biometric and facial scan information) for such period as may be required under any applicable laws, rules and regulations, and must process and/or retain such Personal Identification Information in accordance with our contractual agreements and subject to applicable laws, rules and regulations.
+6. How we Protect your Information
+We adopt various measures to protect the Confidential Information (“Protective Measures”). Such measures include:
+(i) physical measures, such as ensuring the Confidential Information is stored in a secure facility;
+(ii) electronic measures, such as implementing strict access requirements for access to the Confidential Information;
+(iii) management measures, such as setting up an internal department for the protection of the Confidential Systems, implementing internal controls to ensure only the relevant employees are permitted to access the Confidential Information and training to ensure the relevant employees know how to deal with the Confidential Information;
+(iv) security measures, such as using security technology and management systems to minimise the risk that the Confidential Information would be disclosed, damaged, misused and/or accessed without proper authorisation. When storing and transmitting the Personal Information, we shall adopt measures such as encryption to protect the Personal Information; and
+(v) other measures, such as a periodic review of the procedures and technology used to protect the Confidential Information.
+ 
+6.1 Should you become aware of any potential security vulnerability, please contact us so that we can take the appropriate measures as soon as possible. Despite the Protective Measures, we cannot guarantee the absolute safety of the Confidential Information. When registering for our Services, choose a complex password and turn on advance security features, such as two-factor authentication. Never share your account credentials with third-parties. Where necessary, we shall anonymise and remove the identifiers from the Confidential Information.
+ 
+6.2 Subject to any applicable laws, rules and regulations, we store Personal Identification Information only for as long as it is reasonably necessary for the specific purposes as described in this Policy, and such information (which includes your biometric and facial scan data) is retained only to the extent it is required for compliance with legal and regulatory requirements regarding the retention of such Personal Identification Information, to provide our Services to you, or until the time limit for any legal challenges has expired.
+ 
+6.3 Retention requirements for Identification Information vary by country. In addition, the data retention duration is based on whether and how such information needs to be used and the purpose(s) of retaining such information. We take into account factors such as whether it is necessary to retain the information in order to continue our Services for you, when the information was collected from you, and whether we are legally obligated to preserve the information for a certain period of time in compliance with applicable laws in your country, Anti-Money Laundering/ Know-Your-Customer requirements or other financial regulatory obligations. We also keep certain information where necessary to protect the safety, security and integrity of our Services, Platform and users. Where provision of our Services to you involves the use of third party providers who collect Identification Information for the limited purposes of their engagement for us, they will process and retain such information only for such period of time as is required for their compliance with applicable laws, rules and regulations.
+ 
+6.4. We use third party electronic identify verification providers to verify and authenticate your identity by comparing your provided biometric and facial scan data (from your provided ‘selfie’ or video) against the photograph provided by you in your identification documents. It is also part of their scope of services to detect or flag any instances of possible identity theft or fraud by using your provided biometric and facial recognition data to corroborate or determine whether they have previously verified that identity on our behalf. These are the third party electronic identity verification providers that we use from time to time:
+- Jumio Corporation or Jumio UK, Limited (“Jumio”)
+- Sum and Substance Ltd. (“Sumsub”)
+- Amazon Web Services, Inc. (“AWS”)
+They collect your biometric and facial scan data only for the specific purpose of authentication and verification of your identity, and retain such information for such period of time as is required for their compliance with applicable laws, rules and regulations and in accordance with their Privacy Policy. For more information on how they process, store, retain, and delete your personal information, please refer to their respective Privacy Policies, available at the following links:
+- Jumio https://www.jumio.com/legal-information/privacy-policy/jumio-inc-privacy-policy-for-online-services/
+- Sumsub https://sumsub.com/privacy-notice-service/
+- AWS https://aws.amazon.com/privacy/
+ 
+7. How You Manage Your Information
+Subject to applicable laws, rules and regulations, you may do the following with regards to your Personal Information (“Management Request”):
+(i) obtain a copy of your Personal Information upon request;
+(ii) determine whether your Personal Information is up to date and accurate;
+(iii) subject to our consent, the deletion of your Personal Information;
+(iv) grant or withdraw your authorisation for us to process your Personal Information; 
+(v) object to the processing of your Personal Information; 
+(vi) limit the processing of your Personal Information; and/or
+(vii) where processing any of your Personal Data requires your consent, withdraw your consent from such processing.
+Where you contact us with regards to any Management Request, we shall have the right to:
+(a) request that you provide the proper identification information to verify your identity before processing your Management Request;
+(b) where we deem your Management Request to be unreasonable, charge you a fee to process your Management Request;
+(c) reject your Management Request should we deem that your Management Request cannot be fulfilled based on the limitations of the Platform;
+(d) reject your Management Request where your Management Request is subject to applicable laws, rules or regulations;
+(e) reject your Management Request where we have a legal or other obligation not to fulfil your Management Request; 
+(f) restrict your use of the Services should the Management Request prevents us in continuing to provide the Services to you; and/or
+(g) reject your Management Request where your Management Request would be detrimental to us, other users or the Platform.
+ 
+8. Anonymized and Aggregated Data
+8.1 Anonymization is a data processing technique that removes or modifies personal information so that removes or modifies personal information so that it cannot be associated with a specific individual. Except for this section, none of the other provisions of this Policy applies to anonymized or aggregated persona data (i.e., information about our Users that we combine together so that it no longer identifies or references an individual User). 
+ 
+8.2 We may use anonymized or aggregate customer data for any business purpose, including to better understand Users’ needs and behaviours, improve our products and services, conduct business intelligence and marketing, and detecting security threats. We may perform our own analytics on anonymized data or enable analytics provided by third parties.
+ 
+9. Transfers of Confidential Information Outside Your Country
+By using the Services, you consent to your Confidential Information being transferred to other countries, including countries that have differing levels of privacy and data protection laws other than your country. In all such transfers, we will protect your Confidential Information as described in this Policy.
+ 
+10. External Links
+Although the Platform strives to only include safe and relevant external links, you should adopt a policy of caution before clicking any external links. We cannot control, guarantee or verify their contents. They will have their own policies and practices with regards to privacy and personal data and you should be familiar with such policies and practices before continuing to engage with such external websites and apps. 
+ 
+11. How this Policy is Updated
+This Policy is reviewed periodically to ensure that any new obligations are taken into consideration and takes into account any changes to the regulatory landscape. Where there are any changes to this Policy, we shall release an updated Policy on the Platform and change the Last Updated date. By continuing to use the Services after the Policy has been updated, it shall be deemed that you agree to the updated Policy. Should you not agree any of the terms in the updated Policy, you should cease to access and/or use the Services immediately. 
+ 
+12. How to Contact Us
+For any questions in relation to this Policy, you may contact us at [email protected]. 
+   Website Authenticator Trading Bot Download for Desktop 
+            Contact us [email protected]
+ Articles HTX OTC Transaction PolicyThe Options Product AgreementHTX Trading Bots Service AgreementHTX SmartEarn AgreementCopy Trading User Agreement 
+                Open in App
+                 HTX Platform Privacy Policy 2021/04/27 09:25 Terms & Conditions 由  Translate 
+                Translate
+              Last updated on 8 OCT 2024
+1. Policy Statement
+The HTX Platform (hereinafter referred to as the “Platform”, “we” or “us”) allows its users (hereinafter referred to as “the Users” or “you”) to trade in digital assets (“Digital Assets”) and also provides other services related to Digital Assets (the “Services”). This privacy policy (hereinafter referred to as “Policy”) explains how we collect, use, process, disclose, share, transfer, and protect the Users’ personal information (“Personal Information”) obtained through the access and usage of the Platform. For convenience, you and us are hereby collectively referred to as “both Parties” and individually as “each Party”.
+We fully understand and respect the importance of your Personal Information to you, and we will adopt corresponding appropriate safety protection measures to protect your Personal Information in accordance with the requirements of the applicable laws and regulations. In view of this, this Policy is formulated to inform you of your rights with respect to the processing of your Personal Information. We will not use your personal information for any purpose not covered in this Policy without prior notification to you and/or your consent. 
+This Policy applies to all the Services on the Platform. You shall read this Policy carefully before using the Platform and seek independent legal advice, if necessary. If you do not agree with or understand this Policy, please do not use or access the Services. By using the Services, you shall be deemed to have acknowledged, understood, and agreed to bound by and consent in full to the Policy, including any modifications to this Policy from time to time. 
+ 
+2. Definitions
+“Confidential Information” means the Identification Information, Third Party Information and Usage Information.
+“Corporate Identification Information” has the meaning ascribed in article 3.2.
+“Digital Assets” has the meaning ascribed in article 1.
+“Identification Information” has the meaning ascribed in article 3.2.
+“Party” has the meaning ascribed in article 1.
+“Personal Identification Information” has the meaning ascribed in article 3.1.
+“Personal Information” has the meaning ascribed in article 3.1.
+“Platform” has the meaning ascribed in article 1.
+“Policy” means the HTX Platform Privacy Policy.
+“Services” has the meaning ascribed in article 1.
+“Third Party Information” has the meaning ascribed in article 3.4.
+“Usage Information” has the meaning ascribed in article 3.3.
+“User” has the meaning ascribed in article 1.
+ 
+3. How we Collect and Use your Information
+3.1 Personal Identification Information
+We collect certain Personal Information from you when you create an Account on the Platform. Where you are an individual, we may collect, including, but not limited to, your:
+(i) full name;
+(ii) address (and permanent address if it differs from your address). Your address (or permanent address) shall be verified in the manner prescribed by us;
+(iii) proof of Address Documents, including bank, brokerage, and/or credit card statements, utility bills, mortgage statements, and/or property tax statements;
+(iv) valid email address;
+(v) date of birth;
+(vi) nationality;
+(vii) identification information such as your driver’s license number, Social Security or Identification number, Passport number or other government-issued identification documents; 
+(viii) photographs of you with your identification documents;
+(ix) copies of your official identification documents, including passports, identify cards (both front and back) and/or other identification documents issued by the relevant authorities;
+(x) Electronic identification information such as biometric information generated based on photographic images, videos or facial scans that you provide in order for us to verify your identity;
+(xi) other information that we may request or obtain from you from time to time,
+
+
+
+
+
+
+
+
+
+
+
+
+             If you log in using Google authorization, we will store your Google OpenID and email address exclusively for the purpose of creating your account. Rest assured that we will not share your Google information with any other platforms. 
+           
+
+
+
+
+
+
+
+
+
+
+
+the “Personal Identification Information”.
+ 
+3.2 Where you are a legal entity other than an individual, we may collect, including, but not limited to, your:
+(i) registration and incorporation documents;
+(ii) articles of association or memorandum;
+(iii) ownership structure and description of such ownership structure;
+(iv) board resolution designating your authorised representative responsible for the Account;
+(v) identification documents of the directors, major shareholders and the authorised representative(s), which may include the identification information in clause 3.1(i) to (xi) above. Generally, shareholder’s holding 10% or more of the relevant entity’s voting power is required to be identified;
+(vi) registered business address; and
+(vii) other information that we may request or obtain from you from time to time,
+the “Corporate Identification Information” and together with the Personal Identification Information, the “Identification Information”. You shall have the obligation to keep the Identification up to date. 
+3.3 We use the Identification Information for the following purposes:
+(a) to assist in the registration of your Account with the Platform;
+(b) for you to access and use the Services;
+(c) to facilitate our contact with you;
+(d) for the safety and security of the Platform, including protecting the integrity of the Platform;
+(e) to assist us in any legal proceedings;
+(f) to enable us to comply with any legal and regulatory framework to combat money-laundering and/or financing of terrorism.As part of this, we use verification and authentication processes that typically include electronic identity verification, and comparisons of your biometric and facial scan data (from your provided ‘selfie’ or video) against your identification documents. All such information is securely maintained by us and our third party providers, and is only disclosed where we are required to do so by applicable laws, rules or regulations.
+(g) to send marketing communications;
+(h) for internal business purposes and record keeping; and/or
+(i) other purposes which we may deem to be necessary from time to time.
+ 
+3.4 Usage Information
+When you access and/or use the Services on the Platform, we may collect certain information relating to your use of the Services, which include, but not limited to, your:
+(i) transaction information, which includes Account balances, trading activity, deposits, withdrawals and customer service interactions;
+(ii) bank account and debit/credit card information;
+(iii) browser information, such as your IP address, domain name, login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+(iv) log information, such as your device information, device manufacturer, system version, IMEI, device fingerprint information, location, system activity, number and length of visits and page interactions; 
+(v) communications which you have with us; 
+(vi) any surveys completed by you; and
+(vii) other information which we may collect from you from time to time, 
+together, the “Usage Information”. We may use the Usage Information for the following purposes:
+(a) to ensure the safety of your Account and its Digital Assets;
+(b) to provide you with a more convenient and personalised experience using the Services;
+(c) to assist in any investigations or resolving any potential disputes;
+(d) to improve the quality of the Services;
+(e) to manage the operations of the Platform; 
+(f) for data analysis of the usage of the Platform; and/or
+(g) for other purposes which we may deem to be necessary from time to time.
+ 
+3.5 Third Party Information
+We may collect information from third parties relating to you, which may include, but not limited to, information from:
+(i) your bank when you make a bank transfer to use the Services;
+(ii) advertising, search and analytics providers;
+(iii) public databases, credit bureaus and identification verification partners;
+(iv) authorities relating to a potential investigation relating to your use of the Services; and 
+(v) other information which we may collect from time to time,
+together, the “Third Party Information”. Before obtaining the Third Party Information, we shall require such Third Party to obtain your consent before collecting such Third Party Information. We may use the Third Party Information for the following purposes:
+(a) to assist with internal and/or external investigations;
+(b) to fulfil our legal or regulatory obligations;
+(c) personal data processing activities, such as identity verification, payment processing, compliance with court orders, other reporting obligations and anti-money laundering or combating the financing of terrorism policies; and
+(d) other purposes which we may deem necessary from time to time.
+Before obtaining the Third Party Information, we require the Third Parties to obtain your prior consent in accordance with any applicable laws, rules and regulations before collecting the Third Party Information. We shall use the same level of protective measures as those used for the Personal Information to protect the Third Party Information.
+ 
+4. How we Use Cookies 
+When you use the Services, we may use data files called cookies (“Cookies”) which are stored on your device. We use Cookies to recognise you as a user of the Platform, collect information about your use of the Services, to customise the Services for your use and to collect information about your device. 
+ 
+5. How we Share, Transfer or Disclose your Information
+5.1.We shall not disclose any Confidential Information to any third party, except:
+(i) to the extent required by applicable laws, rules and regulations;
+(ii) to comply with requests from relevant authorities;
+(ii) under a legal obligation to disclose such information;
+(iii) when it is in our legitimate business interests to disclose such information;
+(iv) when the disclosure is in line with the HTX Platform User Agreement and/or this Policy;
+(v) where the Confidential Information is already public;
+(vi) where the disclosure is necessary for the operation of the Platform;
+(vii) where the disclosure is necessary to protect the interests of the Platform and/or other users; and/or
+(viii) at your request or with your consent.
+5.2.We shall endeavour to make such disclosures on a “need-to-know” basis, and may disclose the Confidential Information to the following parties (“Receiving Parties”):
+(a) any affiliates and subsidiaries;
+(b) our service providers and business partners; and/or
+(c) relevant authorities to assist them with their investigations.
+5.3.Where disclosures on the Confidential Information are made pursuant to this article 5, the Receiving Parties may store the Confidential Information within their own systems to comply with their legal or other obligations. 
+5.4. Where third party providers are engaged by us to perform specific functions, including but not limited to electronic identity verification, data analysis and risk management, they may have access to your Information only to the extent necessary to perform their services.
+5.5 In particular, we engage third party electronic identity verification providers solely for the purpose of identity verification and authentication. These providers collect and retain your Personal Identification Information (including biometric and facial scan information) for such period as may be required under any applicable laws, rules and regulations, and must process and/or retain such Personal Identification Information in accordance with our contractual agreements and subject to applicable laws, rules and regulations.
+6. How we Protect your Information
+We adopt various measures to protect the Confidential Information (“Protective Measures”). Such measures include:
+(i) physical measures, such as ensuring the Confidential Information is stored in a secure facility;
+(ii) electronic measures, such as implementing strict access requirements for access to the Confidential Information;
+(iii) management measures, such as setting up an internal department for the protection of the Confidential Systems, implementing internal controls to ensure only the relevant employees are permitted to access the Confidential Information and training to ensure the relevant employees know how to deal with the Confidential Information;
+(iv) security measures, such as using security technology and management systems to minimise the risk that the Confidential Information would be disclosed, damaged, misused and/or accessed without proper authorisation. When storing and transmitting the Personal Information, we shall adopt measures such as encryption to protect the Personal Information; and
+(v) other measures, such as a periodic review of the procedures and technology used to protect the Confidential Information.
+ 
+6.1 Should you become aware of any potential security vulnerability, please contact us so that we can take the appropriate measures as soon as possible. Despite the Protective Measures, we cannot guarantee the absolute safety of the Confidential Information. When registering for our Services, choose a complex password and turn on advance security features, such as two-factor authentication. Never share your account credentials with third-parties. Where necessary, we shall anonymise and remove the identifiers from the Confidential Information.
+ 
+6.2 Subject to any applicable laws, rules and regulations, we store Personal Identification Information only for as long as it is reasonably necessary for the specific purposes as described in this Policy, and such information (which includes your biometric and facial scan data) is retained only to the extent it is required for compliance with legal and regulatory requirements regarding the retention of such Personal Identification Information, to provide our Services to you, or until the time limit for any legal challenges has expired.
+ 
+6.3 Retention requirements for Identification Information vary by country. In addition, the data retention duration is based on whether and how such information needs to be used and the purpose(s) of retaining such information. We take into account factors such as whether it is necessary to retain the information in order to continue our Services for you, when the information was collected from you, and whether we are legally obligated to preserve the information for a certain period of time in compliance with applicable laws in your country, Anti-Money Laundering/ Know-Your-Customer requirements or other financial regulatory obligations. We also keep certain information where necessary to protect the safety, security and integrity of our Services, Platform and users. Where provision of our Services to you involves the use of third party providers who collect Identification Information for the limited purposes of their engagement for us, they will process and retain such information only for such period of time as is required for their compliance with applicable laws, rules and regulations.
+ 
+6.4. We use third party electronic identify verification providers to verify and authenticate your identity by comparing your provided biometric and facial scan data (from your provided ‘selfie’ or video) against the photograph provided by you in your identification documents. It is also part of their scope of services to detect or flag any instances of possible identity theft or fraud by using your provided biometric and facial recognition data to corroborate or determine whether they have previously verified that identity on our behalf. These are the third party electronic identity verification providers that we use from time to time:
+- Jumio Corporation or Jumio UK, Limited (“Jumio”)
+- Sum and Substance Ltd. (“Sumsub”)
+- Amazon Web Services, Inc. (“AWS”)
+They collect your biometric and facial scan data only for the specific purpose of authentication and verification of your identity, and retain such information for such period of time as is required for their compliance with applicable laws, rules and regulations and in accordance with their Privacy Policy. For more information on how they process, store, retain, and delete your personal information, please refer to their respective Privacy Policies, available at the following links:
+- Jumio https://www.jumio.com/legal-information/privacy-policy/jumio-inc-privacy-policy-for-online-services/
+- Sumsub https://sumsub.com/privacy-notice-service/
+- AWS https://aws.amazon.com/privacy/
+ 
+7. How You Manage Your Information
+Subject to applicable laws, rules and regulations, you may do the following with regards to your Personal Information (“Management Request”):
+(i) obtain a copy of your Personal Information upon request;
+(ii) determine whether your Personal Information is up to date and accurate;
+(iii) subject to our consent, the deletion of your Personal Information;
+(iv) grant or withdraw your authorisation for us to process your Personal Information; 
+(v) object to the processing of your Personal Information; 
+(vi) limit the processing of your Personal Information; and/or
+(vii) where processing any of your Personal Data requires your consent, withdraw your consent from such processing.
+Where you contact us with regards to any Management Request, we shall have the right to:
+(a) request that you provide the proper identification information to verify your identity before processing your Management Request;
+(b) where we deem your Management Request to be unreasonable, charge you a fee to process your Management Request;
+(c) reject your Management Request should we deem that your Management Request cannot be fulfilled based on the limitations of the Platform;
+(d) reject your Management Request where your Management Request is subject to applicable laws, rules or regulations;
+(e) reject your Management Request where we have a legal or other obligation not to fulfil your Management Request; 
+(f) restrict your use of the Services should the Management Request prevents us in continuing to provide the Services to you; and/or
+(g) reject your Management Request where your Management Request would be detrimental to us, other users or the Platform.
+ 
+8. Anonymized and Aggregated Data
+8.1 Anonymization is a data processing technique that removes or modifies personal information so that removes or modifies personal information so that it cannot be associated with a specific individual. Except for this section, none of the other provisions of this Policy applies to anonymized or aggregated persona data (i.e., information about our Users that we combine together so that it no longer identifies or references an individual User). 
+ 
+8.2 We may use anonymized or aggregate customer data for any business purpose, including to better understand Users’ needs and behaviours, improve our products and services, conduct business intelligence and marketing, and detecting security threats. We may perform our own analytics on anonymized data or enable analytics provided by third parties.
+ 
+9. Transfers of Confidential Information Outside Your Country
+By using the Services, you consent to your Confidential Information being transferred to other countries, including countries that have differing levels of privacy and data protection laws other than your country. In all such transfers, we will protect your Confidential Information as described in this Policy.
+ 
+10. External Links
+Although the Platform strives to only include safe and relevant external links, you should adopt a policy of caution before clicking any external links. We cannot control, guarantee or verify their contents. They will have their own policies and practices with regards to privacy and personal data and you should be familiar with such policies and practices before continuing to engage with such external websites and apps. 
+ 
+11. How this Policy is Updated
+This Policy is reviewed periodically to ensure that any new obligations are taken into consideration and takes into account any changes to the regulatory landscape. Where there are any changes to this Policy, we shall release an updated Policy on the Platform and change the Last Updated date. By continuing to use the Services after the Policy has been updated, it shall be deemed that you agree to the updated Policy. Should you not agree any of the terms in the updated Policy, you should cease to access and/or use the Services immediately. 
+ 
+12. How to Contact Us
+For any questions in relation to this Policy, you may contact us at [email protected]. 
+  Articles HTX OTC Transaction Policy 01/14 16:00The Options Product Agreement 12/03 07:06HTX Trading Bots Service Agreement 11/12 11:16HTX SmartEarn Agreement 02/28 09:00Copy Trading User Agreement 2022/09/06 14:34  Authenticator Rebate Rewards Hub Trading Bot 
+                    Contact us [email protected]
+  About HTXAbout UsCryptocurrency PricesUser AgreementPrivacy PolicyMedia VerifierHTX Futures CommunitySupportGlobal Licensed BusinessesProof of ReservesCryptocurrency SitemapBug BountyHTX VenturesHTX SquareProductsQuick Buy/SellSpotFuturesCopy TradingMarginTrading BotDownload Data HistoryFinanceDownload AppToken ListingCrypto LoansOTC LoanReferralNFTServicesIdentity VerificationTiered FeeInstitutional ServicesFiat RulesSpot Trading RulesCoin Loan LimitHTX LearnFutures AcademyAffiliate ProgramBroker ProgramMarket Maker ApplicationAPI DocumentationOpen PlatformCryptocurrency PricesHTX DAO(HTX)Bitcoin(BTC)Ethereum(ETH)Tron(TRX)Solana(SOL)Dogecoin(DOGE)BOOK OF MEME(BOME)The Open Network(TON)ORDINALS(ORDI)XRPPEPEUSDTUSDDEnglishEnglish简体中文繁體中文РусскийFrançaisEspañol-ESEspañol-LATürkçeTiếng ViệtPortuguês-PTItalianoEnglish (India)УкраїнськаBahasa Indonesia© 2013 - 2023 HTXEnglish0© 2013 - 2024 HTX

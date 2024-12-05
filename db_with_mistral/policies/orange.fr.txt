@@ -1,0 +1,570 @@
+
+
+
+
+DonnÃ©es personnelles - Orange
+
+
+
+
+
+
+
+
+Protection des donnÃ©es personnelles
+
+
+
+
+
+
+
+
+Orange est l'acteur de confiance qui donne Ã  chacune et Ã  chacun les clÃ©s d'un monde numÃ©rique responsable. Au travers de cette raison dâÃªtre, Orange sâengage Ã  faire de la protection et de lâusage responsable de vos donnÃ©es Ã  caractÃ¨re personnel (ci-aprÃ¨s donnÃ©es personnelles) une prioritÃ© dans le respect de la rÃ©glementation.La prÃ©sente politique de protection de vos donnÃ©es personnelles (ci-aprÃ¨s la Â«Â PolitiqueÂ Â») vous informe sur la faÃ§on dont Orange, ses sous-traitants et ses partenaires traitent vos donnÃ©es personnelles.Cette Politique sâapplique aux clients et utilisateurs des offres et services dâOrange et aux visiteurs des sites pro.orange.fr et orange.fr. Elle est susceptible dâÃªtre complÃ©tÃ©e par des informations spÃ©cifiques portÃ©es directement et explicitement Ã  votre connaissance, sâagissant dâune offre, dâune composante de votre offre ou dâun service particulier.
+
+
+
+1.	Quelles sont les donnÃ©es traitÃ©es ?
+
+Orange traite des donnÃ©es personnelles vous concernant dans le cadre de ses relations avec vous et de votre utilisation de ses offres et services. Orange ne traite que les donnÃ©es pertinentes et nÃ©cessaires Ã  lâobjectif poursuivi.Les donnÃ©es personnelles collectÃ©es par Orange sont regroupÃ©es sous les catÃ©gories suivantesÂ :
+
+
+DonnÃ©es dâidentification
+IdentitÃ© (nom, prÃ©nom, pseudo), identifiant administratif (carte dâidentitÃ©, passeport, numÃ©ro de la carte d'identitÃ© ou du passeport, SIREN, identifiant fiscal, Kbisâ¦), identifiant Ã©mis par un tiers non administratif (compte Facebook, twitterâ¦)
+
+
+Vie personnelle
+Centres dâintÃ©rÃªts, statut marital, composition du foyer, habitudes de vie, client dÃ©clarant avoir une offre chez un opÃ©rateur concurrent
+
+
+Vie professionnelle
+Emploi occupÃ©, organisation du travail,
+
+
+CaractÃ©ristiques personnelles
+CivilitÃ©, date et lieu de naissance, date de dÃ©cÃ¨s, nationalitÃ©, mesures de protection juridique, client bÃ©nÃ©ficiaire de tarifs sociaux, caractÃ©ristiques physiques, photo ou avatar, procuration, signature
+
+
+DonnÃ©es de contact
+Adresse postale, email, numÃ©ro de tÃ©lÃ©phone
+
+
+DonnÃ©es de localisation
+GÃ©olocalisation de la personne ou dâun Ã©quipement associÃ© Ã  une personne
+
+
+DonnÃ©es de connexion, dâusage des services et dâinteraction
+Logs de connexion, et dâusage, donnÃ©es de trafic, compte rendu dâintervention, Ã©quipements dÃ©tenus, rendez-vous technicien, contenu dâune demande faite Ã  Orange, faits litigieux dâune rÃ©clamation ou dâun contentieux, rÃ©fÃ©rences du dossier, date de dÃ©but et de clÃ´ture du dossier, commentaires relatifs Ã  la description et au suivi du dossierâ¦
+
+
+DonnÃ©es de contenu
+Son, image, vidÃ©o, noms des dossiers stockÃ©s et arborescence
+
+
+DonnÃ©es Ã©conomiques et financiÃ¨res
+Identification financiÃ¨re, donnÃ©es Ã©conomiques, fiscales et comptables, historique des paiements
+
+
+Produits et services dÃ©tenus ou utilisÃ©s
+Offres et options dÃ©tenues, Ã©quipement dÃ©tenu, paramÃ©trage, contenus achetÃ©s, applications tÃ©lÃ©chargÃ©es
+
+
+Profil, scores et segmentation client
+Score et segmentation marketing, indicateur de satisfaction client, profil bon ou mauvais payeur et Ã©ventuel plan de recouvrement, scoring du risque de fraude
+
+
+A lâoccasion de certains traitements Orange est susceptible de traiter des documents contenant des donnÃ©es dont les catÃ©gories sont dÃ©crites ci-dessus. Il peut notamment sâagir de documents dâidentitÃ©s, de justificatifs de domicile ou de justificatifs de diverses situations individuelles.Les donnÃ©es collectÃ©es indirectement auprÃ¨s de tiersCertaines donnÃ©es traitÃ©es par Orange sont collectÃ©es de maniÃ¨re indirecteÂ :Au travers de cookies et traceurs dÃ©posÃ©s ou lus sur votre terminalAu travers de sources provenant de partenaires sur la base de notre intÃ©rÃªt lÃ©gitime ou dâobligations lÃ©galesÂ : fournisseurs de donnÃ©es, organismes de prÃ©vention de la fraude, organismes de gestion des impayÃ©sAu travers de sources provenant de partenaires sur la base de votre consentementAu travers de sources en libre accÃ¨s
+
+
+
+2.	Pourquoi Orange traite vos donnÃ©es ?
+
+Vos donnÃ©es sont traitÃ©es par Orange pour des finalitÃ©s dÃ©terminÃ©es, explicites et lÃ©gitimes.Vous trouverez ci-dessous, pour chaque base lÃ©gale, (exÃ©cution du contrat, intÃ©rÃªt lÃ©gitime, consentement et obligation lÃ©gale) les finalitÃ©s pour lesquelles Orange traite vos donnÃ©esÂ : Â 2.1 ExÃ©cution du contrat2.1.1 ExÃ©cution du contrat (seule finalitÃ©)En se fondant sur lâexÃ©cution du contrat que vous avez souscrit, Orange met en Åuvre des traitements sur vos donnÃ©es personnelles avec les finalitÃ©s suivantes.
+
+
+FinalitÃ© du traitement
+Description
+Base lÃ©gale applicable
+
+
+
+
+Facturer et encaisser les paiements
+Mettre Ã  disposition un suivi de consommationCalculer et facturer lâoffre ou lâachatCommuniquer et expliquer la factureEncaisser le paiement, rembourserGÃ©rer la comptabilitÃ©Remettre en banque le paiement encaissÃ©GÃ©rer les caisses des boutiques
+ExÃ©cution du contrat
+
+
+Assurer le Service AprÃ¨s-vente
+AccÃ©der aux donnÃ©es de contexte du clientOrienter le client vers le back-office concernÃ©Accompagner le clientDiagnostiquer et traiter le problÃ¨meDÃ©panner Ã  distanceTraiter Ã  distance le sinistre dâun Ã©quipementPrendre le contrÃ´le, Ã  distance sur lâenvironnement du client
+
+
+GÃ©rer les donnÃ©es personnelles, caractÃ©ristiques et droits sur un contrat
+GÃ©rer les crÃ©ations et modifications des informations et donnÃ©es personnellesProposer et traiter les modifications des informations personnellesRecueillir et utiliser les informations personnelles complÃ©mentaires requises
+
+
+Maintenir la qualitÃ© du temps de rÃ©ponse ressenti par les clients Internet Fibre ou ADSL
+DÃ©tecter les Ã©quipements rÃ©seau induisant une baisse de performance du rÃ©seau pour mettre les actions correctrices nÃ©cessaires
+
+
+Proposer un service de messagerie Ã©lectronique Mail Orange
+CrÃ©er et gÃ©rer jusquâÃ  la suppressionÂ l'adresse de messagerie Ã©lectroniqueEnvoyer et recevoir des emails et leurs piÃ¨ces jointes de maniÃ¨re sÃ©curisÃ©e et les stocker jusquâÃ  suppression de lâemail par lâutilisateurAgrÃ©ger les emails provenant dâautres fournisseurs de messagerie Ã©lectronique NotifierGÃ©rer un annuaire de contactsGÃ©rer un agenda et exporter les emails
+
+
+Assurer un service de messagerie vocale
+Sauvegarder les messages vocaux notifier les clients sur lâarrivÃ©e dâun nouveau messageSupprimer les messages, soit sur demande du client soit aprÃ¨s un dÃ©lai dâexpirationGÃ©rer les prÃ©fÃ©rences pour certains clients mobilesRetranscrire en texte les messages vocaux par SMS
+
+
+GÃ©rer le matÃ©riel
+PrÃ©parer, configurer, expÃ©dier, livrer, rÃ©parer, recycler, reconditionner, Ã©changer, rÃ©cupÃ©rer ou dÃ©truire
+
+
+Sâauthentifier Ã  un service Orange ou Ã  un service de tiers via le service Mobile Connect
+
+
+
+Proposer un service dâhÃ©bergement de pages web avec le service Pages perso
+CrÃ©erÂ et hÃ©bergerÂ avec possibilitÃ© de supprimerÂ des pages sur signalement dans les cas prÃ©vus par la loi ou les conditions gÃ©nÃ©rales
+
+
+Intervenir en physique chez le client
+Informer le client de lâinterventionPermettre au client de communiquer avec le technicien en charge du rendez-vousInstallerDÃ©panner, rÃ©cupÃ©rer et dÃ©sinstaller lâÃ©quipementPermettre au client dâÃ©valuer la prestation suite Ã  un rendez-vous technicienPermettre au technicien dâoptimiser ses parcours et plannings dâintervention
+
+
+GÃ©rer les impayÃ©s
+Recouvrer Ã  lâamiableInscrire les clients en contentieuxRecouvrer les impayÃ©s des clients en contentieuxAlimenter la base du GIE PrÃ©ventelInterroger les fichiers dâimpayÃ©s lors de la souscription dâun nouvel abonnement mobile et collecter un dÃ©pÃ´t de garantie le cas Ã©chÃ©ant
+
+
+2.1.2 ExÃ©cution du contrat et intÃ©rÃªt lÃ©gitime
+
+
+FinalitÃ© du traitement
+Description
+Base(s) lÃ©gale(s) applicable(s)
+
+
+
+
+DÃ©ployer et opÃ©rer les rÃ©seaux
+Construire, exploiter et optimiser les rÃ©seauxAssurer le traitement des dossiers de dommage aux rÃ©seaux jusquâau recouvrementIntervenir sur les rÃ©seaux, en prÃ©ventif ou curatifParamÃ©trer les rÃ©seaux
+ExÃ©cution du contrat ou intÃ©rÃªt lÃ©gitime
+
+
+Acheminer les communications
+ExÃ©cution du contrat
+
+
+Traiter les rÃ©siliations
+GÃ©rer la rÃ©siliation Ã  lâinitiative du client ou de son reprÃ©sentant
+ExÃ©cution du contrat
+
+
+GÃ©rer la rÃ©siliation Ã  lâinitiative dâOrange
+IntÃ©rÃªt lÃ©gitime
+
+
+GÃ©rer les courriers entrants
+RÃ©ception, numÃ©risation et archivage des courriers / documents
+ExÃ©cution du contrat ou intÃ©rÃªt lÃ©gitime
+
+
+DÃ©ployer et opÃ©rer les offres et services
+Fournir au client des rapports dâanalyse de ses usages ou de ses offresOpÃ©rer des servicesPermettre au client dâadministrer la configuration de ses produits et services
+ExÃ©cution du contrat et intÃ©rÃªt lÃ©gitime
+
+
+Etudier le dÃ©ploiement des rÃ©seaux
+Etudier et prÃ©parer le dÃ©ploiement du rÃ©seau
+ExÃ©cution du contrat ou intÃ©rÃªt lÃ©gitime
+
+
+2.1.3. ExÃ©cution du contrat et consentement
+
+
+FinalitÃ© du traitement
+Description
+Base(s) lÃ©gale(s) applicable(s)
+
+
+
+
+GÃ©rer la commande
+Recueillir et gÃ©rer les informations nÃ©cessaires Ã  la commande
+ExÃ©cution du contrat
+
+
+GÃ©rer lâÃ©tat de la commande : validation, annulation / rÃ©tractation, refus
+
+
+GÃ©rer la livraison de la commande : prÃ©parer, expÃ©dier, suivre la livraison
+
+
+Livrer et installer la commande
+
+
+Recueillir les consentements pour les sollicitations hors commandes
+Consentement
+
+
+2.1.4. ExÃ©cution du contrat et obligation lÃ©gale
+
+
+FinalitÃ© du traitement
+Description
+Base(s) lÃ©gale(s) applicable(s)
+
+
+
+
+Traiter les rÃ©clamations
+RÃ©ceptionner et Ã©tudier la rÃ©clamation, apporter les corrections nÃ©cessaires, expliquer ces corrections, et Ã©ventuel geste commercial ou remboursement client
+ExÃ©cution du contrat
+
+
+Constituer un dossier pour le mÃ©diateur des communications Ã©lectroniques
+Obligation lÃ©gale
+
+
+Communiquer au titre de la gestion de la clientÃ¨le
+Cibler et envoyer des communications nÃ©cessaires Ã  lâexÃ©cution du contrat vers les clients
+Obligation lÃ©gale et exÃ©cution du contrat
+
+
+2.1.5. ExÃ©cution du contrat, consentement et intÃ©rÃªt lÃ©gitime
+
+
+FinalitÃ© du traitement
+Description
+Base(s) lÃ©gale(s) applicable(s)
+
+
+
+
+GÃ©rer les activitÃ©s publicitaires digitales (sur ordinateur, mobile, dÃ©codeur TV)
+Cibler et diffuser des publicitÃ©s
+IntÃ©rÃªt lÃ©gitime ou consentement
+
+
+Collecter et vendre des donnÃ©es
+Consentement
+
+
+Vendre des publicitÃ©s
+IntÃ©rÃªt lÃ©gitime ou consentement
+
+
+Analyser les usages des offres et services pour faire des propositions au client
+Analyser le contexte client, collecter les besoins potentiels et lui faire des propositions
+Consentement, ExÃ©cution du contrat ou intÃ©rÃªt lÃ©gitime
+
+
+Proposer des publicitÃ©s ciblÃ©es, de filiales ou partenaires du Groupe Orange, sur les diffÃ©rents sites dâOrange
+Consentement
+
+
+Organiser des animations
+Informer et interagir autour de lâactualitÃ© dâOrange
+IntÃ©rÃªt lÃ©gitime ou consentement
+
+
+Organiser des Ã©vÃ¨nements physiques (manifestation, sÃ©minaireâ¦)
+IntÃ©rÃªt lÃ©gitime (clients), consentement (prospects)
+
+
+Organiser et animer des communautÃ©s dâintÃ©rÃªts
+IntÃ©rÃªt lÃ©gitime
+
+
+Proposer une opÃ©ration commerciale (offre de remboursement)
+ExÃ©cution du contrat
+
+
+Organiser des jeux concours
+Proposer des animations et jeux (jeux concours, tirages au sortâ¦)
+IntÃ©rÃªt lÃ©gitime (clients), consentement (prospects)
+
+
+Organiser et piloter les animations et jeux
+ExÃ©cution du contrat
+
+
+Assurer le service avant-vente et vendre
+Identifier le prospect ou le client et ses besoins ou offres
+Consentement
+
+
+GÃ©rer les prises dâintÃ©rÃªt pour certains offres et services
+
+
+Recueillir et enregistrer lâacceptation de la proposition commerciale
+
+
+Proposer et vendre les offres dâOrange et de ses filiales : prospecter, gÃ©rer les rdv clients, prÃ©senter les offres, gÃ©rer les documents commerciaux et contractuels
+Consentement et exÃ©cution du contrat
+
+
+GÃ©rer la file dâattente en boutique
+IntÃ©rÃªt lÃ©gitime
+
+
+Fournir des services de renseignements universels et non universels
+Mettre Ã  disposition un annuaire, avec fourniture des services de renseignements universels et non universels, et exercer lâactivitÃ© dâopÃ©rateur intermÃ©diaire au sens de la dÃ©cision de lâARCEP nÂ°06-0639
+ExÃ©cution du contratIntÃ©rÃªt lÃ©gitimeObligation lÃ©gale
+
+
+2.2. IntÃ©rÃªt lÃ©gitime2.2.1. IntÃ©rÃªt lÃ©gitime (seule finalitÃ©)Orange rÃ©alise Ã©galement des traitements de donnÃ©es pour dâautres finalitÃ©s que la stricte exÃ©cution de vos contrats. En se fondant sur son intÃ©rÃªt lÃ©gitime dâentreprise dans le cadre du dÃ©veloppement de ses activitÃ©s et de sa relation client, Orange met en Åuvre des traitements de vos donnÃ©es personnelles.
+
+
+FinalitÃ© du traitement
+Description
+Base(s) lÃ©gale(s) applicable(s)
+
+
+
+
+Assurer la sÃ©curitÃ© des technologies de lâinformation
+Superviser les usages et dÃ©tecter les comportements anormaux de services applicatifsAuditer et Ã©valuer les vulnÃ©rabilitÃ©sProtÃ©ger les donnÃ©es et contrÃ´ler les accÃ¨s et usages des applications et servicesAnonymiser les donnÃ©es personnelles
+IntÃ©rÃªt lÃ©gitime
+
+
+Superviser le dispositif de facturation
+
+
+
+Eviter la fraude et prÃ©server le Chiffre dâAffaires
+ContrÃ´ler les processus sur nos canaux de venteVÃ©rifier la rÃ©alitÃ© de l'identitÃ© des personnes Ã  l'aide de la rÃ©alisation et de la conservation d'un scan de la piÃ¨ce d'identitÃ© ou de son numÃ©roÂ Interroger, et gÃ©rer les inscriptions et dÃ©sinscriptions inter-opÃ©rateur nationaux â GIE PrÃ©ventel â et dans la base des impayÃ©s dâOrangeEstimer et prÃ©venir les risques dâimpayÃ© clientDÃ©tecter et superviser des situations suspectes pouvant impacter le chiffre dâaffaires et/ou relever des cas de fraudes afin dâen limiter les risques et dâassurer les actions de remÃ©diations nÃ©cessairesConstituer le dossier de preuves dans le cade dâinvestigations en cas de fraude
+
+
+Sonder les clients ou les utilisateurs
+Mesurer la qualitÃ© de lâacte suite Ã  la sollicitation des clientsEnrichir la connaissance clients au travers des sondages clients
+
+
+AmÃ©liorer notre offre et relation client
+Mesurer, catÃ©goriser et comprendre les sollicitations clients et les rÃ©ponses sondages afin de dimensionner et amÃ©liorer la relation client et afin dâamÃ©liorer nos produits et servicesMesurer, comprendre et amÃ©liorer la performance des parcours clientsAmÃ©liorer la satisfaction clientAnalyser nos ventes afin dâadapter nos offres, produits et servicesEnrichir la connaissance clients au travers dâÃ©tudesMettre Ã  disposition, en interne, des outils et donnÃ©es dâanalyse afin dâamÃ©liorer notre relation client
+
+
+Identifier un client via son compte grÃ¢ce au service Orange ID
+
+
+
+2.2.2. IntÃ©rÃªt lÃ©gitime et exÃ©cution du contratVoir 2.1.22.2.3. IntÃ©rÃªt lÃ©gitime et consentement
+
+
+FinalitÃ© du traitement
+Description
+Base(s) lÃ©gale(s) applicable(s)
+
+
+
+
+Commercialiser et optimiser des objets connectÃ©s et les offres associÃ©es
+Optimiser les objets connectÃ©s et les offres
+IntÃ©rÃªt lÃ©gitime
+
+
+Envoyer des notifications, proposer un ensemble dâobjets connectÃ©s interagissant avec une base domotique ou plateforme de service dÃ©diÃ©e
+Consentement
+
+
+Organiser des opÃ©rations de marketing direct
+Assurer lâanimation marketing
+IntÃ©rÃªt lÃ©gitime (clients), consentement (prospects et rÃ©siliÃ©s)
+
+
+Mener des campagnes relationnelles
+
+
+PrÃ©parer et envoyer les communications marketing Ã©crites
+
+
+Proposer des offres ciblÃ©es et adaptÃ©es de la part de nos partenaires et de nos filiales
+Consentement
+
+
+2.2.4. IntÃ©rÃªt lÃ©gitime et obligation lÃ©gale
+
+
+FinalitÃ© du traitement
+Description
+Base(s) lÃ©gale(s) applicable(s)
+
+
+
+
+Piloter notre impact environnemental
+Traiter les plaintes environnementales relatives Ã  une boutique ou Ã  une installation spÃ©cifique
+IntÃ©rÃªt lÃ©gitime
+
+
+Calculer et restituer lâempreinte carbone
+Obligation lÃ©gale
+
+
+2.3. ConsentementOrange recueille votre consentement afin dâeffectuer certains traitements sur vos donnÃ©es personnelles. Vous pouvez retirer votre consentement Ã  tout moment.2.3.1. Consentement (seule finalitÃ©)
+
+
+FinalitÃ© du traitement
+Description
+Base(s) lÃ©gale(s) applicable(s)
+
+
+
+
+AmÃ©liorer la qualitÃ© de service sur nos rÃ©seaux par collecte dâinformations du terminal
+AmÃ©liorer la qualitÃ© de service sur nos rÃ©seauxAmÃ©liorer la satisfaction client dans les domaines de la qualitÃ© des rÃ©seaux, des offres et de la relation clientOptimiser la qualitÃ© de service sur nos rÃ©seaux
+Consentement
+
+
+Sonder les prospects
+
+
+
+Identifier un client via son compte grÃ¢ce au service Orange ID
+
+
+
+Faire des recommandations personnalisÃ©es sur la TV dâOrange â le Guide TV
+Proposer aux clients de la TV dâOrange des contenus et offres personnalisÃ©s en fonction de leur consommation des services de la TV dâOrange
+
+
+Cibler la publicitÃ© sur la TV dâOrange
+Recueillir le consentement des clients pour recevoir de la publicitÃ© ciblÃ©e des partenaires dâOrangeAnalyser les usages pour calculer, optimiser et mettre Ã  disposition des critÃ¨res de ciblageDÃ©terminer le profil du consommateur TV
+
+
+2.3.2. Consentement et exÃ©cution du contratVoir 2.1.32.3.3. Consentement et intÃ©rÃªt lÃ©gitimeVoir 2.1.22.4. Obligation lÃ©galeEn tant quâopÃ©rateur de communications Ã©lectroniques Orange se doit de rÃ©pondre Ã  des obligations lÃ©gales ou rÃ©glementaires et doit ainsi mettre en Åuvre certains traitements sur vos donnÃ©es personnelles.2.4.1. Obligation lÃ©gale (seule finalitÃ©)
+
+
+FinalitÃ© du traitement
+Description
+Base(s) lÃ©gale(s) applicable(s)
+
+
+
+
+Archiver les donnÃ©es comptables
+
+Obligation lÃ©gale
+
+
+RÃ©pondre aux demandes des tiers autorisÃ©s par la rÃ¨glementation
+
+
+
+RÃ©pondre aux rÃ©quisitions des autoritÃ©s et aux dÃ©cisions de justice
+
+
+
+GÃ©rer le livre de police
+Lutte contre la fraude fiscale et le recel dâobjets volÃ©s
+
+
+GÃ©rer les demandes dâexercice des droits des personnes concernÃ©es
+RÃ©ception des plaintes, des rÃ©clamations et/ou demandes dâexercice des droits
+
+
+Assurer le blocage, Ã  lâutilisation, des mobiles dÃ©clarÃ©s volÃ©s
+
+
+
+2.4.2. Obligation lÃ©gale et exÃ©cution du contratVoir 2.1.42.4.3. Obligation lÃ©gale et intÃ©rÃªt lÃ©gitimeVoir 2.2.4
+
+
+
+3.	Pendant combien de temps vos donnÃ©es sont conservÃ©es ?
+
+Vos DonnÃ©es Personnelles sont conservÃ©es sur les pÃ©riodes suivantes :DonnÃ©es utilisÃ©es dans le cadre de la gestion de la relation commerciale et Ã  des fins de prospection commerciale : les donnÃ©es dâun client dâune offre rÃ©sidentielle sont conservÃ©es pendant 3 ans Ã  compter de la fin de la relation commerciale. Les donnÃ©es dâun client dâune offre entreprise sont conservÃ©es pendant 5 ans Ã  compter de la fin de la relation commerciale. Les donnÃ©es dâun prospect sont conservÃ©es pendant 3 ans Ã  compter de leur collecte ou du dernier contact Ã©manant du prospect.DonnÃ©es relatives Ã  lâidentification des clients au titre des articles L34-1 et R10-13 du Code des postes et des communications Ã©lectroniquesÂ : ces donnÃ©es sont conservÃ©es pendant 5 ans Ã  compter de la fin de la relation commerciale.DonnÃ©es de connexion, dâusages des services et dâinteraction : ces donnÃ©es sont conservÃ©es deux ans Ã  compter de leur collecte, sauf pour les donnÃ©es de trafic au sens de lâarticle L34-1 du Code des Postes et communication Ã©lectronique qui sont conservÃ©es un an Ã  compter de leur collecte.DonnÃ©es dâinteractions avec les services clients Orange: les conversations Ã©crites (e-chat) sont conservÃ©es pendant 13 mois. Les conversations orales sont enregistrÃ©es de maniÃ¨re alÃ©atoire (Ã©chantillonnage) et sont conservÃ©es 6 mois.Les donnÃ©es de contenus des services vendus par Orange sont conservÃ©es le temps de dÃ©livrer le service (acheminement, remise du contenu et accÃ¨s au contenu).DonnÃ©es relatives au paiement : ces donnÃ©es relatives sont conservÃ©es pendant 13 mois suivant la date de dÃ©bit Ã  titre de preuve, et jusquâÃ  15 mois afin de prendre en compte la possibilitÃ© d'utilisation de cartes de paiement Ã  dÃ©bit diffÃ©rÃ©.DonnÃ©es relatives au score et Ã  la segmentation client : ces donnÃ©es sont conservÃ©es jusquâÃ  2 ans Ã  compter de leur calcul.DonnÃ©es utilisÃ©es dans le cadre de la gestion des impayÃ©s : en cas de non-paiement, les informations sont conservÃ©es jusquâÃ  56 mois aprÃ¨s la rÃ©siliation, durÃ©e Ã©ventuellement prolongÃ©e dâun dÃ©lai correspondant Ã  la pÃ©riode maximale pendant laquelle un client mobile peut Ãªtre inscrit dans le fichier du GIE PrÃ©ventel. En cas de paiement les informations sont conservÃ©es 48 heures Ã  compter du paiement.DonnÃ©es spÃ©cifiques utilisÃ©es pour Ã©viter la fraude et prÃ©server le chiffre dâaffaire : les donnÃ©es dâalerte en cas de fraude sont conservÃ©es dans un dÃ©lai de 12 mois Ã  compter de l'Ã©mission des alertes pour les qualifier. Les alertes non qualifiÃ©es sont supprimÃ©es directement. Les donnÃ©es dâalerte en cas de fraude avÃ©rÃ©e sont conservÃ©es pour une durÃ©e maximale de 5 ans Ã  compter de la clÃ´ture du dossier de fraude. Les donnÃ©es de lutte contre le blanchiment sont conservÃ©es pendant 5 ans Ã  compter de lâexÃ©cution de lâopÃ©ration. Justificatifs dâidentitÃ©Â : Ils sont conservÃ©s jusqu'Ã  18 mois Ã  compter de leur collecte Ã  des fins de lutte contre la fraude.DonnÃ©es permettant de rÃ©aliser des jeux concours : les donnÃ©es sont conservÃ©es 3 mois et jusquâÃ  6 mois aprÃ¨s la fin du jeu sâil existe un risque Ã©levÃ© de contestation.DonnÃ©es permettant de piloter notre impact environnemental : pour le traitement des plaintes environnementales, les donnÃ©es sont conservÃ©es 12 mois Ã  partir de la collecte ou du dÃ©pÃ´t de la plainte. Pour le calcul et la restitution de lâempreinte carbone, les donnÃ©es ne sont pas conservÃ©es.DonnÃ©es relatives Ã  la gÃ©olocalisation pour dÃ©ployer et opÃ©rer les rÃ©seaux et les services : ces donnÃ©es sont conservÃ©es jusquâÃ  6 mois Ã  compter de leur collecte.Cookies et traceurs : les informations issues des cookies et traceurs sont conservÃ©es pour une durÃ©e de 25 mois. Pour en savoir plus Orange vous invite Ã  consulter sa Politique Cookies et Traceurs ici.DonnÃ©es relatives aux annuaires : les donnÃ©es sont conservÃ©es deux ans aprÃ¨s la fin de la parution de vos donnÃ©es Ã  lâannuaire.DonnÃ©es traitÃ©es dans le cadre du service de messagerie Ã©lectronique Mail Orange pour les offres internet : Les logs dâusage sont conservÃ©s 12 mois Ã  compter de leur Ã©mission. Pour les autres donnÃ©es, elles sont conservÃ©es pendant 12 mois Ã  compter de la rÃ©siliation du client si celui-ci nâutilise plus le service. Si le client nâutilise plus le service mail plus de 9 mois aprÃ¨s la rÃ©siliation les donnÃ©es sont conservÃ©es alors 5 mois Ã  compter de lâarrÃªt dâutilisation du service.DonnÃ©es traitÃ©es dans le cadre du service de messagerie Ã©lectronique Mail Orange pour les offres mobile : Les logs dâusage sont conservÃ©s 12 mois Ã  compter de leur Ã©mission. Pour les autres donnÃ©es, elles sont conservÃ©es pendant 6 mois Ã  compter de la rÃ©siliation du client.DonnÃ©es spÃ©cifiques traitÃ©es dans le cadre du service de messagerie vocale : les donnÃ©es dâidentification (numÃ©ro de tÃ©lÃ©phone) et de contact (mail) sont conservÃ©es pendant toute la durÃ©e vie du contrat et supprimÃ©es 20 jours aprÃ¨s rÃ©siliation. Les donnÃ©es de contenu du message vocal sont conservÃ©es jusquâÃ  40 jours sâil nây a pas dâaction du client, et 14 jours si le message est lu par le client.DonnÃ©es spÃ©cifiques traitÃ©es dans le cadre de lâidentification dâun client via son compte grÃ¢ce au service Orange ID : les donnÃ©es de logs lors de lâutilisation du service sont conservÃ©es pendant 370 jours.DonnÃ©es spÃ©cifiques traitÃ©es dans le cadre des recommandations personnalisÃ©es sur la TV dâOrange â le Guide TV : les donnÃ©es de connexion, dâusage des services et dâinteraction sont conservÃ©es pendant 18 mois. Les autres donnÃ©es sont conservÃ©es tant que le Client est actif sur le service TV.DonnÃ©es spÃ©cifiques traitÃ©es dans le cadre du ciblage de la publicitÃ© sur la TV dâOrange : les donnÃ©es dâidentification sont conservÃ©es pendant 90 jours sur la tÃ©lÃ© en live et 13 mois sur le service replay. Les donnÃ©es de contact et les donnÃ©es de vie personnelles sont conservÃ©es jusquâÃ  3 ans Ã  compter de la rÃ©siliation du client. Les donnÃ©es connexion, dâusage des services et dâinteraction (usage et log TV, consentement) sont conservÃ©es pendant 13 mois. Les profils, scores et segmentations client sont conservÃ©s Ã  partir des 30 derniers jours et recalculÃ©s tous les 30 jours.DonnÃ©es utilisÃ©es dans le cadre de contentieux : les donnÃ©es sont conservÃ©es tant que le contentieux et actif, et jusquâÃ  lâexpiration de lâensemble des voies de recours.Orange conserve Ã©galement des donnÃ©es dans le cadre de ses obligations lÃ©gales :DonnÃ©es comptables devant Ãªtre archivÃ©es : ces donnÃ©es sont conservÃ©es 10 ans en base d'archivage Ã  titre de preuve.DonnÃ©es permettant de rÃ©pondre au droit de communication des autoritÃ©s et aux rÃ©quisitions des autoritÃ©s et aux dÃ©cisions de justice : ces donnÃ©es sont conservÃ©es pendant 12 mois Ã  compter de la rÃ©ponse.DonnÃ©es relatives au livre de police : ces donnÃ©es sont conservÃ©es pendant 10 ans aprÃ¨s leur collecte.DonnÃ©es relatives aux demandes dâexercice des droits des personnes concernÃ©es : ces donnÃ©es sont conservÃ©es pour une durÃ©e de 5 ans aprÃ¨s le traitement de la demande ou, Ã  dÃ©faut, dÃ¨s la prescription dâune dÃ©cision de lâautoritÃ© de contrÃ´le compÃ©tente ou prescription du contentieux.DonnÃ©es nÃ©cessaires pour assurer le blocage, Ã  lâutilisation, des mobiles dÃ©clarÃ©s volÃ©s : ces donnÃ©es sont conservÃ©es pendant 18 mois aprÃ¨s la date dâinscription.
+
+
+
+4.	Quelles personnes sont concernÃ©es par ces traitements de donnÃ©es ?
+
+Les personnes concernÃ©es par les traitements rÃ©alisÃ©s dans le cadre de cette Politique par Orange sont :Clients dÃ©tenteurs dâune offre rÃ©sidentielle et / ou professionnelle, utilisateurs de ces offresProspectsClients des opÃ©rateurs tiers pour les besoins techniques attenants Ã  leurs offresAyants-droits, reprÃ©sentants et mandataires de ces clients
+
+
+
+5.	Quels sont les destinataires de vos donnÃ©es ?
+
+Les donnÃ©es traitÃ©es sont destinÃ©es aux services internes dâOrange et Ã  ses filiales : seuls peuvent avoir accÃ¨s Ã  vos donnÃ©es les salariÃ©s habilitÃ©s en ayant besoinÂ dans le cadre de leurs missions.Les donnÃ©es traitÃ©es peuvent Ãªtre, selon les offres, destinÃ©es aux sous-traitants dâOrange : dans ce cas Orange ne communique vos donnÃ©es quâaux sous-traitants avec lesquels Orange a conclu un contrat par lequel ils assurent leur engagement et leurs garanties sur leur capacitÃ© Ã  rÃ©pondre aux exigences de sÃ©curitÃ© et de confidentialitÃ©, et Ã  respecter lâensemble des obligations lÃ©gales et rÃ©glementaires en matiÃ¨re de protection des donnÃ©es personnelles.Les donnÃ©es traitÃ©es peuvent Ã©galement Ãªtre destinÃ©es aux partenaires dâOrange, publics ou privÃ©s : il sâagit des situations oÃ¹ des partenaires interviennent pour la fourniture dâoffres ou services complÃ©mentaires. Il peut Ã©galement sâagir de traitements auxquels il vous est proposÃ© de consentir ; une mention dâinformation sera disponible avant le recueil de votre consentement.Les donnÃ©es traitÃ©es peuvent, Ãªtre transmises aux autoritÃ©s compÃ©tentes, Ã  leur demande, dans le cadre de procÃ©dures judiciaires, dans le cadre de recherches judiciaires et de sollicitations d'information des autoritÃ©s ou afin de se conformer Ã  d'autres obligations lÃ©gales. Elles peuvent enfin Ãªtre transmises aux tiers autorisÃ©s par une dÃ©cision de justice.
+
+
+
+6.	Vos donnÃ©es sont-elles traitÃ©es hors UE ?
+
+Les donnÃ©es personnelles collectÃ©es sont susceptibles dâÃªtre traitÃ©es hors de lâUnion EuropÃ©enne. Dans ce cas, Orange prend les dispositions nÃ©cessaires avec ses sous-traitants et partenaires afin de garantir un niveau de protection de vos donnÃ©es personnelles adÃ©quat et ce en conformitÃ© avec la rÃ©glementation applicable.Si les sous-traitants et partenaires concernÃ©s ne sont pas situÃ©s dans un pays disposant dâune lÃ©gislation considÃ©rÃ©e comme offrant un niveau de protection adÃ©quate, ils auront prÃ©alablement signÃ© les Â« clauses contractuelles types Â» de la Commission europÃ©enne ou sont soumis Ã  des RÃ¨gles internes contraignantes approuvÃ©es par les autoritÃ©s. Lorsque la lÃ©gislation du pays tiers ne prÃ©sente pas de protection Ã©quivalente Ã  celle offerte par la rÃ¨glementation applicable dans lâUnion EuropÃ©enne, Orange veille Ã  la mise en Åuvre de mesures supplÃ©mentaires adaptÃ©es aux traitements mis en Åuvre.
+
+
+
+7.	Comment vos donnÃ©es sont-elles sÃ©curisÃ©es ?
+
+Orange accorde une importance particuliÃ¨re Ã  la sÃ©curitÃ© de vos donnÃ©es personnelles.Orange a mis en place des mesures de sÃ©curitÃ© appropriÃ©es et exigeantes destinÃ©es Ã  Ã©viter que vos donnÃ©es ne soient perdues accidentellement, utilisÃ©es ou consultÃ©es sans autorisation, modifiÃ©es ou divulguÃ©es. De plus, Orange limite l'accÃ¨s Ã  vos donnÃ©es aux seuls salariÃ©s, sous-traitants et autres tiers qui ont besoin d'y accÃ©der pour lâexercice de leurs missions. Ils sont soumis Ã  une obligation de confidentialitÃ©.Orange exige de ses cocontractants qu'ils respectent la sÃ©curitÃ© des DonnÃ©es Personnelles de ses Clients et qu'ils les traitent conformÃ©ment aux lois sur la protection des donnÃ©es en vigueur.Orange a mis en place des mesures techniques et organisationnelles appropriÃ©es pour Ã©viter la perte, la mauvaise utilisation, lâaltÃ©ration et la suppression des donnÃ©es personnelles vous concernant. Ces mesures sont adaptÃ©es selon le niveau de sensibilitÃ© des donnÃ©es traitÃ©es et selon le niveau de risque.Orange a mis en place des procÃ©dures visant Ã  dÃ©tecter, analyser et traiter toute suspicion de violation de vos donnÃ©es personnelles, et vous avertit ainsi que toute autoritÃ© de contrÃ´le concernÃ©e d'une violation lorsquâOrange est lÃ©galement ou contractuellement tenue de le faire.
+
+
+
+8.	Quels sont vos droits ?
+
+Vous disposez de diffÃ©rents droits liÃ©s aux traitements de vos donnÃ©es personnelles :8.1. Droit dâaccÃ¨sVous avez le droit dâobtenir les donnÃ©es personnelles vous concernant dont Orange dispose, et de prendre connaissance du ou des traitements vous concernant rÃ©alisÃ©s par Orange.8.2. Droit de rectificationDans lâhypothÃ¨se oÃ¹ vos donnÃ©es personnelles ne seraient pas complÃ¨tes, exactes ou non actualisÃ©es, vous disposez dâun droit de rectification.8.3. Droit dâoppositionCe droit sâapplique lorsque le traitement repose sur lâintÃ©rÃªt lÃ©gitime dâOrange et dÃ¨s lors que vos droits et libertÃ©s prÃ©valent sur ce dernier. Lorsque les donnÃ©es personnelles vous concernant sont traitÃ©es Ã  des fins de prospection, vous pouvez vous opposer Ã  tout moment Ã  ce que vos donnÃ©es personnelles fassent lâobjet dâun tel traitement. Les clients peuvent exercer ce droit directement depuis leur espace client.8.4. Droit de suppressionVous pouvez demander Ã  Orange de supprimer vos donnÃ©es personnelles. Mais vous ne pouvez exercer ce droit dans le cas oÃ¹ vos donnÃ©es personnelles sont nÃ©cessaires Ã  la fourniture de vos services, ou quâelles sont nÃ©cessaires Ã  Orange pour respecter ses obligations lÃ©gales ou exercer ses droits, ou si lâintÃ©rÃªt lÃ©gitime dâOrange prÃ©vaut.8.5. Droit Ã  la portabilitÃ© des donnÃ©es fourniesVous pouvez demander l'obtention des donnÃ©es personnelles vous concernant dans un format techniquement exploitable par vous-mÃªme ou par une autre entitÃ© quâOrange, dÃ¨s lors que celles-ci sont font l'objet d'un traitement reposant sur votre consentement ou sur une relation contractuelle.8.6. Droit Ã  la limitation dâun ou plusieurs traitementsCe droit vous permet, en cas de doute sur la lÃ©galitÃ© de lâun de nos traitements ou pour faire constater, exercer ou dÃ©fendre vos droits en justice, de demander Ã  Orange de ne plus rÃ©aliser temporairement tout ou partie des traitements de vos donnÃ©es personnelles sans pour autant les effacer.8.7. Testament numÃ©riqueVous pouvez Ã©mettre des directives sur la conservation, la suppression ou la communication de vos donnÃ©es personnelles aprÃ¨s votre dÃ©cÃ¨s.
+
+
+
+9.	Comment exercer vos droits ?
+
+Vous pouvez exercer vos droits Ã  tout moment, ainsi que contacter le DÃ©lÃ©guÃ© Ã  la Protection des DonnÃ©es personnelles aux adresses ci-dessous.Toute demande d'exercice de vos droits doit Ãªtre accompagnÃ©e dâÃ©lÃ©ments permettant de justifier de votre identitÃ©. Une piÃ¨ce dâidentitÃ© pourra Ãªtre demandÃ©e en cas de doute raisonnable quant Ã  votre identitÃ©. Vous recevrez un accusÃ© de rÃ©ception Ã  lâissue de lâenvoi de votre demande.Une rÃ©ponse vous sera adressÃ©e dans un dÃ©lai d'un mois Ã  compter de la rÃ©ception de votre demande. En cas de complexitÃ© de la demande, ce dÃ©lai peut Ãªtre allongÃ©. Dans ce cas vous en serez notifiÃ©.Offres Grand PublicVous pouvez utiliser le formulaire de contact en ligne disponible dans votre espace client sur orange.fr, rubrique Compte > Vie privÃ©e et confidentialitÃ© ou en Ã©crivant Ã  : Orange Service Client, Gestion des donnÃ©es personnelles, 33732 Bordeaux Cedex 9.Offres ProfessionnellesVous pouvez utiliser le formulaire de contact en ligne disponible sur pro.orange.fr > nous contacter et nous l'adresser numÃ©riquement ou Ã©crire Ã  Orange Business Service, Agences Entreprises, Gestion des donnÃ©es personnelles, TSA 70007, 82008 Montauban.ProspectsVous pouvez Ã©crire Ã  : Orange Service Client, Gestion des donnÃ©es personnelles, 33732 Bordeaux Cedex 9 pour les prospects Grand Public. Orange Business Service, Agences Entreprises, Gestion des donnÃ©es personnelles, TSA 70007, 82008 Montauban pour les prospects pros.PossibilitÃ© de saisir le DPOVous pouvez Ã©galement Ã©crire Ã  group-dpo.donnees-personnelles@orange.com pour exercer vos droits.PossibilitÃ© de saisir la CNILSi vos Ã©changes avec Orange nâont pas Ã©tÃ© satisfaisants, vous avez la possibilitÃ© dâintroduire une rÃ©clamation auprÃ¨s de la Commission Nationale de lâInformatique et des LibertÃ©s (CNIL), autoritÃ© de contrÃ´le en charge du respect des obligations en matiÃ¨re de protection des donnÃ©es personnelles en France.
+
+
+
+10.	Y a-t-il des particularitÃ©s pour certains services ?
+
+10.1. Service UtiqLa technologie Utiq est fournie par Utiq SA/NV, une sociÃ©tÃ© europÃ©enne. Elle a Ã©tÃ© conÃ§ue pour la protection de vos donnÃ©es personnelles en vous offrant choix et contrÃ´le, tout en facilitant les activitÃ©s en ligne des sites web.Utiq travaille avec des opÃ©rateurs tÃ©lÃ©com partenaires, comme nous, qui aident au fonctionnement de la technologie.Cette technologie, qui est disponible pour nos clients, est dÃ©sactivÃ©e par dÃ©faut et nÃ©cessite votre consentement pour Ãªtre activÃ©e. Si elle est activÃ©e, les sites web partenaires peuvent lâutiliser pour supporter leurs activitÃ©s digitales, telles que la personnalisation publicitaire ou de contenu et dâanalyses.En plus dâÃªtre un opÃ©rateur tÃ©lÃ©com partenaire travaillant avec Utiq, nous utilisons Ã©galement cette technologie sur nos sites web. Plus de dÃ©tails ci-dessous.Notre rÃ´le en tant quâopÃ©rateur tÃ©lÃ©com partenaireLorsque vous visitez un site web utilisant la technologie Utiq et que vous consentez Ã  son utilisation, nous fournissons Ã  Utiq un identifiant digital (le âNetwork Signalâ) que nous crÃ©ons sur la base de votre adresse IP et une rÃ©fÃ©rence au contrat associÃ© Ã  votre connexion internet, tel que le numÃ©ro de contrat ou numÃ©ro de tÃ©lÃ©phone, sans partager dâinformation supplÃ©mentaire vous concernant. Nous faisons cela en tant que responsable de traitement indÃ©pendant. Utiq utilise cet identifiant pour gÃ©nÃ©rer dâautres identifiants digitaux Ã  destination des sites web partenaires.Notre utilisation de la technologie Utiq sur ce site webNous, Orange (le responsable de traitement) utilisons la technologie Utiq sur nos sites web. Lorsque vous consentez Ã  son activation Utiq nous fournit des identifiants marketing. Ils nous aident Ã  comprendre vos habitudes de navigation et Ã  relier vos visites sur nos sites web (seulement ceux pour lesquels vous consentez Ã  lâutilisation de la technologie Utiq). Nous les utilisons pour nos activitÃ©s digitales, telles que la personnalisation de pub ou de contenu et dâanalyses sur nos sites web utilisant la technologie dâUtiq et sous rÃ©serve de vos consentements. Ces identifiants sont aussi partagÃ©s avec nos plateformes publicitaires lorsque nÃ©cessaire Ã  nos activitÃ©s de marketing et dâanalyses.Â Si vous activez la technologie Utiq sur nos sites web (liste disponible sur les pages âGÃ©rer Utiqâ de chacun de nos sites web), nous pourrons lâutiliser pour comprendre vos habitudes de navigation sur ces sites (ceux pour lesquels vous avez donnÃ© votre consentement).La technologie Utiq est liÃ©e Ã  la connexion internet.Ainsi, toutes les personnes utilisant la mÃªme connexion et ayant consenti se verront attribuer le mÃªme identifiant.En gÃ©nÃ©ral :Pour une connexion foyer (ex : Wi-Fi), la personnalisation sera basÃ©e sur la navigation des membres du foyer ayant consenti.Pour une connexion mobile, la personnalisation sera basÃ©e uniquement sur la navigation du propriÃ©taire du mobile.Nous Orange agissons en tant que responsable de traitement conjoint avec Utiq pour certaines Ã©tapes de traitement. Dans le cadre de notre accord de responsables conjoints :Nous collectons votre consentement Ã  lâactivation de la technologie Utiq, qui inclut les traitements de donnÃ©es effectuÃ©s par Utiq et votre opÃ©rateur tÃ©lÃ©com en vue de cette activation.Nous mettons Ã  votre disposition un lien dÃ©diÃ© en bas de chacun de nos sites web (âGÃ©rer Utiqâ) afin de vous fournir des informations sur la technologie et les contrÃ´les dont vous disposez.Utiq met Ã  votre disposition un portail (consenthub) pour faciliter lâexercice de vos droits en matiÃ¨re de protection des donnÃ©es et vous permettre de gÃ©rer facilement les consentements Utiq. Ã tout moment. En un seul endroit.Bien que vous puissiez exercer vos droits Ã  lâÃ©gard de chacun des responsables de traitement, Utiq demeure le point de contact principal pour toute question ou demande que vous pourriez avoir en relation avec la technologie Utiq.Comment gÃ©rer les consentements UtiqVous pouvez rÃ©voquer les consentements* Utiq de diverses maniÃ¨res :Sur le consenthub : Pour rÃ©voquer tous les consentements Utiq sur lâensemble des sites web utilisant la technologie Utiq, accÃ©dez au portail dâUtiq (âconsenthubâ)Sur les sites web partenaires : oÃ¹ vous pouvez rÃ©voquer chaque consentement Utiq sur les sites web oÃ¹ vous lâavez donnÃ©, en visitant la page âGÃ©rer Utiqâ accessible au bas de chaque site web.La technologie Utiq est basÃ©e sur votre connexion internet. Ainsi, si vous utilisez dâautres connections, il vous faudra gÃ©rer les consentements sur chaque connexion sÃ©parÃ©ment.Autrement, vous avez toujours la possibilitÃ© de supprimer votre historique et donnÃ©es de navigation via les paramÃ¨tres de votre navigateur. Cela supprimera tous vos consentements Utiq de votre navigateur. Toutes vos donnÃ©es stockÃ©es dans la plateforme Utiq seront Ã©galement supprimÃ©es dans la durÃ©e indiquÃ©e dans la Politique relative Ã  lâutilisation des donnÃ©es personnelles d'Utiq.Pour plus d'informations, veuillez consulter la Politique relative Ã  lâutilisation des donnÃ©es personnelles d'Utiq.Â Â * Cela comprend les consentements Utiq que vous avez donnÃ©s, mais Ã©galement, dans le cas dâune connexion internet partagÃ©e, ceux donnÃ©s par les membres de votre foyer.10.2. AnnuairesOrange en tant quâopÃ©rateur de communications Ã©lectroniques, vous permet en tant quâabonnÃ© dâun service de tÃ©lÃ©phonie ouvert au public (fixe ou mobile), de dÃ©cider si vous souhaitez que vos coordonnÃ©es (numÃ©ro de tÃ©lÃ©phone, nom, prÃ©nom, adresse postale complÃ¨te ou non, adresse Ã©lectronique, profession ou activitÃ©) soient ou non publiÃ©es, gratuitement, dans sa liste dâannuaire. Cette liste, conformÃ©ment Ã  ses obligations rÃ¨glementaires, est transmise par Orange Ã  tout Ã©diteur rÃ©alisant un annuaire ou fournissant un service de renseignements.Vous pouvez limiter gratuitement leur parution en vous inscrivant sur les listes anti-prospection ou interdire toute parution en demandant Ã  Ãªtre sur liste rouge.Vous pouvez modifier vos choix Ã  tout moment et gratuitement sur votre espace client.10.3. Prospection commerciale par tÃ©lÃ©phoneSi vous ne vous y Ãªtes pas opposÃ©s vous Ãªtes susceptibles dâÃªtre contactÃ©s par tÃ©lÃ©phone afin de vous proposer des offres et services des partenaires privilÃ©giÃ©s dâOrange Â :- Canal+- Orange TÃ©lÃ©surveillanceVous pouvez changer vos permissions de contact Ã  tout moment depuis votre espace client.10.4. Utilisation de donnÃ©es anonymes â Flux visionLes donnÃ©es relatives Ã  la localisation des utilisateurs du rÃ©seau mobile Orange sont agrÃ©gÃ©es afin de constituer des indicateurs statistiques de frÃ©quentation de provenance et de dÃ©placement Ã  destination de divers partenaires du secteur du commerce, du tourisme, des transportsâ¦Le dispositif technique utilisÃ© par Flux Vision garantit une anonymisation irrÃ©versible en supprimant toute donnÃ©e Ã  caractÃ¨re personnel et en rendant impossible lâidentification dâune personne physique, ainsi que la rÃ©-identification de maniÃ¨re directe ou indirecte.
+
+
+
+11.	Modification de la Politique de protection des donnÃ©es
+
+La prÃ©sente Politique de Protection des DonnÃ©es personnelles peut Ãªtre amenÃ©e Ã  Ã©voluer.DerniÃ¨re mise Ã  jour le 14/11/2024
+
+
+
+
+
+
+
+
+1.	Quelles sont les donnÃ©es traitÃ©es ?
+
+
+2.	Pourquoi Orange traite vos donnÃ©es ?
+
+
+3.	Pendant combien de temps vos donnÃ©es sont conservÃ©es ?
+
+
+4.	Quelles personnes sont concernÃ©es par ces traitements de donnÃ©es ?
+
+
+5.	Quels sont les destinataires de vos donnÃ©es ?
+
+
+6.	Vos donnÃ©es sont-elles traitÃ©es hors UE ?
+
+
+7.	Comment vos donnÃ©es sont-elles sÃ©curisÃ©es ?
+
+
+8.	Quels sont vos droits ?
+
+
+9.	Comment exercer vos droits ?
+
+
+10.	Y a-t-il des particularitÃ©s pour certains services ?
+
+
+11.	Modification de la Politique de protection des donnÃ©es
+
+
+
+
+
+
+
+
+

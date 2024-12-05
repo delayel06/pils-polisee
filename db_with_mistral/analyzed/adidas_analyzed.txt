@@ -1,0 +1,84 @@
+{
+  "website_name": "adidas",
+  "information": [
+    {
+      "title": "La politique de confidentialité est mise à jour régulièrement sans notification préalable.",
+      "severity_tag": "Yellow",
+      "details": "La politique de confidentialité peut être modifiée à tout moment pour refléter les derniers développements. Il est recommandé de la consulter fréquemment pour se tenir informé des changements."
+    },
+    {
+      "title": "Plusieurs entités adidas sont responsables du traitement des données personnelles.",
+      "severity_tag": "Yellow",
+      "details": "adidas AG en Allemagne et adidas France sont responsables des données personnelles collectées, notamment pour les ventes de produits et la recherche et développement de produits. D'autres entités peuvent également être impliquées en fonction des scénarios spécifiques."
+    },
+    {
+      "title": "Les données personnelles collectées incluent des informations d'identité, de contact, de paiement, de localisation, et des préférences comportementales.",
+      "severity_tag": "Orange",
+      "details": "Les catégories de données personnelles collectées sont vastes et incluent des informations sensibles telles que les mensurations et les données de santé. Ces informations sont utilisées pour diverses finalités, y compris la personnalisation de l'expérience utilisateur et l'amélioration des produits et services."
+    },
+    {
+      "title": "Les cookies et technologies similaires sont utilisés pour collecter des informations sur les appareils des utilisateurs.",
+      "severity_tag": "Orange",
+      "details": "Des cookies obligatoires, fonctionnels et marketing sont utilisés pour diverses finalités, y compris la personnalisation de l'expérience utilisateur et le ciblage publicitaire. Les utilisateurs peuvent gérer les paramètres des cookies dans leur navigateur."
+    },
+    {
+      "title": "Les données personnelles sont partagées avec divers destinataires, y compris des filiales, des fournisseurs de services et des partenaires publicitaires.",
+      "severity_tag": "Orange",
+      "details": "Les données personnelles sont partagées avec une liste étendue de destinataires pour diverses finalités, y compris l'analyse des données, le marketing et la prévention de la fraude. Les utilisateurs doivent être conscients que leurs données peuvent être transférées en dehors de l'UE/EEE."
+    },
+    {
+      "title": "Les utilisateurs ont plusieurs droits concernant leurs données personnelles, y compris l'accès, la rectification, la suppression et l'opposition au traitement.",
+      "severity_tag": "Green",
+      "details": "Les utilisateurs peuvent exercer leurs droits en utilisant des outils en libre-service ou en contactant le service client. Les demandes d'exercice des droits sont traitées dans un délai d'un mois, avec la possibilité d'extension dans certains cas."
+    },
+    {
+      "title": "Les données personnelles sont conservées pendant des durées spécifiques en fonction de la finalité du traitement.",
+      "severity_tag": "Yellow",
+      "details": "Les durées de conservation varient en fonction de la finalité du traitement, allant de la durée de la session de navigation à 10 ans pour les informations de paiement et de transaction."
+    },
+    {
+      "title": "Des mesures de sécurité techniques et organisationnelles sont mises en place pour protéger les données personnelles.",
+      "severity_tag": "Green",
+      "details": "Des mesures appropriées sont mises en place pour protéger les données personnelles contre la perte, l'altération ou l'accès non autorisé. Cependant, toute transmission de données via Internet se fait aux risques de l'utilisateur."
+    },
+    {
+      "title": "Les utilisateurs peuvent contacter le service client pour toute question ou assistance concernant leurs droits et l'utilisation de leurs données personnelles.",
+      "severity_tag": "Green",
+      "details": "Le service client est disponible pour répondre aux questions et fournir une assistance concernant les droits des utilisateurs et l'utilisation de leurs données personnelles. Les coordonnées du service client sont disponibles sur le site web d'adidas."
+    },
+    {
+      "title": "Les utilisateurs peuvent déposer une plainte auprès de l'autorité locale de supervision de la protection des données en cas de insatisfaction.",
+      "severity_tag": "Green",
+      "details": "Si les utilisateurs ne sont pas satisfaits de la manière dont leurs droits ont été traités, ils peuvent déposer une plainte auprès de l'autorité locale de supervision de la protection des données. Les coordonnées du Délégué à la protection des données d'adidas sont également fournies."
+    }
+  ],
+  "final_score": 70
+}
+
+Les critères d'évaluation pour cette politique de confidentialité sont les suivants :
+
+1. **Transparency, clarity, and accessibility (12%)**: La politique est globalement claire et accessible, mais pourrait être plus transparente concernant les changements de politique sans notification préalable. **Score : 9/12**
+
+2. **Data collection and minimization (10%)**: La politique collecte une grande quantité de données personnelles, y compris des informations sensibles. La minimisation des données pourrait être améliorée. **Score : 6/10**
+
+3. **Consent and legal bases (10%)**: La politique mentionne le consentement et d'autres bases légales pour le traitement des données, mais pourrait fournir plus de détails sur la manière dont le consentement est obtenu et géré. **Score : 7/10**
+
+4. **Data usage (12%)**: La politique est transparente sur l'utilisation des données pour diverses finalités, mais l'étendue de l'utilisation des données pour le marketing ciblé et la personnalisation pourrait être préoccupante pour certains utilisateurs. **Score : 8/12**
+
+5. **Data sharing and international transfers (12%)**: La politique est transparente sur le partage des données avec divers destinataires, mais le nombre élevé de destinataires et les transferts internationaux de données peuvent poser des risques. **Score : 7/12**
+
+6. **Data security and privacy by design/default (10%)**: La politique met en place des mesures de sécurité appropriées, mais pourrait fournir plus de détails sur la manière dont la confidentialité est intégrée dès la conception. **Score : 8/10**
+
+7. **User rights (12%)**: La politique est solide en matière de droits des utilisateurs, offrant plusieurs moyens d'exercer ces droits et de contacter le service client en cas de besoin. **Score : 10/12**
+
+8. **Data retention (5%)**: La politique est transparente sur les durées de conservation des données, mais certaines durées peuvent être considérées comme longues. **Score : 4/5**
+
+9. **Legal compliance and updates (8%)**: La politique mentionne la conformité légale et les mises à jour, mais pourrait fournir plus de détails sur la manière dont les changements sont communiqués aux utilisateurs. **Score : 5/8**
+
+10. **Cookies and similar technologies (3%)**: La politique est transparente sur l'utilisation des cookies et technologies similaires, mais pourrait offrir plus d'options de personnalisation pour les utilisateurs. **Score : 2/3**
+
+11. **Contact and complaints (3%)**: La politique fournit des informations claires sur la manière de contacter le service client et de déposer une plainte, ce qui est positif. **Score : 3/3**
+
+12. **Accessibility for individuals with disabilities (3%)**: La politique ne mentionne pas spécifiquement l'accessibilité pour les personnes en situation de handicap, ce qui est un domaine à améliorer. **Score : 1/3**
+
+**Final Score : 70/100**

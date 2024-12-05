@@ -1,0 +1,1025 @@
+POLITIQUE GÉNÉRALE  DE PROTECTION DES DONNÉES
+SITE WEB ET APPLICATIONS GROUPE SELOGER 
+Digital Classifieds France, Groupe SeLoger (ci-après « DCF ») prend à cœur la protection de la vie privée et des données personnelles de ses utilisateurs (ci-après les “Utilisateurs”).
+
+La présente politique de confidentialité a pour objectif de vous informer de manière transparente sur les traitements de vos données personnelles par DCF et sur l’étendue de vos droits dans le cadre de l’utilisation des sites Internet 
+
+seloger.com et edito.seloger.com
+selogerneuf.com
+selogerconstruire.com
+bellesdemeures.com
+seloger-bureaux-commerces.com
+(ci-après « le Site Internet ») et de l’application associée le cas échéant (ci-après « l’Application »).
+
+IDENTITÉ DU RESPONSABLE DE TRAITEMENT
+
+DCF (Groupe SeLoger) - S.A.S, ayant son siège social au 2-8 rue des Italiens, 75009 Paris, immatriculée au RCS de Paris sous le numéro 789 177 391 - est responsable de traitement des données personnelles collectées sur le Site Internet et l'Application au sens du Règlement UE 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données (ci-après « RGPD »).
+
+1. Qu’est-ce qu’une donnée personnelle ?
+
+Une donnée personnelle désigne toute information relative à une personne physique permettant de l’identifier directement tels que son nom, son prénom, son adresse postale ou e-mail, ou indirectement tel qu’un identifiant Utilisateur, une adresse IP, des données de navigation, etc.
+
+2. Quelles données collectons-nous et dans quelles circonstances ?
+
+DCF collecte les données suivantes vous concernant dans le cadre des activités et contextes suivants:
+
+Données que vous nous communiquez directement lors du remplissage d’un formulaire ou de la création d’un compte.
+Données de navigation collectées automatiquement lors de votre utilisation du Site Internet ou de l’Application SeLoger.
+Données fournies par nos partenaires. Dans ce cadre, nous demandons expressément et contractuellement à notre partenaire de nous fournir la base légale adéquate afin que ce dernier puisse nous fournir vos données.
+Données relatives aux caractéristiques de biens immobiliers vendus fournies par nos clients, professionnels de l’immobilier ayant souscrit une offre de publication d’annonces auprès de DCF ou mises à disposition grâce à la base DVF (Demande de Valeur Foncière) rendue accessible par le gouvernement. 
+Finalités	Site Internet / Application	Données collectées
+Gestion de votre compte	SeLoger	Lors de la création de votre compte, vous nous communiquez vos données de création de compte (adresse email et mot de passe créé) et nous générons un identifiant unique afin de vous permettre de vous authentifier, de personnaliser votre expérience et de vous envoyer des emails de service (création de compte, demande de modification de mot de passe,...). Si vous le souhaitez, vous pouvez également renseigner les informations personnelles facultatives suivantes afin de personnaliser votre expérience sur le Site Internet et l’Application:
+état civil,
+numéro de téléphone,
+année de naissance,
+adresse postale,
+raison de présence sur SeLoger
+Vous pouvez ajouter et consulter dans votre espace personnel 
+vos favoris, 
+vos recherches enregistrées
+ et vos annonces déposées. 
+Par ailleurs, vos données de navigation relatives à la consultation des pages de biens sont collectées automatiquement afin de répertorier les annonces que vous avez vues précédemment.
+Lors de la certification de votre profil locataire via SeLoger pass, vous nous communiquez les données suivantes afin de de vérifier la validité votre pièce d'identité avec l'aide d'un sous-traitant spécialiste de la vérification et la sécurisation de documents:
+état civil,
+date de naissance,
+adresse email,
+justificatif officiel d'identité.
+Vos données sont susceptibles d'être traitées à des fins d'amélioration de la performance du service sur la base de notre intérêt légitime.
+seloger-bureaux-commerces.com	Lorsque vous êtes un professionnel et que vous créez un compte, vous nous communiquez les informations suivantes afin de vous permettre de vous authentifier, de publier vos coordonnées sur notre annuaire et permettre aux Utilisateurs non-professionnels de l’immobilier de vous contacter dans le cadre d’un projet immobilier:
+état civil.
+nom de société, SIRET.
+Profession.
+adresse mail, mot de passe créé (données d’identification).
+région, département.
+adresse postale.
+numéro de téléphone/fax.
+site web facultatif.
+Gestion de vos alertes et de votre abonnement à la newsletter	seloger.com
+edito.seloger.com
+selogerneuf.com
+bellesdemeures.com
+seloger-bureaux-commerces.com
+seloger.com
+selogerneuf.com
+bellesdemeures.com	Lorsque vous vous inscrivez à une newsletter d’un Site Internet ou Application, vous nous communiquez votre adresse email afin de recevoir cette newsletter.
+Lorsque vous activez une alerte ou remplissez un formulaire de prise de contact avec un annonceur ou d’information pour un programme immobilier sans vous opposer à l’envoi d’alerte emails pour des Annonces Similaires, vous nous communiquez les données suivantes afin de recevoir par email ou notification des alertes pour des biens similaires correspondant à vos critères de recherche:
+état civil,
+adresse email, numéro de téléphone,
+critères de recherche, titre et motif de l’alerte (facultatif).
+selogerneuf.com	Lorsque vous cochez la case “Recevoir les offres de nos partenaires" de ce formulaire, vos critères de recherche sont transmis à des professionnels de l’immobilier, clients de DCF, qui pourront vous proposer des biens similaires à votre recherche.
+Gestion de vos demandes et de la mise en relation avec des annonceurs (particulier ou professionnel de l'immobilier) via les formulaires en ligne	seloger.com
+selogerneuf.com
+bellesdemeures.com
+seloger-bureaux-commerces.com	Lorsque vous remplissez le formulaire de prise de contact avec un annonceur via une page d’Annonce ou une page de l’Annuaire, vous nous communiquez les informations suivantes afin de transmettre votre demande à l'annonceur:
+état civil,
+adresse mail, numéro de téléphone,
+critères de recherche,  titre et motif de l’alerte,
+message.
+Dans le cas où l'annonceur a souscrit à notre fonction de suivi d'appel, votre numéro de téléphone sera communiqué à l'annonceur afin de permettre la transmission et le suivi de votre appel et l'en informer en cas d'appel manqué.
+Sauf opposition de votre part, vous recevrez également par mail ou par notification des biens similaires correspondant à vos critères de recherches ainsi que nos propositions de services autour de votre projet immobilier (que nous qualifions de Services Analogues).
+
+Sous réserve de votre consentement, nous collectons certaines données de navigation (nombre de demandes de contacts associées à votre adresse mail et pages visitées) afin de permettre au professionnel de l’immobilier de mieux comprendre votre projet immobilier d’achat, d’estimer automatiquement le degré d’intérêt de votre recherche et communiquer cette indication au professionnel de l’immobilier pour l’aider à améliorer sa gestion des demandes de contact, et d’indiquer au professionnel de l’immobilier les annonces qui pourraient vous intéresser.
+Lorsque vous remplissez le formulaire de contact “Nous contacter”, vous communiquez à notre service client les informations suivantes afin de répondre à vos questions:
+nom,
+adresse mail, 
+objet de votre demande,
+message,
+statut client/non client,
+code postal et ville (facultatif)
+numéro de téléphone (facultatif),
+nom de l’entreprise (facultatif),
+Lorsque vous remplissez certains de nos formulaires et sauf opposition de votre part, vous nous communiquez les informations suivantes afin de vous recontacter par mail dans le cadre d'enquêtes de satisfaction, études et sondages:
+nom,
+adresse mail.
+Gestion de votre navigation et de vos recherches immobilières
+SeLoger	Lorsque vous remplissez le formulaire de prise de contact avec un particulier louant un bien, vous nous communiquez les informations suivantes afin de transmettre votre demande au loueur 
+état civil,
+adresse mail, numéro de téléphone,
+habitudes de vie, situation familiale.
+Afin de transmettre les éléments à déclarer par le candidat à la location permettant au loueur d'apprécier sa situation financière, vous nous communiquez des informations 
+sur la constitution de votre foyer, 
+votre situation professionnelle, 
+vos revenus et vos garants éventuels 
+ainsi que celles de vos colocataires.
+Vous êtes également susceptibles de nous communiquer les informations relatives à la certification de votre profil locataire.
+Lorsque vous remplissez le formulaire de demande d’estimation d’un bien immobilier, vous nous communiquez les informations suivantes afin d’estimer votre bien ainsi que vous accompagner dans votre projet immobilier à l’aide de notre filiale Falguière Conseil :
+Caractéristiques du bien à estimer :
+Code Postal
+Ville
+Adresse Postale
+Type de bien
+Surface Carrez
+Nombre de pièces
+Nombre de salles de bains,
+Etage,
+Nombre d’étages dans l’immeuble,
+Présence d’un ascenseur, balcon, cave, terrasse,... (facultatif)
+Période de construction (facultatif),
+Etat du bien (facultatif),
+Qualité de l’appartement (facultatif),
+Votre profil vendeur :
+Prénom / Nom
+Numéro de téléphone
+Qualité de particulier ou de professionnel (le cas échéant, votre activité professionnelle et fonction),
+Qualité de Propriétaire ou non,
+Résidence principale / locative /secondaire / autre
+Intention de vendre le bien,
+Souhait d’être contacté en priorité ou non pour affiner l’estimation
+Indice de confiance de votre projet de vente immobilier calculé et résultant de votre activité sur le Site sur les 6 derniers mois (nombre d’estimations,...).
+Au titre de notre accompagnement, vous pourrez être mis en relation et/ou contactés par courrier électronique ou par téléphone par : 
+nos experts immobiliers afin de vous proposer de prendre un rendez-vous d’estimation avec nos agences partenaires, et/ou ; 
+un professionnel de l’immobilier local afin de préciser votre estimation et vous accompagner dans votre projet immobilier.
+Dans le cadre de cette mise en relation, les données que vous avez communiquées lors de votre estimation seront transmises à des professionnels de l’immobilier partenaires.
+Lorsque vous remplissez le formulaire de Contact Acquéreur (“Besoin de l'aide d'un pro pour vous aider à définir votre projet ?”), vous nous communiquez les informations suivantes afin de nous transmettions votre demande de contact à une sélection de professionnels de l’immobilier dans le cadre de votre projet d’achat d’un bien immobilier :
+état civil,
+adresse mail, numéro de téléphone,
+code postal.
+Lorsque vous remplissez le formulaire Opportunité Mandat (“Demander à être rappelé par un conseiller SeLoger”), vous nous communiquez les informations suivantes afin que nous transmettions votre demande de contact à une sélection de professionnels de l’immobilier dans le cadre de votre projet de vente d'un bien immobilier:
+état civil,
+type et localisation du bien,
+adresse mail, numéro de téléphone.
+Lorsque vous remplissez un formulaire d’assurance de prêt en lien avec notre partenaire dédié, vous nous communiquez les informations suivantes afin d’obtenir un devis automatisé d’assurance de prêt par notre partenaire et, si vous y consentez, afin d'être recontacté par mail par notre partenaire pour affiner votre tarif d'assurance de prêt:
+état civil,
+adresse mail, numéro de téléphone,
+caractéristiques du projet immobilier,
+âge, statut professionnel, statut “fumeur”,
+caractéristiques du crédit envisagé.
+Lorsque vous remplissez le formulaire de déménagement en lien avec notre partenaire dédié, vous nous communiquez les informations suivantes afin d'obtenir un devis automatisé de déménagement par notre partenaire dédié:
+état civil,
+numéro de téléphone,
+caractéristiques du déménagement.
+Lorsque vous remplissez le formulaire de réalisation d'une simulation d'investissement, vous nous communiquez les informations suivantes qui seront transmises, sous réserve de votre demande à être contacté par email ou téléphone, à un de nos partenaires experts en investissement locatif pour réaliser une simulation d'investissement personnalisée : 
+
+votre situation matrimoniale,
+le nombre d'enfants à votre charge,
+le revenu total net mensuel de votre foyer,
+votre capacité d'épargne mensuelle,
+le montant de votre impôt sur le revenu,
+votre nom, adresse email, numéro de téléphone, année de naissance et code postal.
+La liste de ces partenaires est disponible dans la section "4. Qui sont les destinataires de vos données ?".
+
+Lorsque vous remplissez le formulaire de signalement d'une annonce, vous nous communiquez les informations suivantes afin de prendre en compte votre signalement d'une annonce et vous informer des suites données:
+nom,
+adresse mail,
+raison du signalement,
+précisions facultatives.
+De plus, nous collectons votre adresse IP afin de vérifier et détecter toute tentative de signalement malveillant.
+bellesdemeures.com	Lorsque vous remplissez le formulaire de demande d’estimation et de vente d’un bien immobilier (“Vous envisagez de vendre un bien immobilier de luxe ?”) , vous nous communiquez les informations suivantes afin d’être recontacté par téléphone pour affiner l’estimation de votre bien et vous aider à vendre rapidement votre bien de prestige grâce à notre réseau d'agences partenaires, sous réserve de votre consentement :
+état civil,
+adresse mail, numéro de téléphone,
+caractéristiques du bien immobilier (type, surface, localisation et facultativement, adresse et descriptif),
+information sur votre projet de vente.
+seloger-bureaux-commerces.com	Lorsque vous cochez la case “Confier ma demande à d’autres agences” du formulaire de contact d’une Agence, 
+vos coordonnées 
+et critères de recherche 
+sont transmis à des professionnels de l’immobilier, clients de DCF, qui sont susceptibles de vous recontacter pour vous proposer des biens similaires à votre recherche.
+Lorsque vous remplissez le formulaire de Contact Preneur (“Confiez votre recherche”), vous nous communiquez les informations suivantes afin que nous transmettions votre demande de contact à une sélection de professionnels de l’immobilier dans le cadre de votre projet de recherche d’un bien:
+type de transaction (location, cession de baux, vente ou vente de fonds de commerce).
+type de bien recherché, surface pour la vente, la location et la cession de baux.
+activité envisagée, effectif pour la vente, la location et la cession de baux.
+secteur d’activité du fonds de commerce recherché.
+lieu.
+date d’installation envisagée.
+commentaires facultatifs.
+état civil.
+adresse mail, numéro de téléphone.
+nom de société.
+Lorsque vous remplissez le formulaire Opportunité Mandat (“Diffusez votre annonce”), vous nous communiquez les informations suivantes afin que nous transmettions votre demande de contact à une sélection de professionnels de l’immobilier dans le cadre de votre projet de vente d'un bien immobilier:
+type de transaction (location, cession de baux, vente ou vente de fonds de commerce).
+type de bien recherché, surface pour la vente, la location et la cession de baux.
+activité envisagée, effectif pour la vente, la location et la cession de baux.
+secteur d’activité du fonds de commerce recherché.
+prix ou loyer du bien.
+lieu.
+description du bien.
+état civil.
+adresse mail, numéro de téléphone.
+selogerneuf.com	Lorsque vous remplissez le formulaire d’investissement (“Votre projet d’investissement immobilier sur mesure”), vous nous communiquez les informations suivantes afin de transmettre votre demande de contact à notre partenaire spécialisé OPTELIOS, ASTORIA et/ou MEDICIS pour gérer votre demande de projet d'investissement :
+informations sur votre projet (objet, type de bien, localisation, critères de proximité),
+informations sur votre profil (situation financière, situation familiale),
+nom,
+adresse mail, numéro de téléphone,
+date de naissance,
+code postal.
+Sauf opposition de votre part, nous pourrons également vous recontacter par téléphone ou emails afin de pré-qualifier votre demande de projet d'investissement et transmettre vos informations à notre partenaire spécialisé OPTELIOS, ASTORIA et/ou MEDICIS sous réserve de votre consentement préalable.
+Lorsque vous remplissez un formulaire sur la page d’un programme immobilier ou via l’Annuaire (“Recevoir la brochure”, “Recevoir le plan” ou “Contacter le Promoteur”), vous nous communiquez les informations suivantes afin de transmettre votre demande au promoteur immobilier:
+nom,
+adresse mail, numéro de téléphone,
+critères de recherche, titre et motif de l’alerte.
+Dans le cadre de ces formulaires, vous pouvez également consentir à l’envoi d’offres de promoteurs immobiliers de SeLoger Neuf par SMS et/ou Email selon vos préférences (“Recevoir les offres des promoteurs de SeLoger neuf par SMS / Email”).
+Lorsque que vous appuyez sur le bouton “Appeler” en ligne un promoteur immobilier, nous générons un identifiant technique afin d’appeler en VoIP le promoteur immobilier.
+Gestion de votre navigation et de vos recherches immobilières	seloger.com
+selogerneuf.com
+bellesdemeures.com
+seloger-bureaux-commerces.com	Lorsque vous naviguez sur le Site Internet ou l’Application, nous collectons les données suivantes afin de gérer votre navigation, d’optimiser votre temps de recherche et vos recherches géographiques via la cartographie et proposer des biens proches de vos lieux favoris (“Voir les biens autour de ma zone”), d’optimiser votre temps de recherche et proposer des recherches récentes, de déterminer une zone de vie idéale et de calculer un périmètre en fonction de votre indication de temps de trajet maximum souhaité et des modes de transports:
+données de géolocalisation,
+critères de recherches renseignés,
+annonces consultées et date de consultation.
+Lorsque vous naviguez sur le Site Internet ou l’Application, nous collectons des données sur votre navigation (nombre de visites, pages visitées, historique de navigation, actions effectuées sur le site, origine de l’accès au site, adresse IP) et générons un identifiant de mesure d’audience, dans le respect de la base légale requise par la réglementation, afin de générer des statistiques sur sa fréquentation et son utilisation.
+Lorsque vous naviguez sur le Site Internet ou l'Application, sous réserve de votre consentement préalable pour le dépôt de traceurs de la finalité associée, nous collectons vos données de navigation, afin de vous diffuser des annonces publicitaires adaptées à vos centres d'intérêts. A défaut de consentement, nous collectons votre adresse IP afin de vous diffuser de la publicité contextuelle.
+Lorsque vous naviguez sur le Site Internet ou l’Application, nous collectons des données sur votre navigation afin d’assurer la sécurité de nos services en détectant/retraçant toute tentative de malveillance, intrusion informatique ou violation des CGU.
+seloger.com selogerneuf.com
+bellesdemeures.com	Lors de la mise en favoris (“Sauvegarder”) d’un bien immobilier, nous collectons les données suivantes afin de pouvoir vous alerter en cas de changement de prix d’une annonce, de vous permettre de retrouver ces annonces dans vos favoris depuis le Site Internet ou l’Application et identifier les annonces précédemment mises en favori:
+caractéristiques de l’annonce sauvegardée,
+identifiant unique auquel associer le favori.
+SeLoger	Lorsque vous naviguez sur le Site Internet ou l’Application, sous réserve de votre consentement préalable pour ledépôt de traceurs de la finalité associée, nous collectons des données sur votre navigation (nombre de demandes de contacts associées à votre adresse mail et pages visitées) et générons un identifiant unique afin d’activer la Recommandation d’Annonces et de vous recommander par notification des biens qui pourraient vous intéresser.
+Publication de votre annonce	SeLoger	Lorsque vous déposez une annonce de location ou de vente d'un bien immobilier en tant que propriétaire particulier, vous nous communiquez les informations suivantes afin de publier le bien sur le Site Internet et l'Application et d'être contacté par les personnes intéressées:
+caractéristiques du bien (localisation, description, montant du bien, et facultativement, photos et vidéos, bilan énergétique, type de bien),
+numéro de téléphone (à des fins d'authentification à double facteur),
+données de création de compte (adresse email et mot de passe créé).
+Afin de détecter toute tentative de fraude, nous et notre partenaire anti-fraude (Navee, en tant que responsable de traitement indépendant) traitons les données que vous nous communiquez, d'éventuels justificatifs ultérieurs d'identité ou de domicile ainsi que l'adresse IP du terminal utilisé. Ce traitement prévoit une modération manuelle des annonces potentiellement frauduleuses et ne constitue donc pas une prise de décision automatisée au sens de l'article 22 du RGPD.
+Lorsque vous utilisez la fonction de génération automatique de description du bien, nous procédons au traitement des caractéristiques du bien concerné afin de générer automatiquement une description pour votre annonce à l'aide d'une intelligence artificielle et améliorer la performance de cette fonctionnalité.
+
+Dans le cadre de ce formulaire, vous pouvez également consentir à être contacté par email ou téléphone par un de nos partenaires rénovateurs pour faire un devis sur la rénovation de vos biens ou un de nos partenaires diagnostiqueurs pour réaliser un diagnostic de performance énergétique. La liste de ces partenaires est disponible dans la section "4. Qui sont les destinataires de vos données ?".
+
+Par la suite, vous êtes susceptible de nous communiquer une vidéo de votre visage afin de vérifier la correspondance de votre visage avec la photo de votre pièce d'identité via reconnaissance faciale. Dans ce cadre, nous vous demandons d’accepter expressément l'utilisation de la reconnaissance faciale sur votre visage afin de certifier votre pièce d'identité. Par ailleurs, dans ce cadre, nous pouvons également vous recontacter par mail ou par téléphone dans le cadre d'enquêtes de satisfaction, études et sondages.
+
+Enfin, lorsque que vous remplissez le formulaire de conseil sur votre projet de vente, vous nous communiquez les informations suivantes afin de vous rappeler pour échanger sur votre projet de vente suite à votre demande :
+
+nom, prénom,
+numéro de téléphone.
+Lorsque vous déposez une annonce en tant que professionnel pour un bien immobilier via les formulaires dédiés, vous nous communiquez les informations suivantes afin de publier le bien sur le Site Internet et l'Application et d'être contacté par les personnes intéressées:
+caractéristiques du bien (localisation, description, montant du bien, et facultativement, photos et vidéos),
+état civil,
+numéro de téléphone,
+données de création de compte professionnel (adresse email et mot de passe créé),
+SIRET, raison sociale, adresse de facturation, à des fins de facturation de la publication.
+Gestion de l’affichage des biens vendus	SeLoger	Lorsque vous avez donné mandat à un professionnel de l’immobilier ayant souscrit une offre de publication d’annonces auprès de DCF, ce dernier peut nous transmettre les informations suivantes pour afficher les biens vendus sur le Site ou l’Application:
+caractéristiques du bien (type de bien, nombre de pièces, surface loi Carrez),
+localisation du bien,
+prix et date de la vente,
+professionnel de l’immobilier mandataire.
+Ces informations nous permettent de renseigner nos Utilisateurs sur l'état du marché immobilier de leur secteur et d’utiliser les caractéristiques des biens vendus dans notre calcul d'estimation en ligne du prix d’un bien immobilier.
+Par ailleurs, lorsqu'une mutation d’un bien immobilier est opérée en France, l’administration fiscale met gratuitement à disposition du public les données relatives à ces mutations pour les cinq dernières années au titre du décret n° 2018-1350 du 28 décembre 2018, pris en application de la loi n° 2018-727 du 10 août 2018. Ces données sont issues des traitements informatisés relatifs à la publicité foncière et à la documentation littérale du cadastre (« Demande de Valeurs Foncières (DVF) »). Nous collectons et réutilisons, conformément aux Conditions Générales d’Utilisation de la DVF, les informations suivantes relatives à des ventes uniquement et issues de cette base de données afin de renseigner nos Utilisateurs sur l’état du marché immobilier de leur secteur:
+caractéristiques du bien (type de bien, nombre de pièces, surface loi Carrez),
+localisation du bien,
+prix et date de la vente.
+Concernant les données de la DVF, la fourniture d’une information préalable sur le traitement aux personnes concernées par ces ventes étant impossible ou exigeant des efforts disproportionnés, DCF n’est pas tenu d’informer individuellement ces personnes et les présentes mentions permettent l’information des personnes.
+Lutte contre la fraude	SeLoger
+Belles Demeures
+SeLoger Neuf
+SeLoger Bureaux et Commerce
+SeLoger Construire	Lorsque vous nous communiquez vos coordonnées de contact (adresse email et/ou numéro de téléphone) ou tout autre donnée dans le cadre des services listées ci-dessus, nous les analysons afin de détecter un comportement frauduleux ou la fourniture de coordonnées erronées.
+Amélioration des services	SeLoger
+Belles Demeures
+SeLoger Neuf
+SeLoger Bureaux et Commerce
+SeLoger Construire	Lorsque vous nous communiquez des données dans le cadre des services listées ci-dessus, nous pourrons également les analyser afin d'améliorer la performance de nos services. 
+3. Pour quelles finalités traitons-nous vos données et sur quels fondements ?
+Nous traitons vos données pour les finalités suivantes et selon les bases légales précisées ci-dessous :
+Base Légale	Site ou Application	Finalités du traitement
+Exécution du contrat (Conditions Générales d’Utilisation du Site ou de l’Application)	SeLoger
+Belles Demeures
+SeLoger Neuf
+SeLoger Bureaux et Commerce
+SeLoger Construire	
+Transmettre vos demandes de contacts ou d’informations à des annonceurs,
+Pouvoir vous alerter en cas de changement de prix d'une annonce mise en favori, vous permettre de retrouver ces annonces dans vos favoris depuis le Site Internet et identifier les annonces précédemment mises en favori,
+Permettre la transmission et le suivi de votre appel à l'annonceur et l'en informer en cas d'appel manqué.
+
+SeLoger	
+Publier le bien que vous souhaitez diffuser sur notre Site Internet et Application et être contacté par les personnes intéressées,
+Générer automatiquement une description pour votre annonce à l'aide d'une intelligence artificielle,
+Créer votre compte et vous permettre de vous identifier,
+Création d’une annonce en “favori”.
+Vous envoyer des emails de services associés à l'exécution de votre contrat (ex: compte créé, modification de mot de passe),
+Répondre à une annonce de location et transmettre les éléments à déclarer par un candidat à une location permettant au propriétaire loueur d'apprécier sa situation financière,
+Sécuriser votre compte via un système d'authentification à double facteur,
+Facturer les annonceurs pour la publication d'annonces unitaires,
+Transmettre vos demandes de contact à des particuliers louant un bien,
+Transmettre l'horaire de visite souhaité d'un bien immobilier à un professionnel de l'immobilier, Client de DCF,
+Répondre à votre demande d'estimation automatisée du prix de votre bien immobilier et vous transmettre le résultat par email.
+Vous recontacter par téléphone pour affiner l’estimation immobilière de votre bien et vous offrir des propositions d’accompagnements autour de votre projet immobilier. Cette estimation peut être un préalable à une estimation par des professionnels de l’immobilier partenaires. Dans le cadre de l’exécution du contrat avec DCF, un conseiller de DCF pourra, en effet, vous recontacter pour vous proposer un rendez-vous d'estimation et d’accompagnement de votre projet immobilier avec nos professionnels de l'immobilier locaux,
+Transmettre votre demande d'obtention d'une simulation d'investissement à un de nos partenaires experts en investissement locatif,
+Transmettre votre dossier à des professionnels de l’immobilier partenaires pour affiner l’estimation immobilière de votre bien et vous offrir des propositions d’accompagnements autour de votre projet immobilier. Dans le cadre de l’exécution du contrat avec DCF, nos professionnels de l’immobilier pourront vous recontacter pour vous proposer un rendez-vous d'estimation et d’accompagnement de votre projet immobilier.
+
+SeLoger Neuf	Appeler en VoIP le promoteur immobilier,
+Transmettre votre demande de contact à nos partenaires spécialisés pour gérer votre demande de projet d'investissement,
+Belles Demeures	Répondre à votre demande d’accompagnement et vous recontacter par téléphone pour affiner l’estimation immobilière de votre bien.
+SeLoger Bureaux et Commerce	Créer votre compte professionnel et vous permettre de vous identifier
+Consentement	SeLoger
+Belles Demeures
+SeLoger Neuf
+SeLoger Bureaux et Commerce
+SeLoger Construire	Estimer automatiquement le degré d'intérêt de votre recherche et communiquer cette indication au professionnel de l'immobilier que vous contactez pour l'aider à améliorer sa gestion des demandes de contact, lui permettre de mieux comprendre votre projet immobilier d'achat et lui indiquer les annonces qui pourraient vous intéresser (données récoltées via le dépôt de cookies dédiés soumis à consentement,
+Permettre au professionnel de l’immobilier de mieux comprendre votre projet immobilier d’achat,
+Indiquer au professionnel de l’immobilier les annonces qui pourraient vous intéresser,
+Vous inscrire à la newsletter suite à votre demande,
+Vous recommander et vous proposer par notification et alertes emails des biens immobiliers qui pourraient vous intéresser,
+Vous diffuser des annonces et contenus publicitaires adaptés à vos centres d'intérêts via le dépôt de cookies,
+SeLoger	
+Certifier le profil d'un loueur via un contrôle documentaire et la mise en oeuvre de la reconnaissance faciale (lutte contre la fraude),
+Transmettre vos demandes de contact à une sélection de professionnels de l'immobilier dans le cadre d'un projet d'achat d'un bien immobilier,
+Transmettre vos demandes de contact à une sélection de professionnels de l'immobilier dans le cadre d'un projet de vente d'un bien immobilier,
+Vous rappeler pour échanger sur votre projet de vente suite à votre demande,
+Obtenir, suite à votre demande, un devis automatisé d'assurance de prêt par notre partenaire dédié,
+Permettre à notre partenaire dédié de vous recontacter par mail pour affiner votre tarif d'assurance de prêt,
+Obtenir, suite à votre demande, un devis automatisé de déménagement par notre partenaire dédié,
+Transmettre votre demande de contact à un de nos partenaires rénovateurs pour faire un devis sur la rénovation de vos biens ou un de nos partenaires diagnostiqueurs pour réaliser un diagnostic de performance énergétique.
+
+SeLogerNeuf	vous envoyer des alertes emails pour des biens similaires correspondant à vos critères de recherche, par email ou notification, suite à votre activation de l’alerte “Enregistrer la recherche”,
+recevoir les offres des promoteurs de SeLoger neuf par SMS / Email selon vos préférences.
+SeLoger Bureaux et Commerce	Confier votre demande à d’autres agences, professionnels de l’immobilier, clients de DCF, qui sont susceptibles de vous recontacter pour vous proposer des biens similaires à votre recherche.
+Confier votre recherche dans le cadre du formulaire de Contact Preneur afin que nous transmettions votre demande de contact à une sélection de professionnels de l’immobilier dans le cadre de votre projet de recherche d’un bien.
+Vous faire accompagner dans le cadre du formulaire Opportunité Mandat afin que nous transmettions votre demande de contact à une sélection de professionnels de l’immobilier dans le cadre de votre projet de vente d'un bien immobilier.
+Intérêt Légitime	SeLoger
+SeLoger Neuf
+Belles Demeures
+SeLoger Bureaux et Commerce
+SeLoger Construire	
+Répondre à vos questions adressées au service client (amélioration de l'expérience utilisateur),
+Vous proposer des Services Analogues à votre demande initiale sauf opposition de votre part c'est à dire vous envoyer des alertes pour des biens similaires à vos critères de recherche, par email ou notification, suite au remplissage du formulaire de prise de contact avec un annonceur (prospection pour des biens similaires par le Site ou l’Application avec droit d’opposition),
+Vous proposer des services d'accompagnement autour de votre projet immobilier sauf opposition de votre part (prospection pour des services analogues avec droit d’opposition),Mesurer l'audience du site : générer des statistiques sur la fréquentation et l'utilisation de nos services (bonne administration du site et connaissance utilisateur),
+Personnaliser votre expérience sur le Site et l'Application (amélioration de l'expérience utilisateur),
+Optimiser votre temps de recherche et proposer des recherches récentes et annonces consultées (amélioration de l'expérience utilisateur),
+Vous recontacter par mail ou par téléphone dans le cadre d'enquêtes de satisfaction, études et sondages sur la qualité du service fourni et collecter à cette occasion vos retours (connaissance utilisateur),
+Répertorier les annonces que vous avez vues précédemment (amélioration de l'expérience utilisateur),
+Améliorer la performance de nos services (amélioration du service),
+Vous diffuser de la publicité contextuelle (amélioration de la pertinence des publicités),
+Améliorer le service et la formation des conseillers de nos centres d'appels (amélioration du service et de la formation),
+Assurer la sécurité de nos services en détectant/retraçant toute tentative de malveillance, intrusion informatique ou violation des CGU (sécurité informatique),
+Vérifier et détecter toute tentative de signalement abusif (protection contre les actions malveillantes),
+Vérifier et détecter toute tentative de fraude (lutte anti-fraude),
+Prendre en compte votre signalement d'une annonce frauduleuse et vous informer des suites données (prévention de la fraude),
+Conserver les données à des fins de preuves (sécurité juridique).
+Réaliser des économies d'échelle, identifier de nouvelles opportunités, améliorer les produits et services existants et d'optimiser les processus commerciaux (synergies au sein du Groupe Aviv),
+Détecter un comportement frauduleux ou la fourniture de coordonnées erronées (lutte anti-fraude et efficacité du service)
+
+SeLoger	Gestion de l’affichage des Biens Vendus (transparence du marché de l’immobiliers)
+Utiliser les caractéristiques des Biens Vendus dans notre calcul d'estimation en ligne (amélioration de la précision des estimations).
+Obligations Légales	SeLoger
+SeLoger Neuf
+Belles Demeures
+SeLoger Bureaux et Commerce
+SeLoger Construire	Se conformer à nos obligations légales en matière fiscale et comptable.
+4. Qui sont les destinataires de vos données ?
+Lorsque vos données sont traitées par le personnel de DCF, nous nous attachons à ce que seules les personnes dont les missions sont nécessaires à l’accomplissement de nos finalités puissent y accéder. 
+De plus, le Groupe DCF propose divers services accessibles sur différents sites (et applications associées) pour lesquels il est le responsable de traitement. Vous pouvez trouver une liste complète des sites du groupe disponible via ce lien: www.groupeseloger.com.
+
+Vos données sont destinées à DCF notamment afin de vous faire bénéficier de services personnalisés et de faciliter votre navigation.
+
+Dans le cadre du formulaire d’estimation automatisée du prix d’un bien immobilier, nous partageons vos données avec notre société filiale Falguière Conseil SAS, responsable conjoint pour ce traitement, afin d'obtenir l'estimation du prix de votre bien sur la base de nos données communes et afin de vous proposer des services d'accompagnement autour de votre projet immobilier.
+
+Dans le cadre de la lutte anti-fraude sur les annonces de locations déposées par des particuliers, nous partageons les données relatives à des annonces frauduleuses avec notre partenaire de lutte anti-fraude, Navee, en tant que responsable de traitement, afin de détecter des fraudes ultérieures.
+
+Enfin, vos données peuvent être communiqués, lorsque cela est nécessaire dans le cadre des finalités précisées au point 3, aux destinataires suivants:
+
+à Aviv Group GmbH, société-mère de Digital Classifieds France et à toutes les sociétés qui lui appartiennent à des fins d’analyses et de croissance - en vue de réaliser des économies d'échelle, identifier de nouvelles opportunités, améliorer les produits et services existants et optimiser les processus commerciaux,
+aux éditeurs partenaires de supports non édités par Digital Classifieds France aux fins d’exécution de nos Conditions Générales de Vente,
+aux professionnels de l’immobilier partenaires, clients de DCF, agissant en tant que responsable de traitement afin de répondre à vos demandes (information sur un bien, une agence, demande d'estimation…). Votre dossier vendeur peut être transmis à des partenaires de DCF lors d’une demande d’estimation de votre bien afin d’affiner votre première estimation automatisée ou lorsque vous faites la demande d’un accompagnement pour la vente de votre bien immobilier. Ce dossier comprend des informations telles que vos nom, prénoms, lieu et date de naissance, photographie de votre bien, numéro de téléphone portable ou adresse de messagerie, estimations, adresse postale, toutes données relatives à votre projet de vente immobilier, ainsi que votre Indice de confiance,
+aux prestataires de DCF agissant en tant que sous-traitant:
+prestataires spécialiste de la vérification et la sécurisation de documents,
+prestataires chargés notamment de fournir un service et des publicités adaptés aux Utilisateurs et de mesurer la fréquentation du Site Internet et/ou de l'Application,
+prestataires de prospection commerciale,
+prestataires d’organisations de jeux concours,
+prestataires d’hébergement, de maintenance et d’applications cloud,
+prestataires de centre d’appels,
+prestataires chargés de réaliser des études de satisfaction.
+aux partenaires commerciaux de DCF, agissant en tant que responsable de traitement, lorsque les utilisateurs ont accepté expressément de recevoir les offres de services de leur part, en particulier :
+nos partenaires rénovateurs dans le cadre d'un dépôt d'annonce par un particulier;
+EnergyGo (Politique de confidentialité);
+Batiweb (Politique de confidentialité);
+Habitatpresto (Politique de confidentialité);
+GEG (Politique de confidentialité).
+nos partenaires diagnostiqueurs dans le cadre d'un dépôt d'annonce par un particulier
+Dimo Diagnostic (Politique de confidentialité).
+nos partenaires experts en investissement locatif dans le cadre du formulaire de réalisation d'une simulation d'investissement
+Pluralle Groupe (Politique de confidentialité).
+aux prestataires publicitaires visés au sein de notre plateforme de gestion de cookies référencés dans la liste “Voir nos partenaires“. Vous pouvez contrôler le dépôt de cookies par ces derniers via notre plateforme de gestion de cookies.
+aux autorités administratives ou judiciaires autorisées afin de répondre à nos obligations légales ou une demande légale de ces autorités.
+Lors de votre navigation sur nos sites web, nous pouvons être amenés à partager avec notre partenaire LiveRamp et les sociétés de son groupe agissant en tant que responsables de traitement conjoints des données personnelles que nous recueillons auprès de vous, telles que votre adresse e-mail (sous forme hachée et pseudonyme), votre adresse IP ou des informations sur votre navigateur ou votre système d'exploitation. LiveRamp utilise ces informations pour créer un code d'identification en ligne afin de vous reconnaître sur vos appareils sans permettre de vous identifier directement. Nous pouvons placer ce code dans notre cookie ou dans un cookie LiveRamp et autorisons son partage avec nos partenaires publicitaires ainsi qu'avec d'autres sociétés tierces dans le monde entier afin de leur permettre de personnaliser le contenu et les publicités qui vous sont proposées en fonction de vos intérêts, tout au long de votre expérience en ligne (web, emails, apps mobiles, objets connectés, etc). Ces sociétés peuvent à leur tour utiliser ce code pour y associer les informations démographiques ou d'intérêt que vous avez fournies lors de vos interactions avec eux. Vous pouvez vous opposer au traitement de vos données personnelles par LiveRamp à tout moment en cliquant sur ce lien: https://liveramp.fr/politique-confidentialite-produits-services/. 
+
+5. Transferts de données hors UE
+
+Les données traitées par certains de nos sous-traitants peuvent être transférées hors de l’Union Européenne. Lorsque des données sont transférées hors UE, nous veillons à ce que les pays de destination assurent un niveau adéquat de protection des données, suivant une décision d’adéquation de la Commission Européenne ou à mettre en place des garanties appropriées de nature contractuelle, technique et organisationnelle, conformément au RGPD, afin de s’assurer du niveau de protection de vos données, équivalent à celui dont elles bénéficieraient au sein de l’UE.
+
+6. Quelle est la durée de conservation de vos données ?
+
+Nous conservons vos données pour des durées variables en fonction du type de données et des finalités pour lesquelles elles sont traitées dans les conditions suivantes:
+
+Type de données
+
+Site ou Application
+
+Durée de conservation
+
+Données collectées par un formulaire (sauf estimation) ou activation de l’alerte, de mise en favoris ou issues d’un compte
+
+Données de navigation relative à votre projet immobilier / à la personnalisation du contenu / à la mesure d’audience / à la prévention de la fraude
+
+SeLoger
+SeLoger Neuf
+Belles Demeures
+SeLoger Bureaux et Commerce
+SeLoger Construire	
+3 ans dans une base active à compter de votre dernière activité ou contact (modification de son compte, navigation, saisie d'un formulaire sur l'un des sites Internet et/ou sur l'une des applications, ...) sur l'un des sites Internet (et applications associées) “Habitation” du Groupe SeLoger suivants:
+
+seloger.com
+selogerneuf.com
+seloger-construire.com
+bellesdemeures.com
+lacoteimmo.com
+logic-immo.com
+neuf.logic-immo.com
+construire.logic-immo.com
+lux-residence.com
+2 ans additionnels dans une base d’archive pseudonymisée à accès restreint à des fins de preuves.
+
+Enregistrement des Conversations téléphoniques
+
+SeLoger SeLoger Neuf Belles Demeures SeLoger Bureaux et Commerce SeLoger Construire	
+6 mois maximum
+
+Documents et pièces comptables
+
+SeLoger
+SeLoger Neuf
+Belles Demeures
+SeLoger Bureaux et Commerce
+SeLoger Construire	
+10 ans, à titre de preuve comptable
+
+Géolocalisation
+
+SeLoger
+SeLoger Neuf
+SeLoger Construire	
+Utilisation en temps réel et suppression immédiate
+
+Données relatives à une annonce publiée
+
+SeLoger
+
+3 ans dans une base active à compter de l’expiration du contrat
+
+2 ans additionnels dans une base d’archive pseudonymisée à accès restreint à des fins de preuves.
+
+Données relatives à la lutte anti-fraude sur les annonces publiées par des propriétaires particuliers
+
+SeLoger
+
+30 jours dans une base active à compter de la publication de l'annonce
+
+5 ans additionnels dans une base d'archive pseudonymisée à accès restreint à des fins de preuves.
+
+Données relatives à la certification de profil propriétaire
+
+SeLoger
+
+Suppression immédiate des modèles biométriques 
+
+3 mois dans une base active à compter de la fourniture des données
+
+5 ans dans une base d'archive à accès restreint à des fins de preuves.
+
+Biens Vendus (adresse postale et caractéristiques du bien vendu)	SeLoger	20 ans à compter de la collecte à des fins statistiques et de renseignement sur le marché de l'immobilier
+7. Quels sont vos droits et comment les exercer ?
+Conformément au RGPD et dans les conditions prévues par ce texte, vous disposez des droits suivants:
+Droit d’accès: vous pouvez obtenir la confirmation que vos données sont traitées, et si tel est le cas, d’accéder à vos données et des informations sur les circonstances du traitement.
+Droit de rectification: vous pouvez obtenir de DCF la rectification de vos données lorsqu’elles sont inexactes ou incomplètes, dans les meilleurs délais.
+Droit à l’effacement: vous pouvez dans certaines conditions obtenir de DCF l'effacement de vos données, dans les meilleurs délais.
+Droit à la limitation: vous pouvez obtenir la limitation du traitement lorsque vous contestez l’exactitude des données, la licéité de leur traitement, ou vous vous opposez au traitement ou vous souhaitez leur conservation à des fins de preuves.
+Droit à la portabilité: vous pouvez recevoir vos données que nous traitons de manière automatisée et que vous avez fournies sur la base d’un contrat ou de votre consentement dans un format structuré, couramment utilisé et lisible par machine ou obtenir la transmission de ces données à un autre responsable de traitement.
+Droit d’opposition: vous pouvez vous opposer à tout moment à un traitement de vos données par DCF, sauf si DCF dispose de motifs légitimes et impérieux au traitement de vos données. En cas de prospection commerciale, vous pouvez vous y opposer sans motif.
+Droit de ne pas faire l'objet d'une décision fondée sur un traitement automatisé: vous avez le droit de ne pas faire l’objet d’une décision fondée exclusivement sur un traitement automatisé et produisant des effets juridiques vous concernant ou vous affectant similairement de manière significative, sauf lorsque ce traitement est nécessaire à la conclusion ou l’exécution d’un contrat ou est autorisée par la loi.
+Droit d’introduire une réclamation: vous avez le droit d’introduire une réclamation auprès d’une autorité de contrôle, notamment la CNIL.
+Directives en cas de décès: vous avez le droit de formuler des directives concernant le sort de vos données en cas de décès.
+Pour exercer vos droits, il vous suffit de nous contacter via la rubrique « Nous contacter » (mentionner ses noms, prénoms, adresse de courrier électronique), disponible via ce lien lien.
+
+Vous pouvez également adresser un simple courrier à DCF à l’adresse postale suivante : DIGITAL CLASSIFIEDS FRANCE – A l’attention du Délégué à la Protection des Données – 2-8, rue des Italiens, 75009 Paris.
+
+Si vous bénéficiez d’un compte Utilisateur sur le Site ou l’Application, vous pouvez également gérer vos abonnements, alertes et newsletters au sein de l’espace Alerte et Newsletters.
+
+8. Sécurité de vos données
+
+DCF collecte et traite les Données avec la plus grande confidentialité et sécurité, et dans le respect des lois applicables à DCF.
+
+DCF s'engage à prendre toutes mesures raisonnables nécessaires à la sécurisation et à la protection des Données des Utilisateurs du Site Internet et/ou de l'Application et des Services, collectées et traités par ses soins (notamment pare-feu, contrôles d'accès physiques aux data center, habilitations, etc.).
+
+9. Comment contacter le Délégué à la Protection des Données (DPO) ?
+
+DCF a désigné un Délégué à la Protection des Données. Pour toute question relative à la collecte et au traitement de vos données par DCF, vous pouvez contacter le DPO en cliquant ici (ou clic droit sur "ici" puis copier l'adresse email et coller tant que destinataire dans votre messagerie).
+
+ 
+
+POLITIQUE DE COOKIES
+
+SITE WEB ET APPLICATIONS GROUPE SELOGER 
+
+Lors de la consultation du Site Internet et/ou de l'Application, des informations sont susceptibles d'être enregistrées dans des fichiers « cookies » installés dans l'ordinateur, tablette ou téléphone mobile de l'Utilisateur. Cette page permet de comprendre ce qu'est un cookie, à quoi il sert et comment on peut le paramétrer.
+
+1. Qu’est-ce qu’un cookie ?
+
+Un cookie est un fichier texte susceptible d'être enregistré, sous réserve du choix de l'Utilisateur, dans un espace dédié du disque dur de votre terminal, à l'occasion de la consultation d'un service en ligne grâce au logiciel de navigation de l'Utilisateur.
+
+Un fichier cookie permet à son émetteur d'identifier le terminal dans lequel il est enregistré, pendant la durée de validité du cookie.
+
+2. A quoi servent les cookies émis sur le Site Internet et/ou l’Application ?
+
+Les cookies et traceurs déposés sur notre Site Internet et/ou notre Application (en ce compris les accès au Site depuis l’Application appelés “webview”) sont de différentes nature. 
+
+a) Les cookies fonctionnels
+
+Ces cookies permettent d’assurer le bon fonctionnement du Site Internet et/ou de l’Application, et notamment :  
+
+de vous identifier lorsque vous vous connectez sur notre Site ou Application,
+d'adapter la présentation du Site et de l’Application aux préférences d'affichage de votre terminal (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc),
+de simplifier vos recherches en conservant vos annonces sauvegardées et rubriques visitées,
+de mémoriser des informations relatives à un formulaire que l'Utilisateur a rempli sur le Site Internet et/ou l'Application (inscription ou accès à votre compte) ou à des produits, services ou informations que l'Utilisateur a choisis sur le Site Internet et/ou l'Application (service souscrit, contenu consulté, etc …)
+Cookies fonctionnels (Sites)
+
+Sites 
+
+Partenaires  
+
+Plus d'informations  
+
+seloger.com
+
+bellesdemeures.com
+
+selogerneuf.comseloger-construire.com
+
+seloger-bureaux-commerces.com
+
+XAMARIN  
+
+permet de créer des applications en utilisant le langage C#. Ce traceur est strictement nécessaire pour le bon fonctionnement du Site. https://docs.microsoft.com/fr-fr/xamarin/get-started/what-is-xamarin  
+
+seloger.com
+
+seloger-construire.com
+
+MAPBOX  
+
+permet l’affichage d’une cartographie en ligne. Ce traceur est strictement nécessaire pour le bon fonctionnement du Site. https://www.mapbox.com/legal/privacy/  
+
+seloger.com
+
+LAUNCHDARKLY  
+
+permet de réaliser des AB/TESTS sur différentes versions du Site.Ce traceur est strictement nécessaire pour le bon fonctionnement du Site. https://launchdarkly.com/policies/privacy  
+
+ 
+
+Cookies fonctionnels (Sites & Application)
+
+seloger.com
+
+bellesdemeures.com
+
+selogerneuf.comseloger-construire.com
+
+seloger-bureaux-commerces.com
+
+DATADOME  
+
+permet d’assurer la sécurité de nos services en détectant/retraçant les tentatives de malveillance ou intrusions informatiques. Ce traceur est strictement nécessaire pour le bon fonctionnement du Site ou de l’Application. https://datadome.co/fr/bot-protection/  
+
+seloger.com
+
+bellesdemeures.com
+
+selogerneuf.comseloger-construire.com
+
+seloger-bureaux-commerces.com
+
+DIDOMI  
+
+permet d'enregistrer vos préférences en matière de traceurs. Ce traceur est strictement nécessaire pour le bon fonctionnement du Site ou de l’Application. https://www.didomi.io/fr/produits/consent-management-platform  
+
+ 
+
+Cookies fonctionnels (Application)
+
+seloger.com
+
+GOOGLE (Firebase AppCheck) 
+
+assure la sécurité de nos services en détectant/rétractant les tentatives de demandes provenant d'applications non conformes. 
+
+seloger.com
+
+GOOGLE (Firebase Remote Config) 
+
+permet d'activer ou de désactiver une fonction à distance. 
+
+seloger.com
+
+Airship (saved searches pushs)
+
+permet de sauvegarder les recherches et d’être notifié par notification sur l’application quand une nouvelle annonce correspondant à mes critères de recherche est publiée. 
+
+ 
+
+b) Les cookies de recommandations de contenus personnalisées
+
+Si vous les acceptez, ces cookies nous permettent de :
+
+vous adresser des recommandations de contenus notamment en lien avec votre navigation sur le Site ou l'Application,
+de simplifier vos recherches en conservant vos annonces sauvegardées et rubriques visitées,
+d'estimer automatiquement le degré d'intérêt de votre recherche et communiquer cette indication au professionnel de l'immobilier que vous contactez pour l'aider à améliorer sa gestion des demandes de contact, lui permettre de mieux comprendre votre projet immobilier d'achat et lui indiquer les annonces qui pourraient vous intéresser,
+de vous proposer des annonces correspondant à vos recherches précédentes.
+d’améliorer votre expérience utilisateur.
+Cookies de recommandations de contenus (Sites)
+
+seloger.com
+
+edito.seloger.com
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+ADOBE EXPERIENCE
+
+permet de mesurer notre audience et de proposer aux Utilisateurs des expériences plus pertinentes et des messages marketing basés sur vos centres d’intérêt potentiels https://www.adobe.com/fr/privacy/opt-out.html#end-users.
+
+seloger.com
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+MEDIARITHMICS  
+
+permet de suivre les interactions des Utilisateurs mobile afin d’améliorer la connaissance de l'Utilisateur, constituer des segments d'audience utilisateur en fonction des comportements observés, améliorer l'expérience de l'utilisateur sur le site, personnaliser les plans marketing relationnels et personnaliser les ciblages publicitaires https://www.mediarithmics.com/fr-fr/content/charte-de-protection-des-donnees-personnelles  
+
+
+c) Les cookies de publicité ciblée
+
+Si vous les acceptez, ces cookies permettent :
+
+l’affichage d’offres promotionnelles et de publicités pertinentes et ciblées pour vous dans les emplacements publicitaires réservés à la publicité sur des sites tiers,
+de mesurer l’efficacité d’une campagne publicitaire sur le Site ou l’Application,
+de limiter l’affichage d’une publicité sur le Site ou l’Application.
+Nous et nos partenaires référencés dans notre plateforme de gestion des cookies pouvons déposer ces cookies, sous réserve de votre consentement. Veuillez noter que l'émission et l'utilisation de cookies par des tiers sont soumises aux politiques de protection de la vie privée de ces tiers. A ce titre, nous vous invitons à consulter la politique de confidentialité de ces partenaires liés à ces cookies.
+
+ 
+
+Cookies de publicité ciblée (Sites)
+
+seloger.com
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+ACCENGAGE  
+
+permet de gérer et d'analyser les campagnes de routage de notifications et de diffusion de bannières publicitaires. https://www.accengage.com/privacy-policy/  
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+REMAILME (CLOUDMEDIA)
+
+permet de proposer des publicités personnalisées affichant des produits ou services basées sur le comportement récent des internautes sur les sites, newsletters et applications des partenaires de Remailme. Remailme reconnaît les internautes à l'aide de cookies. https://remailme.fr/opt-out/  https://www.cloudmedia.fr/vie-privee  
+
+seloger.com
+
+WEBORAMA  
+
+afin que les publicités apparaissant sur le Site Internet, soient les plus pertinentes possible, Weborama collecte, rapproche et analyse des informations pseudonymes issues de votre navigation sur le Site, à l'aide d'une ligne de code insérée dans les pages que vous visitez (Tag Weborama). Le Tag Weborama permet également de limiter le nombre de fois vous voyez une publicité sur notre Site et de mesurer l'efficacité d'une campagne publicitaire. Le Tag Weborama et les autres identifiants placés dans les cookies utilisés par Weborama, sont associés entre eux pour chaque périphérique sur lequel vous vous connectez. Ces données sont croisées avec des données de navigation et rendues pseudonymes avant toute utilisation par Weborama, aux fins de dresser votre profil d'Utilisateur et y associer des centres d'intérêts à partir desquels des publicités seront servies pour le compte de partenaires annonceurs. Ces collectes et associations sont effectuées dans des conditions permettant d'assurer votre pseudonymat, aucune donnée ne permettant à Weborama de vous identifier directement. Les données pseudonymes recueillies via le Tag Weborama sont conservées par Weborama pour un maximum de 13 mois à partir de la date de la collecte.Vous pouvez désactiver la réception de publicités personnalisées sur ce lien https://weborama.com/fr/opt-out-2/  
+
+seloger.com
+
+edito.seloger.com
+
+YOUTUBE
+
+permet la lecture de vidéos sur le Site ou l’Application https://policies.google.com/technologies/cookies?hl=fr
+
+seloger.com
+
+edito.seloger.com
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+CRITEO  
+
+permet de réaliser du reciblage publicitaire auprès des Utilisateurs et optimiser les campagnes publicitaires https://www.criteo.com/fr/privacy/  
+
+seloger.com
+
+NEXITY  / TABOOLA
+
+permet la collecte de données sur les visiteurs de l’espace NEXITY pour reciblage publicitaire sur d’autres sites https://www.nexity.fr/charte-de-protection-des-donnees/https://www.taboola.com/fr/policies/privacy-policy-fr/  
+
+seloger.com
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+TABOOLA  
+
+permet la la collecte de données sur les visiteurs d’une page précise pour reciblage publicitaire sur d’autres sites https://www.taboola.com/fr/policies/privacy-policy-fr/  
+
+seloger.com
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com 
+
+seloger-bureaux-commerces.com
+
+SMART AD SERVER
+
+permet d’héberger et gérer l’affichage de la publicité ciblée aux Utilisateurs https://smartadserver.fr/politique-confidentialite-client-final/
+
+seloger.com
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+OUTBRAIN
+
+afin de générer un profil de centres d’intérêts et d’afficher de la publicité ciblée https://my.outbrain.com/recommendations-settings/home
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+APPNEXUS
+
+permet de mettre en relation les vendeurs et les acheteurs d’espaces publicitaires via une plateforme automatisée https://www.appnexus.com/platform-privacy-policy-fr-072016
+
+ 
+
+Cookies de publicité ciblée (Sites & Application)
+
+seloger.com
+
+edito.seloger.com
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+GOOGLE (DOUBLECLICK FOR PUBLISHERS GOOGLE ADS GOOGLE ADSENSE GOOGLE TAG MANAGER)
+
+permet de gérer la publicité et d'analyser le comportement des Utilisateurs du Site Internet et de l'Application. https://support.google.com/dfp_premium/answer/2839090?hl=fr  https://policies.google.com/privacy?hl=fr&gl=fr  https://adssettings.google.com/authenticated?hl=fr  https://policies.google.com/technologies/cookies?hl=fr&gl=frhttps://support.google.com/tagmanager/answer/6102821?hl=fr
+
+seloger.com
+
+edito.seloger.com
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+GOOGLE ANALYTICS
+
+permet de gérer la publicité et d'analyser le comportement des Utilisateurs du Site Internet et de l'Application https://policies.google.com/privacy?hl=fr&gl=fr https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh?hl=fr https://policies.google.com/technologies/cookies?hl=fr&gl=fr
+
+ 
+
+Cookies de publicité ciblée (Application)
+
+seloger.com	
+AIRSHIP (Marketing campaigns)
+
+permet de vous adresser une notification sur votre Application pour vous adresser de la publicité ciblée
+
+ 
+
+d) Les cookies de mesure d'audience et d'analyse
+
+Ces cookies nous permettent :
+
+d'établir des statistiques anonymes de fréquentation du Site et de l'Application,
+de mesurer l'audience du Site et/ou de l’Application,
+de tester différentes versions du Site/de l'Application et mesurer l'audience de ces versions
+de réaliser des études de marchés et améliorer notre Site.
+Cookies de mesure d’audience (Sites)
+
+Sites
+
+seloger.com
+
+edito.seloger.com
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+AT INTERNET 
+
+permet  d’analyser et mesurer le comportement des Utilisateurs. http://www.xiti.com/fr/optout.aspx  
+
+Sites
+
+seloger.com
+
+bellesdemeures.com
+
+REALYTICS
+
+permet la mesure d'audience et statistiques, il est de ce fait exempt de consentement selon la CNIL https://www.cnil.fr/fr/solutions-pour-les-cookies-de-mesure-daudience, utilisé pour mesurer la performance des campagnes TV des annonceurs sur le digital. En plus de la mesure, Realytics offre des solutions d'optimisation ou de mesure d'audience avancée qui peuvent nécessiter de recueillir un consentement libre, explicite et non équivoque de l'Utilisateur. Realytics devient alors un fournisseur de données pour les partenaires de l'annonceur, qui doit s'assurer de la conformité du partenaire opérant.Dans les 2 cas, le cookie Realytics s'engage à respecter les données collectées et à ne collecter aucune donnée personnelle ou sensible et peut être désactivé depuis la page opt-out de Realytics en cliquant ici : https://www.realytics.io/optout/.
+
+Sites
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+MÉDIAMÉTRIE
+
+permet de mesurer l'audience du Site Internet. https://www.mediametrie.fr/fr/gestion-des-cookies
+
+Sites
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+KAMELEOON
+
+permet de gérer les tests A/B destinés à améliorer l'expérience utilisateur sur le Site Internet https://www.kameleoon.com/fr/politique-confidentialite.
+
+Sites
+
+bellesdemeures.com
+
+seloger-construire.com
+
+HOTJAR
+
+afin de mesurer et analyser le comportement des Utilisateurs https://www.hotjar.com/privacy/do-not-track/.
+
+ 
+
+Cookies de mesure d’audience (Sites & Application)
+
+seloger.com
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+HARVEST
+
+(déposé par DCF) afin de comprendre et analyser votre navigation.Pour vous opposer à ces cookies, désactivez la fonctionnalité Suivi et personnalisation de votre navigation au sein de notre plateforme de gestion des cookies.
+
+seloger.com
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+GOOGLE (Enhanced Conversions)
+
+nous permet de mesurer l'efficacité de notre publicité par le biais d'un identifiant client - tel qu'une adresse électronique ou un numéro de téléphone crypté.
+
+seloger.com
+
+bellesdemeures.com
+
+selogerneuf.com
+
+seloger-construire.com
+
+seloger-bureaux-commerces.com
+
+META (Facebook Conversions API)
+
+nous permet de mesurer l'efficacité de notre publicité par le biais d'un identifiant client - tel qu'une adresse électronique ou un numéro de téléphone crypté.
+
+ 
+Cookies de mesure d’audience (Application)
+
+seloger.com
+
+ADJUST SDK
+
+permet de mesurer l’efficacité des campagnes marketing sur l’Application
+
+seloger.com
+
+GOOGLE (FIREBASE CRASHLYTICS)
+
+permet de collecter des données concernant l'utilisation de l'Application, notamment en ce qui concerne les pannes et les bugs du système. Les informations sur l'appareil utilisé ou la version de l'Application installée, ainsi que d'autres informations seront utilisées afin d'aider à corriger les bugs, principalement en ce qui concerne le logiciel et le matériel de l'Utilisateur. https://policies.google.com/privacy
+
+seloger.com
+
+GOOGLE (FIREBASE ANALYTICS)
+
+ 
+seloger.com
+
+GOOGLE (FIREBASE A/B TESTING)
+
+ 
+ 
+e) Connexion via les réseaux sociaux sur le Site
+
+
+DCF est susceptible d'inclure sur le Site, des applications informatiques émanant de tiers, qui vous permettent de partager des contenus du Site avec d'autres personnes ou de faire connaître à ces autres personnes sa consultation ou son opinion concernant un contenu du Site. Tel est notamment le cas des boutons « Partager », « J'aime », issus de réseaux sociaux tels que « Facebook » « Twitter », « LinkedIn », etc.
+
+Le réseau social fournissant un tel bouton applicatif est susceptible de vous identifier grâce à ce bouton, même si vous n’avez pas utilisé ce bouton lors de votre navigation. En effet, ce type de bouton applicatif peut permettre au réseau social concerné de suivre votre navigation sur le Site, dès lors que votre compte au réseau social concerné est activé sur votre .
+
+Si l'Utilisateur ne souhaite pas que les réseaux sociaux publient ses actions issues des plug-ins dans ses comptes sur les réseaux sociaux, l'Utilisateur doit se déconnecter de ses réseaux sociaux avant de naviguer sur le Site Internet.
+
+ 
+
+3. Comment paramétrer mes cookies ?
+
+Plusieurs possibilités sont offertes pour gérer les cookies.
+
+A tout moment, lorsque vous le souhaitez, vous avez la possibilité de contrôler vos souhaits en matière de cookies en paramétrant le module de cookies dont le lien est accessible en bas de page du Site ou dans les menus de l'Application.
+
+Vous pouvez également gérer les cookies
+
+  en configurant votre  navigateur de manière à ce qu’ils  soient enregistrés ou rejetés, soit systématiquement, soit en fonction de leur émetteur. La configuration de chaque navigateur est différente.
+
+Par exemple :
+
+- Pour Internet Explorer : http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies
+
+- Pour Firefox : https://support.mozilla.org/fr/kb/activer-desactiver-cookies-preferences
+
+- Pour Safari : https://support.apple.com/fr-fr/guide/safari/sfri11471/mac
+
+- Pour Google Chrome : https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en
+
+Pour plus d'information :http://www.cnil.fr/vos-droits/vos-traces/les-cookies/conseils-aux-internautes/
+
+ 
+
+En cas de refus de traceurs non-essentiels, les fonctionnalités associées aux traceurs refusés ne seront pas accessibles (par exemple : la recommandation ou la personnalisation du service). 
+
+Le cas échéant, nous déclinons toute responsabilité pour les conséquences liées au fonctionnement dégradé de ses services résultant des choix exprimés par l'utilisateur.
+
+ En tout état de cause, les fonctionnalités strictement nécessaires ou demandées par l'utilisateur resteront accessibles (par exemple : l'authentification à un compte et la mise en favoris).
+
+ 
+
+4. Durée de conservation de vos choix
+
+Vos choix en matière de cookies sont conservés au maximum pour une durée de 6 (six) mois. À la fin de cette période, nous vous demanderons de renouveler votre consentement. Si vous n'avez pas exprimé de choix, nous pourrons vous demander à nouveau vos intentions.
+
+Estimation Immobilière : La Clé d'une Vente Réussie
+L’estimation immobilière est une étape cruciale pour toute transaction immobilière. Elle permet de déterminer la valeur réelle de votre bien en tenant compte de nombreux critères tels que l’emplacement, la surface, l’état général, et les caractéristiques spécifiques du bien. Sur SeLoger, nous mettons à votre disposition des outils performants et des experts en immobilier pour vous fournir une estimation précise et fiable. Grâce à notre service d’estimation immobilière, vous pouvez obtenir une évaluation détaillée et objective de votre bien. Cela vous aide non seulement à fixer un prix de vente attractif pour les acheteurs potentiels, mais aussi à éviter les erreurs de surévaluation ou de sous-évaluation, qui peuvent retarder la vente ou réduire votre profit. Utiliser notre service d'estimation immobilière, c’est opter pour la tranquillité d'esprit et la transparence. Que vous souhaitiez vendre rapidement ou simplement connaître la valeur actuelle de votre propriété, notre plateforme est conçue pour répondre à tous vos besoins. N'attendez plus pour obtenir une estimation professionnelle et commencez votre projet immobilier avec confiance sur SeLoger.

@@ -1,0 +1,58 @@
+```json
+{
+  "website_name": "AlloCiné",
+  "information": [
+    {
+      "title": "Les données personnelles sont collectées via divers moyens, y compris les formulaires, les cookies et les partenaires.",
+      "severity_tag": "Orange",
+      "details": "AlloCiné collecte des données personnelles lors de la création de compte, l'inscription à la newsletter, la participation à des jeux-concours, les publications sur le site, la prise de contact avec les équipes, et via les cookies. Les partenaires como Google ou Apple peuvent également fournir des données lors de la connexion à un compte."
+    },
+    {
+      "title": "Les données sont traitées pour des finalités spécifiques et légitimes, avec des fondements juridiques définis.",
+      "severity_tag": "Yellow",
+      "details": "Les données personnelles sont traitées pour permettre l'authentification, adapter le service, localiser le terminal, stocker le consentement aux cookies, mesurer l'audience, diffuser des publicités ciblées, et réaliser des segments d'audience. Chaque traitement a un fondement juridique spécifique, tel que l'intérêt légitime, le consentement ou l'exécution du contrat."
+    },
+    {
+      "title": "Les données sont conservées pendant une durée conforme aux dispositions légales et proportionnée aux finalités.",
+      "severity_tag": "Yellow",
+      "details": "Les données sont conservées pendant une durée nécessaire pour atteindre leurs finalités, avec un maximum de 13 mois pour les cookies de session. Les données sont effacées ou anonymisées lorsqu'elles ne sont plus nécessaires."
+    },
+    {
+      "title": "Les données personnelles sont partagées avec des collaborateurs et des sous-traitants pour assurer un service de qualité.",
+      "severity_tag": "Orange",
+      "details": "Les données sont transmises aux collaborateurs d'AlloCiné et à des sous-traitants pour des prestations comme l'envoi de newsletters, l'hébergement des données, et la gestion des réclamations. Des mesures de sécurité strictes sont appliquées pour protéger les données."
+    },
+    {
+      "title": "Certaines données peuvent être transférées hors de l'Union Européenne avec des garanties de protection.",
+      "severity_tag": "Red",
+      "details": "Les données personnelles peuvent être transférées vers des pays hors de l'Union Européenne qui ne présentent pas un niveau adéquat de protection. Des conventions de flux transfrontières avec des clauses contractuelles types garantissent la protection des données."
+    },
+    {
+      "title": "Les utilisateurs disposent de droits sur leurs données, incluant l'accès, l'effacement, la rectification, et la portabilité.",
+      "severity_tag": "Green",
+      "details": "Les utilisateurs peuvent accéder à leurs données, demander leur effacement, leur rectification, retirer leur consentement, s'opposer au traitement, recevoir leurs données dans un format structuré, et demander la limitation des traitements."
+    },
+    {
+      "title": "Les demandes d'exercice des droits peuvent être formulées par courrier postal ou électronique.",
+      "severity_tag": "Green",
+      "details": "Pour exercer leurs droits, les utilisateurs peuvent contacter AlloCiné par courrier postal ou électronique. Une réponse sera adressée dans un délai de 1 mois. En cas de non-respect des droits, une réclamation peut être adressée à la CNIL."
+    },
+    {
+      "title": "Des mesures de sécurité strictes sont appliquées pour protéger les données personnelles.",
+      "severity_tag": "Yellow",
+      "details": "AlloCiné applique des mesures de sécurité telles que l'adoption d'une politique de mot de passe, le chiffrement des mots de passe, l'utilisation du protocole TLS pour les formulaires, et la sélection de sous-traitants s'engageant à respecter la sécurité et la confidentialité des données."
+    },
+    {
+      "title": "Les utilisateurs peuvent s'opposer à tout traitement lié à la prospection sans justification.",
+      "severity_tag": "Green",
+      "details": "Les utilisateurs peuvent s'opposer à tout traitement lié à la prospection sans avoir à invoquer des raisons tenant à leur situation particulière. Pour les traitements fondés sur l'intérêt légitime, une opposition peut être formulée pour des raisons tenant à la situation particulière de l'utilisateur."
+    },
+    {
+      "title": "La politique de confidentialité peut être modifiée en cas d'évolution légale ou de nouvelle finalité.",
+      "severity_tag": "Orange",
+      "details": "AlloCiné peut modifier la politique de confidentialité en cas d'évolution légale, jurisprudentielle, ou suite à l'ajout d'une nouvelle finalité. Toute modification substantielle sera portée à la connaissance des utilisateurs."
+    }
+  ],
+  "final_score": 61
+}
+```

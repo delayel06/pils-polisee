@@ -1,0 +1,234 @@
+Politique de protection des données personnelles
+ 
+
+La présente politique de protection des données personnelles, ainsi que tout document auquel il y est fait référence, détaille les conditions dans lesquelles Carrefour France, société par actions simplifiée, sise zone industrielle Route de Paris 14120 Mondeville, immatriculée au Registre du commerce et des sociétés de Caen sous le numéro 672 050 085 procède, en qualité de responsable de traitement, aux traitements décrits ci-après et portant sur les données personnelles de tout utilisateur et/ou client du site internet www.carrefour.fr et/ou tout adhérent au programme de fidélité « Ma Carte Carrefour » – tout utilisateur du Site ou Adhérent étant désigné ci-après par le terme « vous ».
+
+Nous traitons vos données personnelles dans le respect des principes fixés par la réglementation applicable à la protection des données personnelles, et notamment le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données personnelles et à la libre circulation de ces données personnelles, et la Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, telle que modifiée (ci-après ensemble la « Règlementation Données Personnelles »).
+
+Conformément à la Règlementation Données Personnelles, le terme « donnée personnelle » désigne toute information se rapportant à une personne physique identifiée ou identifiable. 
+
+Cette politique de protection des données personnelles pourra être amenée à évoluer en fonction du contexte légal et réglementaire applicable ou de l’évolution de notre activité, et notamment des produits ou services que nous vous proposons.
+
+Dans le cadre de la collecte et du traitement de vos données personnelles, nous nous attachons au respect des principes suivants :
+
+Licéité : vos données personnelles sont collectées pour des finalités déterminées, explicites et légitimes, et sur le fondement d’une base légale appropriée ;
+Transparence : vous êtes informé de chaque traitement que nous mettons en œuvre et des caractéristiques de ces traitements au moyen de notices d’information, aucun traitement de vos données personnelles n’étant mis en œuvre à votre insu ;
+Minimisation : nous nous engageons à ne collecter et traiter que les données personnelles vous concernant qui sont strictement nécessaires à l’objectif que nous poursuivons et à les mettre à jour régulièrement ;
+Protection des données dès la conception et par défaut : lors de l'élaboration, de la conception, de la configuration et de l'utilisation d'applications, de services et de produits qui reposent sur le traitement de données personnelles, nous prenons en compte votre droit à la protection des données personnelles et nous nous assurons auprès de nos partenaires qu’ils répondent aux prescriptions légales et permettent d’assurer effectivement la protection des données personnelles qui seront traitées ;
+Sécurité des données personnelles : nous avons mis en place des mesures techniques et organisationnelles, adaptées en fonction du degré de sensibilité des données personnelles collectées, en vue d’assurer l’intégrité et la confidentialité de vos données personnelles et de les protéger contre toute intrusion malveillante, perte, altération ou divulgation à des tiers non autorisés. En particulier, nous recourons à des techniques de chiffrement et/ou de pseudonymisation de vos données personnelles dès que cela est possible, utile, ou nécessaire ; 
+Engagements de nos prestataires et partenaires : nous choisissons nos sous-traitants, prestataires et partenaires avec soin et leurs imposons : (a) d’assurer un niveau de protection de vos données personnelles équivalent au nôtre, (b) d’utiliser vos données personnelles dans la seule mesure nécessaire à la fourniture des services que Nous leurs avons confiés, (c) de respecter la Règlementation Données Personnelles.
+
+3.1 Personnes concernées
+
+Les personnes concernées par les traitements que Nous réalisons sont :
+
+Adhérent au programme de fidélité ;
+Utilisateur du Site ;
+Client du Site ;
+Client en magasins qui s’identifie auprès de nous notamment avec sa carte de fidélité;
+Client d’un produit ou service proposé par une société du groupe Carrefour;
+Participant aux jeux-concours, loteries, opérations spéciales en ligne ou en magasins ;
+Participant aux enquêtes, sondages ou panels ;
+Destinataire d’une opération de promotion, prospection en ligne ou commerciale.
+3.2 Collecte de données personnelles 
+
+Nous collectons directement des données personnelles vous concernant auprès de vous lorsque vous interagissez avec nous comme lorsque vous créez un compte, souscrivez au programme de fidélité, procédez à des achats en ligne ou en magasin, naviguez sur nos sites, répondez à nos enquêtes ou participez à nos jeux concours.
+
+Nous collectons indirectement des données personnelles vous concernant depuis les sources suivantes : 
+
+la régie publicitaire et l’agence média du groupe Carrefour ; 
+des partenaires du Groupe Carrefour ;
+des tiers, tels que des organismes de prévention de la fraude ou des fournisseurs de données personnelles ;
+Carrefour Banque pour la gestion de la liaison entre la carte PASS et le Programme de Fidélité ;
+Les entités du Groupe Carrefour auprès desquelles vous avez souscrit des produits et services.
+3.3 Cookies
+
+Nous utilisons des cookies et autres traceurs afin de collecter des données personnelles vous concernant dans l’objectif de poursuivre certaines des finalités de traitement décrites à l’article 3.4 de cette politique.
+
+Vous pouvez configurer ces cookies et traceurs en cliquant sur ce LIEN. Toutes les informations les concernant dans la Politique Cookies sont accessibles ICI.
+
+3.4 Finalités des traitements, bases légales et durées de conservation
+
+Nous mettons en œuvre différents traitements portant sur vos données personnelles, dont les finalités sont détaillées ci-après et dont les bases légales sont les suivantes : votre consentement, l’exécution d’un contrat conclu avec vous, notre intérêt légitime, ou nos obligations légales et réglementaires.
+
+Conformément à la Règlementation Données Personnelles, les données personnelles que nous collectons seront utilisées pour l’accomplissement des finalités pour lesquelles elles ont été collectées et ce pendant la durée détaillée dans le tableau ci-dessous, étant précisé que :
+
+un utilisateur ou client du site est considéré comme « actif » dès lors qu’il se connecte ou modifie son espace personnel sur le site, procède à un achat en ligne en utilisant son compte personnel, ou procède à un achat hors ligne ou une autre interaction avec nous en s’identifiant ; 
+un adhérent est considéré comme « actif » dès lors qu’il se connecte ou modifie son espace personnel sur le site, procède à un achat en ligne ou procède à un achat hors ligne avec votre carte de fidélité ou une autre interaction avec nous en utilisant sa carte de fidélité.
+Au terme des délais de conservation décrits ci-après, vos données personnelles seront supprimées ou, pour celles que nous sommes légalement tenus de conserver ou qui sont nécessaires à la sauvegarde de nos droits, placées en base d’archive et conservées pour une durée additionnelle correspondant à la durée détaillée dans le tableau ci-après. Au terme de ce délai, vos données personnelles seront supprimées.
+
+Les bases légales et durées de conservation associées à chaque finalité de traitement de vos données personnelles sont décrites ci-dessous :
+
+ 
+
+-------
+
+UTILISATION DU SITE
+Finalité	Description du traitement	Base légale	Durée de conservation
+Accès	Mise à disposition du Site, des produits et des services proposés sur le Site.	Exécution des mesures précontractuelles prises à votre demande et/ou exécution du contrat	3 ans à compter de votre dernière activité sur le site.
+Communications	Gestion des vos communications et suivi de nos échanges.	Exécution des mesures précontractuelles prises à votre demande et/ou exécution du contrat	3 ans à compter de chaque communication.
+Reconnaissance de l’utilisateur du Site	Utilisation de vos données personnelles en votre qualité d’utilisateur du Site afin d’être reconnu en cette qualité auprès des autres services proposés par d’autres sociétés du groupe Carrefour.	Intérêt légitime	3 ans à compter de votre dernière activité sur le site.
+Cookies	Dépôt et lecture de cookies non soumis à l’obtention de votre consentement.	Intérêt légitime	13 mois à compter du dépôt des cookies
+Sécurité	Conservation des traces informatiques afin de prévenir et détecter les incidents de sécurité et de sécuriser les données personnelles des utilisateurs du Site ainsi que des systèmes d’information sous notre contrôle à partir desquels leurs données personnelles sont traitées.	Intérêt légitime	Maximum de 1 mois à compter de la date de l’activité.
+ 
+
+GESTION DE LA RELATION CLIENT
+Finalité	Description du traitement	Base légale	Durée de conservation
+Compte personnel	Création d’un compte personnel vous permettant de passer des commandes en ligne.	Exécution des mesures précontractuelles prises à votre demande et/ou exécution du contrat	3 ans à compter de votre dernière activité.
+Commandes	Confirmation, validation, perception du règlement, suivi et expédition de la commande, gestion des rétractations.	Exécution des mesures précontractuelles prises à votre demande et/ou exécution du contrat	
+3 ans à compter de la date de votre achat.
+
+15 mois à compter de la date de votre achat.
+
+Service client	Gestion de vos sollicitations, questions et réclamations.	Exécution des mesures précontractuelles prises à votre demande et/ou exécution du contrat	3 ans à compter de chaque sollicitation, question et réclamation.
+Service consommateur	Gestion de vos sollicitations, questions et réclamations.	Exécution des mesures précontractuelles prises à votre demande et/ou exécution du contrat	5 ans à compter de chaque sollicitation, question et réclamation.
+Enquêtes de satisfaction et recueil d’avis	Recueil d’avis et réalisation d’enquêtes et de tables rondes sur nos produits et services.	Intérêt légitime	3 ans à compter de la date de l’avis, de l’enquête ou des tables rondes sur nos produits ou services.
+Reconnaissance du client	Utilisation de vos données personnelles en votre qualité de client afin d’être reconnu en cette qualité auprès des autres services proposés par d’autres sociétés du groupe Carrefour.	Intérêt légitime	3 ans à compter de votre dernière activité.
+Rappel de produits	Fourniture d’informations relatives au rappel de produits commercialisés sur le Site et dans nos magasins.	Respect de nos obligations légales et réglementaires	5 ans à compter de la date du rappel du produit.
+ 
+
+GESTION DU PROGRAMME DE FIDÉLITÉ “MA CARTE CARREFOUR”
+Finalité	Description du traitement	Base légale	Durée de conservation
+Inscription au Programme	Création du compte fidélité et de la carte fidélité associée.	Exécution des mesures précontractuelles prises à votre demande et/ou exécution du contrat (contrat de Fidélité)	3 ans à compter de votre dernière activité.
+Liaison entre la carte PASS et le Programme	Lorsque vous avez souscrit au Programme par l’intermédiaire de Carrefour Banque (i.e. carte de fidélité intégrée au support physique de la carte PASS), vos données personnelles sont échangées entre Carrefour Banque et Carrefour France pour vous permettre de bénéficier des avantages liés au Programme.	Exécution des mesures précontractuelles prises à votre demande et/ou exécution du contrat (contrat de Fidélité)	3 ans à compter de votre dernière activité.
+Octroi d’avantages fidélité	
+Fourniture d’avantages tels que des versements sur la cagnotte fidélité ou des coupons et offres personnalisées (ou non) en fonction de vos habitudes d’achats et pouvant être utilisées en magasin.
+
+Proposition de services réservés aux Adhérents
+
+Exécution des mesures précontractuelles prises à votre demande et/ou exécution du contrat (contrat de Fidélité)	3 ans à compter de leur octroi.
+Utilisation des points fidélité	Reconnaissance de la carte de fidélité afin de vous permettre d’utiliser vos avantages fidélité.	Exécution des mesures précontractuelles prises à votre demande et/ou exécution du contrat (contrat de Fidélité)	3 ans à compter de leur utilisation.
+Reconnaissance de la qualité d’Adhérent	
+Attribution d’un identifiant numérique lié aux données personnelles d’un Adhérent.
+
+Nous utilisons l’information relative à votre adhésion au Programme afin de permettre aux sociétés du groupe Carrefour de vous reconnaître en cette qualité pour les besoins de la gestion de la relation client et afin de vous proposer une expérience client de qualité.
+
+Intérêt légitime	3 ans à compter de votre dernière activité.
+Utilisation du compte fidélité	Mise à disposition d’un accès à un espace personnel dédié au Programme, vous permettant de consulter votre compte fidélité et le montant de la cagnotte fidélité, de télécharger les coupons de réduction et de mettre à jour certaines de ses données personnelles.	Exécution des mesures précontractuelles prises à votre demande et/ou exécution du contrat	3 ans à compter de votre dernière activité.
+Information	Fourniture à l’Adhérent d’informations relatives au Programme.	Intérêt légitime	3 ans à compter de votre demande.
+Avis, enquêtes de satisfaction, tables rondes.	Recueil d’avis, réalisation d’enquêtes et de tables rondes afin de nous permettre d’améliorer le Programme.	Intérêt légitime	3 ans à compter de la date de l’avis, de l’enquête ou des tables rondes sur le Programme.
+Optimisation des conditions d’utilisation du Programme	Enregistrement de vos données personnelles afin de vous éviter de devoir saisir l’ensemble de vos coordonnées lors de chaque création de compte sur des sites de sociétés proposant le Programme, vous permettre de naviguer d’un site d’une société proposant le Programme à un autre sans avoir de saisir de nouveaux vos identifiants et mots de passe.	Intérêt légitime	3 ans à compter de votre dernière activité.
+Optimisation des conditions d’utilisation du Programme	Enregistrement de vos données personnelles afin de vous éviter de devoir saisir l’ensemble de vos coordonnées lors de chaque création de compte sur des sites de sociétés proposant le Programme, vous permettre de naviguer d’un site d’une société proposant le Programme à un autre sans avoir de saisir de nouveaux vos identifiants et mots de passe.	Intérêt légitime	3 ans à compter de votre dernière activité.
+ 
+
+MARKETING ET PUBLICITÉ PAR PROSPECTION COMMERCIALE
+Finalité	Description du traitement	Base légale	Durée de conservation
+Prospection commerciale par voie électronique	Envoi de promotions et d’offres, personnalisées ou non, par voie électronique.	Consentement	3 ans à compter de votre dernière activité.
+Jeux concours	Participation aux jeux-concours, loteries, cagnottes.	Exécution des mesures précontractuelles prises à votre demande et/ou exécution du contrat	3 ans à compter de la clôture du jeu concours concerné.
+Prospection commerciale par voie postale et par téléphone ou prospection par voie électronique pour des produits et services analogues.	Envoi de promotions et d’offres, personnalisées ou non, par voie postale ou par téléphone ou par voie électronique pour des produits et des services analogues à ceux que vous avez achetés ou souscrits.	Intérêt légitime	3 ans à compter de votre dernière activité.
+Statistiques	Réalisation de statistiques relatives à votre utilisation de nos produits et services, du Site et du Programme.	Intérêt légitime	3 ans à compter de leur collecte.
+MARKETING ET PUBLICITÉ EN LIGNE PERSONNALISEE
+Finalité	Description du traitement	Base légale	Durée de conservation
+Profilage à des fins d’amélioration de la connaissance client par Carrefour (KYC).	Établissement de votre profil, combinaison des données d’achats et informationnelles que Nous avons collectées en ligne et hors ligne, enrichissement de votre profil sur la base de vos interactions avec nos partenaires (au moyen de technologies fournies par des tiers), segmentation, réalisation d’études et d’analyses permettant de mieux comprendre vos attentes en termes de services, de produits ou d’offres.	Intérêt légitime	Les données personnelles d’achats en ligne et hors ligne utilisées pour cette finalité sont conservées pendant 24 mois à compter de la date de votre achat.
+Les autres données personnelles utilisées pour cette finalité sont conservées tant que vous disposez d’un compte client ou d’un compte fidélité sans jamais dépasser 24 mois à compter de votre dernière activité.
+Profilage par Carrefour afin de vous adresser des publicités personnalisées.	Établissement de votre profil, combinaison des données d’achats et informationnelles que Nous avons collectées en ligne et hors ligne, enrichissement de votre profil sur la base de vos interactions avec nos partenaires (au moyen de technologies fournies par des tiers), segmentation, réalisation d’études et d’analyses permettant d’identifier vos habitudes de consommation, afin de Nous permettre de vous adresser des publicités personnalisées et d’en mesurer l’efficacité. Pour plus de détails voir le développement ci-dessous.
+
+La mesure de l’efficacité de nos publicités sur Facebook est réalisée par Carrefour et Facebook en tant que responsables conjoints de traitement. Pour consulter la façon dont Facebook traite vos données dans le cadre de ce traitement, cliquez ici.	Consentement	Les données personnelles d’achats en ligne et hors ligne utilisées pour cette finalité sont conservées pendant 24 mois à compter de la date de votre achat.
+Les autres données personnelles utilisées pour cette finalité sont conservées tant que vous disposez d’un compte client ou d’un compte fidélité sans jamais dépasser 24 mois.
+Profilage par Carrefour sans enrichissement afin de vous adresser des publicités personnalisées.	Établissement de votre profil, combinaison des données d’achats et informationnelles que Nous avons collectées en ligne et hors ligne sans enrichissement votre profil avec des données de nos partenaires segmentation, réalisation d’études et d’analyses permettant d’identifier vos habitudes de consommation, afin de Nous permettre de vous adresser des publicités personnalisées concernant les produits et services vendus par Carrefour sur son application et Carrefour.fr et d’en mesurer l’efficacité. Pour plus de détails voir le développement ci-dessous.
+La mesure de l’efficacité de nos publicités sur Facebook est réalisée par Carrefour et Facebook en tant que responsables conjoints de traitement. Pour consulter la façon dont Facebook traite vos données dans le cadre de ce traitement, cliquez ici.	Intérêt Légitime	Les données personnelles d’achats en ligne et hors ligne utilisées pour cette finalité sont conservées pendant 24 mois à compter de la date de votre achat.
+Les autres données personnelles utilisées pour cette finalité sont conservées tant que vous disposez d’un compte client ou d’un compte fidélité sans jamais dépasser 24 mois.
+Mise à disposition de nos partenaires de vos données de profilage à des fins d’amélioration de la connaissance client et pour vous adresser des publicités personnalisées.	Établissement et enrichissement de votre profil par nos partenaires (au travers de technologies fournies par des tiers) sur la base des données pseudonymes que Nous leurs transmettons ; segmentation, réalisation d’études et d’analyses par nos partenaires leur permettant d’identifier vos habitudes de consommation, afin de leur permettre de mieux vous connaître et le cas échéant, afin de leur permettre de vous adresser des publicités personnalisées.	Consentement	Vos données personnelles seront mises à disposition de nos partenaires (sous forme pseudonymisée) pendant un délai maximal de 24 mois à compter de leur transmission puis supprimées par notre partenaire passé ce délai.
+Diffusion de publicités personnalisées ou non	Diffusion de publicités personnalisées ou non, sur tous supports tels que les sites web, télé-connectées ou applications mobiles des sociétés du groupe Carrefour ou de sociétés tierces y compris la mesure de l’efficacité publicitaire de ces communications.	Consentement	Sur Nos plateformes, les traceurs/cookies publicitaires et les données collectées par ceux-ci sont conservés pendant 13 mois à compter du recueil de votre consentement. La durée de conservation de vos choix (consentement ou refus des cookies) est de six mois à compter du recueil de votre consentement.
+Lorsque ces publicités sont diffusées sur des plateformes tierces, les durées de conservation sont fonction des configurations en vigueur sur celles-ci.
+Mesure d’audience	Analyse de la performance des contenus que vous consultez sur nos sites, et exploitation d’études de marchés afin de générer des données d’audience	Consentement	Les traceurs/cookies publicitaires et les données collectées par ceux-ci sont conservés pendant 13 mois à compter du recueil de votre consentement.
+La durée de conservation de vos choix (consentement ou refus des cookies) est de 6 mois à compter du recueil de votre consentement.
+Complément d’informations sur la Publicité en ligne personnalisée pour Carrefour, ses partenaires et annonceurs
+
+Les « publicités en ligne » sont les publicités qui vous sont diffusées, dans l’environnement Carrefour ou en dehors, grâce à divers médias digitaux connectés à internet : sites internet, télévision connectée, applications mobiles, réseaux sociaux, bornes et écrans en magasin ou en centre commercial. Il s’agit généralement de messages publicitaires apparaissant sur des pop-up, des bandeaux publicitaires ou encore de la publicité TV segmentée. 
+
+Ces publicités sont « adaptées à vos habitudes d’achat, vos centres d’intérêts et vos envies » grâce à l’analyse de votre profil, en tenant compte notamment de vos préférences personnelles, de vos centres d’intérêts, du contexte matériel ou territorial de la diffusion des publicités concernées, de vos habitudes de navigation et d’achat. 
+
+Votre profil est constitué grâce « aux données vous concernant » que vous nous avez transmises lors de votre inscription auprès de nos services, en créant un compte sur Carrefour.fr ou en devenant Adhérent au programme de Fidélité. Nous rapprochons ces données avec celles que nous possédons par ailleurs et qui sont relatives à vos achats en ligne ou en magasin, les éléments relatifs à votre navigation sur internet dont vous avez autorisé la collecte, et les données que vous avez communiquées aux partenaires avec lesquels nous travaillons, et les informations que nous déduisons de l’analyse de toutes ces données.
+
+D’autres partenaires, tels que notamment les partenaires média qui diffusent des contenus sur les télé-connectées, peuvent intervenir en qualité de responsables des traitements réalisés sur vos données dans le cadre de la mise en œuvre de tout ou partie des processus décrits ci-dessus.
+
+En outre, les « annonceurs », qui peuvent être des marques dont les produits et services sont distribués et commercialisés par Carrefour mais également d’autres fournisseurs et distributeurs de produits et services et dont la liste est disponible ICI, peuvent être amenés à traiter vos données à des fins de ciblage publicitaire, notamment dans le cadre de la constitution d’audiences auprès desquelles ils choisiront de diffuser leurs publicités. 
+
+Ces annonceurs n’ont accès à aucune donnée permettant de vous identifier en tant que personne (sur la base de votre nom, prénom, adresse, etc.), car toutes ces données font l’objet d’un processus de pseudonymisation sécurisé avant toute mise à disposition pour la préparation de publicités ciblées d’un annonceur.
+
+Lorsque Carrefour France utilise uniquement les données qu’elle détient sur Vous pour adapter à vos habitudes d’achats, les publicités des produits et services qu’elle distribue sur son site Carrefour.fr et son application, sans effectuer d’enrichissement grâce aux données de ses partenaires, la base légale retenue est l’intérêt légitime pour la constitution des profils et des audiences. Pour vous opposer, vous pouvez effectuer une demande d'exercice de droits à cette fin en cliquant ICI.
+
+Lorsque vos données collectées par Carrefour France sont enrichies grâce à des données de nos partenaires, annonceurs, la base légale retenue par Carrefour France est le consentement. Pour vous donner ou retirer votre consentement, vous pouvez vous rendre dans la rubrique « Mes préférences et Alertes » ou encore effectuer une demande d’exercice de droits à cette fin en cliquant ICI.
+
+La base légale retenue par Carrefour France et ses partenaires pour la collecte et l’usage des données issues de votre navigation internet est le consentement aux cookies (traceurs publicitaires). Pour vous y opposer, vous devez refuser les cookies publicitaires. 
+
+Enfin, dans tous les cas, les publicités électroniques dont la diffusion repose sur la technologie des cookies et autres traceurs, ne peuvent être affichées qu’avec votre consentement aux cookies. Pour vous y opposer, vous devez refuser les cookies publicitaires sur nos sites ou celles de nos partenaires. 
+
+La base légale retenue par Carrefour France pour la collecte et l'usage des autres données vous concernant, notamment relatives à vos comptes et achats, est le consentement affiché dans votre espace client. Pour vous opposer, vous pouvez vous rendre dans la rubrique « Mes préférences et Alertes » ou encore effectuer une demande d’exercice de droits à cette fin en cliquant ICI.
+
+Nous attirons votre attention sur le fait que vous avez pu consentir au partage de vos données personnelles (collectées au moyen de cookies ou autrement) avec des partenaires et annonceurs autres que Carrefour. Vos données sont dans ce cas traitées par ces responsables de traitement indépendants dans les conditions définies dans leurs propres politiques de traitement des données, et sur le fondement des bases légales qu’ils déterminent.  C’est de ces acteurs qu’il convient de vous rapprocher, le cas échéant, si vous souhaitez vous opposer aux traitements de vos données par leurs soins.
+
+RESPECT DE NOS OBLIGATIONS LÉGALES ET RÈGLEMENTAIRES, DÉFENSE DE NOS DROITS, SAUVEGARDE DE NOS INTÉRÊTS ET LUTTE CONTRE LA FRAUDE
+Finalité	Description du traitement	Base légale	Durée de conservation
+Comptabilité et fiscalité	Conservation des factures et autres documents obligatoires dans le cadre de la gestion de notre comptabilité générale et de nos obligations fiscales.	Respect de nos obligations légales et réglementaires	Les données personnelles traitées dans le cadre de la gestion de notre comptabilité et de nos obligations fiscales sont conservées pendant une période correspondant à la durée de l’exercice en cours, augmentée de 10 ans à compter de la clôture.
+Exercice de vos droits	Gestion des demandes d’exercice de vos droits (enregistrement, communications avec vous, extraits des informations requises)	Respect de nos obligations légales et réglementaires	Les données personnelles relatives à vos demandes d’exercice de droits sont conservées pendant 1 ou 6 ans à compter de votre demande, selon le droit exercé. Lorsque la collecte d'un justificatif d'identité a été nécessaire, celui-ci est supprimé dès que la vérification a été effectuée.
+Défense de nos droits et lutte contre la fraude	Établissement et conservation des moyens de preuve nécessaires à la défense de nos droits dans le cadre des actions et réclamations menées à notre encontre par vous et de lutte contre la fraude.	Intérêt légitime	Les données personnelles nécessaires à l’établissement et à la conservation des moyens de preuve nécessaires à la défense de nos droits sont conservées pendant la durée des prescriptions légales applicables ou pendant toute la durée du litige s’il devait en survenir un.
+Autorités publiques et judiciaire	Gestion des demandes d’autorités publiques ou judiciaires et communications avec les autorités	Intérêt légitime	Les données personnelles relatives à la gestion des demandes d’autorités sont conservées pendant la durée de la procédure devant l’autorité concernée.
+Si nous sommes conduits à traiter vos données personnelles pour des finalités autres que celles listées dans le tableau ci-dessus, nous procéderons à toute démarche complémentaire éventuellement nécessaire pour assurer la conformité légale de tous les traitements réalisés.
+
+3.5 Destinataires de vos données personnelles
+
+Pour atteindre les finalités décrites ci-dessus et dans la seule mesure nécessaire à la poursuite de ces finalités, les données personnelles que nous collectons peuvent être transmises à tout ou partie des destinataires suivants :
+
+au sein du groupe Carrefour :
+les entités du Groupe Carrefour en charge de la passation, de la gestion et de l’exécution des contrats et des commandes ;
+les entités du Groupe Carrefour en charge du marketing, de la relation client, des réclamations, de la prospection, des services administratifs, des services informatiques, de la publicité en ligne ou de la prospection commerciale ;
+les entités du Groupe Carrefour en charge de la fourniture de la carte PASS (Carrefour Banque) et d’assurer la liaison entre la carte PASS et le Programme;
+les entités du Groupe Carrefour en charge de la gestion centralisée des bases de données de nos clients ;
+toute autre entité du Groupe Carrefour dont l’intervention serait nécessaire à l’exécution des traitements mis en œuvre conformément à cette politique.
+à l’extérieur du groupe Carrefour :
+nos prestataires intervenant dans tout ou partie des traitements identifiés (notamment les prestataires informatiques chargés de maintenir le site,  les partenaires dans le domaine de la publicité en ligne et des communications personnalisées, ceux chargés de l’acheminement et de la livraison des produits) ;
+nos partenaires qui opèrent des services disponibles sur notre site ou des services accessibles dans le cadre de l’utilisation du Programme ;
+nos partenaires qui vendent directement des produits ou des services depuis notre site ;
+nos partenaires intervenant dans la réalisation et l’envoi de campagnes de prospection commerciale ;
+nos partenaires intervenant dans le processus de diffusion de publicités personnalisées en ligne ou de prospection commerciale ;
+les fournisseurs de produits et services des enseignes partenaires du Groupe Carrefour susceptibles d’être destinataires de données personnelles vous concernant est disponible ici.
+Par ailleurs, lorsque vous vous connectez à votre compte client ou fidélité au moyen d’un compte Google ou d’un réseau social, ou lorsque vous interagissez avec des liens ou publicités accessibles sur notre Site et renvoyant vers d’autre sites ou applications, il est possible les tiers opérant ces sites, services ou publicités procèdent, en qualité de responsable de traitement distinct, à des traitements de vos données personnelles, sous leur propre responsabilité. Nous vous invitons à prendre connaissance de leurs politiques relatives à la protection des données personnelles afin de connaître les conditions et modalités applicables aux traitements de vos données personnelles que ces acteurs mettent en œuvre.
+
+3.6 Transfert de données personnelles en dehors de l’Union Européenne
+
+Vos données personnelles collectées et traitées dans le cadre des finalités décrites ci-dessus peuvent être transmises à des sociétés situées dans des pays hors Union Européenne, et notamment aux Etats-Unis.
+
+Dans ce cas, les transferts de données personnelles sont encadrés par une convention de transfert international de données établie conformément aux clauses contractuelles types de responsable du traitement à sous-traitant établies par la Commission européenne et actuellement en vigueur. 
+
+En outre, et lorsque la législation du pays tiers ne présente pas de protection équivalente à celle offerte par la Règlementation Données Personnelles, Nous veillons à la mise en œuvre de mesures supplémentaires de nature à garantir un niveau de protection de vos données personnelles essentiellement équivalent à celui prévu dans l’Union Européenne et à assurer le caractère effectif de cette protection
+
+4.1 Le contenu de vos droits
+
+À l’égard de vos données personnelles, vous bénéficiez d’un droit d’accès, de rectification, d’effacement, d’opposition, de limitation du traitement, de portabilité de vos données personnelles et du droit de donner des directives relatives au sort de vos données personnelles après votre décès.
+
+Vous pouvez également retirer votre consentement à tout moment, pour les cas où celui-ci vous aurait été demandé.
+
+Droit d’accès
+Vous pouvez demander à accéder à vos données personnelles que nous collectons et traitons.
+Si vous formulez une demande d’accès, nous vous fournirons une copie de vos données personnelles qui sont en notre possession ainsi que toutes les informations légalement requises.
+Droit d’opposition
+Vous pouvez vous opposer à tout moment, pour des raisons tenant à votre situation particulière, au traitement de vos données personnelles lorsque que celui-ci est basé notre intérêt légitime, à moins que notre intérêt légitime ne prévale sur vos propres intérêts et vos droits et libertés, ou que le traitement soit nécessaire à la constatation, l’exercice ou la défense de droits en justice.
+Vous pouvez également, à tout moment, vous opposer au traitement de vos données personnelles par nos soins lorsque ce traitement est effectué à des fins de prospection commerciale par voie électronique ou postale.
+Droit de rectification
+Vous pouvez à tout moment nous demander de rectifier les données personnelles vous concernant qui seraient inexactes ou incomplètes.
+Droit d’effacement
+Vous pouvez demander l'effacement de vos données personnelles dans les conditions prévues par la Règlementation Données Personnelles, sauf si celles-ci doivent être conservées pour nous permettre de respecter des obligations légales, ou pour nous permettre d’exercer ou de défendre nos droits ou encore, lorsqu’elles sont nécessaires à l’exécution du contrat qui nous lie.
+Droit à la limitation du traitement
+Vous pouvez demander la limitation du traitement de vos données personnelles dans les conditions prévues par la Règlementation Données Personnelles.
+Droit à la portabilité
+Vous avez le droit à la portabilité des données personnelles que vous nous aurez fournies et que Nous traitons par des moyens automatisés, lorsque le traitement que Nous mettons en œuvre est fondé sur votre consentement ou sur l’exécution d’un contrat ou de mesures précontractuelles, sous réserve que l’exercice de ce droit ne porte pas atteinte aux droits et libertés de tiers.
+Droit de définir des directives relatives au sort de vos données après votre décès
+Vous avez la possibilité de définir des directives générales ou particulières concernant la manière dont vous entendez que soient exercés, après votre décès, les droits qui vous sont garantis par la réglementation applicable.
+
+Les directives générales concernent l’ensemble des données personnelles qui vous concernent, et vous pouvez les révoquer à tout moment. Elles peuvent être enregistrées auprès d’un tiers de confiance numérique certifié par la Commission Nationale de l’Informatique et des Libertés.
+
+Les directives particulières concernent les traitements mentionnés par ces directives et sont enregistrées auprès de Nous : elles font l’objet d’un consentement spécifique de votre part et vous pouvez les révoquer à tout moment.
+
+4.2 L'exercice de vos droits
+
+Afin d’exercer vos droits, vous pouvez :
+
+Nous envoyer un courrier électronique ou un courrier postal aux adresses ci-dessous, en précisant, le droit que vous souhaitez exercer, vos données personnelles concernées par votre demande et en indiquant, votre nom et prénom ainsi que l’adresse e-mail associée à votre compte client ou numéro de carte de fidélité (le cas échéant) : 
+Renseigner ce formulaire en ligne 
+Courrier électronique : droitsdespersonnes@serviceclients-carrefour.com
+Courrier postal : « : Carrefour Service clients - Droit sur les Données personnelles, 35 rue Pierre et et Dominique Ponchardier, Espace Fauriel, CS 60337, 42015 Saint Etienne Cedex 2.
+4.3 L'introduction d'une réclamation
+
+Si vous estimez, après nous avoir contactés à cet égard, que vos droits relatifs à vos données personnelles ne sont pas respectés, vous pouvez adresser une réclamation à la Commission Nationale de l’Informatique et des Libertés (3 place de Fontenoy - TSA 80715 – 75334 Paris cedex 07 - téléphone : 01 53 73 22 22).
