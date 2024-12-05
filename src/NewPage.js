@@ -1,21 +1,33 @@
-import React, { useEffect} from 'react';
-
+import React, { useEffect } from 'react';
 import BackgroundWrapper from './BackgroundWrapper'; // Assuming this is a custom component
-
 
 const styles = `
   body {
-    min-height: 400px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #c4dcf5, #a1c4fd);
+  }
+
+  .container {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 800px;
+    width: 100%;
     display: flex;
     flex-direction: column;
+    gap: 20px;
   }
 
   .status-container {
-    padding: 20px;
     display: flex;
     align-items: center;
     gap: 12px;
     border-bottom: 1px solid #e5e7eb;
+    padding-bottom: 10px;
   }
 
   .dark .status-container {
@@ -83,6 +95,45 @@ const styles = `
 
   .dark .empty-state-text {
     color: #9CA3AF;
+  }
+
+  .score-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .score-label {
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+
+  .score-value {
+    font-size: 2rem;
+    font-weight: 700;
+  }
+
+  .severity-group {
+    margin-top: 20px;
+  }
+
+  .severity-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+
+  .severity-list {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+  }
+
+  .severity-list li {
+    margin-bottom: 8px;
   }
 `;
 
@@ -249,13 +300,15 @@ const NewPage = () => {
 
   return (
     <BackgroundWrapper>
-      <div className="status-container">
-        <i id="status-icon" className="fas"></i>
-        <span id="status-text"></span>
+      <div className="container">
+        <div className="status-container">
+          <i id="status-icon" className="fas"></i>
+          <span id="status-text"></span>
+        </div>
+        <div id="info-container"></div>
+        <button id="upload-button"></button>
+        <div id="score-container" className="score-container"></div>
       </div>
-      <div id="info-container"></div>
-      <button id="upload-button"></button>
-      <div id="score-container"></div>
     </BackgroundWrapper>
   );
 };
