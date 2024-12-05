@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Card, message } from 'antd';
 import { useNavigate } from 'react-router-dom';
 import BackgroundWrapper from './BackgroundWrapper';
-import LoadingScreen from './LoadingScreen';
+import LoadingScreen from './LoadingScreen'; // Import LoadingScreen component
 
 console.log('API Key:', process.env.REACT_APP_API_KEY);
 
