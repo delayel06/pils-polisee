@@ -1,7 +1,5 @@
-import React, { useEffect, useRef, useState } from 'react';
-import { useNavigate, useLocation } from 'react-router-dom';
-import { Button, Typography, Tag, List } from 'antd';
-import { ArrowLeftOutlined, RightOutlined } from '@ant-design/icons';
+import React, { useEffect} from 'react';
+import {Typography } from 'antd';
 import BackgroundWrapper from './BackgroundWrapper'; // Assuming this is a custom component
 
 const { Text } = Typography;
