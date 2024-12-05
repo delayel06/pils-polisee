@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Form, Input, Button, message, Typography, Card } from 'antd';
-import { UserOutlined, MailOutlined, MessageOutlined } from '@ant-design/icons';
+import { UserOutlined, MessageOutlined } from '@ant-design/icons';
 import BackgroundWrapperSearch from './BackgroundWrapperSearch';
 
 const { Title } = Typography;
@@ -74,17 +74,6 @@ const FeedbackPage = () => {
                             <Input
                                 prefix={<UserOutlined />}
                                 placeholder="Your Name"
-                                size="large"
-                            />
-                        </Form.Item>
-
-                        <Form.Item
-                            name="email"
-                            rules={[{ type: 'email', message: 'Please enter a valid email address' }]}
-                        >
-                            <Input
-                                prefix={<MailOutlined />}
-                                placeholder="Your Email (Optional)"
                                 size="large"
                             />
                         </Form.Item>
