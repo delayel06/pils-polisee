@@ -153,10 +153,11 @@ const Companies = () => {
             try {
               const scoreResponse = await fetch(`${baseUrl}/web/${website}`, { headers });
               const scoreData = await scoreResponse.json();
+              const [image, ext] = await getLogoUrl(website); // Define image and ext here
               
               return {
                 name: website,
-                image, ext: await getLogoUrl(website),
+                image,
                 description: `www.${website}.${ext}`,
                 score: scoreData.final_score ? `${scoreData.final_score}/100` : 'N/A',
               };
