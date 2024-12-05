@@ -1,8 +1,7 @@
 import React, { useEffect} from 'react';
-import {Typography } from 'antd';
+
 import BackgroundWrapper from './BackgroundWrapper'; // Assuming this is a custom component
 
-const { Text } = Typography;
 
 const styles = `
   body {
