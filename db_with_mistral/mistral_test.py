@@ -1,6 +1,9 @@
 import os
 from mistralai import Mistral
 import time
+import json
+import requests
+import re
 
 api_key = "CL4PxojHs1SMI7g7wjJEABwjztS6Kfle" 
 model = "mistral-large-latest"
@@ -64,6 +67,40 @@ def askMistral(text):
     )
     return chat_response.choices[0].message.content
 
+def post_data(terms, name):
+
+    url = "https://patient-bush-a521.delayel06.workers.dev/store"
+    headers = {
+        "Content-Type": "application/json",
+        "apikey": "saleputes"
+    }
+    data = {
+        "website": name,
+        "terms": terms,
+    }
+    response = requests.post(url, headers=headers, data=json.dumps(data, ensure_ascii=False))
+    return response
+
+def clean_data(data):
+    fixes = {
+    r'\\uaae8': 'è',
+    r'\\uoae9': 'é',
+    r'\\uaaea': 'ê',
+    r'\\uaaeb': 'ë', 
+}
+
+    for pattern, replacement in fixes.items():
+        result = re.sub(pattern, replacement, data)
+
+    return result
+
+def jsonify(text):
+    replaced_text = clean_data(text)
+    parsedResponse = json.loads(replaced_text)
+    website = parsedResponse["website_name"]
+    return str(parsedResponse), website.lower()
+
+
 
 if __name__ == "__main__":
     for filename in os.listdir('./po'):
@@ -72,13 +109,23 @@ if __name__ == "__main__":
             with open(input_file_path, "r", encoding="utf-8") as input_file:
                 text = input_file.read()
             data = askMistral(text)
-            clean_data = data.replace("\_", "_")
-            #print(clean_data)
-
-            # Generate the output file name
-            base_name = os.path.splitext(os.path.basename(input_file_path))[0]
-            output_file_path = f"{base_name}_analyzed.txt"
+            cleaned_data = data.replace("\_", "_")
+            cleaned_data = cleaned_data[7:-3]
+    
+            output_file_path = f"{filename[:-4]}_analyzed.txt"
 
             with open(os.path.join('./analyzed',output_file_path), "w", encoding="utf-8") as output_file:
-                output_file.write(clean_data)
+                output_file.write(cleaned_data)
         time.sleep(30)
+
+    for filename in os.listdir('./analyzed'):
+        if filename.endswith(".txt"):
+            with open(os.path.join('./analyzed', filename), "r", encoding="utf-8") as input_file:
+                text, website = jsonify(input_file.read())
+                data = {
+                    "website": website,
+                    "terms": text,
+                }
+                post_data(text, website)
+                
+        
