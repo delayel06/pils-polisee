@@ -112,12 +112,12 @@ const getLogoUrl = async (domain) => {
     const url = `https://logo.clearbit.com/${domain}.${tld}`;
     if (await checkImageExists(url)) {
       console.log(`Found logo at ${url}`); // Debug log
-      return url, tld;
+      return { url, tld };
     }
   }
   
   // If no logo found, return default image
-  return `https://logo.clearbit.com/${domain}.com`;
+  return { url: `https://logo.clearbit.com/${domain}.com`, tld: 'com' };
 };
 
 const Companies = () => {
@@ -153,7 +153,7 @@ const Companies = () => {
             try {
               const scoreResponse = await fetch(`${baseUrl}/web/${website}`, { headers });
               const scoreData = await scoreResponse.json();
-              const [image, ext] = await getLogoUrl(website); // Define image and ext here
+              const { url: image, tld: ext } = await getLogoUrl(website); // Define image and ext here
               
               return {
                 name: website,

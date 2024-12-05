@@ -1,260 +1,259 @@
-import React, { useRef, useState } from 'react';
-import { useNavigate, useLocation } from 'react-router-dom';
-import { Button, Typography, Tag, List } from 'antd';
-import { ArrowLeftOutlined, RightOutlined } from '@ant-design/icons';
-import BackgroundWrapper from './BackgroundWrapper'; // Assuming this is a custom component
+import React, { useEffect } from 'react';
 
-const { Text } = Typography;
+const styles = `
+  body {
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+  }
 
-const containerStyle = {
-  height: '90vh',
-  margin: '1rem auto',
-  display: 'flex',
-  flexDirection: 'column',
-  gap: '1rem',
-  boxSizing: 'border-box',
-  textAlign: 'center',
-  position: 'relative',
-};
+  .status-container {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 1px solid #e5e7eb;
+  }
 
-const logoStyle = {
-  width: '100px',
-  marginBottom: '1rem',
-  alignSelf: 'center',
-};
+  .dark .status-container {
+    border-bottom: 1px solid #374151;
+  }
 
-const backButtonStyle = {
-  position: 'absolute',
-  top: '1rem',
-  left: '1rem',
-  fontSize: '1rem',
-  padding: '0.5rem 1rem',
-  transition: 'transform 0.3s',
-};
+  #status-text {
+    font-size: 1.1rem;
+    font-weight: 500;
+  }
 
-const textContainerStyle = {
-  width: '100%',
-  height: '300px',
-  overflowY: 'scroll',
-  backgroundColor: 'white',
-  padding: '10px',
-  border: '1px solid #ccc',
-  marginBottom: '1rem',
-};
+  #upload-button {
+    margin: 20px auto;
+    padding: 10px 24px;
+    background-color: #4F46E5;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
 
-const categoryStyle = {
-  display: 'flex',
-  flexDirection: 'column',
-  gap: '1rem',
-};
+  #upload-button:hover {
+    background-color: #4338CA;
+    transform: translateY(-1px);
+  }
 
-const roundedContainerStyle = {
-  width: '90%',
-  margin: '0 auto',
-  padding: '2rem',
-  backgroundColor: 'whitesmoke',
-  borderRadius: '15px',
-  boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
-};
+  .dark #upload-button {
+    background-color: #6366F1;
+  }
 
-const highlightStyle = {
-  backgroundColor: 'yellow',
-};
+  .empty-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 20px;
+    text-align: center;
+    flex-grow: 1;
+  }
+
+  .empty-state-icon {
+    font-size: 3rem;
+    color: #D1D5DB;
+    margin-bottom: 16px;
+  }
+
+  .empty-state-text {
+    color: #6B7280;
+    font-size: 1rem;
+    margin-bottom: 24px;
+    max-width: 300px;
+    line-height: 1.5;
+  }
+
+  .dark .empty-state-icon {
+    color: #4B5563;
+  }
+
+  .dark .empty-state-text {
+    color: #9CA3AF;
+  }
+`;
 
 const NewPage = () => {
-  const navigate = useNavigate();
-  const location = useLocation();
-  const { company } = location.state || {};
+  useEffect(() => {
+    const styleSheet = document.createElement('style');
+    styleSheet.type = 'text/css';
+    styleSheet.innerText = styles;
+    document.head.appendChild(styleSheet);
 
-  const [highlighted, setHighlighted] = useState(null);
+    const initializeDarkMode = () => {
+      const isDarkMode = localStorage.getItem('darkMode') === 'true';
+      document.body.classList.toggle('dark', isDarkMode);
+    };
 
-  const redCategoryRef = useRef(null);
-  const orangeCategoryRef = useRef(null);
-  const greenCategoryRef = useRef(null);
+    const main = async () => {
+      const apiKey = 'saleputes';
+      const websiteName = 'example'; // Replace with actual logic to get website name
 
-  const handleScrollTo = (ref, category) => {
-    if (ref.current) {
-      ref.current.scrollIntoView({ behavior: 'smooth' });
-      setHighlighted(category);
-    }
-  };
+      try {
+        const response = await fetch(
+          `https://patient-bush-a521.delayel06.workers.dev/web/${websiteName}`,
+          { headers: { 'apikey': apiKey } }
+        );
 
-  const data = [
-    {
-      title: 'Red Category Text',
-      color: 'red',
-      link: () => handleScrollTo(redCategoryRef, 'red'),
-    },
-    {
-      title: 'Orange Category Text',
-      color: 'orange',
-      link: () => handleScrollTo(orangeCategoryRef, 'orange'),
-    },
-    {
-      title: 'Green Category Text',
-      color: 'green',
-      link: () => handleScrollTo(greenCategoryRef, 'green'),
-    },
-  ];
+        if (response.ok) {
+          const data = await response.json();
+          updateStatus(true, websiteName);
+          displayScore(data.final_score ?? 0);
+          updatePopup(data);
+          addAlternativeBtn(websiteName);
+        } else {
+          updateStatus(false, websiteName);
+        }
+      } catch (error) {
+        console.error("Error fetching data:", error);
+        updateStatus(false, websiteName);
+      }
+    };
+
+    const updateStatus = (isAllowed, websiteName) => {
+      const statusText = document.getElementById('status-text');
+      const uploadButton = document.getElementById('upload-button');
+      const infoContainer = document.getElementById('info-container');
+
+      statusText.textContent = isAllowed ? websiteName : 'Not In Database';
+      statusText.style.color = isAllowed ? '#10b981' : '#ef4444';
+      uploadButton.style.display = isAllowed ? 'none' : 'flex';
+
+      if (!isAllowed) {
+        infoContainer.innerHTML = `
+          <div class="empty-state">
+            <i class="fas fa-file-alt empty-state-icon"></i>
+            <p class="empty-state-text">
+              This website's privacy policy hasn't been analyzed yet. 
+              Help the community by submitting it for analysis!
+            </p>
+          </div>
+        `;
+        uploadButton.innerHTML = `
+          <i class="fas fa-upload"></i>
+          Submit Privacy Policy
+        `;
+      }
+    };
+
+    const displayScore = (score) => {
+      const scoreContainer = document.getElementById('score-container');
+      let color;
+      if (score <= 25) color = '#ef4444';
+      else if (score <= 50) color = '#f97316';
+      else if (score <= 75) color = '#eab308';
+      else color = '#10b981';
+
+      scoreContainer.innerHTML = `
+        <div class="score-label">Trust Score</div>
+        <div>
+          <span class="score-value" style="color: ${color}">${score}</span>
+          <span class="score-max">/100</span>
+        </div>
+      `;
+    };
+
+    const updatePopup = (data) => {
+      const infoContainer = document.getElementById('info-container');
+      infoContainer.innerHTML = '';
+
+      const groupedInfo = data.information.reduce((acc, info) => {
+        if (!acc[info.severity_tag]) {
+          acc[info.severity_tag] = [];
+        }
+        acc[info.severity_tag].push(info);
+        return acc;
+      }, {});
+
+      const severityOrder = ['Red', 'Orange', 'Yellow', 'Green'];
+
+      severityOrder.forEach(severity => {
+        if (groupedInfo[severity]) {
+          const infos = groupedInfo[severity];
+          const severityDiv = document.createElement('div');
+          severityDiv.className = `severity-group ${severity.toLowerCase()}`;
+
+          const title = severity === 'Red' ? 'High Risk' : 
+            severity === 'Orange' ? 'Moderate Risk' :
+            severity === 'Yellow' ? 'Low Risk' : 
+            'Good Practices';
+
+          severityDiv.innerHTML = `
+            <div class="severity-header">
+              <i class="fas fa-${getSeverityIcon(severity)}"></i>
+              <h3 class="severity-title">${title}</h3>
+            </div>
+            <ul class="severity-list">
+              ${infos.map(info => `<li>${info.title}</li>`).join('')}
+            </ul>
+          `;
+          infoContainer.appendChild(severityDiv);
+        }
+      });
+    };
+
+    const getSeverityIcon = (severity) => {
+      switch (severity.toLowerCase()) {
+        case 'red': return 'exclamation-circle';
+        case 'orange': return 'exclamation';
+        case 'yellow': return 'exclamation-triangle';
+        case 'green': return 'check-circle';
+        default: return 'info-circle';
+      }
+    };
+
+    const addAlternativeBtn = (websiteName) => {
+      const existingButton = document.querySelector('.google-search-button');
+      if (existingButton) {
+        existingButton.remove();
+      }
+
+      const searchButton = document.createElement('button');
+      searchButton.className = 'google-search-button';
+      searchButton.innerHTML = `
+        <i class="fa-solid fa-arrow-right"></i>
+        See alternatives to ${websiteName} 
+      `;
+
+      searchButton.addEventListener('click', () => {
+        const searchUrl = `https://alternativeto.net/software/${encodeURIComponent(websiteName)}`;
+        window.open(searchUrl, '_blank');
+      });
+
+      const scoreContainer = document.getElementById('score-container');
+      scoreContainer.parentNode.insertBefore(searchButton, scoreContainer);
+    };
+
+    document.addEventListener('DOMContentLoaded', () => {
+      initializeDarkMode();
+      main();
+    });
+
+    return () => {
+      document.removeEventListener('DOMContentLoaded', main);
+    };
+  }, []);
 
   return (
-    <BackgroundWrapper>
-      <div style={roundedContainerStyle}>
-        <div style={containerStyle}>
-          <Button
-            type="primary"
-            icon={<ArrowLeftOutlined />}
-            style={backButtonStyle}
-            onClick={() => navigate(-1)}
-            onMouseEnter={(e) => e.currentTarget.style.transform = 'scale(1.1)'}
-            onMouseLeave={(e) => e.currentTarget.style.transform = 'scale(1)'}
-          >
-            Back
-          </Button>
-          {company && <img src={company.image} alt={company.name} style={logoStyle} />}
-          <div style={textContainerStyle}>
-            <Text style={{ fontSize: '1.2rem' }}>
-              <span ref={redCategoryRef} style={highlighted === 'red' ? highlightStyle : {}}>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor 
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-              </span>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor 
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor 
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-              <span ref={orangeCategoryRef} style={highlighted === 'orange' ? highlightStyle : {}}>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor 
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-              </span>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor 
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor 
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor 
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-              <span ref={greenCategoryRef} style={highlighted === 'green' ? highlightStyle : {}}>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor 
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-              </span>
-            </Text>
-          </div>
-          <div style={categoryStyle}>
-            <Tag color="red" style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>Red Category</Tag>
-            <List
-              itemLayout="horizontal"
-              dataSource={[{ title: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.', link: data[0].link }]}
-              renderItem={item => (
-                <List.Item>
-                  <List.Item.Meta
-                    avatar={<RightOutlined style={{ color: 'red', fontSize: '1.2rem' }} />}
-                    title={
-                      <button 
-                        onClick={item.link} 
-                        style={{ 
-                          transition: 'transform 0.3s', 
-                          display: 'inline-block', 
-                          marginLeft: '0.5rem', 
-                          background: 'none', 
-                          border: 'none', 
-                          color: 'black', 
-                          textDecoration: 'underline', 
-                          cursor: 'pointer' 
-                        }} 
-                        onMouseEnter={(e) => e.currentTarget.style.transform = 'scale(1.1)'} 
-                        onMouseLeave={(e) => e.currentTarget.style.transform = 'scale(1)'}
-                      >
-                        {item.title}
-                      </button>
-                    }
-                  />
-                </List.Item>
-              )}
-              style={{ paddingLeft: '1rem' }}
-            />
-            <Tag color="orange" style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>Orange Category</Tag>
-            <List
-              itemLayout="horizontal"
-              dataSource={[{ title: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.', link: data[1].link }]}
-              renderItem={item => (
-                <List.Item>
-                  <List.Item.Meta
-                    avatar={<RightOutlined style={{ color: 'orange', fontSize: '1.2rem' }} />}
-                    title={
-                      <button 
-                        onClick={item.link} 
-                        style={{ 
-                          transition: 'transform 0.3s', 
-                          display: 'inline-block', 
-                          marginLeft: '0.5rem', 
-                          background: 'none', 
-                          border: 'none', 
-                          color: 'black', 
-                          textDecoration: 'underline', 
-                          cursor: 'pointer' 
-                        }} 
-                        onMouseEnter={(e) => e.currentTarget.style.transform = 'scale(1.1)'} 
-                        onMouseLeave={(e) => e.currentTarget.style.transform = 'scale(1)'}
-                      >
-                        {item.title}
-                      </button>
-                    }
-                  />
-                </List.Item>
-              )}
-              style={{ paddingLeft: '1rem' }}
-            />
-            <Tag color="green" style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>Green Category</Tag>
-            <List
-              itemLayout="horizontal"
-              dataSource={[{ title: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.', link: data[2].link }]}
-              renderItem={item => (
-                <List.Item>
-                  <List.Item.Meta
-                    avatar={<RightOutlined style={{ color: 'green', fontSize: '1.2rem' }} />}
-                    title={
-                      <button 
-                        onClick={item.link} 
-                        style={{ 
-                          transition: 'transform 0.3s', 
-                          display: 'inline-block', 
-                          marginLeft: '0.5rem', 
-                          background: 'none', 
-                          border: 'none', 
-                          color: 'black', 
-                          textDecoration: 'underline', 
-                          cursor: 'pointer' 
-                        }} 
-                        onMouseEnter={(e) => e.currentTarget.style.transform = 'scale(1.1)'} 
-                        onMouseLeave={(e) => e.currentTarget.style.transform = 'scale(1)'}
-                      >
-                        {item.title}
-                      </button>
-                    }
-                  />
-                </List.Item>
-              )}
-              style={{ paddingLeft: '1rem' }}
-            />
-          </div>
-        </div>
+    <div>
+      <div className="status-container">
+        <i id="status-icon" className="fas"></i>
+        <span id="status-text"></span>
       </div>
-    </BackgroundWrapper>
+      <div id="info-container"></div>
+      <button id="upload-button"></button>
+      <div id="score-container"></div>
+    </div>
   );
 };
 
