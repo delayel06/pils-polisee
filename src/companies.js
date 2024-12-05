@@ -4,7 +4,6 @@ import { useNavigate } from 'react-router-dom';
 import BackgroundWrapper from './BackgroundWrapper';
 import LoadingScreen from './LoadingScreen'; // Import LoadingScreen component
 
-console.log('API Key:', process.env.REACT_APP_API_KEY);
 
 const { Meta } = Card;
 
@@ -118,6 +117,7 @@ const getLogoUrl = async (domain) => {
 };
 
 const Companies = () => {
+  // Set initial loading state to true
   const [loading, setLoading] = useState(true);
   const [companies, setCompanies] = useState([]);
   const [error, setError] = useState(null);
@@ -128,6 +128,7 @@ const Companies = () => {
     const signal = controller.signal;
 
     const fetchCompanies = async () => {
+      setLoading(true); // Ensure loading is true when fetching starts
       try {
         const baseUrl = 'https://patient-bush-a521.delayel06.workers.dev';
         const headers = {
@@ -171,7 +172,10 @@ const Companies = () => {
         setError('Unable to load company data. Please try again later.');
         message.error('Failed to load companies');
       } finally {
-        setLoading(false);
+        // Add a small delay to ensure loading animation is visible
+        setTimeout(() => {
+          setLoading(false);
+        }, 500);
       }
     };
 

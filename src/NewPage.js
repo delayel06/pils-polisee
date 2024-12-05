@@ -77,7 +77,7 @@ const NewPage = () => {
 
   useEffect(() => {
     const fetchWebsiteData = async () => {
-      const apiKey = "saleputes";
+      const apiKey = process.env.REACT_APP_API_KEY; 
       const websiteName = window.location.pathname.split("/").pop(); // Dynamic website name
 
       try {
