@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Form, Input, Button, message, Typography, Card } from 'antd';
-import { MailOutlined, UserOutlined, MessageOutlined } from '@ant-design/icons';
+import {UserOutlined, MessageOutlined } from '@ant-design/icons';
 import BackgroundWrapperSearch from './BackgroundWrapperSearch';
 
 const { Title } = Typography;
