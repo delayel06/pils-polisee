@@ -3,11 +3,11 @@ import { Card, message } from 'antd';
 import { useNavigate } from 'react-router-dom';
 import BackgroundWrapper from './BackgroundWrapper';
 import LoadingScreen from './LoadingScreen';
+import dotenv from 'dotenv'; // Add this line
 
-// Add this near top of companies.js to debug
+dotenv.config(); // Add this line
+
 console.log('API Key:', process.env.REACT_APP_API_KEY);
-
-
 
 const { Meta } = Card;
 
